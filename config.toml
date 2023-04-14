@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Latvian songs ABC notation'
+theme = 'PaperMod'
+preserveTaxonomyNames = true
+[[menu.main]]
+    identifier = "categories"
+    name = "Artists"
+    url = "/categories/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "example"
+    name = "Example.org"
+    url = "https://example.org"
+    weight = 30
