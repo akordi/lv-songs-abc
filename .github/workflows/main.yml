@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Clone PaperMod theme
+        run: git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod        
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
