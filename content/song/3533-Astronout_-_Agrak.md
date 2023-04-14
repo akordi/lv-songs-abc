@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: []
 draft: false
 ---
+
 ```text
 E     B                 D
 Agrāk kurš vairs atceras

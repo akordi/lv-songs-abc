@@ -6,6 +6,7 @@ categories: ["Laime Pilnīga"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Acīs savāds spēks kā strāva mūs uz gaismu tur
 Sejās neizdzēšams smaids cauri laikiem bur

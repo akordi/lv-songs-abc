@@ -6,6 +6,7 @@ categories: ["Pumpuriņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tev par pilsoni, pasaule, nederu,
 kaut man kabatā pases un kartes,

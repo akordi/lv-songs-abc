@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lēni kā pavards sarkana saule aiz apvāršņa dziest,
 ir brīnišķīgs vakars,dvēsele smaida un skatlogi zied

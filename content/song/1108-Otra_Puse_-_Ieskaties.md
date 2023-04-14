@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: F C F Am  F C F Am
 Piedz: F G Em Am

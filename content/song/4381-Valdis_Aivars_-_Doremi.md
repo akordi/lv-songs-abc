@@ -6,6 +6,7 @@ categories: ["Valdis Aivars"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tad, kad atnāk nežēlīgs vējš,
 Laimes pēdas ar slotu, kad dzēš,

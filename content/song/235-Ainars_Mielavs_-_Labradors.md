@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: Em C D Am
 

@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo 4
 

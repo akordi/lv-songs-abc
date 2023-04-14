@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā no jauna piedzimis laimīgs
 Dvēselē un prātā viss izmainīts

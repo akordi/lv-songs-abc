@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 C                       Am
 Daudzi saka ka j?b?t ir t?

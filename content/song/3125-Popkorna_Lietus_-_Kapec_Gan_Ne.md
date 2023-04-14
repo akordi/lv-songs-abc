@@ -6,6 +6,7 @@ categories: ["Popkorna Lietus"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzīvē mazinājies bardaks
 Brīvdienās Berlīne un Starbucks

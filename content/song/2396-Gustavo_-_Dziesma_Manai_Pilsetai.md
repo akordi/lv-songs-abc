@@ -6,6 +6,7 @@ categories: ["Gustavo"]
 tags: []
 draft: false
 ---
+
 ```text
   Šī ir [Am] dziesma manai pilsētai
   [G] Pilsētai, kas ir šai rītā [C] skaista

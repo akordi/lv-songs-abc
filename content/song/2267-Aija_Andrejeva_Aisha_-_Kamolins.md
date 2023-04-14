@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Dzirdi, [D] smaida [Bm] stīga, [C] kura dejo
 [G] Gaismi[D]ņa, kā [C] ka[C]moliņš, veļās 

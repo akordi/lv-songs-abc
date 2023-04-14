@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Biju es mātei vienīgā meita,
    Ziedēj' kā roze dārziņā.

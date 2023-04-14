@@ -6,6 +6,7 @@ categories: ["Sabīne Berezina"]
 tags: ["līgo"]
 draft: false
 ---
+
 ```text
 Intro: G Em C D
 G                     Em    D

@@ -6,6 +6,7 @@ categories: ["Blitze"]
 tags: []
 draft: false
 ---
+
 ```text
 Akordi šai dziesmai ir diezgan interesanti, nosaukumus nezinu pareizos, tāpēc apzīmēšu ar cipariem. Sorry.
 

@@ -6,6 +6,7 @@ categories: ["Reiks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mēs esam Latvija
 Mēs iesim līdz galam

@@ -6,6 +6,7 @@ categories: ["Māris Šverns"]
 tags: []
 draft: false
 ---
+
 ```text
 (Šverna izpildījumā C#m    F#m ;  A  G#7   C#m) (Gaujarts koverī:
 

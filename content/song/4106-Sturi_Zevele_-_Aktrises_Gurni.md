@@ -6,6 +6,7 @@ categories: ["Stūrī Zēvele"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 un tad viņa apsēdās tev blakus.
 vienkārši apsēdās blakus telpā, 

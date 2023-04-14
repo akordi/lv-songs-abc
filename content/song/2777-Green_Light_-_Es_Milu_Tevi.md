@@ -6,6 +6,7 @@ categories: ["Green light"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kaut kur uz Pasaules šīs,
 Trīs vītoli auga.

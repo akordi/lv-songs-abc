@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Izstāsti man vēju
 [F] Izstāsti man to,

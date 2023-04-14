@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es vaicāju mātei,
 Ko nozīmē būt

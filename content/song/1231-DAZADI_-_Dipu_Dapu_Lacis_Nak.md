@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 [E] Dipu, dapu lācis nāk [B] un ar mani [E] dancot sāk
 [E] Dipu, dapu lācis nāk [B] un ar mani [E] dancot sāk

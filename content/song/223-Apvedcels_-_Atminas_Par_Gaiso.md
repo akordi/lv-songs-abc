@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Zied [D]pļavas un puikas [A]aliņu sūc
 Tad dusmojas dažs un pie [D]sevis rūc

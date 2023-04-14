@@ -6,6 +6,7 @@ categories: ["Fēlikss Ķiģelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tā kā ceļš tik tālu tālu
 Līkumots un vīteņots

@@ -6,6 +6,7 @@ categories: ["Intars Busulis"]
 tags: []
 draft: false
 ---
+
 ```text
 A F#m D A
 D E

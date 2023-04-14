@@ -6,6 +6,7 @@ categories: ["Edvards Klaužs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.Te upes ir vistraujākās
 Te pļavās viskošākie taureņi dej.

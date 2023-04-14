@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: []
 draft: false
 ---
+
 ```text
 G      D          Em         C
 Dievs, Tu kas esi Debesīs es Tevi saucu

@@ -6,6 +6,7 @@ categories: ["Ēriks Gruzniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Nokrāso manu [Dm] pasauli
 [G] Nokrāso to ar [C] mīlestību

@@ -6,6 +6,7 @@ categories: ["Imants Daksis"]
 tags: []
 draft: false
 ---
+
 ```text
 D       G          D  G    D   Em Bm    Em   Bm    
 Prieks lēni plūst, prieks lēni dziest, lēni dziest

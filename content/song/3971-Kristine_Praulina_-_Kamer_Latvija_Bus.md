@@ -6,6 +6,7 @@ categories: ["Kristīne Prauliņa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Zeme griežas arvien, putni debesīs skrien
 Un pa saulrieta taku nakts ezerā brien.

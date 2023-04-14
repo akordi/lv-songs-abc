@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es vakardien par Tevi domāju
 Un varbūt mazliet arī sapņoju

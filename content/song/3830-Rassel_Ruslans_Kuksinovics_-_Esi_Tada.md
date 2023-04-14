@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tikai tu un es
 Pieglaudies man, lai jūtu es

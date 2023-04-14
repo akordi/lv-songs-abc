@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 G				 Bm
 1. Maigāk skaniet torņos zvani

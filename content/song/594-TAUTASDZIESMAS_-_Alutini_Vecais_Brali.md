@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 katrs pants ir 2x. otraja reize G7 vietā C
 

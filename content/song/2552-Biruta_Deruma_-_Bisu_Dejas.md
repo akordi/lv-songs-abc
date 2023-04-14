@@ -6,6 +6,7 @@ categories: ["Biruta Deruma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Viegliem spārniem dejam, dejam,
 Pļavā ziedu kausus smeļam,

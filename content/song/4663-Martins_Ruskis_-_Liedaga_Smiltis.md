@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Liedaga smiltis, 
 Ar tevīm spēlējas jūra, 

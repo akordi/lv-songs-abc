@@ -6,6 +6,7 @@ categories: ["MARTA (Marta Grigale)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dažreiz man izdodas
 Man izdodas nedomāt

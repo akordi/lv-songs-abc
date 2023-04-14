@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Rožu lapām kaisīts, siltiem vējiem pūsts,
 Un no māla miltiem būvēts tilts reiz lūzt.

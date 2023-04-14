@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es lūdzos debesīm,es lūdzos mātei dabai,
 lai cīruļputenis uz mirkli mitējas,

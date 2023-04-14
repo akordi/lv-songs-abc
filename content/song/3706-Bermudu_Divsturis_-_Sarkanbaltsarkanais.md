@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm  A  G  F7
 

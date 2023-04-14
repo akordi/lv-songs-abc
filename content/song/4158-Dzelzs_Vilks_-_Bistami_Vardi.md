@@ -6,6 +6,7 @@ categories: ["Dzelzs Vilks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 To pārlieku bīstami tev teikt 
 Es negribu rītu man nevajag rītu 

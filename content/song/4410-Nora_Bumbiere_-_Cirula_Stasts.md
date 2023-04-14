@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 No tevis manā dārzā dziedāt dīvaini cīruļi nāk,
 Un katra lapa skanēt līdzi sāk.

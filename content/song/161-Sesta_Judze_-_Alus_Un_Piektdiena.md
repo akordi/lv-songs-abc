@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 Šo dziesmu(G) es dziedāšu par(D) kādu dienu,
 Tai kalendāra lapiņā nosaukums cits(G),

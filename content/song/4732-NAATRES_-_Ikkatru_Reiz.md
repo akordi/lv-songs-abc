@@ -6,6 +6,7 @@ categories: ["NAATRES"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: Dm C F C
 

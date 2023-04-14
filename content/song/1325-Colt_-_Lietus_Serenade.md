@@ -6,6 +6,7 @@ categories: ["Colt"]
 tags: []
 draft: false
 ---
+
 ```text
 A     E
 Tu un nakts,

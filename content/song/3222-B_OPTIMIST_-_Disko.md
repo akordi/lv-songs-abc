@@ -6,6 +6,7 @@ categories: ["B OPTIMIST"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pagātnes lietas ir noliktas malā
 Un liekas, ka piedots beidzot ir viss

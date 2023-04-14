@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 Piedz.
 C        F           G         C

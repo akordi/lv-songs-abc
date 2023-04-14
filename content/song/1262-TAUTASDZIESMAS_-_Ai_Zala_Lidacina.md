@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm        A
 Ai, zaļāi līdaciņa,

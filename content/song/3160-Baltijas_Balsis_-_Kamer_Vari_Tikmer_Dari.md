@@ -6,6 +6,7 @@ categories: ["Baltijas balsis"]
 tags: []
 draft: false
 ---
+
 ```text
       C     G      C
 Kamēr vari, tikmēr dari,

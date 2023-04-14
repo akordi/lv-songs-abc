@@ -6,6 +6,7 @@ categories: ["Mārtiņš Petrovs"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:E/A/C*m/B
 

@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir dienas kad spēku izsīkums
 Šķiet viss kam es ticu pārpratums

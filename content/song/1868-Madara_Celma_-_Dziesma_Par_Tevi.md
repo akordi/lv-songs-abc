@@ -6,6 +6,7 @@ categories: ["Madara Celma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man dziesma par tevi, pusbalsī aiznesta vējā skan.
 Sekundes lēni tālāk rit, bet stundas skrien neprātā.

@@ -6,6 +6,7 @@ categories: ["Leģions"]
 tags: []
 draft: false
 ---
+
 ```text
 Am     Dm               G
 Uzzīmē sauli uz sienas,

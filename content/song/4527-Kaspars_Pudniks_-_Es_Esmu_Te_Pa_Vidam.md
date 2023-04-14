@@ -6,6 +6,7 @@ categories: ["Kaspars Pudniks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es neesmu ne šeit, ne tur,
 es esmu te pa vidam, 

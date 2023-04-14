@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
   Kad ar [F] pietiekami nepie[G]tiek
   Un [Em] sapņi sāk traucēt [Am] miegu

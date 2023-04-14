@@ -6,6 +6,7 @@ categories: ["Jēkabs Nīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es satiku tevi
 Tu satiki mani

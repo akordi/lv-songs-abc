@@ -6,6 +6,7 @@ categories: ["Melns uz Balta"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Melns uz Balta – Greznā dzīve
 

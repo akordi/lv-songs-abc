@@ -6,6 +6,7 @@ categories: ["Maskačkas spēlmaņi"]
 tags: []
 draft: false
 ---
+
 ```text
 C            G
 Kam, māmeņa, tu audzieji

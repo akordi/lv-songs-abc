@@ -6,6 +6,7 @@ categories: ["Austra Pumpure"]
 tags: []
 draft: false
 ---
+
 ```text
        F#m                F#m7
 Kā Jūs domājat: Vai zelta ķēdes

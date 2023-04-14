@@ -6,6 +6,7 @@ categories: ["Alise Sedola"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Viņš stāv uz kraujas un kliedz
 Ka viņam papīra kājas bet gribas iet

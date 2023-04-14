@@ -6,6 +6,7 @@ categories: ["Kārlis Būmeisters (Kaža)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Balti migla krīt 
 Sudrabā tā kaļ

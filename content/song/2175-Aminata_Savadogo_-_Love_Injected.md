@@ -6,6 +6,7 @@ categories: ["Aminata Savadogo"]
 tags: ["supernova", "eurovision", "supernova 2015", "eng"]
 draft: false
 ---
+
 ```text
 [Em] You bring [G] the light [C] to my darkest [Am] side, babe
 [Em] The day, [G] the night [C] split to cure the [Am] sight, ooh

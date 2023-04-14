@@ -6,6 +6,7 @@ categories: ["Neviens Nezin"]
 tags: []
 draft: false
 ---
+
 ```text
 F#m                 D
 Šķiltavas kabatā drūmi sēro,

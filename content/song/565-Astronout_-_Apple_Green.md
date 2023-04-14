@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: G#m/C#/F#/B B(ar basa noti B bemol)//
 

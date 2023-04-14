@@ -6,6 +6,7 @@ categories: ["TEHNIKUMS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es eju tālu līdz malai, līdz malai,
 Un pats sevi mānu ­līdz malai, līdz malai.

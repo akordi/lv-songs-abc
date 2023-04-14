@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
 E | Dsus2/E | Asus2/E | CM7/E Dsus2/E
 

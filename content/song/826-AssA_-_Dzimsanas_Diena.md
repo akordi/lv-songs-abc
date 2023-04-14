@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm#
 Rīta gaisma iespīd logā man

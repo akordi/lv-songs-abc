@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Klusa nakts, svēta nakts!
 -------------------------------------------

@@ -6,6 +6,7 @@ categories: ["Ainars Virga"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads:
 C  C  C  C

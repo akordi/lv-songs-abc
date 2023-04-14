@@ -6,6 +6,7 @@ categories: ["The Stones"]
 tags: ["supernova", "supernova 2015", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Free your mind and stop the hesitation
 There’s nothing else that we can do

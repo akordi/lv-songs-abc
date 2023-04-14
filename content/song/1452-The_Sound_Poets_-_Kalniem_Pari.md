@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: []
 draft: false
 ---
+
 ```text
 Priekšvārds: Oriģinālā The Sound Poets šo skaisto dziesmu spēlē uz Re (D) skaņojuma, un uz attiecīgi              
              pārskaņotās akustiskās ģitāras, šī būs vienkāršāka versija uz Mi (E)

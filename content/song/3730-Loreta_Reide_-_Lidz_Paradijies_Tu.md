@@ -6,6 +6,7 @@ categories: ["Loreta Reide"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laika man nav, jā,
 Lai vēl domātu,

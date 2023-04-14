@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: [G][C][D]
 

@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 G     Em           Bm         D
 Radio dzied par to dzīvi, kas iet,

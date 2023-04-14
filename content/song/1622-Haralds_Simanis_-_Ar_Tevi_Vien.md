@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro - F C Am Dm ; Bb C F C ; F C Dm Bb ; F C F C
 

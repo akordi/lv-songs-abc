@@ -6,6 +6,7 @@ categories: ["Fomins un Kleins"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Vai tu zini, kāpēc [Em] mēs arvien vēl ticam
 [F] Tam, ka pienāks dienas, [Dm] labākas par [F] citām?

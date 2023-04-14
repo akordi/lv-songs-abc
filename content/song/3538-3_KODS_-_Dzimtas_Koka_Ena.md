@@ -6,6 +6,7 @@ categories: ["3 KODS"]
 tags: []
 draft: false
 ---
+
 ```text
 3 KODS - Dzimtas koka ēnā
 

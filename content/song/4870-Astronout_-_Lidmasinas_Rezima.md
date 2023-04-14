@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: ["bez akordiem", "muzikālā banka 2021"]
 draft: false
 ---
+
 ```text
 Skrienu pāri dzīvei, Skrienu garām tev
 Skrienu pāri ikdienai,Un garām sev

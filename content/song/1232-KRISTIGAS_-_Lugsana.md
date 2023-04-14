@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
  Gm            Cm   D              Gm  
 Kungs, padari mani par savu miera rīku. 

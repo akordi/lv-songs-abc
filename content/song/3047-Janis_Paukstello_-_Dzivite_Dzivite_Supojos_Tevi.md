@@ -6,6 +6,7 @@ categories: ["Jānis Paukštello"]
 tags: ["kinofilmas"]
 draft: false
 ---
+
 ```text
 Kinofilma Mans draugs, nenopietns cilvēks, 1975
 (Var ar kapo uz 4.ladas un tad spelēt kā C - G - F)

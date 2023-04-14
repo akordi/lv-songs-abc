@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Gm Em
 

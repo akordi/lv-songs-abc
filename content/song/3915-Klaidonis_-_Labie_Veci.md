@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Skūpsti mani  vēja dvaša
 Nu es varu elpot brīvs

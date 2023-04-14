@@ -6,6 +6,7 @@ categories: ["Autobuss Debesīs"]
 tags: []
 draft: false
 ---
+
 ```text
 F                       Bb
 Ar straumēm uz jūru kas šalkdamas skrien

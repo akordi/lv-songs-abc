@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nakts uz mana lieveņa izbērusi dienas,
 sēžam uz lieveņa,bet manas nav nevienas.

@@ -6,6 +6,7 @@ categories: ["O!kartes Akadēmija"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Ir dzīvē [F] sapņi, kādus [C] vēlies piepil[G]dīt tu pats,
 [C] Tad nezudē [F] cerību, ej un [C] cīnies, nepa[G]dodies tu,

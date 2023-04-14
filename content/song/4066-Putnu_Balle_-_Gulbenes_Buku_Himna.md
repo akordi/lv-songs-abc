@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tik ātri kā vējš, pušu mākoņus plēš,
 Tikai mēs zinām kā uzvarēt...

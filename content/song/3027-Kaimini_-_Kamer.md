@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kamēr vakars un kamēr nav rīts,
 kamēr plaukstās nav novītis zieds,

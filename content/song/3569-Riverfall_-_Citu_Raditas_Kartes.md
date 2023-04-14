@@ -6,6 +6,7 @@ categories: ["Riverfall"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm                    G
 Otra pēc vienas aiziet visas dienas 

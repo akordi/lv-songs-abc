@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:  G Bm Em D
 

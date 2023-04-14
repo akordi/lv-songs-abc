@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
 E                         D            A
 sacerot parakstus bildēm, kas neattēlo neko

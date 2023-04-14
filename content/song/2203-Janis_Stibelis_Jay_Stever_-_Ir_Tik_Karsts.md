@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Uguns Sarkanas šīs debesis
 Un kas kādreiz bijis, sadeg viss

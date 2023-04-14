@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
  Fmaj7                       C
 Dzelzceļnieks nosvilpās, planētas griezās

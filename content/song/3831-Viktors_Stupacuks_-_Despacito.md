@@ -6,6 +6,7 @@ categories: ["Viktors Stupačuks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.pants
 -Pulkstenis rāda jau vienpadsmit vakārā

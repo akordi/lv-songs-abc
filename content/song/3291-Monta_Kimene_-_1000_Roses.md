@@ -6,6 +6,7 @@ categories: ["Monta Ķimene"]
 tags: ["supernova", "eng", "supernova 2018", "bez akordiem"]
 draft: false
 ---
+
 ```text
 When nothing happens
 As I’ve wanted

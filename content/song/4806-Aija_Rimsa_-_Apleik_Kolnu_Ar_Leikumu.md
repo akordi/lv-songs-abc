@@ -6,6 +6,7 @@ categories: ["Aija Rimša"]
 tags: []
 draft: false
 ---
+
 ```text
    F
 1. Apleik kolnu ar leikumu,

@@ -6,6 +6,7 @@ categories: ["Dainis Porgants"]
 tags: []
 draft: false
 ---
+
 ```text
 Db Ebm F# Db Ab Db Ebm F# Db Ab 
 

@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["supernova 2016", "supernova", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 One more day, one more night
 Hard to say what’s on my mind

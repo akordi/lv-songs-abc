@@ -6,6 +6,7 @@ categories: ["Pirmais kurss"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: G | Am | C | G
 Piedziedājums: Bm | F | C | G

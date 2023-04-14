@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: ["līgo"]
 draft: false
 ---
+
 ```text
 G D A D
 G D A D

@@ -6,6 +6,7 @@ categories: ["Ugunīgā Gunta"]
 tags: ["līgo"]
 draft: false
 ---
+
 ```text
   Ak, [C] Jāni precē mani, Tu sen jau patīc [G] man, 
   Un Tevi citai meitai es neatdošu [C] gan! 

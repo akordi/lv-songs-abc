@@ -6,6 +6,7 @@ categories: ["Jauno Jāņu Orķestris (JJO)"]
 tags: ["bez akordiem", "muzikālā banka 2018"]
 draft: false
 ---
+
 ```text
 Ieva, ieva, ieviņa
 Ziedu sarie tusē

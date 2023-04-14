@@ -6,6 +6,7 @@ categories: ["Reiks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laiks atgriezties atpakaļ
 Kā tas viss bija

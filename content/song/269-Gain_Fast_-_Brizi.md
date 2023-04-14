@@ -6,6 +6,7 @@ categories: ["Gain Fast"]
 tags: []
 draft: false
 ---
+
 ```text
 Am  F  G  C
 

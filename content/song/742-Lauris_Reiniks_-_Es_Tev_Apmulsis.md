@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Daudz - es [D] brīnos, cik [G] daudz 
 [C] Nakts ir [D] zvaigznes šonakt [Em] izbērusi 

@@ -6,6 +6,7 @@ categories: ["Pionieris"]
 tags: []
 draft: false
 ---
+
 ```text
 Aizmugurē limuzīnā
 Čaļi blakām minivenā

@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 C                          Dm
 Nē, nudien man atzīties ir kauns -

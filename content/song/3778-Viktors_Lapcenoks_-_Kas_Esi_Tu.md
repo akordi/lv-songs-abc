@@ -6,6 +6,7 @@ categories: ["Viktors Lapčenoks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tev sirds ir no mīlestības
 Tavs augums no aprīļa zemes

@@ -6,6 +6,7 @@ categories: ["Katrīna Dimanta"]
 tags: []
 draft: false
 ---
+
 ```text
 C G D G
 Em           C

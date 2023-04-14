@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
 INTRO: E E G#m B | E E G#m B | C#m7 C#m7 G#m A | E B E E   - Tas pats arī piedziedājumā 
 E------------------------------

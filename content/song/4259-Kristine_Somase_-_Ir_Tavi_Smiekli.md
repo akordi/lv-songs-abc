@@ -6,6 +6,7 @@ categories: ["Kristīne Šomase"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.
 Lūk, mana roka te, sniedz droši pretī savu –

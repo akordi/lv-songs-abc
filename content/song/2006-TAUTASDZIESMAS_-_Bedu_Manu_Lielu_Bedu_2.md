@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 D          A
 Bēdu, manu lielu bēdu,

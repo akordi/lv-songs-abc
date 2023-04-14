@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 A            E
 Atstuots tev lidoj mīrs

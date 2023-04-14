@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Ik vakara dziedāt gāju, dziedāt
    gāju sudrabiņa kalniņāi.

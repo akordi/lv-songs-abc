@@ -6,6 +6,7 @@ categories: ["Galaktika"]
 tags: []
 draft: false
 ---
+
 ```text
 [A] [D] [E] [A] 
 Vienu siltu un saulainu sveicienu sūtu Tev, mans draugs

@@ -6,6 +6,7 @@ categories: ["Kaspars Antess"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzīvē notiek arī tā - 
 Ka satiekoties aizmirstam par smaidu.

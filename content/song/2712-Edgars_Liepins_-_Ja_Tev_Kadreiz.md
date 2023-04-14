@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kādreiz.
 Ja Tev kādreiz...

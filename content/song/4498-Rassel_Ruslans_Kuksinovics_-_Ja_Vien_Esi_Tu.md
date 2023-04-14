@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kamēr esi tu blakus man
 Dzīve pilna krāsu un iespēju

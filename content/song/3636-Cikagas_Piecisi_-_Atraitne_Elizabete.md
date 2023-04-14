@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
           Cmaj7
 1. Daudzus gadus jau esmu

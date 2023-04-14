@@ -6,6 +6,7 @@ categories: ["Sudden Lights"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 galva dun un ūdens kurpēs šļakstās
 pret silto bruģi lietus lāses sīc

@@ -6,6 +6,7 @@ categories: ["Fakts"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Es gribu redzēt taisnību, [F] jo par maz tās šeit! 
 [G] Gribu sapratni un prieku - [C] varu atklāti teikt! 

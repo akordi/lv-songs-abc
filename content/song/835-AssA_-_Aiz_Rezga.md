@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Am       E  Dm          G         C
 Agrs rīts durvīs metāla lūka atvērās

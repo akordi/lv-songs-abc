@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā melna čūska pie mums līda kristietība
 Pilna ar indi, tā gadsimtiem asinis zīda

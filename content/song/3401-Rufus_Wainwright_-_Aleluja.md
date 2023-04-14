@@ -6,6 +6,7 @@ categories: ["Rufus Wainwright"]
 tags: []
 draft: false
 ---
+
 ```text
      G         Em           G.            Em
 Par mīļoto un vienīgo, par tautas sāpēm, cerību 

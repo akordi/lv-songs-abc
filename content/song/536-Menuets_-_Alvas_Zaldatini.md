@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm
 Spožums Tā kā zivij zelta zvīņas

@@ -6,6 +6,7 @@ categories: ["Audience Killers"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [C] World wide love it's [G] world wide love
 [Am] World wide love it's [F] world wide love

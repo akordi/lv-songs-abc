@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ei skīja, skīja
 Be jāu etskīja

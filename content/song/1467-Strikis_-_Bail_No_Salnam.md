@@ -6,6 +6,7 @@ categories: ["Striķis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads:     Am Am Em C Am  G G Em C D D C F Em C 
 

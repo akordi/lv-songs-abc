@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 One day you’ll understand that you are alone
 And the world around you, cold and firm like stone

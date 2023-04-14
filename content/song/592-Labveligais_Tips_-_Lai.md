@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
      C               
 Kā gribas kaut ko mazsvarīgu:

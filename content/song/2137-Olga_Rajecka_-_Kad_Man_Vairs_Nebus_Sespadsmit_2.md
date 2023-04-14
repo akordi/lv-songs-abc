@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kad lietus [G] līst un [Am] nepārstāj,
 [C] tu lēnām pie [G] loga [Am] pienāksi, 

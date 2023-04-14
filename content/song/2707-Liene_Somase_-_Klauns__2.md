@@ -6,6 +6,7 @@ categories: ["Liene Šomase"]
 tags: []
 draft: false
 ---
+
 ```text
 [C]Pāri ielai[G]dzīvoja kāds[F]klauns
 [C]Tāds savādnieks šai[G]pusē bija kas[F]jauns

@@ -6,6 +6,7 @@ categories: ["Raimonds Eizenšmits"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tumšmatēm tīk lēnās dejas, blondīnes par tām tik smejas,
 Ķircinoties veikli projām slīd.

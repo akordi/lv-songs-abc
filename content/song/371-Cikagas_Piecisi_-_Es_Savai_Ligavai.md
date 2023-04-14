@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 A                  E
 Es savai līgavai'i didam

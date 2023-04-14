@@ -6,6 +6,7 @@ categories: ["Inese Saulīte"]
 tags: []
 draft: false
 ---
+
 ```text
 C, Am, F, G, Em
 

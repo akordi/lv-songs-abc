@@ -6,6 +6,7 @@ categories: ["Līga Priede"]
 tags: []
 draft: false
 ---
+
 ```text
 A
 Domāt par vasaru, 

@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Es [C]esmu tikai [F]joka pēc
 Šai [G]pudeļkaklā [C]zaļā

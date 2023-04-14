@@ -6,6 +6,7 @@ categories: ["Ēriks Ešenvalds"]
 tags: []
 draft: false
 ---
+
 ```text
 C                   G/B          Am             G/B
 Dzied, mana dvēsele dzied caur tūkstoš balsīm klusi

@@ -6,6 +6,7 @@ categories: ["Harijs Spanovskis"]
 tags: []
 draft: false
 ---
+
 ```text
 C                 G
 Rozes sen jau novītušas,

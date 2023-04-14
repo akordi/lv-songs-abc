@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 G Em
 G                       Em

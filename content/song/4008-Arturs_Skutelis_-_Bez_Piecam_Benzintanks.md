@@ -6,6 +6,7 @@ categories: ["Arturs Skutelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 V.
 Nevajag piekrist visam, ko saku.

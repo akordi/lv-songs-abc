@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 G-------------------------------------------Em-------C
 No augstākā punkta, ja skatās uz zemi viss citādi rādās

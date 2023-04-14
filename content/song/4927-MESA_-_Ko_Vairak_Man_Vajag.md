@@ -6,6 +6,7 @@ categories: ["MESA"]
 tags: ["muzikālā banka 2022"]
 draft: false
 ---
+
 ```text
 [Gm] [Eb] [Bb] [F]
 Vieglāk ir uzlikt capo uz 3. ladas un spēlēt [Em] [C] [G] [D]

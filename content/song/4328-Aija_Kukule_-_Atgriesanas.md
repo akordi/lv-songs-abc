@@ -6,6 +6,7 @@ categories: ["Aija Kukule"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ak, Dievs! Vai tiešām tu tas esi, kas uz sliekšņa 
 nostājies, nostājies?

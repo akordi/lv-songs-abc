@@ -6,6 +6,7 @@ categories: ["Galaktika"]
 tags: []
 draft: false
 ---
+
 ```text
 G          A       D
 Dzīve tik ātri uz priekšu iet,

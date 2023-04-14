@@ -6,6 +6,7 @@ categories: ["Duets Liene & Helmuts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Visu gadu dziesmas krāju,
 Jāņu dienu gaidīdama.

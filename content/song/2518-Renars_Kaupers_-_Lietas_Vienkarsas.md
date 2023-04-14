@@ -6,6 +6,7 @@ categories: ["Renārs Kaupers"]
 tags: ["bērnu", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Vakars vēl tālu,
 Saule spīd.

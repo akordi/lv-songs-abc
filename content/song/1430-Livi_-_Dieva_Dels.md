@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 C  Cmaj7 F, C Em C F
 C  Cmaj7 F, C Em C F

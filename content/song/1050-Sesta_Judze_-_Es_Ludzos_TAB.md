@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 Ievads
              A                E            A

@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
   C                                               G
 1.Kādu rītu Juris Grietai ausīs čukst: “ Vai zini ko,

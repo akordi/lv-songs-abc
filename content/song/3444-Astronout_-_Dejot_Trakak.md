@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: ["muzikālā banka 2018"]
 draft: false
 ---
+
 ```text
 Tā viņam [G]iet, jau gadu [Em]neveikli maz[Bm]liet
 Uz viņu [C]neskatās ne[G]viens

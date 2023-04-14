@@ -6,6 +6,7 @@ categories: ["Z-Scars"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Tu man parādi to ka [G] mēs nedomājam vienādi
 [C] Tev viss vienkārši tad, kad [G] es 

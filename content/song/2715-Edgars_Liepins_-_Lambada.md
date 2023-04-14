@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Priekšvārds (visus vārdus ņēmu, klausoties no ieraksta):
 Ai, ai, ai,lambada !

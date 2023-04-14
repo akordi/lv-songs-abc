@@ -6,6 +6,7 @@ categories: ["Lādezers"]
 tags: []
 draft: false
 ---
+
 ```text
 F G Am7(x02010) x4
 

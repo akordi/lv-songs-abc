@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro.  Em Em Em Em D D C C   2x
 

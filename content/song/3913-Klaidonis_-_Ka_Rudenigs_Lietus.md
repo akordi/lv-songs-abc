@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā rudenīgs lietus  acīs lāses tev mirdz
       E             H                  

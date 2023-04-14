@@ -6,6 +6,7 @@ categories: ["Dzelzs Vilks"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 Tūnings - Drop C
 

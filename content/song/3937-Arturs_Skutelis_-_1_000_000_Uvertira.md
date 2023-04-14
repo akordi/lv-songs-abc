@@ -6,6 +6,7 @@ categories: ["Arturs Skutelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man ir vārds, un es to palaižu brīvībā.
 Trīsdesmit trīs drīz, un runāju līdzībās.

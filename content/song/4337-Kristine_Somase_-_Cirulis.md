@@ -6,6 +6,7 @@ categories: ["Kristīne Šomase"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai arī šodien ir vēja par daudz.Cīrulis spārnos trauc.
 Ceļš uz mājām putnu sauc ''Putnu sauc''.Jūra kliedz.Bet 

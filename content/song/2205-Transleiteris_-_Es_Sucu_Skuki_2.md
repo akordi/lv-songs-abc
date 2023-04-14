@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 [Am] Šis pavēr[C]siens bija neplā[Dm]nots
 Tāds [F] nebija nodoms

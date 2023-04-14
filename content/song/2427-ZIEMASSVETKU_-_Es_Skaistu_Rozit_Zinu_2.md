@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku", "kristīgās"]
 draft: false
 ---
+
 ```text
 Es skaistu rozīt’ zinu 3/2   F -TON. Kapo 3 Hernhūtiešu 16.gs.dz.
   

@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
 [A] Meitene mana grieze [E] griezīte
 Gūstīja veda sauca [A] papardēs

@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Akordi virs vārdiem ir likti +/-
 

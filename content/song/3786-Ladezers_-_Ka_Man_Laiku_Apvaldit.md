@@ -6,6 +6,7 @@ categories: ["Lādezers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pār ilgu jūru peldu
 Caur vakaru un rītu

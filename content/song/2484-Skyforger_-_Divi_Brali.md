@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Par laikiem, ko neviens vairs neatceras
 Būs tas sen aizmirstais stāsts

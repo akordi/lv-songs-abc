@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm F#m Bm F#m
 Bm                 F#m

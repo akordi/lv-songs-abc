@@ -6,6 +6,7 @@ categories: ["The Hobos"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 G                       C        D      G  
 unforgetable fealing you may find in a freazing day

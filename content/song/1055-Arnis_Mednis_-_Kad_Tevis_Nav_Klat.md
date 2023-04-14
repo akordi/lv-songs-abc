@@ -6,6 +6,7 @@ categories: ["Arnis Mednis"]
 tags: []
 draft: false
 ---
+
 ```text
 G           C
   Nāk diena projām steidzas 

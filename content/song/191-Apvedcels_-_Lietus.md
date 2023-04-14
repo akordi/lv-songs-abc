@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [G][C][D][G]
 

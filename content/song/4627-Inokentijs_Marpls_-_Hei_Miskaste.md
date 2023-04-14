@@ -6,6 +6,7 @@ categories: ["Inokentijs Mārpls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Hei, miskaste, miskaste, miskaste,
 Hei, miskaste, miskaste, miskaste.

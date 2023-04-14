@@ -6,6 +6,7 @@ categories: ["Andrejs Lihtenbergs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nav ne velna, nav ne Dieva, abu vietā esot Ieva,
 Vienmēr svēta, vienmēr cēla, vienmēr kārdinoši kvēla,

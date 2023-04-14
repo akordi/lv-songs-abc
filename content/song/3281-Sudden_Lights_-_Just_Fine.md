@@ -6,6 +6,7 @@ categories: ["Sudden Lights"]
 tags: ["supernova", "eng", "supernova 2018"]
 draft: false
 ---
+
 ```text
 Capo 3
 Em Am Em G Em Am Em

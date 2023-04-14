@@ -6,6 +6,7 @@ categories: ["Tirkizband"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants:
 Dm 

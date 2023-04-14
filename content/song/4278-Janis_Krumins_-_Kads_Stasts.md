@@ -6,6 +6,7 @@ categories: ["Jānis Krūmiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 Es dzīvē viena ceļa turos, 

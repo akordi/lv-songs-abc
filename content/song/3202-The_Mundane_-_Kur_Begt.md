@@ -6,6 +6,7 @@ categories: ["The Mundane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 vēl viens rīts spēj vairāk dot un mainīt
 ja tavs smaids ir īsts

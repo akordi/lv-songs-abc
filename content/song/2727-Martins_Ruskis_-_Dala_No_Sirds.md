@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Es gaidīju, kad tas stāsts,

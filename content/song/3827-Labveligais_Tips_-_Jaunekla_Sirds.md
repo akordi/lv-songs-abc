@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mums nebija lavīnas un zemestrīces,
 Bija uz visiem viens publiskais nams.

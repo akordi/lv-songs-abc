@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: []
 draft: false
 ---
+
 ```text
 E            B     C#m     B
 Ei, brāl, ar dzīvi nekaulē

@@ -6,6 +6,7 @@ categories: ["Andris Kivičs"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 [Em] Mans draugs mēs ar tevi
 [C] Dzīvojam Latvijā

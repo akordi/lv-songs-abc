@@ -6,6 +6,7 @@ categories: ["Mārtiņš Petrovs"]
 tags: []
 draft: false
 ---
+
 ```text
 A       E             D              A
 Man jātiek līdz novārtā pamestai salai,

@@ -6,6 +6,7 @@ categories: ["Patrisha"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
             Em                    D
 Es varu būt tā, kura nāk, kad tev skumji

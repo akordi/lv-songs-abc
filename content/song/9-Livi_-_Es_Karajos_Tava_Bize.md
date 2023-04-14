@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Am                 C          D      Am    C D
 Durvis ir vaļā par ilgu šai vietā ir būts

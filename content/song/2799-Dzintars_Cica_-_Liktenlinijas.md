@@ -6,6 +6,7 @@ categories: ["Dzintars Čīča"]
 tags: []
 draft: false
 ---
+
 ```text
 F#m C#m Ab C#m
 F#m C#m Ab C#m

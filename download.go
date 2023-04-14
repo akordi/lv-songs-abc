@@ -17,6 +17,7 @@ type Item struct {
 	CreatedDate string `json:"createdDate"`
 	Url         string `json:"url"`
 	Body        string `json:"body"`
+	BodyAbc     string `json:"bodyAbc"`
 	MainArtist  Artist `json:"mainArtist"`
 	Tags        []Tag  `json:"tags"`
 }
@@ -38,7 +39,7 @@ type ApiResponse struct {
 }
 
 func main() {
-	apiURL := "https://akordi.lv/api/songs?includeBody=true&size=5000" // Replace with your JSON API endpoint
+	apiURL := "https://akordi.lv/api/v2/songs?includeBody=true&size=5000" // Replace with your JSON API endpoint
 	resp, err := http.Get(apiURL)
 	if err != nil {
 		fmt.Println("Error fetching data from API:", err)
@@ -72,8 +73,14 @@ func main() {
 		for _, tag := range item.Tags {
 			tags = append(tags, fmt.Sprintf(`"%s"`, escapeQuotes(tag.Title)))
 		}
+		if item.BodyAbc != "" {
+			tags = append(tags, "abc")
+		}
 		tagsJoined := strings.Join(tags, ", ")
-
+		abcJs := ""
+		if item.BodyAbc != "" {
+			abcJs = "{{< abcjs song>}}\n" + item.BodyAbc + "\n{{< /abcjs >}}"
+		}
 		content := fmt.Sprintf("---\n"+
 			"title: \"%s\"\n"+
 			"date: %s\n"+
@@ -82,12 +89,14 @@ func main() {
 			"tags: [%s]\n"+
 			"draft: false\n"+
 			"---\n"+
+			"%s\n"+
 			"```text\n%s\n```",
 			escapeQuotes(item.Title),
 			formattedDate,
 			item.Url,
 			escapeQuotes(ReplaceDots(item.MainArtist.Title)),
 			tagsJoined,
+			abcJs,
 			item.Body)
 
 		_, err = file.WriteString(content)
@@ -108,14 +117,17 @@ func getLastPartOfURL(url string) string {
 }
 
 func convertDate(dateStr string) string {
-	layoutISO := "2006-01-02T15:04:05.000-07:00"
-	layoutRFC := "2006-01-02T15:04:05-07:00"
-	t, err := time.Parse(layoutISO, dateStr)
+	// Parse the date string into a time.Time value
+	t, err := time.Parse(time.RFC3339, dateStr)
 	if err != nil {
-		fmt.Println(err)
+		fmt.Println("Error parsing date:", err)
 		return ""
 	}
-	return t.Format(layoutRFC)
+
+	// Format the time.Time value into the desired string format
+	formattedDate := t.Format("2006-01-02T15:04:05-07:00")
+
+	return formattedDate
 }
 
 func escapeQuotes(str string) string {

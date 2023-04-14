@@ -6,6 +6,7 @@ categories: ["Aparāts"]
 tags: []
 draft: false
 ---
+
 ```text
 C           Am        F7
 No  kokiem putni karājas,

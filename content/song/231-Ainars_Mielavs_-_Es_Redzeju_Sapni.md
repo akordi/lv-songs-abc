@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
    Em                G             C             Em
 Es redzēju sapnī, kā Zālamans liek roku uz pleca man.

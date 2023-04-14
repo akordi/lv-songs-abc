@@ -6,6 +6,7 @@ categories: ["Pirmais kurss"]
 tags: []
 draft: false
 ---
+
 ```text
 		G						D F# Bm
 Šodien laukos Izdomajam taisīt šķūni, Zinu tas būs ļoti grūti

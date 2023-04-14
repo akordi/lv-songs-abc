@@ -6,6 +6,7 @@ categories: ["Kids 4 rock"]
 tags: []
 draft: false
 ---
+
 ```text
 Am
 Nemanot  ievelc elpu krūtīs

@@ -6,6 +6,7 @@ categories: ["Artūrs Kristkalns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Balta Balta Muša
 Lidinās apkārt 

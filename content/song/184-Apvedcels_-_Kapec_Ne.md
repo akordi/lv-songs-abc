@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Sirds [G]stājas, pulsu skaitu, kad [D]redzu tavu [G]gaitu
 Mans [Em]Dievs, te ir gan grācija, gan [Am]šarms

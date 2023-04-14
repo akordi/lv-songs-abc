@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads // Am / Am / G / G / Fmaj7 / Fmaj7 / E / E ://
 

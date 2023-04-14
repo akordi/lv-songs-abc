@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 Bass Intro:                             Then comes guitar (Palm Muted)
 e|-----------------------------------|--------------------------------|

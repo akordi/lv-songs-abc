@@ -6,6 +6,7 @@ categories: ["Stūrī Zēvele"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 esmu jūra
 it nekur nav boju

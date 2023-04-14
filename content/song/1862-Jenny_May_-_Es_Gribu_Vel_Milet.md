@@ -6,6 +6,7 @@ categories: ["Jenny May"]
 tags: []
 draft: false
 ---
+
 ```text
 A        E              B     C#m
 Es gribu vel, gribu vel mīlēt

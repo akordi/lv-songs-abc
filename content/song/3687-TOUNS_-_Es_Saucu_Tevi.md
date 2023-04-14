@@ -6,6 +6,7 @@ categories: ["TOUNS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja es teikto to, ka 
 Spētu sāpināt 

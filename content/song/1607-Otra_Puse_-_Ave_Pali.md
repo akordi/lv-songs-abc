@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: []
 draft: false
 ---
+
 ```text
 Ave pali . OTRA PUSE (C# /G# )  capo 1                                     
 C# /G#                                        

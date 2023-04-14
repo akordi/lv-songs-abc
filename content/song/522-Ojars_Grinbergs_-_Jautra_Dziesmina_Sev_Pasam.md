@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
       F             C7           F
 Noviz gadi, aizskan zvani, atnāk mūžs

@@ -6,6 +6,7 @@ categories: ["Ēnas"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 How can people speak about

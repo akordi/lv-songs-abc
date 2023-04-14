@@ -6,6 +6,7 @@ categories: ["Agnese"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm                Cm        Bm
 Vai tu jau aizej, gaišā ceļabiedre? 

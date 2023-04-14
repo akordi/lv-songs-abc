@@ -6,6 +6,7 @@ categories: ["Mārtiņš Jātnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ko vēl vari iedomāties,
 Kas vēl pa naktim piepildīsies,

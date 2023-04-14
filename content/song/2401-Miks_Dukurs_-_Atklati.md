@@ -6,6 +6,7 @@ categories: ["Miks Dukurs"]
 tags: []
 draft: false
 ---
+
 ```text
 Akordi: (E),(A),(H),(Cm#)...
 

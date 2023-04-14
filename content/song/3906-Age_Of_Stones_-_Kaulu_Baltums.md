@@ -6,6 +6,7 @@ categories: ["Age of Stones"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Cik ilgi var smaidīt?
 Pārdot visu un gaidīt?

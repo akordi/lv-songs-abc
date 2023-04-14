@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: ["eurovision", "eng"]
 draft: false
 ---
+
 ```text
 [Am] I'd like to go away, but [E] it's easier to say 
 That [A	m] you know all the tricks that make... that [E] make me stay 

@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 (2X)
 Lai nes nost

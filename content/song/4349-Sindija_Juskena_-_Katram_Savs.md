@@ -6,6 +6,7 @@ categories: ["Sindija Juškena"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.Dziesmiņa skan austiņās,
 Liesmiņa deg actiņās,

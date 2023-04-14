@@ -6,6 +6,7 @@ categories: ["Gapoljeri"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 A D E
 No malas Tevi novēro

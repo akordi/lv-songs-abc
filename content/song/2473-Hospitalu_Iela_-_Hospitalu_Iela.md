@@ -6,6 +6,7 @@ categories: ["Hospitāļu iela"]
 tags: []
 draft: false
 ---
+
 ```text
 Em         A          Em     A
  Un tumšās parādenēs, daiļā, zūdi tu vairs

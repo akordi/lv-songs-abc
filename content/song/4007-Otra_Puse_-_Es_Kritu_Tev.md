@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es bēgu būt, tu bēgi būt un sāpēt,
 Es bēgu būt, tu nāci būt un glābt

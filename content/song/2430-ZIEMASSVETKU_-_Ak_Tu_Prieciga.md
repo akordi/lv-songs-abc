@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 C   F  C         C    F  C
 Ak, tu priecīga, ak, tu svētīga

@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Starp mašīnām, motoriem, meitenēm [C]
 Uz ielu [G] stūriem, kas [C]salst; 

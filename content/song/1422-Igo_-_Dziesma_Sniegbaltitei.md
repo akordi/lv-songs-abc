@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 Vējš [Bm] stieplēs dzied, vējš klusi dzied pie sevis,
 [C] Jau okto[D]brim uz pleciem [G] lapas krīt.

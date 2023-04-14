@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
   C               G
 I may seem wise I may seem old

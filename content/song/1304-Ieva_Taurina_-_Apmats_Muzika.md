@@ -6,6 +6,7 @@ categories: ["Ieva Tauriņa"]
 tags: []
 draft: false
 ---
+
 ```text
 C                          G
 Nēsmu nekad dzirdējusi klusumu

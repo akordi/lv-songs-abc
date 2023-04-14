@@ -6,6 +6,7 @@ categories: ["Nicol"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 You are the woman to love, woman to love
 Oh oh oh yeah….

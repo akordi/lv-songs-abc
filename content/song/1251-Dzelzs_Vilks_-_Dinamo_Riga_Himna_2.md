@@ -6,6 +6,7 @@ categories: ["Dzelzs Vilks"]
 tags: []
 draft: false
 ---
+
 ```text
 A           E
 Kā tērauds ledu griež 

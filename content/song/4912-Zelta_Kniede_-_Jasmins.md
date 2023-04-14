@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: []
 draft: false
 ---
+
 ```text
 [A] atļauj man tev ko [E/G#] pasacīt
 [D/F#] jasmīns kad ziedos [A] trīs ([E/G#])

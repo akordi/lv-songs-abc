@@ -6,6 +6,7 @@ categories: ["Sūnu Ciema Zēni"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kur ne laimes, ne prieka vairs nav,
 Gružu kaudzes līdz paspārnēm stāv

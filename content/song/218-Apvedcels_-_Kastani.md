@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kad [G]pārkāpšu pār slieksni
 Viss kā [D]vienmēr, - šeit un [Em]te

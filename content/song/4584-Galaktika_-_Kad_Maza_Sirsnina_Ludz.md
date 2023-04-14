@@ -6,6 +6,7 @@ categories: ["Galaktika"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tik burvīgā smaidā ir ietinies rīts.
 Viss krāsains un spožs mazās actiņās mirdz

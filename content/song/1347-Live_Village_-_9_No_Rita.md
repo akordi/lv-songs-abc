@@ -6,6 +6,7 @@ categories: ["Live Village"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo 3
 -----------            -----------

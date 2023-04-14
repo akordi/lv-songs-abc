@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:
 D Bb Gm

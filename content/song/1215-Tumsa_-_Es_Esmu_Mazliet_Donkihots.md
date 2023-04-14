@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 Tumsa (Normunds JG) - Es esmu mazliet donkihots
 

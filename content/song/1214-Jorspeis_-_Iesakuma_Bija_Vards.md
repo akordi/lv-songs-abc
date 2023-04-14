@@ -6,6 +6,7 @@ categories: ["Jorspeis"]
 tags: []
 draft: false
 ---
+
 ```text
 Iesākumā bija Vārds (Jorspace)
 

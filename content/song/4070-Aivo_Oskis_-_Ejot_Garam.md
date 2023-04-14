@@ -6,6 +6,7 @@ categories: ["Aivo Oskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Piedz: x2
 Ejot garām ieskatos

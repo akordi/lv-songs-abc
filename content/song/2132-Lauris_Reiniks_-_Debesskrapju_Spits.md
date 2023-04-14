@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Debesskrāpju spīts [G] liek mākoņiem plīst,
 [F] Putna lidojums tos [C] atkal ver ciet.

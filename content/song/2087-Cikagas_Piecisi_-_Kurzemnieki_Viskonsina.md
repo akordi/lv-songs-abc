@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 E       B    E
 Skaista mana Kurzeme,

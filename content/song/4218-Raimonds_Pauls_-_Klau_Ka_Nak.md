@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: ["šūpuļdziesma"]
 draft: false
 ---
+
 ```text
 D        A      D       A
 Klau, kā nāk uz pirkstu galiem

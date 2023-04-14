@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 A		             D
 Sveika, māmiņ, beidzot mājās ir tavs karavīrs,

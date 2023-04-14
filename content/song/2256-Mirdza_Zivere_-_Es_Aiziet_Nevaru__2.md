@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Tu biji kails un vēju [Dm] aplauzts koks.
 [G] Es lapots vītenis ar [C] ziliem ziedu zvaniem,

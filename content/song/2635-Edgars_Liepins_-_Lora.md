@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [C][F][G][C]
 [C][F][G][C]

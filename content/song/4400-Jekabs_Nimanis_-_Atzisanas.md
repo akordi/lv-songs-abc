@@ -6,6 +6,7 @@ categories: ["Jēkabs Nīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nesaki man: "Gan jau kādreiz!"
 Nesaki man tā!

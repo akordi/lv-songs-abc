@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 ============================
 Fm Fm Bbm Bbm Db Ab Eb Eb 2x

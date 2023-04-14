@@ -6,6 +6,7 @@ categories: ["Dzeguzīte"]
 tags: []
 draft: false
 ---
+
 ```text
  C              G7
 Dziļā meža pašā vidū

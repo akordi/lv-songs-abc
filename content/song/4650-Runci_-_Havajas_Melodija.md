@@ -6,6 +6,7 @@ categories: ["Runči"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pāri zilai jūrai kuģis brauc
 Vējiņš mastos skumju dziesmu dzied

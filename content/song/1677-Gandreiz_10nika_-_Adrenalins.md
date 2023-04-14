@@ -6,6 +6,7 @@ categories: ["Gandreiž 10nīkā"]
 tags: []
 draft: false
 ---
+
 ```text
 Am F C G
 Lecējs lec un skrējējs skrien

@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 Tuning – D,G,C,F,A,D
 

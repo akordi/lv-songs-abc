@@ -6,6 +6,7 @@ categories: ["Jumprava"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tāls sveiciens visumā,
 Ko veikli noķer laiks un es

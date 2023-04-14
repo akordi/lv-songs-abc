@@ -6,6 +6,7 @@ categories: ["Gustavo"]
 tags: []
 draft: false
 ---
+
 ```text
 Akmens šķēres papīrīts viens divi trīs...
 Cm  Gm7 (F#7) 

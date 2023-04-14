@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ne bieži tas gadās ,bet reizēm tā ir
    C                               B             F

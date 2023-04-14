@@ -6,6 +6,7 @@ categories: ["Tev tuvumā"]
 tags: []
 draft: false
 ---
+
 ```text
 G		Em/G
 Skaties, kur vistuvāk liecas

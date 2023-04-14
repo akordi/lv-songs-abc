@@ -6,6 +6,7 @@ categories: ["Dabasu Durovys"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: A Bm C#m Bm x2
 

@@ -6,6 +6,7 @@ categories: ["Zemsegu Pasaule"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es negribēju, lai tu iemīlies
 Es vispār negribēju, lai tu šeit esi

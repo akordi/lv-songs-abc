@@ -6,6 +6,7 @@ categories: ["A2"]
 tags: []
 draft: false
 ---
+
 ```text
 Kur esi Tu
 A2

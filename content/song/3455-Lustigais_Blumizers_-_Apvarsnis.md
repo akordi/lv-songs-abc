@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es tavu roku satveršu,
 lai varam tālāk iet,

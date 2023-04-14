@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: []
 draft: false
 ---
+
 ```text
 D G Bm A
 Kā skursteņi kāpj debesīs, 

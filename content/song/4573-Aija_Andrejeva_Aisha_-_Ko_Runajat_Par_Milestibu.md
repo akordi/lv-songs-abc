@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es šonakt degšu sveci
 un iešu, sveci rokās, tālu pļavās.

@@ -6,6 +6,7 @@ categories: ["Kaspars Antess"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tas nekas, ja vēji Tevi purinās.
 Neviens par Tevi labāk dzīvi nezinās.

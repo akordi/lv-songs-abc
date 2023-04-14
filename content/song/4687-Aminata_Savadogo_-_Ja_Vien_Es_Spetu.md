@@ -6,6 +6,7 @@ categories: ["Aminata Savadogo"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāpēc ir jābeidzas tai pasakai, kas tikko sākās,
 Kāpēc sirds ilgojas pēc kādas dzīves savādākas?

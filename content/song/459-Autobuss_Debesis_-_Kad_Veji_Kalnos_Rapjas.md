@@ -6,6 +6,7 @@ categories: ["Autobuss Debesīs"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
     A    D      A
 1.Kad vēji kalnos rāpjas

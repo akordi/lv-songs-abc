@@ -6,6 +6,7 @@ categories: ["Zigfrīds Muktupāvels"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nosauc man vārdus,kuros saukt Tevi klusi
 šai troksnī, lai nespētu satraukt pat putnus.

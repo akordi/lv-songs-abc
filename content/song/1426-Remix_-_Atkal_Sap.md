@@ -6,6 +6,7 @@ categories: ["Remix"]
 tags: []
 draft: false
 ---
+
 ```text
 F                                          Bb
 Ļaudis mājās jau sen siltu tēju dzer

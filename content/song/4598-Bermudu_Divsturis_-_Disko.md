@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 (ohh) visiem patīk vecās labās dienas
 (ohh) visiem patīk  

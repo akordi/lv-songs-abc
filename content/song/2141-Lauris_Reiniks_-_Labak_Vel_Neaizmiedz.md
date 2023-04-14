@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Tu un es - [F] divas magones
 [C] Apstājies, piesardzīgs [G] ir ne tikai [Am]laiks

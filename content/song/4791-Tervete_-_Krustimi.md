@@ -6,6 +6,7 @@ categories: ["Tērvete"]
 tags: []
 draft: false
 ---
+
 ```text
 [C]Dziedu Tavai pasaulei,[Am] dziedu Tavai dvēselei
 [G]Vārdi skrien un atduras kā[F] vienmēr it ne[C] kur.

@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es biju reiz tur,tur kur nebiji tu,
 tur kur citādāks bij rīts,

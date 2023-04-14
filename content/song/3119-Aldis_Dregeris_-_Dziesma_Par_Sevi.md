@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tagad dziedāšu dziesmu par sevi,
 Un par dzīvi ko dzīvoju es.

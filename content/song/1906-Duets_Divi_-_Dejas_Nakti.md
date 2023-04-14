@@ -6,6 +6,7 @@ categories: ["Duets \"Divi\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vakars pagājis vienā dejā,
 es jutu tevi, tu juti mani.

@@ -6,6 +6,7 @@ categories: ["Mārtiņš Petrovs"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo 3 lada
 

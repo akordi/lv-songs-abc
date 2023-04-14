@@ -6,6 +6,7 @@ categories: ["Remix"]
 tags: []
 draft: false
 ---
+
 ```text
 oriģināli ir kapo uz pirmās ladas
 

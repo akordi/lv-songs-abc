@@ -6,6 +6,7 @@ categories: ["Mārtiņš Freimanis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: C | Am |
 

@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Cik [C] daudz par daudz
 Vārdos ir nepateikts

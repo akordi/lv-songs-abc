@@ -6,6 +6,7 @@ categories: ["Aldis Šteimanis"]
 tags: []
 draft: false
 ---
+
 ```text
 F                                      C                             
 Stārķis pēdējo nedēļu ozolā klabina - lidošu prom,

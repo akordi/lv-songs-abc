@@ -6,6 +6,7 @@ categories: ["Laura Lo"]
 tags: ["supernova", "supernova 2017", "eng"]
 draft: false
 ---
+
 ```text
 [C] Late night walking [Am] around in this old [F] city [G]
 [C] Neon lights are [Am] flashing on your [F] perfect skin [G]

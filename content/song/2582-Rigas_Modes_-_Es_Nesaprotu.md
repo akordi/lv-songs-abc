@@ -6,6 +6,7 @@ categories: ["Rīgas Modes"]
 tags: []
 draft: false
 ---
+
 ```text
 Es [C] aizmirsu par tevi atcerēties nepiemērotākajā [Am] brīdī. [G]
 [C] Nākotnē es vēlētos atgriezties [Am] pagāt[G]nē

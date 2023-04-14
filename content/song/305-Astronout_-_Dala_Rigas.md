@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: []
 draft: false
 ---
+
 ```text
 A                Bm    
 Es zinu daudziem bail un daudziem sāp mans rajons

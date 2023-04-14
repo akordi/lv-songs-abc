@@ -6,6 +6,7 @@ categories: ["Borowa MC"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Aiz azara bolti bārzi
 Sudrobeņa lapeņom..

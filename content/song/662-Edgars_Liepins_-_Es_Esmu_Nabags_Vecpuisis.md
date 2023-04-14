@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Es esmu nabags vecpuisis
 Un tādu vēl ir daudz,

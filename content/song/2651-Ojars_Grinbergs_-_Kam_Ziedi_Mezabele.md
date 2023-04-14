@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 Bij’ [C] maijs un mežābeles [F] zieds tik balts,
 Zem [G] tā vecs akmens sols un [C] galds.

@@ -6,6 +6,7 @@ categories: ["KATŌ"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 [Am] Es gāju par [F] tālu
 [C] Es liku lietā [G] visu savu arsenālu

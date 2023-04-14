@@ -6,6 +6,7 @@ categories: ["MARTA (Marta Grigale)"]
 tags: ["supernova 2016", "supernova", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Endless possibilities
 Different you, different me

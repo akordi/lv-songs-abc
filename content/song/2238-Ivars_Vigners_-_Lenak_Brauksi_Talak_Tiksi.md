@@ -6,6 +6,7 @@ categories: ["Ivars Vīgners"]
 tags: []
 draft: false
 ---
+
 ```text
 Ir [G] gāzes (gāzes, gāzes, gāzes) pedālis līdz [C] grīdai 
 un [D] motors (motors, motors, motors) rēc kā kuti[G]nāts

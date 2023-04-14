@@ -6,6 +6,7 @@ categories: ["Triānas Parks (Triana Park)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Diena nāk, un rokas Tavas rimst
 Man par sevi vēlreiz jāpiedzimst.

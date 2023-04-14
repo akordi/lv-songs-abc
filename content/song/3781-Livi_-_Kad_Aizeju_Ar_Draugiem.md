@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad aizeju ar draugiem
 Kad aizeju ar draugiem

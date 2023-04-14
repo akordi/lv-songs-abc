@@ -6,6 +6,7 @@ categories: ["Trīs no Pārdaugavas"]
 tags: []
 draft: false
 ---
+
 ```text
 G                     D7
 Augu nakti pogo lakstīgalas,

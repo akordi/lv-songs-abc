@@ -6,6 +6,7 @@ categories: ["Ralfs Eilands"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kurš no mums spēlēs paslēpes?
 Uz lielas pasaules ir viegli pazaudēt,

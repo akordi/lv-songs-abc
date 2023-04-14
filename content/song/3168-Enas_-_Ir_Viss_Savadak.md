@@ -6,6 +6,7 @@ categories: ["Ēnas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Skatoties tevī, es skatos uz sevi,
 Un nav pat neviena, ko pierunāt,

@@ -6,6 +6,7 @@ categories: ["Double Faced Eels"]
 tags: ["supernova", "eng", "supernova 2019"]
 draft: false
 ---
+
 ```text
 I’ve got a fire burning deep inside
 Illuminates my way when there’s no light

@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 No piliena es esmu izraidīts
 Caur varavīksnēm uz jūru doties

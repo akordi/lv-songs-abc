@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 [D] Ir grūti īstos [A] vārdus atrast
 [Em7] Ir grūti gribēt [G] otru [A] saprast

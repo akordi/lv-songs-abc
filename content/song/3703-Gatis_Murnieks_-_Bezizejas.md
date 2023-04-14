@@ -6,6 +6,7 @@ categories: ["Gatis Mūrnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 No visiem lielceļiem
 Kas mums arvien vēl priekšā

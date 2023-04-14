@@ -6,6 +6,7 @@ categories: ["Audience Killers"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [F] As you see the [C] colors land upon [Am] everything you do, 
 [G] It starts to make sense

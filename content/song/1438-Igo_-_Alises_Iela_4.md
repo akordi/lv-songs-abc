@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm B C Am B Gm A
 Dm B C Am B Gm A

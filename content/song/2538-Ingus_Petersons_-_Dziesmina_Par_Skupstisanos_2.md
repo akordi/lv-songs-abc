@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Nē, nudien man atzīties ir [Dm] kauns -
 [G] Visā ciemā otra tāda [C] nav.

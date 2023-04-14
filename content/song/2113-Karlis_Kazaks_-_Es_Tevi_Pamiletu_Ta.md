@@ -6,6 +6,7 @@ categories: ["Kārlis Kazāks"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Es tevi [D*] pamīlētu tā,
 [C] Ka tev pat sarma [Am] nenobirtu.[C] ai [Am] jāā.. [C][D*]

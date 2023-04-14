@@ -6,6 +6,7 @@ categories: ["Normunds Jakušonoks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tik dīvaina, dīvaina vasara 
 Ar sarkaniem magoņu sārtiem 

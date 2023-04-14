@@ -6,6 +6,7 @@ categories: ["Laura Lo"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [C] Chasing cars and [G] racing snails [Am]
 They [C] like to hang out [G] in the woods [Am]

@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Virs manis ir debesis,lielie greizie rati
 bet tikai man šodien tā šķiet

@@ -6,6 +6,7 @@ categories: ["Skani"]
 tags: []
 draft: false
 ---
+
 ```text
 Iedod zaļu zīmulīti
 Man tik zaļi gribas

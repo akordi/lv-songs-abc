@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā[C]pēc, man [G]atkal pietrūkst [C]Tevis
 Man liekas, Tev [D]nestie ziedi [G]vīst

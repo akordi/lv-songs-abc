@@ -6,6 +6,7 @@ categories: ["Olafs Bergmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lasi manas domas, lasi skaļi
 Manu zemeslodi tur tie paši vaļi, kas tavu

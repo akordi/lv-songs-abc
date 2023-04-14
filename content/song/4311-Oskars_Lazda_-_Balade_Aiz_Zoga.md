@@ -6,6 +6,7 @@ categories: ["Oskars Lazda"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Skaņas žēli atraujas no stīgām
 Laužot ceļu domu pasaulē

@@ -6,6 +6,7 @@ categories: ["Singapūras Satīns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Eu,mazā klausies.Tu vari tikai uzmanīgi, nesasmērē manu 
 ādas salonu

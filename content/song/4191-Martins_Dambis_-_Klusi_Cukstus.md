@@ -6,6 +6,7 @@ categories: ["Mārtiņš Dambis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Guli, guli, visapkārt ir kluss,
 Kāds ir pārklājis debesīm zvaigžņu segu.

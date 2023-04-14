@@ -6,6 +6,7 @@ categories: ["Slou"]
 tags: []
 draft: false
 ---
+
 ```text
 G            Am             C           D
 Mans ceļš ir sācies, varam šķirties, palicēj.

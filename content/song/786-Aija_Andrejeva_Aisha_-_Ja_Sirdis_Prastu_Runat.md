@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: []
 draft: false
 ---
+
 ```text
 C#m B
 C#m B E A

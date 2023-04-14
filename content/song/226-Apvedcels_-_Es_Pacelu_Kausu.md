@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Nāc [C]sēdies un[G]stāsti, ko [F]dari, kā [G]iet
 Un [Am]ko tagad [D]mīl Tava [G]sirds

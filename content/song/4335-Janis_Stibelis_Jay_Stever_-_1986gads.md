@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: []
 draft: false
 ---
+
 ```text
 Ab9 Ab13 Ab9
 Nav kritusi vēl berlīnes mūra siena

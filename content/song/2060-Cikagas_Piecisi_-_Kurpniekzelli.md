@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 E                                    B
 Kad mēs bijām jauni puiši mūsu dzimtenē,

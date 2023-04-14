@@ -6,6 +6,7 @@ categories: ["Imants Daksis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Domas, kas nogalina
 Domas, kas izvaro

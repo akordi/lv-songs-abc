@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 Es [Am] braucu taisni, [G] acīm ciet. [F]
 Aiz [Am] manis pēdas [G] nepaliek. [F]

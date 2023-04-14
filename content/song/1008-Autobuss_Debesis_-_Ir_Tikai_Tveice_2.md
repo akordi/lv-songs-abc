@@ -6,6 +6,7 @@ categories: ["Autobuss Debesīs"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo uz 3. ladas, akordi relatīvi pret Capo.
 Akordi: Edza

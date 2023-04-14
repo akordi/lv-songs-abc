@@ -6,6 +6,7 @@ categories: ["Dzenīši"]
 tags: []
 draft: false
 ---
+
 ```text
 DZENISHI - ...kamēr dzīvs
 	Ievads:  G D G D     C D G D 

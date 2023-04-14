@@ -6,6 +6,7 @@ categories: ["Vita Baļčunaite"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laime, mana laimīte,
 Kur Tu tagad mīti,

@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
  A                   E
 Meitene mana grieze griezīte

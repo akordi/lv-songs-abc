@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: []
 draft: false
 ---
+
 ```text
 Dāvātais zieds
 Bb                   Eb      Bb

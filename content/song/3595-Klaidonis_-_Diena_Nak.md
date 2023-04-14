@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: []
 draft: false
 ---
+
 ```text
 B                               F#
 Diena nāk un čalo takās, lietus līst un sagumst ceļš,

@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 Man vienalga vai ir vakars vai ir r?ts
 Un, ja grib lai man pakar, man vienalga viss.

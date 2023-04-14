@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
    F                    C
 1. Daugavpilī gadatirgū sapazināmies,

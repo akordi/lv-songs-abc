@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad dienas steiga beigsies,
 Un mēness pārstās pelt,

@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                  D
 Uz ceļa stāv tilts bildes izrotā to

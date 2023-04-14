@@ -6,6 +6,7 @@ categories: ["The Mundane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 I`m ready to be
 that one who`s next to me

@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 A                            E
 Mans vec vec vec vec vec vec vec vec vec vec vectēvs

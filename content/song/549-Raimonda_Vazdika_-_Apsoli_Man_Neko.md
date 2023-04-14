@@ -6,6 +6,7 @@ categories: ["Raimonda Vazdika"]
 tags: []
 draft: false
 ---
+
 ```text
 G  D7              G     D7 
 Es nezinu, kā man būt. 

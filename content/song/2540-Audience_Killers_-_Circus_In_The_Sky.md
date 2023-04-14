@@ -6,6 +6,7 @@ categories: ["Audience Killers"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [C] All I see is dark and clear
 [C] All I feel is here and real

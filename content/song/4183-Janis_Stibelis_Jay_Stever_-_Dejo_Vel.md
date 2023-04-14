@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.
 Kad logā iespīd rīta saule, vai vakarā kad gulēt ej

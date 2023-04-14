@@ -6,6 +6,7 @@ categories: ["Maija Lūsēna"]
 tags: ["bērnu"]
 draft: false
 ---
+
 ```text
 D                G             A           D
 Ir katram bērnam zināms jau kā sauc šo lācīti

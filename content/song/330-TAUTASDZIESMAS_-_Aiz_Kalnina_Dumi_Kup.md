@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 Aiz kalniņa dūmi kūpa

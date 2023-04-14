@@ -6,6 +6,7 @@ categories: ["Jumprava"]
 tags: []
 draft: false
 ---
+
 ```text
       Em    E7sus4  Em
 Dievs svētī Latviju manu

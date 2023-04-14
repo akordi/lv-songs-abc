@@ -6,6 +6,7 @@ categories: ["Imants Daksis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Zvaigžņu burtiem ierakstītas
 Snauž dažas likumsakarības

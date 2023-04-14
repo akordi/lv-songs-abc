@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
     D                   A
 Ņem vienā rokā kaņepāju striķi,

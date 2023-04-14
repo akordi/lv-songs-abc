@@ -6,6 +6,7 @@ categories: ["Instrumenti"]
 tags: []
 draft: false
 ---
+
 ```text
 D
 Kad pieturā pie bankas tev prātā iešaujos

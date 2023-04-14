@@ -6,6 +6,7 @@ categories: ["Zodiaks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Sen aizmirsies tev mirdzošs saules riets,
 Kas gavilēdams lēja skaistumu un sāpes.

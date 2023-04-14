@@ -6,6 +6,7 @@ categories: ["Ints Ķergalvis"]
 tags: []
 draft: false
 ---
+
 ```text
 Stāviet krustcelēs
 Stāviet krustcelēs

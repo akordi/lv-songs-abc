@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Stāsti man kur [F] gan sākas [G] jūra,
 [C] Stāsti man kā [F] deg uguns[G]kuri.

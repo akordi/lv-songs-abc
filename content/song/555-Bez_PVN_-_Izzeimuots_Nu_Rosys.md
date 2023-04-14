@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 B5                           C#5                    A5
 Pīzaskar pi munom plaukstom, nūsļāp dūmys dabasūs i aizamoldīs,

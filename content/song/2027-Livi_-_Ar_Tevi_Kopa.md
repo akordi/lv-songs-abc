@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads
 G Am7 D G Em Am D

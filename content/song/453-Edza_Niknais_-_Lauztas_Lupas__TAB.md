@@ -6,6 +6,7 @@ categories: ["Edza Niknais"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 Solo
     H   E  E S S     E  E  H     E  E  E     H        E  E  S S E   

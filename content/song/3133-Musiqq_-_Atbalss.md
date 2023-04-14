@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
 Am               G
  Pareizie vārdi, klusumā tie dzimst,

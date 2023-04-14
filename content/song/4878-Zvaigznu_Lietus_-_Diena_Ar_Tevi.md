@@ -6,6 +6,7 @@ categories: ["Zvaigžņu lietus"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es vēlos to sacīt Tev klusi,
 Tik klusi kā lapās čukst vējš,

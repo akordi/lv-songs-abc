@@ -6,6 +6,7 @@ categories: ["J- Zābers"]
 tags: []
 draft: false
 ---
+
 ```text
 D                  G        D
 Pilsēta vētru un dzintara krastā

@@ -6,6 +6,7 @@ categories: ["Viktors Zemgals"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
      C     G          Am     Am/G
 Trīs māsas jūras malā stāv,

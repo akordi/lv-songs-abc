@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C            C
 Jūs pagājāt ar lepnu 

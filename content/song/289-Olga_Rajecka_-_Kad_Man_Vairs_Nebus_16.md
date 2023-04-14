@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kad lietus līst un lāses [G] logā mētā,
 [F] Tu teici man, ka nāksi [C] tu,

@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: []
 draft: false
 ---
+
 ```text
 4/4
 /bez ievada/

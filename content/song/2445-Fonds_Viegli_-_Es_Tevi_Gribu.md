@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Cik labi, ar tevi var neizlikties,
 Es tikai ar tevi gribu tikties,

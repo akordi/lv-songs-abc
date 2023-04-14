@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
 Abraka[Am]dabra, tava maģija [F] laba 
 Tā [C] nobur un nelaiž, nobur un nelaiž [G] vaļā

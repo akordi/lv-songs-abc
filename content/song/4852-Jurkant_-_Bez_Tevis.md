@@ -6,6 +6,7 @@ categories: ["Jūrkant"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā man pateikt, kā man zīt.
 Kā man piedot, kad tevis nav

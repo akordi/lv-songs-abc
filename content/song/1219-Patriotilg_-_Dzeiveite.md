@@ -6,6 +6,7 @@ categories: ["Patrioti-lg"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Intro: Am  F G C
        Dm Am Em

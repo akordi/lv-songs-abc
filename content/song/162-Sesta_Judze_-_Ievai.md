@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 Pamostos[E], vēl nav rīts, kaut kas traucē manu miegu,
 Vaļā logs ievas zied, jūtu tevi[A], laiks tāds pats, bet jau cits.

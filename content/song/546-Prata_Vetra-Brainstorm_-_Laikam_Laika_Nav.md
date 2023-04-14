@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 A              C#m7
 Laikam tāda ir dzīve,

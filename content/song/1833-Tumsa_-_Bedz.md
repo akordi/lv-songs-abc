@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 tavi sapņi ir kā pienākums
 sevi ielādēt vēlreiz pārstartēt

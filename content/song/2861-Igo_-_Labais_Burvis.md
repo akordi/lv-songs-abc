@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 C      F       C     G            C
 Labais burvi lūdzu šonakt ciemos nāc

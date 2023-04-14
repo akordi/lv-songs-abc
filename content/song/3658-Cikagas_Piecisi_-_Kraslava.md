@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
    D     G              D
 1. Tā kā šķemba manā sirdī,

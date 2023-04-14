@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pa zariem augšup tumsa kāpj
 Negaidīti svēta

@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Un viņš izkāpa ārā no Daugavas kreisajā krastā.
 Un viņš izkāpa ārā no Daugavas kreisajā krastā.

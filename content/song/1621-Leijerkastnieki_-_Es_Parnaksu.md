@@ -6,6 +6,7 @@ categories: ["Leijerkastnieki"]
 tags: []
 draft: false
 ---
+
 ```text
 "Kapoo" uz otrās ladas :)
 

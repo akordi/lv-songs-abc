@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 Em       B7            Em
 Pie loga rūtīm es pieglaužu vaigu,

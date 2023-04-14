@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man teica nesapno vairs
 Es nevaru vairs padomu ierinda stat

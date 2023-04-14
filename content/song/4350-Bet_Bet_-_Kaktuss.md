@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nekas nav tā, kā agrāk,
 Nekas nav tā, kā bija.

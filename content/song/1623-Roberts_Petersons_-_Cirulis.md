@@ -6,6 +6,7 @@ categories: ["Roberts Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 G         C                 D
 Lai arī šorīt ir vēja par daudz 

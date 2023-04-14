@@ -6,6 +6,7 @@ categories: ["Juris Strenga"]
 tags: []
 draft: false
 ---
+
 ```text
 Fm          Bb          Cm
 e|--------------------------------------------------------|

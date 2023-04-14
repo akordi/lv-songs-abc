@@ -6,6 +6,7 @@ categories: ["Grafomāns"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Kam man skaistāku dzīvi, [F] ja man ir labi tāpat
 [G] Domas nemaina cilvēki, [C] bet gadi, kā saka

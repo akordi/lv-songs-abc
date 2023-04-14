@@ -6,6 +6,7 @@ categories: ["Uldis Stabulnieks"]
 tags: []
 draft: false
 ---
+
 ```text
 G                        C           G
 Ejot cauri rudzu laukam, ejot cauri rudziem,

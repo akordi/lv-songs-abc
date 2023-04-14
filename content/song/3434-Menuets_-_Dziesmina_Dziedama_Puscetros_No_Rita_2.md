@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
 Am          E7 *
 Paņem sev šo violeto debesi

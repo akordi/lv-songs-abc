@@ -6,6 +6,7 @@ categories: ["Viktors Lapčenoks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atkal rudens un lapas čaukst.
 Jums tās - lapas, man - dvēseles...

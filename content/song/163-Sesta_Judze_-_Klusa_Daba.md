@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 Tu esi(D) tā kā klusā daba,
 Tik mierīga, tik ļoti, ļoti laba(D+7).

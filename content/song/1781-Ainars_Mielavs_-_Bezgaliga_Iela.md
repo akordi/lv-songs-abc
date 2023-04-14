@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Jau esi Tu saņēmies
 Un augstu,augstu uzrāpies,

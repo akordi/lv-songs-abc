@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: []
 draft: false
 ---
+
 ```text
 C# F# G# Bbm Cm D#m
 

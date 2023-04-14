@@ -6,6 +6,7 @@ categories: ["Ieva Akurātere"]
 tags: []
 draft: false
 ---
+
 ```text
 Zeltaini stari slīd,
 Aiz tāla kalna saule spīd,

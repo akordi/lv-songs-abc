@@ -6,6 +6,7 @@ categories: ["Čipsis un Dullais"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm               D             G
    Tu visu dienu sapulcēs, bet es,

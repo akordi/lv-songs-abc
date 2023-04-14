@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 saulains bija rīts kad pirmo reizi tu
 tu teici man ei tu

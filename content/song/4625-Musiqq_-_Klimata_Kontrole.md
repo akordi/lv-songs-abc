@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai klimata kontrole dūc
 Mohito un vieglāk kļūs

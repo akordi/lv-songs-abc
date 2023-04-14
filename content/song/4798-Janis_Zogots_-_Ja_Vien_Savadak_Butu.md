@@ -6,6 +6,7 @@ categories: ["Jānis Žogots"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm
 Ilgi vēros tai tukšās ielās,

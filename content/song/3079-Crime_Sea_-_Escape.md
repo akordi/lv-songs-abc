@@ -6,6 +6,7 @@ categories: ["Crime Sea"]
 tags: ["supernova", "supernova 2017", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Baby, I am so lost in this labyrinth
 I don’t know where is the way out of here

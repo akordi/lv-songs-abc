@@ -6,6 +6,7 @@ categories: ["Vecie draugi"]
 tags: []
 draft: false
 ---
+
 ```text
  Dm
 Rozes viņai izkritīs no rokām,

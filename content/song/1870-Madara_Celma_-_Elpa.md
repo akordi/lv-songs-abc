@@ -6,6 +6,7 @@ categories: ["Madara Celma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu nesmejies, ja dzirdi mani raudam
 Un neaizej, ja sirds man sāpēs kliedz

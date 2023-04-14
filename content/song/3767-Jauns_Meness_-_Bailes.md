@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad tu pie manis nāc un lūpas smaidot man sniedz,
 es redzu svešas acis tev zem plakstiņiem mirdz.

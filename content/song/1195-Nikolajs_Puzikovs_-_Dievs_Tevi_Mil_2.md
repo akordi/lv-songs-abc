@@ -6,6 +6,7 @@ categories: ["Nikolajs Puzikovs"]
 tags: []
 draft: false
 ---
+
 ```text
 [G]Kā tevi[D]sauc, mazā[C]kā tevi[D]sauc
 [G]Tev taču[D]acīs atkal[C]vizbuļu[D]daudz

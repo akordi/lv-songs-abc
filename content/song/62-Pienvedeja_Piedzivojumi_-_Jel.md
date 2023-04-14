@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: []
 draft: false
 ---
+
 ```text
 Em           D           C      
 Klusumā man tuvojas kāds nezināms un draudošs spēks

@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
               Am                   Dm
 1.  Vai jums benzīns būtu, ko man bākā liet

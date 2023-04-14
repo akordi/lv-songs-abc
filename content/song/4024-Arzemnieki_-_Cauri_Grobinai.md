@@ -6,6 +6,7 @@ categories: ["Ārzemnieki"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Daži dzīvo laukos, daži pilsētā.
 Daži pat nekad nav bijuš' Lietuvā.

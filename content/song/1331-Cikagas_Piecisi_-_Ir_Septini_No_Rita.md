@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 C             G          C
 Ir septiņi no rīta Rīgas ielās

@@ -6,6 +6,7 @@ categories: ["Lauris Neilands"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pat ja šodien nepaveiksies mums,
 Vēl jau citas dienas priekšā būs.

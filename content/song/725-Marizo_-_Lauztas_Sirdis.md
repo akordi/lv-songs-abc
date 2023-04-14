@@ -6,6 +6,7 @@ categories: ["Marizo"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:Am F C G
 Pants:Am F C G

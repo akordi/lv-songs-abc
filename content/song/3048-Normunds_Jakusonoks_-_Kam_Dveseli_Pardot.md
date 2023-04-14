@@ -6,6 +6,7 @@ categories: ["Normunds Jakušonoks"]
 tags: []
 draft: false
 ---
+
 ```text
                       Kam dvēseli pārdod.
 Am             Dm       E

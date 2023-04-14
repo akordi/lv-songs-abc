@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Uz jūru straume laivu nes,
 Uz dienvidiem ved putnu ceļš.

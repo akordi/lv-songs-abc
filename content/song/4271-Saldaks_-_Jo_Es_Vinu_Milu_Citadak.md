@@ -6,6 +6,7 @@ categories: ["Saldaks (Andrejs Saldaks)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu mani klejot sauci, kā jūra baltu buru,
 Un kā Tu skūpstīji mani, kad galvā domas gura,

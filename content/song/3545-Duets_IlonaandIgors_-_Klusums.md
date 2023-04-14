@@ -6,6 +6,7 @@ categories: ["Duets Ilona&Igors"]
 tags: []
 draft: false
 ---
+
 ```text
 Fm                             Cm
 Klusums atnācis, es tevi gribu dzirdēt,

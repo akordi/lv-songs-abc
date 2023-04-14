@@ -6,6 +6,7 @@ categories: ["Ilmārs Dzenis"]
 tags: []
 draft: false
 ---
+
 ```text
 E                     F#
 Kad es sestdien gāju kreklus iepirkties,

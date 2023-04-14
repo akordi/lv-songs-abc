@@ -6,6 +6,7 @@ categories: ["Mēs Bauskai"]
 tags: []
 draft: false
 ---
+
 ```text
 INTRO:Dm Am F C G Dm Am F C D 
 Dm           C             Bb

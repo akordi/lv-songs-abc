@@ -6,6 +6,7 @@ categories: ["Bur Mani"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Viegli mani žagi rāva,
 Tālu mani pieminēj,

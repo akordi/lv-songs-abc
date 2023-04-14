@@ -6,6 +6,7 @@ categories: ["Gatis Zotovs"]
 tags: []
 draft: false
 ---
+
 ```text
 1.
      A7                     Bm7

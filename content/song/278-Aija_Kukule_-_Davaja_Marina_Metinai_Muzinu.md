@@ -6,6 +6,7 @@ categories: ["Aija Kukule"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm
 Kad bērnībā, bērnībā

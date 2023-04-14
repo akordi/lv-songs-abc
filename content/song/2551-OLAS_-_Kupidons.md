@@ -6,6 +6,7 @@ categories: ["OLAS"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo:1
 Visu dziesmu var nospēlēt ar trīs akodiem, kuri visu laiku atkārtojas vienā un tajā pašā secībā:

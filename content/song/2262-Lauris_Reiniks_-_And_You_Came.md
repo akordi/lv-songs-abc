@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [Am] When I open up a [F] page of my past
 [G] I find it [Am] blue –

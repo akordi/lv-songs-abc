@@ -6,6 +6,7 @@ categories: ["Knīpas un Knauķi"]
 tags: ["bērnu"]
 draft: false
 ---
+
 ```text
 C D Bm Em Am D
 G               D

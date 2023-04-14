@@ -6,6 +6,7 @@ categories: ["Mārtiņš Grunte"]
 tags: []
 draft: false
 ---
+
 ```text
 [F#m] No rīta ceļos, bet [Bm] Tevis vairs nav
 [C#m] Kā saules lēkts, kas [F#m] pazudis jau

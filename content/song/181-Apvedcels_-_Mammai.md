@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Ar [D]dibenu pliku, Tu [G]skrēji kā [D]Dievs
 Tava mamma Tev netika [G]līdz

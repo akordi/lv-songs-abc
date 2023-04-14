@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Divreiz [Am] spožāk par [G] sauli tu [C] mirdzi,
 [C] Kad pār [Am] mani [G] izmisums [C] krīt.

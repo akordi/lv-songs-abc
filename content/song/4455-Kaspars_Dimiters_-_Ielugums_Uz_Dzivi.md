@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 pa aizaugušu taciņu
 uz upi tevi vedu

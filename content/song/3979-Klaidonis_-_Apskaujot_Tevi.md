@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mainījies, nav nekas
 Vakars tas, te sākās

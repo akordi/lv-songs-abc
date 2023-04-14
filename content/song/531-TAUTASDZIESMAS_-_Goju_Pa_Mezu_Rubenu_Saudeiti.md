@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 C       G
 Goju pa mežu

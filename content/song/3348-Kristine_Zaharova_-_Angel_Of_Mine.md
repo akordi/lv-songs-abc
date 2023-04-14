@@ -6,6 +6,7 @@ categories: ["Kristīne Zaharova"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Each time you leave me here alone
 This is a time of getting caught

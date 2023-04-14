@@ -6,6 +6,7 @@ categories: ["Lily"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Es debesīs [G] paskatījos un [Am] iemīlējos
 [C] Līdzi vējam [G] paskrējos un [Am] iemīlējos

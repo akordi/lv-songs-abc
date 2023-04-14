@@ -6,6 +6,7 @@ categories: ["Žoržs Siksna"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vēja nātre dzeļ asa 
 Un lietus kā izkapts švīkst,

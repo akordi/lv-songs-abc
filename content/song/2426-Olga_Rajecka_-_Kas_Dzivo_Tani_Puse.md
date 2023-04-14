@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 C                                  F  G
 Kas dzīvo tanī pusē, Kur vakarā ir rīts,

@@ -6,6 +6,7 @@ categories: ["Paula Dukure"]
 tags: ["supernova 2016", "supernova", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 All of us have the same goal
 To drive the road that makes us call man pleased

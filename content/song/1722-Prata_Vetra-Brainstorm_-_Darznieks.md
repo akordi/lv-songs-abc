@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 D     F#m  Bm     G   A
 Kā es gribētu būt dārznieks

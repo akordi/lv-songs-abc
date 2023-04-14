@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: []
 draft: false
 ---
+
 ```text
 C              G
 Pasaki man, ko jūti

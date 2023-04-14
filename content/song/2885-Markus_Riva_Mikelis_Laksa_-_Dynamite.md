@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["supernova", "supernova 2017", "eng"]
 draft: false
 ---
+
 ```text
 You are setting fires in my name.
 You invite a moth into the flames.

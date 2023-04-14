@@ -6,6 +6,7 @@ categories: ["Emburgas zēni"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Aizplīv vējā kā ziedlapu sniegi
 Smalka smeldze un neticu vairs

@@ -6,6 +6,7 @@ categories: ["Suvenīrs"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:  D#  Fm  A# D#  X2
 

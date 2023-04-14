@@ -6,6 +6,7 @@ categories: ["Andris Daņiļenko"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
          G                D
 Uz galda glāzē stāv krizantēmas,

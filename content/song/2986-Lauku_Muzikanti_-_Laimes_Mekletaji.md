@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: []
 draft: false
 ---
+
 ```text
 Tā bija [C] diena kad mēs,
 Laivā sēdāmies

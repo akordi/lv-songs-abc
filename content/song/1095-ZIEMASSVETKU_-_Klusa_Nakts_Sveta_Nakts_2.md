@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 [C] Klusa nakts, svēta nakts!
 [G] Visi dus [C] nomodā 

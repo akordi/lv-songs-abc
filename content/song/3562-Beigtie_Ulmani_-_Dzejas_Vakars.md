@@ -6,6 +6,7 @@ categories: ["Beigtie Ulmaņi"]
 tags: []
 draft: false
 ---
+
 ```text
 (1.rindiņa a capella)       F C G
 Lirika ir mūsu stiprā puse

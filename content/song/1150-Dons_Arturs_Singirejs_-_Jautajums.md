@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Ja tu nevari man pateikt
 [G] Kāpēc es uz ceļa stāvu

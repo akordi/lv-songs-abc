@@ -6,6 +6,7 @@ categories: ["Pirmais kurss"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: Eb Cm Gm F
 Eb Cm Gm A7

@@ -6,6 +6,7 @@ categories: ["Biruta Ozoliņa"]
 tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Jumalo, jumalo, jumalo, jumalo.. x12..
 

@@ -6,6 +6,7 @@ categories: ["Amber"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 The sun in the sky is so bright
 When I look into your eyes,

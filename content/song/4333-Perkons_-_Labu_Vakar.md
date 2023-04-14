@@ -6,6 +6,7 @@ categories: ["Pērkons"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Labu vakar, kaut vai pakar
 Sausas egles zarā viņu -

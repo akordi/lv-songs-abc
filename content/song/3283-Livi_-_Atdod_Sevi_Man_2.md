@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm  Gm  Asus  A  Dm
 

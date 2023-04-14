@@ -6,6 +6,7 @@ categories: ["Chilly (Ilva Šeškauska-Štāla)"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads       Gm
 Pants        Gm       Eb       Bb       Bb    } x2

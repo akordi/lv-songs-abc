@@ -6,6 +6,7 @@ categories: ["Mofo"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: D A | D A | D A | G F
 

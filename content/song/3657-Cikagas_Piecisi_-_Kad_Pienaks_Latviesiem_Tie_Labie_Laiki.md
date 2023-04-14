@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
    Dm
 1. Kad pienāks latviešiem tie labie laiki,

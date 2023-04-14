@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads (starpspēles): D A C#m F#m 
                       D A E A

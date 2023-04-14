@@ -6,6 +6,7 @@ categories: ["Jātnieki"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Esmu radīts skarbs bet tas nav mans tēls
 Prieks un laimīgs smaids tād esmu cīnītājs

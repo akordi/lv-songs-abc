@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: []
 draft: false
 ---
+
 ```text
 C         G         F         C
 Pavasarī iestādīju podā bērza mizu,

@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Es redzēju jūriņāi, [D] didam
 [D] Uz akmeņa uguntiņu, [G] didam

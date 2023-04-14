@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [C] Every day I am watching you
 [Am] Every night I am dreaming of you

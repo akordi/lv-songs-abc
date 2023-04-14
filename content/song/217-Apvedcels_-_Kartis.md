@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kāds aizmigs [G]meitenei pie sāniem
 No rīta [C]modīsies jau [G]viens

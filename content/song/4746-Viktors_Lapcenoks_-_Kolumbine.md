@@ -6,6 +6,7 @@ categories: ["Viktors Lapčenoks"]
 tags: []
 draft: false
 ---
+
 ```text
 Kolumbīne, svešas liesmas
 Šonakt tavās acīs mirdz.

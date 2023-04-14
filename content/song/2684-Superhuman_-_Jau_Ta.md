@@ -6,6 +6,7 @@ categories: ["Superhuman"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Veras saules stars tik putekļains
 Lūzis jau

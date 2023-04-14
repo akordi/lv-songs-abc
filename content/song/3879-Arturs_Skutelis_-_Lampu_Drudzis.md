@@ -6,6 +6,7 @@ categories: ["Arturs Skutelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Aleksandrs
 Koncerts sāksies pēc stundas, man nav mundruma,

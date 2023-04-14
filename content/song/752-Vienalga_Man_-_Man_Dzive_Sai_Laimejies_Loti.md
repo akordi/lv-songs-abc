@@ -6,6 +6,7 @@ categories: ["Vienalga man"]
 tags: []
 draft: false
 ---
+
 ```text
 A#                      F
 Man dzīvē šai laimējies ļoti:

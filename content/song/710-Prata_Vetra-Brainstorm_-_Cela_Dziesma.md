@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm                        Em7
 Katru nakti, kad dodamies ceļā,

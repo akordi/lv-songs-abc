@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 [D] Bērīts manis kumeliņš,
 [D] Bērīts manis kumeliņš,

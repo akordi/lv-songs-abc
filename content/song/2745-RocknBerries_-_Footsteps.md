@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Footsteps in my heart 
 You left them walking away from me 

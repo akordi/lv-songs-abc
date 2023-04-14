@@ -6,6 +6,7 @@ categories: ["Carnival Youth"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
    Solo vieglāk izpildīt ar kapodasteru uz ceturtās ladas.
    Solo nemainās visas dziesmas garumā.     

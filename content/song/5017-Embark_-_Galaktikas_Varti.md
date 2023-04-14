@@ -6,6 +6,7 @@ categories: ["Embark"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants
 Bb

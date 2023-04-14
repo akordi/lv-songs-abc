@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo uz 3. ladas. Akordi tiek spēlēti tā pat kā bez capo.
 

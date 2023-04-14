@@ -6,6 +6,7 @@ categories: ["Ilmārs Dzenis"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
             F
 Ak vai, cik žēl, ak vai, cik žēl,

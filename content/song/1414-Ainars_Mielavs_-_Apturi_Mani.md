@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
 A.Mielavs un R.Kalniņa - Bbm (kapo uz 1. ladas)
 L.Priede un J.Šipkēvics - C#m (kapo uz 4. ladas)

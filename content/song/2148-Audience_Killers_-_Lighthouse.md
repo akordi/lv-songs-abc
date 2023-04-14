@@ -6,6 +6,7 @@ categories: ["Audience Killers"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 And [C] I don't know if [F] I can do
 [G] Anything with[C]out you

@@ -6,6 +6,7 @@ categories: ["Madara Grēgere (Madry)"]
 tags: []
 draft: false
 ---
+
 ```text
 G C Em D (visu laiku)
 

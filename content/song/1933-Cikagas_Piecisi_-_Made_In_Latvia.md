@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Pants: A E A - A E A
 Piedziedājums: D A E A 

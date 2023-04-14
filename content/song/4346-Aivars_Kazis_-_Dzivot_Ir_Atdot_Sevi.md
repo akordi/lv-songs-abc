@@ -6,6 +6,7 @@ categories: ["Aivars Kažis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzīvot ir atdot sevi,
 Visu. Bez atlikuma.

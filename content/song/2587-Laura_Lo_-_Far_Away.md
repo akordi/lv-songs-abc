@@ -6,6 +6,7 @@ categories: ["Laura Lo"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [F] I wake up in [C] the midnight 
 It’s [G] so quiet (shhh...) so quiet

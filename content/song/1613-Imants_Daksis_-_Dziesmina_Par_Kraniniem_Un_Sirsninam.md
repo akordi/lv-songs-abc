@@ -6,6 +6,7 @@ categories: ["Imants Daksis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads-F D Am  F Am  D A D A
 

@@ -6,6 +6,7 @@ categories: ["Sieviešu vokālais ansamblis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ar tevi, mīļais draugs, ar tevi vien,
 Ar tevi tīk man kopā būt.

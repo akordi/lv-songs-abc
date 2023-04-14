@@ -6,6 +6,7 @@ categories: ["Otto"]
 tags: []
 draft: false
 ---
+
 ```text
 Atkal rits diena sakusies jau
 Dzirdu solus kas trepes skan klusi

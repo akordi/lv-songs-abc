@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm                 A                             
 Aijā aijaijā aijaijaijaijaijā  2X      

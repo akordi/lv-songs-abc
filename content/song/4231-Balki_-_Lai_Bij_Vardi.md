@@ -6,6 +6,7 @@ categories: ["Baļķi"]
 tags: []
 draft: false
 ---
+
 ```text
 Am
 Lai bij' vārdi kam bij' vārdi,

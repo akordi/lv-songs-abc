@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro Em G
 

@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es aizveru durvis
 Es aizveru durvis ciet.

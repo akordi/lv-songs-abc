@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: ["bez akordiem", "muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Arvien vairāk skriet
 Arvien vairāk ķert

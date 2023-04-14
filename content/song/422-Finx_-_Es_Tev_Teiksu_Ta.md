@@ -6,6 +6,7 @@ categories: ["Finx"]
 tags: []
 draft: false
 ---
+
 ```text
 D                  Bm
 Neliec man sevī klausīties

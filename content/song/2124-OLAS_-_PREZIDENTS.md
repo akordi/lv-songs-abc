@@ -6,6 +6,7 @@ categories: ["OLAS"]
 tags: []
 draft: false
 ---
+
 ```text
 Lab[Am]dien! 
 Mans vārds ir Renārs Zeltiņš, 

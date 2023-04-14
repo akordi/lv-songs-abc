@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: []
 draft: false
 ---
+
 ```text
 F                        G 
 Pilsēta tumst un es arī varu skumt

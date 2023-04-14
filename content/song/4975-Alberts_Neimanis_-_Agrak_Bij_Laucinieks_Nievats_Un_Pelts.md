@@ -6,6 +6,7 @@ categories: ["Alberts Neimanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Agrāk bij' laucinieks nievāts un pelts, nebij' tas direktors godā kas celts
 Nebij' tam fraka, ne cilinders spožs, tik linu bikses pēc mēsliem kas ož

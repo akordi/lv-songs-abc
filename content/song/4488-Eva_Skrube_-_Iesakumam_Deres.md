@@ -6,6 +6,7 @@ categories: ["Eva Skrube"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nav vairs laika mūsu bēdam,
 Vienmēr atceries manus vārdus, 

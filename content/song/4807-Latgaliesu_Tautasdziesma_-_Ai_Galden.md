@@ -6,6 +6,7 @@ categories: ["Latgaliešu tautasdziesma"]
 tags: []
 draft: false
 ---
+
 ```text
    C              G
 1. Ai, gaļdeņ(i), ai, gaļden(i),

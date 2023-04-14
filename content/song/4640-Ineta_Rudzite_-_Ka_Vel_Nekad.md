@@ -6,6 +6,7 @@ categories: ["Ineta Rudzīte"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Veltīgi es tevi gaidīju
 Vasaras saulrietus skaitīju

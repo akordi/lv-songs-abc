@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man alus tik garšo .kad jādodas mums 
 Sveikt Līgas uz Latvijas laukiem

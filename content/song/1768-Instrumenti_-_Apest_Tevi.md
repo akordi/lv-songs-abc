@@ -6,6 +6,7 @@ categories: ["Instrumenti"]
 tags: []
 draft: false
 ---
+
 ```text
 [D] Tu tik [G] skaisti mani [D] mīli
 Un tik [G] slaidi putni [Em] slīd

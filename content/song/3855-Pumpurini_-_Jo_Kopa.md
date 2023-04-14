@@ -6,6 +6,7 @@ categories: ["Pumpuriņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nāc , rādīšu tev brīnumu
 Nāc, stāstīšu tev pasaku

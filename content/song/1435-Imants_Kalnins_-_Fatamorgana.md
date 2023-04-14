@@ -6,6 +6,7 @@ categories: ["Imants Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 E7 Am E7 Am,
 E7 Am E7 Am

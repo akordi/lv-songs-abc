@@ -6,6 +6,7 @@ categories: ["Einārs Vītols"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Sniedziņš [G] krīt mums vis[Em]apkārt [C]
 Bērniem [G] prieki, [C] smiekli [G] skan

@@ -6,6 +6,7 @@ categories: ["Justs Sirmais"]
 tags: ["supernova 2016", "supernova", "eurovision", "eng"]
 draft: false
 ---
+
 ```text
 [Am] I know you told
 So many times

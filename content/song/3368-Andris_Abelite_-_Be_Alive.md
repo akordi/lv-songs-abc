@@ -6,6 +6,7 @@ categories: ["Andris Ābelīte"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 All of those thinks I say today
 Sounds familiar and close

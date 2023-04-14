@@ -6,6 +6,7 @@ categories: ["Hospitāļu iela"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Zaglīgi soļi un kaķis ar tiem vienā ritmā
 Zaglīgi soļi un kaķis ar tiem vienā ritmā

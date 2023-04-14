@@ -6,6 +6,7 @@ categories: ["Chris Noah (Krists Indrišonoks)"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 When city lights turned into shadows
 I found you standing there alone

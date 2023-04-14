@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 Cauri gadiem, kariem un gadsimtiem
 Pretī mīlai un sāpēm un tikumiem,

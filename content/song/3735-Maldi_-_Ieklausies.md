@@ -6,6 +6,7 @@ categories: ["Maldi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ieklausies, maigi dvēselei piekļaujās miers
 Vai tas, ko vēlējies beidzot tiešām piepildīsies

@@ -6,6 +6,7 @@ categories: ["Ēnas"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kāds no mums nav patiess.
 [F] Vai savādāk var būt?

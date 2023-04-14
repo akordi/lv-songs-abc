@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
 Dari kā [Am] es
 Mīli to, kas tu [F] esi

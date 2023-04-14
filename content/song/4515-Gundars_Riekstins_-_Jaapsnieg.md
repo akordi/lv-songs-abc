@@ -6,6 +6,7 @@ categories: ["Gundars Riekstiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzīve tā vai dziesma bija, 
 Sapnis liegs,

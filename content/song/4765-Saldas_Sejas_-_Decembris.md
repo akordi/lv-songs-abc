@@ -6,6 +6,7 @@ categories: ["Saldās sejas"]
 tags: []
 draft: false
 ---
+
 ```text
 (D)Tu saki ka tev tagad skumji es saku ka tā nevar (A)būt
 Mazliet jau tas izklausās dumji, bet tas ir kā sirds mana (D) jūt

@@ -6,6 +6,7 @@ categories: ["Viktors Zemgals"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kad gliemežvāka šalkās [G] ieklausos,
 [G] Tā mirkļa smaržu es vēl [C] atceros.

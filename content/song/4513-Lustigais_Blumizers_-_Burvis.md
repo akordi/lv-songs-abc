@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Burvis pie manām durvīm pieklauvē
 Un jautā, vai negribu iet.

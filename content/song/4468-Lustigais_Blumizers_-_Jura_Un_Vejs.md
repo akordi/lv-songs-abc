@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Ir naktis, kad jūra klusē un skumst,
 Tad viņas dzelmē nemiers tumst.

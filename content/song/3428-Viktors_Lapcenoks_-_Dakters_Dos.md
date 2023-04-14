@@ -6,6 +6,7 @@ categories: ["Viktors Lapčenoks"]
 tags: []
 draft: false
 ---
+
 ```text
                                 D F G
 Lai gulēja, kas gulēja

@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: []
 draft: false
 ---
+
 ```text
 Var jau neticēm tam, ka neviens nevar likteni mainīt
 Un nav nozīmes zīlēt un pusnaktī skatīties spainī

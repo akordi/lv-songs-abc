@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
    F     C7      F  F/A
 1. Katru gad' no jauna

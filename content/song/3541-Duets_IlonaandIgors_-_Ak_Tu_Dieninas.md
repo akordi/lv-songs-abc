@@ -6,6 +6,7 @@ categories: ["Duets Ilona&Igors"]
 tags: []
 draft: false
 ---
+
 ```text
 C 
 Saule gāja savu ceļu - u,u,u,ū

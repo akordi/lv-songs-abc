@@ -6,6 +6,7 @@ categories: ["Borowa MC"]
 tags: []
 draft: false
 ---
+
 ```text
    Gm
 1. Ari Parizis īluos 

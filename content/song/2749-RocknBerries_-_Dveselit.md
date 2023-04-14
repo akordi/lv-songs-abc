@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tukšumā stāvu un ceru, ka kļūs, 
 Tukšumā stāvu un ceru, ka kļūs, 

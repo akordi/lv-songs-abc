@@ -6,6 +6,7 @@ categories: ["Lādezers"]
 tags: []
 draft: false
 ---
+
 ```text
 D     Dsus2         G
 Paņem savas krāsas, mani uzglezno

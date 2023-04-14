@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                     F#
 Katra kustība nozīmē robežu

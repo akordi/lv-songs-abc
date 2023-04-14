@@ -6,6 +6,7 @@ categories: ["Rebeka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lietus dārzs rītā tīts
 pieskāriens nenotrīs

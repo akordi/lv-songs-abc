@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: D     A     Bm   G   Em     A      D
 

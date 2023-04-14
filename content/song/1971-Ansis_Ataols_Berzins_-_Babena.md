@@ -6,6 +6,7 @@ categories: ["Ansis Ataols Bērziņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm         A7     Dm
 Ūšys molā, vacajā solā

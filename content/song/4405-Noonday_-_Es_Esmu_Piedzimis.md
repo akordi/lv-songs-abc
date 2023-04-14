@@ -6,6 +6,7 @@ categories: ["Noonday"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nekad neav bijis viss
 Kā toreiz tajā rudenī.

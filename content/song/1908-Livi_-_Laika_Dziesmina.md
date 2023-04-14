@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["guitar pro"]
 draft: false
 ---
+
 ```text
 Intro: D
 

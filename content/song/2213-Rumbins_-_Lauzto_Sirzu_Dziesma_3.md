@@ -6,6 +6,7 @@ categories: ["Rumbiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Šī vairs nebūs lauzto [F] siržu dziesma [C][G]
 [Am] Sirdī kvēlo mīles[F]tības liesma [C][G]

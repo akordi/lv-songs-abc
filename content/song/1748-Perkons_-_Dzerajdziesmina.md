@@ -6,6 +6,7 @@ categories: ["Pērkons"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ak cik labi
 Ka tu klabi

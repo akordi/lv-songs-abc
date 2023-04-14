@@ -6,6 +6,7 @@ categories: ["Kārlis Būmeisters (Kaža)"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: A/ F#m/E/E/ 2 reizes
 

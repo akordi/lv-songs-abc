@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Gadd9 G Gadd9 Am9 Am Am9 Am
 

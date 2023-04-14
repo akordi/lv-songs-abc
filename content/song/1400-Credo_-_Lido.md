@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Lido! Tev [Em] pasaule plašāka [D] vērsies,  
 [G] Ļaunums būs redzams [Em] un pirtī tas [D] pērsies.

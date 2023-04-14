@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
    D                     G       D
 Ir katrreiz vairāki, kas vienmēr atgriežas,

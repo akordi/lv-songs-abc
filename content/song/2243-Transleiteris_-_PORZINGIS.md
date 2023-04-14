@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: []
 draft: false
 ---
+
 ```text
 Āāā..
 Mani mazie zvaniņi ir ieradušies tavā acu priekšā

@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm
 Gauži raud saulīte 

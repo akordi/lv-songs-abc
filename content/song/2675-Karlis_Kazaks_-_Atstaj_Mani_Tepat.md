@@ -6,6 +6,7 @@ categories: ["Kārlis Kazāks"]
 tags: []
 draft: false
 ---
+
 ```text
 [F] Atstāj [G] mani [Am] tepat
 [F] Un [G] iezīmē [Am] labi

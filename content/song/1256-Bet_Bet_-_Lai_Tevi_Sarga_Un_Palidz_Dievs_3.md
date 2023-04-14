@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 G           C     D        G
 Lai tevi sargā un palīdz Dievs

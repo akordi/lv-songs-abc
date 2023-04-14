@@ -6,6 +6,7 @@ categories: ["Green Novice"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 E
 E 

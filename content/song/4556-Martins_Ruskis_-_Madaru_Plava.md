@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir atnācis jūnijs 
 Ar baltām madarām pļavā.

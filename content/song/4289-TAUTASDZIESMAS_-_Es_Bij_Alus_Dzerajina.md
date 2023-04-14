@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es bij` alus dzērājiņa, 
 To es pati neliedzos`i

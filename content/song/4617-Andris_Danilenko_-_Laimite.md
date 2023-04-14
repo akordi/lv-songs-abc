@@ -6,6 +6,7 @@ categories: ["Andris Daņiļenko"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laime, mana laimīte,
 Kur tu tagad mīti,

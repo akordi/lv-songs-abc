@@ -6,6 +6,7 @@ categories: ["Justs Sirmais"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tēvzeme Latvija tu
 Māte kas sargā un tic

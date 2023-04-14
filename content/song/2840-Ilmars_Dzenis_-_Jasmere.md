@@ -6,6 +6,7 @@ categories: ["Ilmārs Dzenis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ir jauka diena Jūrmalā,
 Un saule tevi cepina,

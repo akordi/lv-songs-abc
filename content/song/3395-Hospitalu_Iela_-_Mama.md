@@ -6,6 +6,7 @@ categories: ["Hospitāļu iela"]
 tags: []
 draft: false
 ---
+
 ```text
 Am              Dm
 Paskaties, vai tiešām 

@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Tuning - Half Step Down (Eb Ab Db Gb Bb Eb)
 [Ievads]

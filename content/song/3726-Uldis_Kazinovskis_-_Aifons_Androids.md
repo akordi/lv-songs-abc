@@ -6,6 +6,7 @@ categories: ["Uldis Kazinovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tev ir tik maza skaista sirds
          Un tavas zilās acis mirdz

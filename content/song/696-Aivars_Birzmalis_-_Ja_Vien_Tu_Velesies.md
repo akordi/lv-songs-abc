@@ -6,6 +6,7 @@ categories: ["Aivars Birzmalis"]
 tags: []
 draft: false
 ---
+
 ```text
 Kad es paskatos uz tevi
 Kad es redzu tevi vien

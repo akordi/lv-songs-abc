@@ -6,6 +6,7 @@ categories: ["Tev tuvumā"]
 tags: []
 draft: false
 ---
+
 ```text
 Eb  Dm  Gm  Cm
 

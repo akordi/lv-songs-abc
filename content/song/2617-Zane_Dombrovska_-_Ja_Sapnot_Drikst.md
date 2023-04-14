@@ -6,6 +6,7 @@ categories: ["Zane Dombrovska"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 Esmu [E] pretīgs, ļauns un briesmīgs
 Mans [A] smīns ir reti riebīgs, 

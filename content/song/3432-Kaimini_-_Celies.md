@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Ir ausis rīts, jau saule deg,
 Nu gluži tā,kā [C7] mana [C] sirds,

@@ -6,6 +6,7 @@ categories: ["Artūrs Rižeščonoks"]
 tags: []
 draft: false
 ---
+
 ```text
 Kungu, Kungs/3x
 Mans J?zu

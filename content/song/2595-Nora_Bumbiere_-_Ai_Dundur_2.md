@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
 Kad [C] bērziem pirmās lapas plauks,
 ai, dun-dur, dun-dur, dun-dun-dur,

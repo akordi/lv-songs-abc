@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ne jau tamdēļ savas dziesmas dziedu,
 Lai es vienreiz varbūt slavens kļūtu,

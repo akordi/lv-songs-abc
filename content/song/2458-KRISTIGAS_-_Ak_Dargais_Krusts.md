@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: []
 draft: false
 ---
+
 ```text
             D                   A
 Ak, dārgais krusts, kur Glābējs mans

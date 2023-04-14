@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es reizēm atrodos dzīvei pa vidu
 Es varbūt esmu ne šur un ne tur 

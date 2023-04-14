@@ -6,6 +6,7 @@ categories: ["Raimonda Vazdika"]
 tags: []
 draft: false
 ---
+
 ```text
 Lai vienkāršāk iesaku akordus bez bare:
  B  C#m 

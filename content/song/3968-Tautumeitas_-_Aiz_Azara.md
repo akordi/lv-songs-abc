@@ -6,6 +6,7 @@ categories: ["Tautumeitas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Aiz azara, da, augsti kolni, da,
 Tī sorkonys, da, ūgas auga, da,

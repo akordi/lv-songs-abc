@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: ["muzikālā banka 2022"]
 draft: false
 ---
+
 ```text
 Db
 Kas tur notiek, tajā pusē

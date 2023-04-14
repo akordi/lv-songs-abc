@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads C G x2
 C                        G

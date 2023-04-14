@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: []
 draft: false
 ---
+
 ```text
      G       C       Dm      C           F      Am      
 Man pienāca kaste ar dažādām sirdīm, ar dažādām sirdīm,

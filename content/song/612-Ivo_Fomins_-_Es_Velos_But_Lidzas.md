@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: []
 draft: false
 ---
+
 ```text
 A                F#m
 Es vienmēr vēlos būt tuvumā

@@ -6,6 +6,7 @@ categories: ["Gandreiž 10nīkā"]
 tags: []
 draft: false
 ---
+
 ```text
 Eža blūzs jeb meža anarhija
 G5, E5(oktāvu augstāk slaidojot)

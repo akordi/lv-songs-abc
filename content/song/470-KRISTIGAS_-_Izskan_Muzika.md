@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 D          A                      Em7
 Izskan mūzika, kad projām paņemts viss,

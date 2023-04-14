@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Daudz gadu pagājis un daudzi vēl stāv priekšā
 Ko nesīs rītdiena , vai maizi galdā sniegs

@@ -6,6 +6,7 @@ categories: ["Fomins un Kleins"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads:  Am Em F Am G F
 

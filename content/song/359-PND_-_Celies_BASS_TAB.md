@@ -6,6 +6,7 @@ categories: ["PND"]
 tags: ["tab", "bass"]
 draft: false
 ---
+
 ```text
 -------------------
 ------------2------

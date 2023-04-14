@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 [Am] Vienā valodā raud visi ļaudis,
 [B] Vienā valodā, valodā tie [E] smej.

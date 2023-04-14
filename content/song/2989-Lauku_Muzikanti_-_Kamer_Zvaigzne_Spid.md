@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 bij vakars samtains krēslā tīts kad mājup devāmies 
 mulsi klusējot tukšajās ielās

@@ -6,6 +6,7 @@ categories: ["Emi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Visapkārt tik daudz naida
 tā vien dara

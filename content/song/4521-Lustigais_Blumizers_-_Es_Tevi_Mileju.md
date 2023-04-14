@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.  Es tevi mīlēju tik nedzirdami klusu,
 Nejūtams tev bij' mans pieskāriens. 

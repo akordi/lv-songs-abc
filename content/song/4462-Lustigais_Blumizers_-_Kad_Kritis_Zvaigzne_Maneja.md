@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Kad kritīs zvaigzne manējā,
 Es iešu prom no mājām.

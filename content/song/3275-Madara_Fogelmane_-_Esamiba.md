@@ -6,6 +6,7 @@ categories: ["Madara Fogelmane"]
 tags: ["supernova", "supernova 2018", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad ielūkojies sevī, savā būtībā
 Atrodi mieru savā esamībā

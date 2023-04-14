@@ -6,6 +6,7 @@ categories: ["Līga Rīdere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Do you feel your mind is racing once again?
 When I say I understand you why.

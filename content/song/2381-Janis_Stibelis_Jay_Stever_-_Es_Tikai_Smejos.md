@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Es zinu, ka mūsu pasaulē ir miljons problē[D]mu,
 Bet zinu, ka Latvijā ir miljons skaistu meite[Em]ņu,

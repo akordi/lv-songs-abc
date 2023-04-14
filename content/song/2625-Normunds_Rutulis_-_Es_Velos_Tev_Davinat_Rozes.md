@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 Es [C] vēlos Tev dāvināt [G] rozes
 Tik baltas kā decembrī [C] sniegs.

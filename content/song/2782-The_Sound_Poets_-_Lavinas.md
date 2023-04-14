@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: []
 draft: false
 ---
+
 ```text
  Atvainojos ja akordi nav precīzās vietās. Ja kads zin labāk, lūgums droši izlabot. Eu tikai iesācējs. :)
 

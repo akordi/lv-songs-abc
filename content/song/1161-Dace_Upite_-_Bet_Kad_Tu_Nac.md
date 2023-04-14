@@ -6,6 +6,7 @@ categories: ["Dace Upīte"]
 tags: []
 draft: false
 ---
+
 ```text
 [G]ar lietu un[A]asarām[Bm]
 [G]tu mani[A]pazudini[Bm]

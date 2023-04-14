@@ -6,6 +6,7 @@ categories: ["Ance Krauze"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm         Bbmaj7       C7            F
 Kūko, kūko dzeguzīte, kūko, cik tev tīk.

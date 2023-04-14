@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mana aizdedze reizēm ir visai lēna
 Mēģinu nokasīt traipu no krekla, bet tā ir tikai ēna

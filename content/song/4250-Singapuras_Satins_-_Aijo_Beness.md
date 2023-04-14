@@ -6,6 +6,7 @@ categories: ["Singapūras Satīns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Singapūras Satīns – Aijo Beness
 

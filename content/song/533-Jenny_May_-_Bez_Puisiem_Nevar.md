@@ -6,6 +6,7 @@ categories: ["Jenny May"]
 tags: []
 draft: false
 ---
+
 ```text
 pants: G | Em | Am | D |
 piedz: G | B C | D | D |

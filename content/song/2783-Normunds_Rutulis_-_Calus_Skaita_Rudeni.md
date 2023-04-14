@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Cāļus skaita rudenī

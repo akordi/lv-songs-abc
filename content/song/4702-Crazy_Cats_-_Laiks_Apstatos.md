@@ -6,6 +6,7 @@ categories: ["Crazy Cats"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja laiks apstātos
 Es ceru ka tu man steigtos klāt.

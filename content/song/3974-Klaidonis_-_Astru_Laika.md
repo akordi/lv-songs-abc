@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: []
 draft: false
 ---
+
 ```text
 G D G
 D A D A

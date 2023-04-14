@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Iedod zaļu zīmulīti,
 man tik zaļi gribas

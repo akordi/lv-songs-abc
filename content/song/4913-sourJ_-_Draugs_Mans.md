@@ -6,6 +6,7 @@ categories: ["$ourJ"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                D                         C
   Es vienmēr esmu bijis tavs draugs, draugs mans

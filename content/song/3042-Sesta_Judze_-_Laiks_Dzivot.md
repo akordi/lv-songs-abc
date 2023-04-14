@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man pietiek šī miera,kas dzen mani izmisumā
 Man pietiek šī prieka,kas rodas no nepateiktā

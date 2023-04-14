@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Baltas debesis kā [Dm7] piens,
 [G] Tikai tu un [C] vairs neviens.

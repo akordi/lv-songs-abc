@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 Arī [Am] tad, ja ne[F]viens šonakt [C] zvaigznes neie[G]degs 
 Palik[Am]sim tepat [F] vien, kamēr [C] ēnas zemi [G] segs

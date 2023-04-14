@@ -6,6 +6,7 @@ categories: ["Andris Skuja"]
 tags: []
 draft: false
 ---
+
 ```text
 Gaidi mani Ventas krastā, gaidi mani, māt,
 Kaujas ceļš vēl tāls bez gala, mūža ilgumā,

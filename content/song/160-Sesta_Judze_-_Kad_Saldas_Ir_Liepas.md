@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 Tas būs[D] mazliet[G] no vasaras,
 Kad smaržos tiko[D] pļautais siens,

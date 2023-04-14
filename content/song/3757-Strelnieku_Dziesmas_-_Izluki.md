@@ -6,6 +6,7 @@ categories: ["Strēlnieku dziesmas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tad, kad tumsa lejup laižas,
 Daba snaudai atdodas,

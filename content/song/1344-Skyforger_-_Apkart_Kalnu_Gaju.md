@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: Dm, Gm, C, Dm (2x)
 

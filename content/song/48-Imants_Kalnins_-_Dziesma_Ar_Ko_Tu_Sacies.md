@@ -6,6 +6,7 @@ categories: ["Imants Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C                 Em
 Dziesma, ar ko tu sācies,

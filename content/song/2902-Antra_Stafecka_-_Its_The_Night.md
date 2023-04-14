@@ -6,6 +6,7 @@ categories: ["Antra Stafecka"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Pull the trigger, come closer to me
 It's the night night

@@ -6,6 +6,7 @@ categories: ["Hameleoni"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Tavas acis [G] sapņu pilnas, manās - rudens [Am] lietus līst,
 [Am] Tavās rokās [G] uzzied ziedi, manās - tavas [Am] rozes vīst.

@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Intro: | G D Em | C D | 4x
 

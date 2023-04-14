@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Debesīs tālu, tālu snieg. [Dm] Itneviens,
 Neviens vēl neapsnieg.

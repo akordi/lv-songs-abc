@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Bbm                           Ab
 Es esmu te, kaut nekad te nav būts

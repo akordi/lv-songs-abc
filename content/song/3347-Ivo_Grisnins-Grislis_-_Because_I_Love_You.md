@@ -6,6 +6,7 @@ categories: ["Ivo Grīsniņš-Grīslis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 If somebody gave me a million, I’d give a second half of it to you
 My mind changes like a chameleon and that’s the way I do

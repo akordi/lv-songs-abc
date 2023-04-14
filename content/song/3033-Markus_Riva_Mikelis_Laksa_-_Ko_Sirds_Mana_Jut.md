@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es zinu Tev nav viegli tā,
 kad esam katrs savā dimensijā,

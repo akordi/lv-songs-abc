@@ -6,6 +6,7 @@ categories: ["Madara Grēgere (Madry)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tas bija tad, tai dienā
 Kad griezos es viss lēnāk tajā dejā

@@ -6,6 +6,7 @@ categories: ["Full House"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Intro
 Am                     F

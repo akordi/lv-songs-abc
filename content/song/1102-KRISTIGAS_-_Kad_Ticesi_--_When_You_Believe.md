@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 |                   Kad ticēsi // When you believe                   |
 | Mirjamas un Ciporas dziesma no animācijas filmas "Ēģiptes Princis" |

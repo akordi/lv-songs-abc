@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lauvas … Lauvas
 Visas zaudējušas galvas

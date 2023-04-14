@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: []
 draft: false
 ---
+
 ```text
 Fm C7
 Fm               C7

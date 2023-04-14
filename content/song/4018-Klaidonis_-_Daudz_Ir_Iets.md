@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Brīves elpu sajust putekļos
 Nav jau sen, bij pavards klāts uz galda

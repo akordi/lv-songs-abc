@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Ja būtu [F] es tik [Dm] slavens tā kā prezi[C]dents,
 [C] Vai būtu [F] man dziesma, [Dm] kuru nodziedāt [C] tev.

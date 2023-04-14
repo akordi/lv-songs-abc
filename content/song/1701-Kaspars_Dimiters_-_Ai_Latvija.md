@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
     A           D          A                  E      A
 Uz lēģeriem mūs komunisti dzina, un varmācīgi ņēmās pārkrievot,

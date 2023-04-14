@@ -6,6 +6,7 @@ categories: ["Zane Dombrovska"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā [D] vēlētos es būt - kā [G] vējš
 Kā [D] vējš, kam tevi apskaut [G] ļauts

@@ -6,6 +6,7 @@ categories: ["Inese Ērmane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.
 Kur gan tik ātri steidzamies mēs

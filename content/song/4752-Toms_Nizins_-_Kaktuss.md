@@ -6,6 +6,7 @@ categories: ["Toms Ņizins"]
 tags: []
 draft: false
 ---
+
 ```text
        C      Cmaj7     F
 Katru rītu es redzu, kā piecelies - labrīt

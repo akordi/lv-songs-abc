@@ -6,6 +6,7 @@ categories: ["Catalepsia"]
 tags: ["supernova 2016", "supernova", "eng"]
 draft: false
 ---
+
 ```text
 [Am] Look through my [F] mind 
 It’s a [C] world of con[E]fusion 

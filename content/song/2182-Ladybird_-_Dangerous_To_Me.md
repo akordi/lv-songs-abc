@@ -6,6 +6,7 @@ categories: ["Ladybird"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [Am] You and me, we can be
 The [C] honey and the [G] bee

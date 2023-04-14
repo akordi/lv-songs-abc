@@ -6,6 +6,7 @@ categories: ["Imants Vanzovičs"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Visa dzīve man viens ceļojums,

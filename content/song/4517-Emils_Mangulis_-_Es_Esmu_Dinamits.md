@@ -6,6 +6,7 @@ categories: ["Emīls Mangulis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es seņča auto aizņemšos un braukšu pie beibes
 Ar mazo randiņa komplektu bagažniekā ik reizes,

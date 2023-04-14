@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants
 Pelēks(A) krīt vakars aiz loga,

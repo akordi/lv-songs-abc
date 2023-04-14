@@ -6,6 +6,7 @@ categories: ["Iļģi"]
 tags: []
 draft: false
 ---
+
 ```text
 Labvakar, rudzu lauks,
 Kā Dieviņš tev līdzēja,

@@ -6,6 +6,7 @@ categories: ["Citi zēni"]
 tags: ["muzikālā banka 2022"]
 draft: false
 ---
+
 ```text
        Abmaj         Dbmaj
 Ja man būtu lieka štuka,

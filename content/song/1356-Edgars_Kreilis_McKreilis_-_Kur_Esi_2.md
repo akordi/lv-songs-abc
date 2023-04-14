@@ -6,6 +6,7 @@ categories: ["Edgars Kreilis (McKreilis)"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro [G Gb Em Gb] 2x
 

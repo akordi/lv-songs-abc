@@ -6,6 +6,7 @@ categories: ["Fēlikss Ķiģelis"]
 tags: []
 draft: false
 ---
+
 ```text
 Am            F
 Sapņi tie vai patiesība

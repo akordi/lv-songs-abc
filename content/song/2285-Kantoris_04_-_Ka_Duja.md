@@ -6,6 +6,7 @@ categories: ["Kantoris 04"]
 tags: []
 draft: false
 ---
+
 ```text
 [G]                [D]
 Pienāk un apstājas laiks

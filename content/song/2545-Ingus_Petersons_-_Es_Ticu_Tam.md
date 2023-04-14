@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 [C][G]
 [G][C]

@@ -6,6 +6,7 @@ categories: ["Imants Skrastiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 G G
 

@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: []
 draft: false
 ---
+
 ```text
 [E]Amsterdamā kādā parkā, 
 [A]Mūsdienīgā ļaužu tracī, ieraudzīju dīķī peldam 

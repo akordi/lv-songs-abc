@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: []
 draft: false
 ---
+
 ```text
 G              D   G                   D
 Kukainītis nepūlas tikt atpakaļ un būt mazs.

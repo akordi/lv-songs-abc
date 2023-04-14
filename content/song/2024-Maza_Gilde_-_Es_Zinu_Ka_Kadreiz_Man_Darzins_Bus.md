@@ -6,6 +6,7 @@ categories: ["Mazā ģilde"]
 tags: []
 draft: false
 ---
+
 ```text
 Es zinu, ka [C] kādreiz man dārziņš [G] būs,
 Kur nevītīs [G] rozes un nesāpēs [C] sirds, 

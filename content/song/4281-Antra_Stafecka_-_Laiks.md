@@ -6,6 +6,7 @@ categories: ["Antra Stafecka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vēja pulksteņi lēni stājas
 Saulei ir uzklāta gulta

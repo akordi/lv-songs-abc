@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: []
 draft: false
 ---
+
 ```text
 Kāpēc tik [C] naiva Tu
 Kāpēc tik tīra kā debess

@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kliedziena attālumā no sirds
 Dzīvo cilvēki un ceļ savas pilis

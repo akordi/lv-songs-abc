@@ -6,6 +6,7 @@ categories: ["B OPTIMIST"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tik skaists ir šis rīts
 Vēl tavas smaržas ir tepat

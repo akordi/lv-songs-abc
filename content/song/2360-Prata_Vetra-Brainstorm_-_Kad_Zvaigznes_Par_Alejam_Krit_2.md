@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
 Gm                                 F    F/A
   Es esmu te, kaut nekad te nav būts

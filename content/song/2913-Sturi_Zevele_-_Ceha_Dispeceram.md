@@ -6,6 +6,7 @@ categories: ["Stūrī Zēvele"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Apvīlē nagus, lai neķeras viņas zeķēs
 Vakars nāk virsū un viņa tev iepretim

@@ -6,6 +6,7 @@ categories: ["Instrumenti"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [Dm] 'till [G] today
 [F] you thought you [C] were looking

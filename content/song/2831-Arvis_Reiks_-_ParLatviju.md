@@ -6,6 +6,7 @@ categories: ["Arvis Reiks"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Akordi atkārtojas visu dziesmu:
 C Em Am F

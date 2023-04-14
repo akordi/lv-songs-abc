@@ -6,6 +6,7 @@ categories: ["Laime Pilnīga"]
 tags: ["supernova", "eng", "bez akordiem", "supernova 2019"]
 draft: false
 ---
+
 ```text
 I remember when
 The dream was over

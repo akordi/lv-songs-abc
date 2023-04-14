@@ -6,6 +6,7 @@ categories: ["Aija Rimša"]
 tags: []
 draft: false
 ---
+
 ```text
 Tu [C] mani sauci starp [F] kļavu rindām,
 Bet [Am] neatsaucos [G] es

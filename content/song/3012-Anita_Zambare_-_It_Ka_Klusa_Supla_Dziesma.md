@@ -6,6 +6,7 @@ categories: ["Anita Zambare"]
 tags: []
 draft: false
 ---
+
 ```text
 [Em] It kā klusa šūpļa [C] dziesma
 [D] Krēslā žūžo sirmi [Em] maiga

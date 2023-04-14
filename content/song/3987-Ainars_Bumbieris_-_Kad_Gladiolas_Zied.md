@@ -6,6 +6,7 @@ categories: ["Ainars Bumbieris"]
 tags: []
 draft: false
 ---
+
 ```text
 “ Kad gladiolas zied ” – Ainārs Bumbieris
 

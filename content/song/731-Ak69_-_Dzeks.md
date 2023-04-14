@@ -6,6 +6,7 @@ categories: ["Ak69"]
 tags: []
 draft: false
 ---
+
 ```text
 A  [0 0 2 2 2 0]
 f# [2 4 4 2 2 2]

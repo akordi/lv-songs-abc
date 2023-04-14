@@ -6,6 +6,7 @@ categories: ["Loco Locals"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: G Am C D
 Piedzied?jums: G Am C D

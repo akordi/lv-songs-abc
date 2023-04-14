@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ar katru dienu biežāk skaļi balsis galvā kliedz
 „Tu taču apzinies ka šobrīd viņu ar rokām neaizsniegt?”

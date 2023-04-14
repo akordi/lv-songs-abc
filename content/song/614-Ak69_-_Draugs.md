@@ -6,6 +6,7 @@ categories: ["Ak69"]
 tags: []
 draft: false
 ---
+
 ```text
 F C Bb
 

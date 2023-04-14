@@ -6,6 +6,7 @@ categories: ["Lādezers"]
 tags: []
 draft: false
 ---
+
 ```text
 D            G
 Cik savādi gaisma krīt

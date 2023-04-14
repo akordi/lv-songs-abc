@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
      G
 Jau ledus zieds tev logā plaukst,

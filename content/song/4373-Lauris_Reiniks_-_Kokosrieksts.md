@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vēji Pūš un smiltis gaisā skrien.Bet es smaidu un gaidu 
 vēl aizvien.Tieši ko,ja saules it kā pietiek man.Un 

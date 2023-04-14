@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Divi vēji klīst
 Uz vaigiem asaras žūst

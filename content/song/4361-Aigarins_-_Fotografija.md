@@ -6,6 +6,7 @@ categories: ["Aigariņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Liekas tas bij` tikai vakar
 Kad es Tevi vārdā uzrunāju

@@ -6,6 +6,7 @@ categories: ["Austra Pumpure"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Pēdējam šakālim aizā

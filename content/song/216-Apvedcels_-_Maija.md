@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am]Kamdēļ man [F]teici, ka [Dm]gaidīsi [E]maijā
 [Am]Kamdēļ man [F]teici, kāds [Dm]esi tāds [E]nāc

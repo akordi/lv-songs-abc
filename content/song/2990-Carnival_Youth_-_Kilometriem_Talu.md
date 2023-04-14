@@ -6,6 +6,7 @@ categories: ["Carnival Youth"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lietus, sniegs un sastrēgumu pulss
 Silti smiekli pasargās mūs

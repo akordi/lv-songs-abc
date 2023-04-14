@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vakar, vēl vakar dejojām šo deju,
 Skurbā deja, tā skan pa logu atvērtu.

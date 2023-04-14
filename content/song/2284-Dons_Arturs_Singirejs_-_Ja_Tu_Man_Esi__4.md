@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 Em                   C         D
 Katra kustība nozīme robežu,

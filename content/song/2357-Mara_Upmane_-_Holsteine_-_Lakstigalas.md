@@ -6,6 +6,7 @@ categories: ["Māra Upmane - Holšteine"]
 tags: []
 draft: false
 ---
+
 ```text
 G Em D
 G Em D

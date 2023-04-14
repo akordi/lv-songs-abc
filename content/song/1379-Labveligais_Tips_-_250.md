@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 C                                G
 siers, ir ielikts mīlas lamatās, siers, 

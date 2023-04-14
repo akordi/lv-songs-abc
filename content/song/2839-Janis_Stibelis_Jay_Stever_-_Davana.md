@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: []
 draft: false
 ---
+
 ```text
 G         D
 Šodien es Tev

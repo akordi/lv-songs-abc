@@ -6,6 +6,7 @@ categories: ["ElektroFolk"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Jāņu nakti lietus lija			
 Trīs lāsītes vien nolija				

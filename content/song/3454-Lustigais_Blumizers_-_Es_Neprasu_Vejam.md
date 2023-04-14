@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kur mīt mani sapņi,ko jūt mana sirds
 kur paliek dvēsele,kad tā mirst,

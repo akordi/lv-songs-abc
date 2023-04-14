@@ -6,6 +6,7 @@ categories: ["Nando"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm C Gm  4x
 

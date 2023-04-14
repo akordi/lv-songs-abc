@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Viensi, divi, trīsi, kur tu viena skriesi,
 Kleitiņā tik īsajā, o – o – o,

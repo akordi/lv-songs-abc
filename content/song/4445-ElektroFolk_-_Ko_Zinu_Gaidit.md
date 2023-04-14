@@ -6,6 +6,7 @@ categories: ["ElektroFolk"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ko zinu gaidīt ko negaidīt		
 Nepūta taures nesūta vēsti

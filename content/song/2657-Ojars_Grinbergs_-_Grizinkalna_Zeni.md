@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm
 Dzīvo Grīziņkalna zēni,

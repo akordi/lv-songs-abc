@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 F                 G         C
 Kurš neko nedara, kurš neko nedara

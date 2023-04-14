@@ -6,6 +6,7 @@ categories: ["The Hobos"]
 tags: []
 draft: false
 ---
+
 ```text
 C      G                 Am                F
 It is simply the sun which shine

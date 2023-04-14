@@ -6,6 +6,7 @@ categories: ["Zodiaks"]
 tags: []
 draft: false
 ---
+
 ```text
 G                  C
 Lejā pie kājām man pilsēta urdz,

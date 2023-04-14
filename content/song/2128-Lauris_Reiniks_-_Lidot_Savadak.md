@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [F] Piena upes [C] debesīs [G] naktis izdzē[Am]sis
 Tu [F] nāc no manis [C] izlūgties

@@ -6,6 +6,7 @@ categories: ["Renārs Kaupers"]
 tags: []
 draft: false
 ---
+
 ```text
 G                 C
 Apaļš ābols bumbierim 

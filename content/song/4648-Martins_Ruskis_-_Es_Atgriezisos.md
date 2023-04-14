@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es atgriezīšos mājās, atgriezīšos,
 Kad zemi balti sniegi pārklājuši būs.

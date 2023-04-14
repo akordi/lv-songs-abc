@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
     F               Bb             F
 Man pagājš'nakt bij tiešām dīvains sapnis,

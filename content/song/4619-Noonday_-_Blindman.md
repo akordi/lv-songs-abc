@@ -6,6 +6,7 @@ categories: ["Noonday"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 (1)
 It's a daylight

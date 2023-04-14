@@ -6,6 +6,7 @@ categories: ["Laika Suns"]
 tags: []
 draft: false
 ---
+
 ```text
 Cerams, ka raksts saprotams!
 

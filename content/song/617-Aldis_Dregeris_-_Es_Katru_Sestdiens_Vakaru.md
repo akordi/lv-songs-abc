@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: []
 draft: false
 ---
+
 ```text
 E
 Es katru sestdien`s vakaru

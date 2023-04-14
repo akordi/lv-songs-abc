@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laiks nav man draugs
 Kas tas par draugu,

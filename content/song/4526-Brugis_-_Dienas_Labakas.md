@@ -6,6 +6,7 @@ categories: ["Bruģis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kaut varētu vēl reizi atgriezt tās
 Tās dienas pašas labākās

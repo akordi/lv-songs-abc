@@ -6,6 +6,7 @@ categories: ["Elvijs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Divas acis kuras sapņo kad neēsi šeit
 divas acis kuras vēro kā mēness beidzas.

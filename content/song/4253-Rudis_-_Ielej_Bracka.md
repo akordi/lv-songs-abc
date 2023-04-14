@@ -6,6 +6,7 @@ categories: ["Rūdis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Hallo, Labrīt
 Vai ir ko rīt un haidut

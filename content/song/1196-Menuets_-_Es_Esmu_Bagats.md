@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
 [C]Es esmu bagāts – man[Dm]pieder[G]viss,[Em]kas ar[Am]mani ir[F]noticis[G].
 

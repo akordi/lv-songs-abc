@@ -6,6 +6,7 @@ categories: ["Laura Raila"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Šajā lietainajā rudens dienā mēs skūpstīsim vēju
 Kas kvēlajām lūpām pāri slīd.

@@ -6,6 +6,7 @@ categories: ["Aminata Savadogo"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Bbm
 Es skrienu nebaidos, paklūpu pieceļos, sabrūku attopos.

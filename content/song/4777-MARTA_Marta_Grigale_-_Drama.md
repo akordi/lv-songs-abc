@@ -6,6 +6,7 @@ categories: ["MARTA (Marta Grigale)"]
 tags: ["bez akordiem", "muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Es nezinu vai tā ir man vaina
 Ka visa dzīve šķien

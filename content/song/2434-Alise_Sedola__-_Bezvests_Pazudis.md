@@ -6,6 +6,7 @@ categories: ["Alise Sedola"]
 tags: []
 draft: false
 ---
+
 ```text
 Bezvests pazudis
 no mājām aizbēdzis

@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
       Am                           C
 Starp mašīnām, motoriem, meitenēm

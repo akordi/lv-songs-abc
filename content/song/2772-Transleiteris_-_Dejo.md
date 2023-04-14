@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 C Am F Am
 

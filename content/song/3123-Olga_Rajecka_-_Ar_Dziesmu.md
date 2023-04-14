@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 D                    G/D
 Debesīs, nu dien, ir vietas daudz.

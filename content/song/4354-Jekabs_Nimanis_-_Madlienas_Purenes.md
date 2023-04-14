@@ -6,6 +6,7 @@ categories: ["Jēkabs Nīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Jau vēstules tev sūtījis bez gala
 Jau tevi gaidījis un skumis es

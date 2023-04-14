@@ -6,6 +6,7 @@ categories: ["Reinis Straume"]
 tags: ["bez akordiem", "supernova 2023"]
 draft: false
 ---
+
 ```text
 [Intro]
 Forgot about the pictures you sent

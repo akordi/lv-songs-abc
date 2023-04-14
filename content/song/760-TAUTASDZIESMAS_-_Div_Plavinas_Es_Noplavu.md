@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 F       F/A   Bb   C4 C  Dm   Bb    C7 F
 Div` pļaviņas es nopļāvu sarkanā(i) āboliņ`,

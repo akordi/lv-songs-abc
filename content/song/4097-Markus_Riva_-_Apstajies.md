@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atkal tālu aizej tu
 Tā lai mani atstātu

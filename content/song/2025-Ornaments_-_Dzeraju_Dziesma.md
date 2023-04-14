@@ -6,6 +6,7 @@ categories: ["Ornaments"]
 tags: []
 draft: false
 ---
+
 ```text
 A                                             D                         A
 Mazu, mazu rasas pili uz magones dārziņā

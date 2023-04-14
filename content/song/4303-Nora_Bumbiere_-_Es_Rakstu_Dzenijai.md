@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
 D#
 Sveika, Dženij! Kā Tev iet? Man iet labi. Vēlos ar Tevi 

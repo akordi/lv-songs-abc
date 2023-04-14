@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 [C] Ohh wooaah, [Am] Ohh wooaah, [F] Ohh wooaah, [G] Ohh wooaah
 

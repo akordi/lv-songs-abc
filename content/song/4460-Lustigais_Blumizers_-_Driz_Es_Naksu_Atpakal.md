@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Piekususi dvēsele un rokas,
 Ilgi jau klusē durvju zvans,

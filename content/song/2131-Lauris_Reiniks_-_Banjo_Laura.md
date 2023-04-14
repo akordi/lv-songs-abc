@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [Am] So she walks in[F]to a bar and talks 
 [C] This and that, nice and slow 

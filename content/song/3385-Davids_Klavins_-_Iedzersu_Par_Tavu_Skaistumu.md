@@ -6,6 +6,7 @@ categories: ["Dāvids Kļaviņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Am          E              F
 Neskaties uz mani tu tik klusi

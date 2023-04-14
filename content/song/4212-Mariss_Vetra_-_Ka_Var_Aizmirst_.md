@@ -6,6 +6,7 @@ categories: ["Mariss Vētra"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Strautiņš, čalodams it naigi,
 Steidzas arvienu, kā nemiera dzīts,

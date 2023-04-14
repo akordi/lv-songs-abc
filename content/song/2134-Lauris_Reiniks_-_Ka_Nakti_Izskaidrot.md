@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 At[Am]kāpjas nakts – un [F] krāsu tik daudz!
 Es [F] stāvu viens pats tik [G] kluss.                         

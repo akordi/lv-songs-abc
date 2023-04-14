@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 Am C F G   2x
 

@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievadā: D A
 

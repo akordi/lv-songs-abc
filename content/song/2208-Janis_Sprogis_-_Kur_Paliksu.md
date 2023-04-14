@@ -6,6 +6,7 @@ categories: ["Jānis Sproģis"]
 tags: []
 draft: false
 ---
+
 ```text
 D           A
 Es palikšu zālē, 

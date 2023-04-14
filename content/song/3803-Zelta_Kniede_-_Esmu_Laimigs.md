@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Veras lauki pretī ceļā tālajā
 Virmo gaiss un mēnesnīcā bālajā

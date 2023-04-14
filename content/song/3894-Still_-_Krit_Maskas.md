@@ -6,6 +6,7 @@ categories: ["Still"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Gaidīšu es tevi upes otrā krastā
 Šeit vienmēr zāle zaļāka

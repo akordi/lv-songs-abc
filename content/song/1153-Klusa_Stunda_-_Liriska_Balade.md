@@ -6,6 +6,7 @@ categories: ["Klusā Stunda"]
 tags: []
 draft: false
 ---
+
 ```text
 [C]Liriskas balādes[Am]skan man pār[G]plecu
 [C]Īstenotas kaut[Am]nav vēl par[G]vecu

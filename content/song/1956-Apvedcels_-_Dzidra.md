@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Vēl tikai [A]vakar es caur pirkstiem skatījos- [F#m]ko gan dari Tu
 Vēl varbūt [A]vienu pašu nelaimi atpakaļ [F#m]tev es piedotu

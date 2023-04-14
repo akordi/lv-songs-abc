@@ -6,6 +6,7 @@ categories: ["Autobuss Debesīs"]
 tags: []
 draft: false
 ---
+
 ```text
 A                                        E
 Man bij` dziesmu, man bij` dziesmu vācelīte

@@ -6,6 +6,7 @@ categories: ["Livingstons"]
 tags: []
 draft: false
 ---
+
 ```text
 intro: C G 4x
        C              G

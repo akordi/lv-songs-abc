@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 G              C                D           G
 Vai tu jūti no sirds uz sirdi, šonakt ejam mēs.

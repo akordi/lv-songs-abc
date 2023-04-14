@@ -6,6 +6,7 @@ categories: ["Edza Niknais"]
 tags: []
 draft: false
 ---
+
 ```text
 C                    Am
 Vienu dienu sēžu savā mājā (nu parasta māja ar logiem un durvīm)

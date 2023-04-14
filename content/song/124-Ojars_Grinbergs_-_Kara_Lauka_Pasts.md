@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 A          D          A
 Ja tu karā kritīsi kā masts

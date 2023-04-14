@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vakars nāk, mani šausmas māc,
 Jo sāksies kārtējā trakā nakts.

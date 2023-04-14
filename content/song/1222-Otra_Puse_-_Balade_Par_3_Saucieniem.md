@@ -6,6 +6,7 @@ categories: ["Otra Puse"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                          A             Em
 Kāds aptur manu soli, liek apgriezties un stāt

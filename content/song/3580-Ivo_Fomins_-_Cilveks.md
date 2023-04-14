@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Capo 3. lada
 Ievads:

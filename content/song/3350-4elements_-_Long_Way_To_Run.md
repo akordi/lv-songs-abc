@@ -6,6 +6,7 @@ categories: ["4-elements"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Who was near me
 To get me over all the fear?

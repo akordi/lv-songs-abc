@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads - A G D Dm 2x
 

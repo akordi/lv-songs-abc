@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Pieklauvē [C] vēl 
 [G] Sirds mana [C] dzird

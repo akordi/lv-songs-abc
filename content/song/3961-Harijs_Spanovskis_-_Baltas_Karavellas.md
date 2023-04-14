@@ -6,6 +6,7 @@ categories: ["Harijs Spanovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Baltās karavelas slīd,
 Pār debess jūru mirdzēdamas iet

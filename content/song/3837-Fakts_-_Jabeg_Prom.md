@@ -6,6 +6,7 @@ categories: ["Fakts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu labi zini to kā mēs to darām un tas nav jautājums 
 bet fakts lietas noved līdz galam un to zin visi ja tu 

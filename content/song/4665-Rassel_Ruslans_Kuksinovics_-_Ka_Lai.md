@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā lai es piemānu sauli
 Tā, lai mēs paliktu jauni

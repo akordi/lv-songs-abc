@@ -6,6 +6,7 @@ categories: ["Harijs Spanovskis"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 [C] Ir tāda zeme, kur stārķi ligzdas vij,
 [Am] Ir tāda zeme, kur kalni lejas min,

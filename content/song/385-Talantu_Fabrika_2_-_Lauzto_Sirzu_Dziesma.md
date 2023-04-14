@@ -6,6 +6,7 @@ categories: ["Talantu Fabrika 2"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro:Am F C G x2
 

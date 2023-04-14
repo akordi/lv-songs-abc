@@ -6,6 +6,7 @@ categories: ["Ugunīgā Gunta"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Labi gan, labi gan, vasarai pa vidu,
 Agrs rīts, vakars vēls, silti naksniņā.

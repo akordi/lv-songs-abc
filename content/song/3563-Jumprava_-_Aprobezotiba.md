@@ -6,6 +6,7 @@ categories: ["Jumprava"]
 tags: []
 draft: false
 ---
+
 ```text
 E           G A
 Viens miets

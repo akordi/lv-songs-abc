@@ -6,6 +6,7 @@ categories: ["Ceļojums"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pār zemi sniega pārslas virpuļo dejā
 Aizsnieg debess jums un paliek viss balts

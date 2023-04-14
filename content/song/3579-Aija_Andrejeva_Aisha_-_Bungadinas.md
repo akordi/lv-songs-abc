@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: ["bez akordiem", "muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Šis nav mīlas stāsts,
 šis ir stāsts par mums

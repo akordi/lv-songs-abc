@@ -6,6 +6,7 @@ categories: ["Bumerangs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad dejas taktī skanēt
 Sāk tango rumba

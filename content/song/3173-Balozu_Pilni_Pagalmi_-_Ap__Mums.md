@@ -6,6 +6,7 @@ categories: ["Baložu Pilni Pagalmi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Raibs tauriņš lidinās, lidinās ap mums.
 Svētdien's vakarā virtuvē ir vaļā logs.

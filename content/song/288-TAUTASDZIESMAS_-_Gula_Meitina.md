@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 C       G    Am         Em
 Gula meitīna līdz brokastīnu,

@@ -6,6 +6,7 @@ categories: ["Tranzīts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Domājam tad, kad jāsajūt.
 Kliedzam - kad jādomā.

@@ -6,6 +6,7 @@ categories: ["Elīna Garanča"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: Bm Bmsus4 A A7 A  A7 ... D D6 D D6        lēnām, kā šūpojoties
 

@@ -6,6 +6,7 @@ categories: ["HAIJIMA (Alise Haijima)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Redzu tikai košas krāsas
 It kā mana dzīve būtu rožu dārzs

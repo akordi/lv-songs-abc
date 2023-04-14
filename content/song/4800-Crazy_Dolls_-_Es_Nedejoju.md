@@ -6,6 +6,7 @@ categories: ["Crazy Dolls"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro - C, C6sus(033210)
 

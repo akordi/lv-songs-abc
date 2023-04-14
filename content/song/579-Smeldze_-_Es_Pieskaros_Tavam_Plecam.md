@@ -6,6 +6,7 @@ categories: ["Smeldze"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: C
 

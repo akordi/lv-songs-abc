@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
 Pants: Am Am Am C
        Dm Am F G

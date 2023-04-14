@@ -6,6 +6,7 @@ categories: ["Latgaliešu tautasdziesma"]
 tags: []
 draft: false
 ---
+
 ```text
 C    G    C     F   C    G    C
 Es nagōju krystabōs sovu mīgu izgulēt,

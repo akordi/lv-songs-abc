@@ -6,6 +6,7 @@ categories: ["Valdis Aivars"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nevajag atkal man solīt neko,
 Nevajag mierināt.

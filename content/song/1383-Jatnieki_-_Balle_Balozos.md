@@ -6,6 +6,7 @@ categories: ["Jātnieki"]
 tags: []
 draft: false
 ---
+
 ```text
     G   
 Kad sapnī jaunā dejā griežos,

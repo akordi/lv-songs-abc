@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Em           A                Bm#
 Kādu dienu es pie galda apsēdos

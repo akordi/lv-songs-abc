@@ -6,6 +6,7 @@ categories: ["Agnese"]
 tags: []
 draft: false
 ---
+
 ```text
 D                Dmaj   G
 Apli aiz apļa iegriežas vējš,

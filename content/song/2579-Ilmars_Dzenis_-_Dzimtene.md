@@ -6,6 +6,7 @@ categories: ["Ilmārs Dzenis"]
 tags: []
 draft: false
 ---
+
 ```text
       Bb        Eb          Bb
 Zemei šai sirds manas ilgas veltī,

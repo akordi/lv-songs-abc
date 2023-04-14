@@ -6,6 +6,7 @@ categories: ["Madara Celma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 [C] Ar lietu [F] dejot, [G] vējā sildī[C]ties,
 [C] caur nakti [F] ticēt, uz [G] rītu paļau[C]ties.

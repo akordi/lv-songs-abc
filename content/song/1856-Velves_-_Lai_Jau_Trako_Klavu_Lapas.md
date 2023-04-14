@@ -6,6 +6,7 @@ categories: ["Velves"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai jau trako kļavu lapas
 Un, kā aizdegušās, svilst,

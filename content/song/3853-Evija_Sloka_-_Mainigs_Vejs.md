@@ -6,6 +6,7 @@ categories: ["Evija Sloka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ne viss ir melns, ne arī balts, kā izskatās
 Teica vīrs, kam kalēja (sāpēja ) sirds

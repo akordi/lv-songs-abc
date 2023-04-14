@@ -6,6 +6,7 @@ categories: ["Aldis Drēģeris"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Jauns un traks tu, puika, esi bijis,
 [F] Lauzdams manu [C] zelta gredzentiņ`

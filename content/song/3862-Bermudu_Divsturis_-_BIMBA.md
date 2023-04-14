@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad liela puika raud
 Asaras tie slauk'

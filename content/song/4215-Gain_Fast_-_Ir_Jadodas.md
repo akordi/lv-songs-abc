@@ -6,6 +6,7 @@ categories: ["Gain Fast"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Simtiem labirintu, pa kuriem staigājot var klupt.
 Sarūk ceļš zem kājām, tas kā ledus sācis kust,

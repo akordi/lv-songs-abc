@@ -6,6 +6,7 @@ categories: ["Mārtiņš Grunte"]
 tags: []
 draft: false
 ---
+
 ```text
 Norit rīta rasā
 Atvadoties mēnesim

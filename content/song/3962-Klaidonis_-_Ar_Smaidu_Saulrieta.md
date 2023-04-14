@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Reiz laimi iezīmēšu es atspulgā aiz zvaigznes,
 Kur negaiss neliesmos un nesnigs sāpīgs sniegs,

@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Okay (Rassell production)
 Nu ir laiks atbrīvoties no ikdienas stresa

@@ -6,6 +6,7 @@ categories: ["Trench Mafia Locco"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es atceros ka tu man savu roku devi
 Gadu atpakaļ tikās mūsu ceļi

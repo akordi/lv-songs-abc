@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
             Eb                      Ab
 Kad Dieviņš iet, mums tiek ievilkts pluss

@@ -6,6 +6,7 @@ categories: ["BĒRNĪBAS MILICIJA"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es esmu mobila atkritumu rūpnīca, 
 Ļoti ieinteresēta savā dizainā. 

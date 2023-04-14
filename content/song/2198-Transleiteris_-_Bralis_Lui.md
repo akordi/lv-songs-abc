@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 [Dm] Dziļi, Mīla deg, kā liesma [C] paliec!
 Un tā uzliesmos vēl bēbi,

@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 INTRO:         AG| GD| DA| AD| GD|
 

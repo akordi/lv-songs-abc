@@ -6,6 +6,7 @@ categories: ["FLORA"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 Ievads: C D G Em C D G
 

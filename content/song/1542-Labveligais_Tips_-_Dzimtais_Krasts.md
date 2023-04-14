@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 G                                      D7
 Jūra teica lai es solu tai, lai es solu tai

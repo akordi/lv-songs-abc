@@ -6,6 +6,7 @@ categories: ["Pionieris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Staigāju savu mietpilsoņu pēdās
 Pie tirgus pazūd cerības bēdās

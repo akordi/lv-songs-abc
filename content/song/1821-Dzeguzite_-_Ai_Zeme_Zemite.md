@@ -6,6 +6,7 @@ categories: ["Dzeguzīte"]
 tags: []
 draft: false
 ---
+
 ```text
           C
 Lai dzīvo zaļā planēta,

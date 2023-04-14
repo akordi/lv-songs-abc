@@ -6,6 +6,7 @@ categories: ["OGHRE"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Melns tēls, Lidoņu ielas dzegā sēž, 
 Saltu tumsu rijot, 

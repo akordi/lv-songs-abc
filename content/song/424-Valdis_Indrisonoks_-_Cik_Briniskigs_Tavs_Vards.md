@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: []
 draft: false
 ---
+
 ```text
 Gmaj7               D    Gmaj7              D    Gmaj7
 Cik brīnišķīgs Tavs Vārds, tas man tik ļoti dārgs,

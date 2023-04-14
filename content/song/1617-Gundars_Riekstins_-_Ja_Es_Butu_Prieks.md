@@ -6,6 +6,7 @@ categories: ["Gundars Riekstiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C          F         G    G7   C  Em
 Ja es būtu rīts, pār Tevi uzaustu – 

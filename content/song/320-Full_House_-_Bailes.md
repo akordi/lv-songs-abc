@@ -6,6 +6,7 @@ categories: ["Full House"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro (played with acoustic guitar)
 	G   C   F   Am   G   C   F(let it ring)

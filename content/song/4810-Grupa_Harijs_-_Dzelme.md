@@ -6,6 +6,7 @@ categories: ["Grupa Harijs"]
 tags: ["patriotiskās", "ziņģes"]
 draft: false
 ---
+
 ```text
 Vējš, ūdens un sāls, 
 Viss saplūst tam kopā,

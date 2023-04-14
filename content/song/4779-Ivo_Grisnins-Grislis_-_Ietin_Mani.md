@@ -6,6 +6,7 @@ categories: ["Ivo Grīsniņš-Grīslis"]
 tags: ["muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Ietin mani, ietin tā
 Kamēr abi divi kā zāles stiebri

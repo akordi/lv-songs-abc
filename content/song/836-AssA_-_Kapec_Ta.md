@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Fm#                           E
 Īsa bij' nakts un jautra bij' tā

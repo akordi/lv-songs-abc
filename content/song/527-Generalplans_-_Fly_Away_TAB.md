@@ -6,6 +6,7 @@ categories: ["Ģenerālplāns"]
 tags: ["tab", "eng"]
 draft: false
 ---
+
 ```text
 Pants/ievads
 _____________________

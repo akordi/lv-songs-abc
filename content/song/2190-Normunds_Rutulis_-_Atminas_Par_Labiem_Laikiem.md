@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kad es esmu pavasaros savās mājās viens
 [C] Tad es atceros cik silts bij mātes pieskāriens

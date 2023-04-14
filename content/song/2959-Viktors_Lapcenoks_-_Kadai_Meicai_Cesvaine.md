@@ -6,6 +6,7 @@ categories: ["Viktors Lapčenoks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Gaišos ziedus vasara vējos iebūrusi,
 Lai tie visi šūpotos tik uz tavu pusi.

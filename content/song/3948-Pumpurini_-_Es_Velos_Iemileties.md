@@ -6,6 +6,7 @@ categories: ["Pumpuriņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es vēlos iemīlēties
 un skaties punktu izvelēties.

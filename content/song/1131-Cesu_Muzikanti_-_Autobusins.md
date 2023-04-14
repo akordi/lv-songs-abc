@@ -6,6 +6,7 @@ categories: ["Cēsu Muzikanti"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro A   Fm    2x
 

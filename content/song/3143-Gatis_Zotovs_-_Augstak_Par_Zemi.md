@@ -6,6 +6,7 @@ categories: ["Gatis Zotovs"]
 tags: []
 draft: false
 ---
+
 ```text
 INTRO A F D A 4x
 1.

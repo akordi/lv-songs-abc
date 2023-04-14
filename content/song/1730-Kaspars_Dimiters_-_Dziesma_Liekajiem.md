@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es dziedu un eju un izeju nabagiem 
 Viņiem nav nekā - uz trijiem viena aura

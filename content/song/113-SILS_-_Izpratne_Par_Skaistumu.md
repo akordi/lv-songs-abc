@@ -6,6 +6,7 @@ categories: ["S-I-L-S-"]
 tags: []
 draft: false
 ---
+
 ```text
 Am
 Tu domā viss ir pazudis manī?      

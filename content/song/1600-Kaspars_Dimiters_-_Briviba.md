@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: []
 draft: false
 ---
+
 ```text
 Iespēle  C G Am F
 

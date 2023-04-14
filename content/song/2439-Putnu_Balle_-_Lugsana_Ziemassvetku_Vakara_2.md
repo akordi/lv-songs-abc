@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 C            Am      C
 Uzliec savas vieglās rokas

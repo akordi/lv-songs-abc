@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 vari savus sapņus noslēpt azotē
 tu redzi manas bailes tikai iztālēm

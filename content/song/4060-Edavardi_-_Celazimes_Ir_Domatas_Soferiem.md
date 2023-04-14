@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es tikai eju un es nezinu kur
 Moš’ uz tavu ielu, ceru, ka vēl nelija tur

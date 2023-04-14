@@ -6,6 +6,7 @@ categories: ["Pionieris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu tā rūdies izej caur sūdiem
 Tad jūties it kā būtu

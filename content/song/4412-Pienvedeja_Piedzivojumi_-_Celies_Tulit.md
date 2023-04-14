@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Apaļais galds,
 Ņirboši balts,

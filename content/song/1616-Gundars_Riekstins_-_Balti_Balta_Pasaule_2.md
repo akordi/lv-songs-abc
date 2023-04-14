@@ -6,6 +6,7 @@ categories: ["Gundars Riekstiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C           G
 Balti baltā pasaulē,

@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Māt, atkal logā zvaigznes [G] liesmo,
 [G] Māt, atkal logā pelēks [C] vakars blāv.

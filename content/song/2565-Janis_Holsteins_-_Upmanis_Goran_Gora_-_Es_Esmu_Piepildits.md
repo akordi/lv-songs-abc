@@ -6,6 +6,7 @@ categories: ["Jānis Holšteins - Upmanis (Goran gora)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 aiz loga jūra ir atkal dzīva
 tā nenorimsies līdz svīdīs rīts

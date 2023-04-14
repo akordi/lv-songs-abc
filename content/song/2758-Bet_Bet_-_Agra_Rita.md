@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 D A D
 D

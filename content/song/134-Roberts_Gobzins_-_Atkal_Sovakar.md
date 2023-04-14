@@ -6,6 +6,7 @@ categories: ["Roberts Gobziņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C                             Am
 Atkal šovakar vientulība neaizskar,

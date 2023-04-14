@@ -6,6 +6,7 @@ categories: ["Dārdi"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm    F        C       G
 Pacel skatu uz austošo Sauli

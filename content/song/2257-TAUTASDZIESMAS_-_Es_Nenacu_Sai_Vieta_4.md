@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Es nenācu šai vietāi [F] Savu miegu izgulēti,
 [C] Es nenācu šai vietāi [G] Savu miegu izgulēti,

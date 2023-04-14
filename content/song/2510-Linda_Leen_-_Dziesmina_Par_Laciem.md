@@ -6,6 +6,7 @@ categories: ["Linda Leen"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 [Am] Ziemeļos vēji [Dm] asi,
 [E] Asaras acīs [Am] rieš.

@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
   Es esmu tev [Am] dzīslās
   No rīta līdz [F] rītam

@@ -6,6 +6,7 @@ categories: ["Singapūras Satīns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Piedz. x2
 Šī ir dziesma, lai es neapstātos,

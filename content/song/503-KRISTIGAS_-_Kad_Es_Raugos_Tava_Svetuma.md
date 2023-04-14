@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
        C           Cmaj7   F
 Kad es raugos Tavā svētu - mā,

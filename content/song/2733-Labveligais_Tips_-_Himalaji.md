@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: []
 draft: false
 ---
+
 ```text
 Kapo uz 1. ladas. Akordi attiecīgi pret kapo.
 Ievads: A F#m x4

@@ -6,6 +6,7 @@ categories: ["Einārs Vītols"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es zinu Meiteni, tai mūzika tīk
 Un dejas, šķiet, nekad neapnīk

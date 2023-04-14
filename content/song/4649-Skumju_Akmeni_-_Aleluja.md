@@ -6,6 +6,7 @@ categories: ["Skumju akmeņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 steigai īsi soļi, tāpēc nesteidzos.
 klusumam savs ritms, ieklausos sirdspukstos.

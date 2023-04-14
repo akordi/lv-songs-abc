@@ -6,6 +6,7 @@ categories: ["Artūrs Hatti"]
 tags: ["bez akordiem", "supernova 2023"]
 draft: false
 ---
+
 ```text
 [Intro]
 Eo, I said eo

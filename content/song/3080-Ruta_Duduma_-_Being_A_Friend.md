@@ -6,6 +6,7 @@ categories: ["Rūta Dūduma"]
 tags: ["supernova 2016", "supernova", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Pieces falling
 That hold us together

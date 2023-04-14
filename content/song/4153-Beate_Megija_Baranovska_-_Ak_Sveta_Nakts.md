@@ -6,6 +6,7 @@ categories: ["Beate Megija Baranovska"]
 tags: []
 draft: false
 ---
+
 ```text
 Bb                  Eb              Bb
 Ak,svētā nakts!Viss zvaigžņu gaismā mirgo 

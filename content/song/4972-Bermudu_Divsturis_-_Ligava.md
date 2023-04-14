@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: ["muzikālā banka 2022"]
 draft: false
 ---
+
 ```text
 Am
 Tu būsi mana, tu būsi mana - līgava, mana sieva

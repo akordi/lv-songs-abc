@@ -6,6 +6,7 @@ categories: ["Meža Sanitāri"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo 3    Intro:  C C G G Am Am F F
 

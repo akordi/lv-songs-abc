@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 A2              F#m7(11)
 Ķēniņš diženais, ietērpts godibā

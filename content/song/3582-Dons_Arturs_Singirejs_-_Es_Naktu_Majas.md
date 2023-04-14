@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Am 
 Es biju ilgi prom

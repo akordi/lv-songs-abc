@@ -6,6 +6,7 @@ categories: ["Arturs Skutelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Iedod savu mīlestību, iedod man to, un mēs būsim kviti.
 Aija, Tavi “jā” un “nē” ir dvīņi Siāmas vai burvju 

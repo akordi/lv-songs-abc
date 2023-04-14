@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Klāt jauna diena, yeah
 Un problēmas man nav nevienas, yeah

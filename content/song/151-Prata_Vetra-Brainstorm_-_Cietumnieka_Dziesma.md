@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 [C]Nebaidies no cietu[G]miem,
 [G]Droši dodies iekšā,

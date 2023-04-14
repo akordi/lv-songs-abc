@@ -6,6 +6,7 @@ categories: ["Galaktika"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāpēc tik nežēlīgs ir laiks
 Un atstāj Tavas pēdas

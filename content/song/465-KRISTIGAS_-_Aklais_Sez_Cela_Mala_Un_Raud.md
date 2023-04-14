@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 Am     G        F       E
 Aklais sēž ceļa malā un raud     x3

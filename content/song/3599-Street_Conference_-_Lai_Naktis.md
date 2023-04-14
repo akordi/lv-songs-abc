@@ -6,6 +6,7 @@ categories: ["Street Conference"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Un manas vienīgās dienas
 tiek aizmirstas rītos,

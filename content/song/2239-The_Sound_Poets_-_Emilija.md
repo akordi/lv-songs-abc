@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: []
 draft: false
 ---
+
 ```text
 [A] Man šķiet, ka nu
 Tveru [D] katru brīdi, 

@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: []
 draft: false
 ---
+
 ```text
 C   Dm            F          G
 tu savus spārnus nekad nesakļauj

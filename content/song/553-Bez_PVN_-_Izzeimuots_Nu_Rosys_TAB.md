@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["tab", "latgaliski"]
 draft: false
 ---
+
 ```text
 Ievads un pants.(cik reiz katrs jāspēlē,klausās dziesmā un ritmu arī)
 

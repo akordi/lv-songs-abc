@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atnāc tu uz manām trepēm, atnāc nesacīt neko.
 Atnāc paklusēt uz mirkli, ļaut lai putni aizlido.

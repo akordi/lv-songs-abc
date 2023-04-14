@@ -6,6 +6,7 @@ categories: ["Re:public"]
 tags: []
 draft: false
 ---
+
 ```text
 E	X76454		C#m	046654
 G#7	464544		G	355433

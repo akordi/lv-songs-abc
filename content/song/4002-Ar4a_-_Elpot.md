@@ -6,6 +6,7 @@ categories: ["Ar4a"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vienmēr, kad dzirdu es tavu balsi,
 uzreiz gribu ar tevi dejot valsi, 

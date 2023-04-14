@@ -6,6 +6,7 @@ categories: ["Inga un Normunds"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Klusā nova[G]karē,
 Es zinu, tu atnākt [C] vari

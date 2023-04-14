@@ -6,6 +6,7 @@ categories: ["Re:public"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Krīt nakts
 Nomodā

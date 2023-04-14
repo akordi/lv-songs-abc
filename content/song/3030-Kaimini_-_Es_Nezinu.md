@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es nezinu ar kādiem vārdiem Tevi uzrunāt,
 un nezinu vai vispār es pie Tevis drīkstu nākt,

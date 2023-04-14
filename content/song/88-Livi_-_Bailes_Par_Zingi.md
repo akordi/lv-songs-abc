@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
      G      
 Man bail, ka viss bruģis

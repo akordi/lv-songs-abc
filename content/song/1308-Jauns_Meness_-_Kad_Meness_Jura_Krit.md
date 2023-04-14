@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: []
 draft: false
 ---
+
 ```text
 G                    
 Trīsreiz spers zibens šonakt,

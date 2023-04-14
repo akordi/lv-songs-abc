@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 G           C     D        G
 Lai tevi sargā un palīdz Dievs

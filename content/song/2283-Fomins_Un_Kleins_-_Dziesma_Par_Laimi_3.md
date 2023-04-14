@@ -6,6 +6,7 @@ categories: ["Fomins un Kleins"]
 tags: ["eurovision"]
 draft: false
 ---
+
 ```text
 C#m akords: 
 E------X--------------------

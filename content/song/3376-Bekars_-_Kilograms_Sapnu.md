@@ -6,6 +6,7 @@ categories: ["Bekars"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: C G D/F#
 

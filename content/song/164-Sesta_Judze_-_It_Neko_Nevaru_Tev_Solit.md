@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: []
 draft: false
 ---
+
 ```text
 It neko(F) es nevaru tev solīt,
 Raibi kails(Bb) un izģērbies mans mūžs(F),

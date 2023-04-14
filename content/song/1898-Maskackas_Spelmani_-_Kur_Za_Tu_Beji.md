@@ -6,6 +6,7 @@ categories: ["Maskačkas spēlmaņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kur ža tu beji
 Mikeleiti munu?

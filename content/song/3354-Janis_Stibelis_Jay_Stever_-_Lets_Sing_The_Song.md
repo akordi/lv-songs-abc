@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Some people don’t understand
 Why they always feel so sad

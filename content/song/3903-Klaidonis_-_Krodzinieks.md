@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tāpat kā sendienās arī mūsdienās
 Rit dzīve krogā

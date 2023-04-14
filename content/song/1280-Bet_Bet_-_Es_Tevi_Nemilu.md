@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 G          G6      C            C G
  Es zinu - tuvākas man nevienas nav,

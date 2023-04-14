@@ -6,6 +6,7 @@ categories: ["Fomins un Kleins"]
 tags: ["eurovision"]
 draft: false
 ---
+
 ```text
 Cadd11 (0 3 2 0 1 1) 
 

@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 F               Am
 Kā akmens tavi plaksti guļ 

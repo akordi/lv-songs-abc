@@ -6,6 +6,7 @@ categories: ["Kristīne Zaharova"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Naktīs, kad laiks
 Uz [G] brīdi grib stāt

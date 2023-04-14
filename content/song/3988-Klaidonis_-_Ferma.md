@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Stallī bē , stallī mū , stallī kikerikukerigū
 Katrs lopiņš rauj meldiņu

@@ -6,6 +6,7 @@ categories: ["FLORA"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad ejam pa ielu, mums pretī nāk ļaudis
 Tiem izbrīnā ieplešas skats

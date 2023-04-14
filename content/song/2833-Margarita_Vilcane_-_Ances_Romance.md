@@ -6,6 +6,7 @@ categories: ["Margarita Vilcāne"]
 tags: []
 draft: false
 ---
+
 ```text
 [Em] Kā vientulīgi vēji kauc,
 [Am] tā vilki [Em] kauc,

@@ -6,6 +6,7 @@ categories: ["Antra Stafecka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja atcerēsies manu vārdu,
 Tu nosauc to un atkārto.

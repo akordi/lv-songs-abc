@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 [D] Aiz ezera augsti [Dsus2] kal[D]ni,
 [D] Tur sarkanas ogas [Dsus2] au[D]ga.

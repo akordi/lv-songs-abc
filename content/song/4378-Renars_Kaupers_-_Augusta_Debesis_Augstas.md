@@ -6,6 +6,7 @@ categories: ["Renārs Kaupers"]
 tags: []
 draft: false
 ---
+
 ```text
 Db
 Augusta debesīs augstās

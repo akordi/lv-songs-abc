@@ -6,6 +6,7 @@ categories: ["Z-Scars"]
 tags: []
 draft: false
 ---
+
 ```text
 Tu man parādi to ka mēs nedomājam vienādi
 Tev viss vienkārši tad kad es vēlos lai pastāsti

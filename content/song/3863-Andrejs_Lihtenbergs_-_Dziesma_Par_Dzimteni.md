@@ -6,6 +6,7 @@ categories: ["Andrejs Lihtenbergs"]
 tags: ["kinofilmas", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Varen plaša mana zeme dzimtā,
 Lauki, meži, saules staru plīvs.

@@ -6,6 +6,7 @@ categories: ["Jēkabs Nīmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 Es nevaru aizmigt,

@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 F#m                   B#m
 Jaungada nakts šajā naktī lai priecīgs jums prāts

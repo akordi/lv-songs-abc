@@ -6,6 +6,7 @@ categories: ["The Mundane"]
 tags: []
 draft: false
 ---
+
 ```text
 intro: E  B F# A F#m A E
 B    F#m      A    

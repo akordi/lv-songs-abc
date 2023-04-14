@@ -6,6 +6,7 @@ categories: ["NoAgents"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pamodos no rīta smaidīju.
 Pamodos un atkal gaidīju. 

@@ -6,6 +6,7 @@ categories: ["Sarkanais Oktobris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Viņa skrēja gar sētām un dziestošiem ugunskuriem
 Cilvēki nesaprata

@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 C            G           D
 Saliec kaudzē manas mantas

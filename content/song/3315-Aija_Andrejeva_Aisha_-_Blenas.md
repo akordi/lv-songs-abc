@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: ["muzikālā banka 2018"]
 draft: false
 ---
+
 ```text
  Am G F G C G F
  

@@ -6,6 +6,7 @@ categories: ["The Afternoon"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: C G Am F G
 

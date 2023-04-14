@@ -6,6 +6,7 @@ categories: ["Sīpoli"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 kliedz mana tauta locies 
 tavās rētās 

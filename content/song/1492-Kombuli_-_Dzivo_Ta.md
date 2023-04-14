@@ -6,6 +6,7 @@ categories: ["Kombuļi"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Pa-pa-pa-mazītēm 

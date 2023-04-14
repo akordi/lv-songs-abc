@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [E][H][E][H]
 Kad es satiku viņu, tas nebija pērkons no skaidrām debesīm, ne arī zemestrīce 8 balles pēc Rihtera skalas, un droši vien es būtu pagājis viņai garām pat neatskatījies, bet..

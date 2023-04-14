@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["bez akordiem", "muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Saule riet, bet nenoriet
 Rīga mieg, bet neaizmiedz 

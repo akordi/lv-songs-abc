@@ -6,6 +6,7 @@ categories: ["Gvido Linga"]
 tags: []
 draft: false
 ---
+
 ```text
 1.
 Vai kāds atceras dziesmu

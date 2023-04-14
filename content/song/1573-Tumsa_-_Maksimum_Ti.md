@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo uz 1 ladas. (akrodi relatīvi pret capo)
 

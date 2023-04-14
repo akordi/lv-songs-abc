@@ -6,6 +6,7 @@ categories: ["Helmuts Feldmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Bez jums es nebūtu pat ēna,
 Pat gaisma blāva, kura dziest,

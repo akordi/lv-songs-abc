@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 E|---------------|
 B|---------------|

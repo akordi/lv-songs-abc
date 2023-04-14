@@ -6,6 +6,7 @@ categories: ["Evelīna Krama"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atminos es tevi tādu - basām kājām zālē stāvot,
 Saucot: "Nāc man palīgā!"

@@ -6,6 +6,7 @@ categories: ["Inga un Normunds"]
 tags: []
 draft: false
 ---
+
 ```text
 B         F#
 Klusā novakarē,

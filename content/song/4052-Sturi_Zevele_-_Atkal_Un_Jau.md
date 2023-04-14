@@ -6,6 +6,7 @@ categories: ["Stūrī Zēvele"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tev nav vārda,
 bet lāgiem

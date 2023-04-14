@@ -6,6 +6,7 @@ categories: ["Grafomāns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tas ir tā, kā spēlēt ģitāru bez stīgām
 Zinot, ka Tu centies, bet nesanāk.

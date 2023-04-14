@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kur Gauja apmet loku 
 Un lokās līkumos,

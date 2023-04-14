@@ -6,6 +6,7 @@ categories: ["Imants Kalniņš"]
 tags: ["kinofilmas"]
 draft: false
 ---
+
 ```text
 Ievads:
 E---------------5-----10-10--8-10-8--8-----5-|

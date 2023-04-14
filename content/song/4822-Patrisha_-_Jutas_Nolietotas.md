@@ -6,6 +6,7 @@ categories: ["Patrisha"]
 tags: []
 draft: false
 ---
+
 ```text
  G#m                        B
 Es atkal visu nakti domās, pārdomāšu daudz

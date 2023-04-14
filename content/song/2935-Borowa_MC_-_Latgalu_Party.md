@@ -6,6 +6,7 @@ categories: ["Borowa MC"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Latgale – vysi rūkys augšā
 Paceļit, lai redz, ka party šudiņ te! x3

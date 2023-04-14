@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es piedzimu savādāk	
 

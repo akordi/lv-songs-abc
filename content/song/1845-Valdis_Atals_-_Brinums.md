@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Brīnums pateikts puķes mūžā
 Ej un puķi izdibini

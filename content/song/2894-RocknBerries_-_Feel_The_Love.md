@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["supernova", "supernova 2017", "eng"]
 draft: false
 ---
+
 ```text
 I’m trying to clear the shades behind us
 I search for way to own your trust

@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm#                 A         Em          A
 Šajā karstajā vasarā man ir bezmiega naktis

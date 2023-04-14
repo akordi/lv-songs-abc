@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Beidzot brīvs, neviens vairs mani netraucēs
 Kaut tūlīt, ej labāku sev sameklē 

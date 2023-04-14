@@ -6,6 +6,7 @@ categories: ["Mad show boys"]
 tags: []
 draft: false
 ---
+
 ```text
 Am       F     G            Am
 Jau rīta agrumā pūš ziemeļu vēji,

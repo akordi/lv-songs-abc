@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Mazliet par daudz man tavu vārdu,
 Mazliet par maz man tavas sirds.

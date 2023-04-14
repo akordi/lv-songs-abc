@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: []
 draft: false
 ---
+
 ```text
 Lai līst
 Valdis Indrišonoks

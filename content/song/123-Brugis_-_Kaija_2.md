@@ -6,6 +6,7 @@ categories: ["Bruģis"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 F
 Nometās uz manām balkona margām

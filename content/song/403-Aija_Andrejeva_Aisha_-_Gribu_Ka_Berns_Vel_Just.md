@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 G D C G
 Kāds klusi pieklauvē pie durvīm kas ciet

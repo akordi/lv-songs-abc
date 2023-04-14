@@ -6,6 +6,7 @@ categories: ["Sīpoli"]
 tags: []
 draft: false
 ---
+
 ```text
       Am                       Em    (B7)       (Em)Am
 Kamēr tu šo spēli spēlē, kamēr tu šo dzīvi spēlē vien,

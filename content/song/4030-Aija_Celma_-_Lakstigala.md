@@ -6,6 +6,7 @@ categories: ["Aija Celma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vai lakstīgalai, kurai lidot tīk
 Un dziedāt - vai tas atņems kāds to rīt?                           

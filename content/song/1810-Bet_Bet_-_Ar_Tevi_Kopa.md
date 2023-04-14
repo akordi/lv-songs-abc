@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 E              B        
 Es vēlos tikai pavisam nedaudz,

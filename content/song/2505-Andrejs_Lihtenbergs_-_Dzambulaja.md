@@ -6,6 +6,7 @@ categories: ["Andrejs Lihtenbergs"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 Sveiki, [C] draugs!
 Jauki bij mums toreiz [G] maijā

@@ -6,6 +6,7 @@ categories: ["Miks Dukurs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pilsētu ielās skan jaunatnes smiekli,
 Tie saudz tevi līdz un aicina meklēt.

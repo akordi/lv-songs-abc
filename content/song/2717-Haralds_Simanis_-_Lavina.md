@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads - C,E,Am,F,
          C,E,Am,G (x2)

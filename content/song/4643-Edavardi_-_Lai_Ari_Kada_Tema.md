@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tagad, kad šo rakstu, man viss kārtībā
 Kaut mans dzīves ceļš ir kā trips Āfrikā

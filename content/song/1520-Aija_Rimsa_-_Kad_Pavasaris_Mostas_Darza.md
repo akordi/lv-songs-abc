@@ -6,6 +6,7 @@ categories: ["Aija Rimša"]
 tags: []
 draft: false
 ---
+
 ```text
 A             E	     A
 Pavasaris kad ābelēs dus

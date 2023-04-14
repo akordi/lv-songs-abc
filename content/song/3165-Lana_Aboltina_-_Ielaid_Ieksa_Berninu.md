@@ -6,6 +6,7 @@ categories: ["Lana Āboltiņa"]
 tags: []
 draft: false
 ---
+
 ```text
 G       C          Em    D
 Klusa nakts, pāri zemei gaisma slīd

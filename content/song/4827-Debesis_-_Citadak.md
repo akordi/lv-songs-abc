@@ -6,6 +6,7 @@ categories: ["Debesis"]
 tags: []
 draft: false
 ---
+
 ```text
 Nu kā, paga, kāpēc tu man tagad atkal neļauj? Kas tas ir tagad?
 Man ir apnicis klausīties tās tavas visas runas un aizvainojumus.

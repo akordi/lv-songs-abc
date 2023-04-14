@@ -6,6 +6,7 @@ categories: ["Jenny May"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Šī diena jaunus spēkus sēs.Ar svētku dziesmām saulē 
 lēks.Un tikai tie kas neticēs,lai meklē laimi papardēs 

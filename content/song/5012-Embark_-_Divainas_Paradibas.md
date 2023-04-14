@@ -6,6 +6,7 @@ categories: ["Embark"]
 tags: []
 draft: false
 ---
+
 ```text
 Cm7 Cm7 | F F | Eb Eb | Gm D | 2x
 

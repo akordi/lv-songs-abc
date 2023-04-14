@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kam ceļu [D]pajautāt, kad [A]apmaldījies [G]gāju pats nezinu [A]kur
 

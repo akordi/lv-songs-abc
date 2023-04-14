@@ -6,6 +6,7 @@ categories: ["Latgaliešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vysu dīnu Jumi jiemu
 Pa lelūi teirumeņu.

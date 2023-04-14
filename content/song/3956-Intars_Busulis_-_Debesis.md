@@ -6,6 +6,7 @@ categories: ["Intars Busulis"]
 tags: []
 draft: false
 ---
+
 ```text
 Am             C            Fmaj7
 Debesis vakara gaisu, gaisu rija

@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā rietoša saule 
 Ir lūgšana manējā

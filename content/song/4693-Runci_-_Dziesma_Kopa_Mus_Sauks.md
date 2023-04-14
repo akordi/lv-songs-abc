@@ -6,6 +6,7 @@ categories: ["Runči"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāda dziesma vienmēr atmiņā man skan,
 Draugs, ko šķiroties dziedāja man

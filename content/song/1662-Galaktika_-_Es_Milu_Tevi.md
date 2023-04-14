@@ -6,6 +6,7 @@ categories: ["Galaktika"]
 tags: []
 draft: false
 ---
+
 ```text
 Bez Capo _ 1...... Pants - Fm , D# , C# , D#
            Piedz.- Fm, C# , D# , Cm , C# , D#

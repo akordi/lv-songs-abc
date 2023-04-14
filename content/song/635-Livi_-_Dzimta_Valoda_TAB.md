@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["tab", "guitar pro"]
 draft: false
 ---
+
 ```text
 Ģitāra
 E||----------------------------|----------------------------|

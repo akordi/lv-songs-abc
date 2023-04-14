@@ -6,6 +6,7 @@ categories: ["3 Akordi"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro.
 D A E

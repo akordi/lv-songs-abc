@@ -6,6 +6,7 @@ categories: ["Imants Daksis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Iekšējā asiņu jūra spēkus būra
 Asinsspiediens kā svina diegs

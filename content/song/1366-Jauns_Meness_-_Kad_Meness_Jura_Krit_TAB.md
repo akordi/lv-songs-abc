@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: ["tab"]
 draft: false
 ---
+
 ```text
 Ievads/pamatrifs
 

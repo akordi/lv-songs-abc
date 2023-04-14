@@ -6,6 +6,7 @@ categories: ["Lietotas Mēbeles No Holandes"]
 tags: []
 draft: false
 ---
+
 ```text
 G                         Em
 Kur tu teci, kur tu teci, gailīti mans,

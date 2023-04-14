@@ -6,6 +6,7 @@ categories: ["Jūrkant"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kam lai tagad prasu,
 Kam lai tagad lūdzu, 

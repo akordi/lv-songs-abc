@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nekad vēl nebiju mīlējis ,tā kā šovasar
 visapkārt sajutu debesis,kuras sparni skar

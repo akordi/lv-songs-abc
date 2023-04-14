@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                          G
 Diena ka diena,pa radio dziesmas 

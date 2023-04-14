@@ -6,6 +6,7 @@ categories: ["Gunārs Meijers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Brālīt, iedzer vēl reiz, vēl jaunības laiks,
 Kad pienāks vecumdienas, tev alus negaršos.

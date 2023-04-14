@@ -6,6 +6,7 @@ categories: ["Raimonds Eizenšmits"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad sirdī sāpes pāriet sāk,
 Drīz pārbaudījums jauns būs klāt –

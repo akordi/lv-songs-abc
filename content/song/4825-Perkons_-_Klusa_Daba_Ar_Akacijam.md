@@ -6,6 +6,7 @@ categories: ["Pērkons"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro Cm ; Cm ; Fm ; Fm ; Cm Cm 
  

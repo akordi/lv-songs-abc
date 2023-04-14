@@ -6,6 +6,7 @@ categories: ["Līga Rīdere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.
 Aiz manām durvīm soļi

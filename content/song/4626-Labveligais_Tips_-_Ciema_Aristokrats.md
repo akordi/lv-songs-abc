@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ciema aristokrāts
 Dīķī iegremdēts, purva glamūra vērts

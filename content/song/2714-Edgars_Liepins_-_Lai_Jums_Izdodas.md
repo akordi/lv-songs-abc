@@ -6,6 +6,7 @@ categories: ["Edgars Liepiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai Jums izdodas draugi,
 Un lai izdodas man.

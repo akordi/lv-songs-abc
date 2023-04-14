@@ -6,6 +6,7 @@ categories: ["PeR"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vienmēr par daudz,
 Vienmēr par maz

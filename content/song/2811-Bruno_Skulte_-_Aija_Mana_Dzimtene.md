@@ -6,6 +6,7 @@ categories: ["Bruno Skulte"]
 tags: []
 draft: false
 ---
+
 ```text
 G     D     Am    D
 Klusē koki, klusē lauks,

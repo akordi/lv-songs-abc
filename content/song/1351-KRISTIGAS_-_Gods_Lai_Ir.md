@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 Em                            G        
 Mūsu palīdzība ir tā Kunga vārdā

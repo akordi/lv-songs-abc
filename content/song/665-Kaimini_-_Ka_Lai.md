@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: []
 draft: false
 ---
+
 ```text
 Es tevi satiku uz mūsu pašu ielas,
 Tu redzēji, cik manas acis lielas

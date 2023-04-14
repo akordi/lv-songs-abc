@@ -6,6 +6,7 @@ categories: ["Jātnieki"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nav par ko aizvest tevi uz kino ir vienkārši  jāizdzīvo
 Ka tik dažādi karogi plīvo kuru ņemt sev par piederīgo

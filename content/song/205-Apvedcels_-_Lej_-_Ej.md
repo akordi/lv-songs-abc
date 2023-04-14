@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [D]Piezvani man, ja ir auksti kā uz mēness
 Ja [A]nosala plaukstas, ja nežūst [D]siens

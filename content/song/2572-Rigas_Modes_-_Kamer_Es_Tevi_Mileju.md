@@ -6,6 +6,7 @@ categories: ["Rīgas Modes"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Kamēr es tevi mīlēju, tu biji pie zobu ārsta,
 [G] Kamēr es tevi mīlēju, tu gāji uz veikalu,

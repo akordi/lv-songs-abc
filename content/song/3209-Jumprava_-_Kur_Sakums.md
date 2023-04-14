@@ -6,6 +6,7 @@ categories: ["Jumprava"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Jumprava - "Kur Sākums"
 

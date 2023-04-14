@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["tab", "guitar pro"]
 draft: false
 ---
+
 ```text
 Dziesmas ievada un piedz riffs:
 

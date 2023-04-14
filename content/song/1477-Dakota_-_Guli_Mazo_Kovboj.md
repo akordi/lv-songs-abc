@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
 C                      F         G
 Mazām kājām šodien būs jau par daudz

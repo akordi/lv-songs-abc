@@ -6,6 +6,7 @@ categories: ["The Hobos"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 and you come
 then you go

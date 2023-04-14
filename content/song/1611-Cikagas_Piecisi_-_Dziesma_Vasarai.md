@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 E              B           C#m 
 Ai, vasara, es tevi smaržā jūtu,

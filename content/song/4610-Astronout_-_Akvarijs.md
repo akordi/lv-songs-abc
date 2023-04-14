@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es neesmu tas, kurš rada skaisto
 Es tikai skatos uz to, kas gaistošs

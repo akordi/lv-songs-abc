@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
  D            G              D            A
 Man vienalga vai ir vakars, man vienalga vai ir rīts

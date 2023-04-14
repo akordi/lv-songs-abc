@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Krauklīt's sēž [Am] ozolā(i),
 [D] Zelta kokle [G] rociņā,

@@ -6,6 +6,7 @@ categories: ["Gvido Linga"]
 tags: []
 draft: false
 ---
+
 ```text
 IESP?LE:    C Am F
 

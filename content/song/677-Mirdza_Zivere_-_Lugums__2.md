@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Eb               Fm7
 Aizved mani uz sl?teres siliem

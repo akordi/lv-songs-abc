@@ -6,6 +6,7 @@ categories: ["Varis Vētra"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Iet meitene ar sauli rotaļās,
 Tai acīs rīta ziedu rasa lās.

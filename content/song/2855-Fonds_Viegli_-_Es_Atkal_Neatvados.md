@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: []
 draft: false
 ---
+
 ```text
 C
 Ne bērni vien

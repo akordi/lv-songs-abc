@@ -6,6 +6,7 @@ categories: ["KATŌ"]
 tags: ["muzikālā banka 2021"]
 draft: false
 ---
+
 ```text
 Bbm
 Nē, mani nevaig pavadīt

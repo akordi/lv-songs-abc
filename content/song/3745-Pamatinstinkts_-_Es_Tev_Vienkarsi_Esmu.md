@@ -6,6 +6,7 @@ categories: ["Pamatinstinkts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es tev vienkārši esmu. 
 Neprasot, cik par to.

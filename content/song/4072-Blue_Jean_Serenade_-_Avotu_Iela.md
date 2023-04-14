@@ -6,6 +6,7 @@ categories: ["Blue Jean Serenade"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man kaut kā vienmēr ir bail bijis no Avotu ielas, 
 Kas ietver sevī mistikas lielas, 

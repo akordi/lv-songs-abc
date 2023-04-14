@@ -6,6 +6,7 @@ categories: ["Iveta Baumane"]
 tags: ["bez akordiem", "muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Tu teici beidzot mēs esam klāt
 Tādam brīdim kad varam vairāk pat nerunāt

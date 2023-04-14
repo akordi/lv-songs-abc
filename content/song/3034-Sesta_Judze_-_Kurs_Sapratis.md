@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Raksti savu vārdu blakus manējam,
 tas nekas,ka rīt būs pirmais sals,

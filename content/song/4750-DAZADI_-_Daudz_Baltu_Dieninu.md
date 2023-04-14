@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 [G]Daudz baltu dieniņu Laimiņa [C]do[D]di,
 [G]Diženi, [C]raženi [D]dzīvojo[G]ti!

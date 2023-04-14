@@ -6,6 +6,7 @@ categories: ["S-I-L-S-"]
 tags: []
 draft: false
 ---
+
 ```text
 pirmā daļa: akordi nemainīgi
 C#                 A

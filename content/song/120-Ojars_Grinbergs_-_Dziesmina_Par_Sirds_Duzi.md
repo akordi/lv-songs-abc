@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
     C                          G7         C
 Gan cūkganam, gan ķēniņam, ar dieva tēva ziņu

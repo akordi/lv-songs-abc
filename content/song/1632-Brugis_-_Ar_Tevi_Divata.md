@@ -6,6 +6,7 @@ categories: ["Bruģis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ar Tevi divatā  (BRUĢIS - E.Vestmanis)
 

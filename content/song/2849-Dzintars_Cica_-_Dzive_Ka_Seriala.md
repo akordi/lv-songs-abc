@@ -6,6 +6,7 @@ categories: ["Dzintars Čīča"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nekas jau nenotiek tāpat vien.
 Ir zili brīnumi katru brīd'.

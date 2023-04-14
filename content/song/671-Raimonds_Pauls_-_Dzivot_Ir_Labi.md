@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: []
 draft: false
 ---
+
 ```text
 Pasakaina diena, ejot pēc piena,
 Es stāvu Matīsa un Čaka ielas krustojumā.

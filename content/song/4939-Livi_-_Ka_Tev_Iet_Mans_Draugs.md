@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 C	    Cmaj7
 Kā tev iet, kā tev labi iet, 

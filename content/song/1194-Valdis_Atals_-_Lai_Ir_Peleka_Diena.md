@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am]Lai ar [G]pelēka diena
 Lai ar [G]pelēka diena

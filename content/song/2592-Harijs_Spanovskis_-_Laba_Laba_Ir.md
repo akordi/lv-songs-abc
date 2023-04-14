@@ -6,6 +6,7 @@ categories: ["Harijs Spanovskis"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Laba, laba [G] ir, [Am] laba, laba [G] ir,
 [Am] Laba, laba ir tā [F] dzīvošana,

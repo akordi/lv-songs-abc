@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: []
 draft: false
 ---
+
 ```text
 D
 Visi mani gredzeni, auskari,

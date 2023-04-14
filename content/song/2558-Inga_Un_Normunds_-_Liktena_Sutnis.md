@@ -6,6 +6,7 @@ categories: ["Inga un Normunds"]
 tags: []
 draft: false
 ---
+
 ```text
 Iet [Am] laiks, bet mēs paliekam tādi kā [Dm] esam,
 Jo [G] citādi nespējam, negribam [Am] būt.

@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Aizbrauc tramvajs
 Pāris sadodas rokās 

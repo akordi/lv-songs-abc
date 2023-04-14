@@ -6,6 +6,7 @@ categories: ["Favorīts"]
 tags: ["līgo"]
 draft: false
 ---
+
 ```text
 [C] Kas dzērājam nekait pa [G] pasauli klīst, - Oi, oi, [C] oi.
 [C] Ik krūmiņš tam jaukākā [G] mājvieta šķiet, - Oi, oi, [C] oi

@@ -6,6 +6,7 @@ categories: ["Z-Scars"]
 tags: []
 draft: false
 ---
+
 ```text
 Oriģinālā ģitāras skaņojums ir par 1/2 toni zemāks.
 

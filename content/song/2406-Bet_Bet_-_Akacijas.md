@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm                         A
 Vēl vienu reiz pieskaries man

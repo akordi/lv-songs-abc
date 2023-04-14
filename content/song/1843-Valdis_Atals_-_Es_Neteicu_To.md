@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 es neteicu to nevienam
 ka es tevi izdomāju

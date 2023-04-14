@@ -6,6 +6,7 @@ categories: ["Baltie Lāči"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 E B E 2x
 E                B       E

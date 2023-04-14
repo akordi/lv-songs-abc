@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [D]Ko lai dara, dzīve vienā [G]steigā
 [Em]Ko lai dara, sapnis bij’ tik [A]īss

@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir ausis rīts, jau saule lec
 Nu gluži tā kā mana sirds

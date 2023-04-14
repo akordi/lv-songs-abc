@@ -6,6 +6,7 @@ categories: ["Autobuss Debesīs"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads, Starpspēles, Nobeigums // Am / Am / F G / Am /
                                                      / Am / Dm / F G / Am /

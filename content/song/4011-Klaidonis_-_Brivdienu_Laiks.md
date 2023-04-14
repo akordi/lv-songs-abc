@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vai tiešām jau tik ļoti ir aizsteidzies laiks
 Jau atkal ārā ir pavasaris ziedonis maigs

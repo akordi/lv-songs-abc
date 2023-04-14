@@ -6,6 +6,7 @@ categories: ["O!kartes Akadēmija"]
 tags: []
 draft: false
 ---
+
 ```text
 G        C
 Krasaini sapņi pa pasauli klejo

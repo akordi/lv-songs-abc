@@ -6,6 +6,7 @@ categories: ["Atis Auzāns"]
 tags: ["kinofilmas"]
 draft: false
 ---
+
 ```text
 Laša kundze acis bola,
 Menca pilnā rīklē sauc:

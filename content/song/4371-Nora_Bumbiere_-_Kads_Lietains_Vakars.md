@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāds lietains vakars,
 Kāds vientuļš vakars,

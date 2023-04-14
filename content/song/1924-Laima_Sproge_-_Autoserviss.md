@@ -6,6 +6,7 @@ categories: ["Laima Sproģe"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Meža malā Berģu ciemā
 Autoserviss saredzams

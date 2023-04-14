@@ -6,6 +6,7 @@ categories: ["Kristena Cīrule"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nav bez mīlas nekā,
 Nav bez prieka nekā,

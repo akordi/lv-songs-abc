@@ -6,6 +6,7 @@ categories: ["F-L-Y"]
 tags: []
 draft: false
 ---
+
 ```text
 Un [C] kad cerības grūst, 
 Un kad sirds tava [Am] lūst,

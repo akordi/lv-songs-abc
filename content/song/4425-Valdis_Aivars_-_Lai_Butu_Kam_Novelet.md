@@ -6,6 +6,7 @@ categories: ["Valdis Aivars"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai būtu kam novēlēt Gaiziņu,
 Un Piebalgas pakalnus maigos,

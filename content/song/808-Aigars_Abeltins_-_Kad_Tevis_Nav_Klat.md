@@ -6,6 +6,7 @@ categories: ["Aigars Ābeltiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Dienas tā kā divu muži
 Ir jau atkal aizgājuši

@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Baigi gribas lai ir labi,
 Nervu zāles rīt un šņabi.

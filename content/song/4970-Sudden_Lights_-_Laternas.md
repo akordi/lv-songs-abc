@@ -6,6 +6,7 @@ categories: ["Sudden Lights"]
 tags: ["muzikālā banka 2022"]
 draft: false
 ---
+
 ```text
 Bm      A
 Kā pareizāk

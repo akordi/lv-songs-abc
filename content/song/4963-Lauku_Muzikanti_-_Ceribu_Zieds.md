@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 1.                                                C
 Ja no skumjām vaļu asarām ļauj, kaunā seju slēpis 

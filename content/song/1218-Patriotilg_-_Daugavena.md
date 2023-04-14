@@ -6,6 +6,7 @@ categories: ["Patrioti-lg"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Dm Am E
 

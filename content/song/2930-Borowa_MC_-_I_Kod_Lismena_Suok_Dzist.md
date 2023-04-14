@@ -6,6 +6,7 @@ categories: ["Borowa MC"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
   I kod [F] līsmeņa suoc [G] dzist,
   [Em] Asarenis [Am] napuorstuoj tev krist.

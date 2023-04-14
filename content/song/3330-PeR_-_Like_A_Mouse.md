@@ -6,6 +6,7 @@ categories: ["PeR"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 We’ll meet each other next summer ’cause it was so cold this winter
 We’ll have a chance to start, to fall apart again and again

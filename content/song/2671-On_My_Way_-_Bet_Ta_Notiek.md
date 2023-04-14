@@ -6,6 +6,7 @@ categories: ["On my way"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Un ja tu prasītu kā, 
 es atbildētu vienkārši:

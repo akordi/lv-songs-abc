@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad saule mūs pie zemes kaļ 
 Mēs neskatāmies, neskatāmies atpakaļ 

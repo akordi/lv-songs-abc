@@ -6,6 +6,7 @@ categories: ["Tūkstoš Ceļi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pazūd skatam torņu galotnes
 Kādu stāstu lai šodien darinu?

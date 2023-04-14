@@ -6,6 +6,7 @@ categories: ["Emburgas zēni"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ļauj apsēsties pie tavām kājām,
 Un tavā klēpī galvu glaust.

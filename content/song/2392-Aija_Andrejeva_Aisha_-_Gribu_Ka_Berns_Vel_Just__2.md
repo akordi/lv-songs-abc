@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 [G] Kāds klusi [D] pieklauvē pie [C] durvīm kas [G] ciet
 [Em] Laiks ir [C] apstājies kaut [G] pulkstenis [D] iet

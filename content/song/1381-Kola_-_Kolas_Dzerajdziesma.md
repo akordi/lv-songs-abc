@@ -6,6 +6,7 @@ categories: ["Koļa"]
 tags: []
 draft: false
 ---
+
 ```text
 Orģinālā dziesmā ir zemāka, šeit būs augstākā variantā, taču ar super-vienkāršiem akordiem! :)
 

@@ -6,6 +6,7 @@ categories: ["Country Stones (Laukakmeņi)"]
 tags: []
 draft: false
 ---
+
 ```text
 Kur gan ir tā meitene.                    Jānis Osis
 A

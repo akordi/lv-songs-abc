@@ -6,6 +6,7 @@ categories: ["Māris Sloka"]
 tags: []
 draft: false
 ---
+
 ```text
 D        A       D                      A
 Raud vējš , mirkst tavas acis

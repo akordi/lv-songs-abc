@@ -6,6 +6,7 @@ categories: ["Jāzepa Mediņa Mūzikas Skolas Zēnu koris"]
 tags: []
 draft: false
 ---
+
 ```text
     Em                     Bm
 Tik tumšs ir visapkārt, ka sajust jau var,

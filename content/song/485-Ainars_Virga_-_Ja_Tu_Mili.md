@@ -6,6 +6,7 @@ categories: ["Ainars Virga"]
 tags: []
 draft: false
 ---
+
 ```text
 C               	
 Soli pa solim, klusi kā nakts

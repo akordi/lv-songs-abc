@@ -6,6 +6,7 @@ categories: ["Vienalga man"]
 tags: []
 draft: false
 ---
+
 ```text
 C                       G7
 Man dzīvē šai laimējies ļoti:

@@ -6,6 +6,7 @@ categories: ["Dzeguzīte"]
 tags: []
 draft: false
 ---
+
 ```text
 C                   Am
 Paskaties uz augšu, re, kā zvaigznes 

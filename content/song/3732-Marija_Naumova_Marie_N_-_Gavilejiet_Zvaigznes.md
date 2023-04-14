@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Šonakt klusi, klusi 
 debess atver vārtus, 

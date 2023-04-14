@@ -6,6 +6,7 @@ categories: ["Māra Upmane - Holšteine"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja vienu dienu, laimes pavedienu
 Sev piesietu, ar viņu dietu.

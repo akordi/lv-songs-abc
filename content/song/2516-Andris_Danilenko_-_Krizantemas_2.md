@@ -6,6 +6,7 @@ categories: ["Andris Daņiļenko"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 Uz galda [G] glāzē stāv krizan[D]tēmas,
 Un rozes sen jau vītu[G]šas.

@@ -6,6 +6,7 @@ categories: ["Andris Ērglis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 You call my name, but I was deaf and blind
 I lost myself when I was deep in mind

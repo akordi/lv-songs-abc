@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm                  A#
 Man galva kūp, zeme deg, rokas trīc

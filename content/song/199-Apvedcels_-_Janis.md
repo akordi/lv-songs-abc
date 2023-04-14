@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [D]Jau zvaigznes drīz bālē, un [G]jauns ausīs rīts
 Tak [D]dažreiz mani atmiņas [A]rauj

@@ -6,6 +6,7 @@ categories: ["Carnival Youth"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
                 Dm          G             F                C
 You power out, out of reach, lost connection between you and me x2

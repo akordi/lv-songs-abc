@@ -6,6 +6,7 @@ categories: ["Eduards Rozenštrauhs"]
 tags: []
 draft: false
 ---
+
 ```text
 Tu esi aizgājis tik tālu,
 Cik vien tik dzīvē aiziet var.

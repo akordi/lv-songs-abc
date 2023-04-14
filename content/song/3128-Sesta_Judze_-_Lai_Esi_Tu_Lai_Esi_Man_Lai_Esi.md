@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es sarunāšos šovakar ar Tevi,
 un manas acis klusi Tevi lūgs,

@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kad gar jūru mājup eju es,
 [C] Pretīm man nāk divas meitenes,

@@ -6,6 +6,7 @@ categories: ["Colt"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es šodien esmu tavā varā
 Man vairāk nevajag nekā

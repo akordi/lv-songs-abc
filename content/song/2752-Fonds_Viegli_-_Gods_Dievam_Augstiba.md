@@ -6,6 +6,7 @@ categories: ["Fonds Viegli"]
 tags: []
 draft: false
 ---
+
 ```text
 Gods Dievam augstībā – Fonds Viegli
 G                                        C

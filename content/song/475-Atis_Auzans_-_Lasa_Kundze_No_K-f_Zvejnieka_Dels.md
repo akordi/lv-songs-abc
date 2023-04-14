@@ -6,6 +6,7 @@ categories: ["Atis Auzāns"]
 tags: ["kinofilmas"]
 draft: false
 ---
+
 ```text
 Rūdolfs Bērziņš - Laša kundze bola acis. No kinofilmas "Zvejnieka dēlS", 1940.
 

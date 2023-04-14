@@ -6,6 +6,7 @@ categories: ["Striķis"]
 tags: []
 draft: false
 ---
+
 ```text
     Dzeltenā māja.
 

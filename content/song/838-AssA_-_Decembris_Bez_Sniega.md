@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Cm#                    A         
 Es sēžu virtuvē skatos caur logu

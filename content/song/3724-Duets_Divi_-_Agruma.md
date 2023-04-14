@@ -6,6 +6,7 @@ categories: ["Duets \"Divi\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ielas tukšas. Savāds nogurums.
 Tavās acīs samulsums.

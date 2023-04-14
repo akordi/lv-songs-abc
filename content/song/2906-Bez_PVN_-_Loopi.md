@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Cm      Bb   Eb  Ab
 Apleik vīni strūpi…

@@ -6,6 +6,7 @@ categories: ["Lana Frančeska"]
 tags: ["supernova", "supernova 2015", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Silence
 When our words will turn to silence

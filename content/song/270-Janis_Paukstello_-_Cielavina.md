@@ -6,6 +6,7 @@ categories: ["Jānis Paukštello"]
 tags: []
 draft: false
 ---
+
 ```text
 Am                  E
 Ai, tēvu zeme stūru stūriem,

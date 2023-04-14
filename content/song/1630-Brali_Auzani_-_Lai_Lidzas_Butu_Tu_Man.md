@@ -6,6 +6,7 @@ categories: ["Brāļi Auzāni"]
 tags: []
 draft: false
 ---
+
 ```text
 D                   G         A       D 
 Tā bijis daudzreiz, pie sevis dungoju es,

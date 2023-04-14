@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 C                             G
 Mirdz zvaigznes trīs, un māte cieš,

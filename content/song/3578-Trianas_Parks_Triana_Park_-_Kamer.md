@@ -6,6 +6,7 @@ categories: ["Triānas Parks (Triana Park)"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
 Dm
 Tu vēl neesi redzējis visu.

@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["bez akordiem", "supernova 2023"]
 draft: false
 ---
+
 ```text
 [Verse 1]
 One step closer to you

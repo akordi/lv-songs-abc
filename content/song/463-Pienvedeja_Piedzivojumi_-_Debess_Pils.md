@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: []
 draft: false
 ---
+
 ```text
 C#m     G#m
 Kāpēc šodien smaidi

@@ -6,6 +6,7 @@ categories: ["Laima Sproģe"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lūzusi sen galotnīte, 
 Tomēr viņa sīksti zeļ.

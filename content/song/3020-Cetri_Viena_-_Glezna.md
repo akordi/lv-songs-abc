@@ -6,6 +6,7 @@ categories: ["Četri vienā"]
 tags: []
 draft: false
 ---
+
 ```text
 C G C G
 C        G        Am       G    C

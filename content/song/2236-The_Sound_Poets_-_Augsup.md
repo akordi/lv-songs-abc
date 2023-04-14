@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Šis.. ir ceļš, kas sauc, 
 Kad pienāks [C] laiks

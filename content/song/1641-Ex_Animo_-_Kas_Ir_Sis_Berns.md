@@ -6,6 +6,7 @@ categories: ["Ex Animo"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Kas [Em] ir šis [G] bērns, kas [D] saldi dus 
 pie [Em] mātes krūts tur [B7] kūtī?

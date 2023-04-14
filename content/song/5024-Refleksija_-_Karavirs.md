@@ -6,6 +6,7 @@ categories: ["Refleksija"]
 tags: []
 draft: false
 ---
+
 ```text
 (verse)
 Māt, tavās šūpuļa dziesmās

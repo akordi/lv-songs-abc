@@ -6,6 +6,7 @@ categories: ["Uldis Kazinovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ar baltu māti ar baltu tēti
        Ar baltu smaidu es mīlu raidu - 2x

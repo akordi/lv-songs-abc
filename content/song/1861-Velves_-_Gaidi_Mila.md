@@ -6,6 +6,7 @@ categories: ["Velves"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Gaidi mani mājās, mīļā, gan jau būšu drīz. 
 Bet ja būšu, kaut kur tālu, varbūt aizparīt.

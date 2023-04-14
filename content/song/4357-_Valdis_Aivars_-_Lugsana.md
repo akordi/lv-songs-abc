@@ -6,6 +6,7 @@ categories: ["Valdis Aivars"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man no tava zvaigžņu dārza,
 Vienu ceļa zvaigzni dod !

@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 G                             G7                 C
    Dzīve kā košums, divdesmit septiņas ziemas un nieki

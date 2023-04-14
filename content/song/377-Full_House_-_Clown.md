@@ -6,6 +6,7 @@ categories: ["Full House"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 E         B
 Once long time ago

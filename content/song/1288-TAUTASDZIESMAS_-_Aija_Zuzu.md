@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["šūpuļdziesma"]
 draft: false
 ---
+
 ```text
   A                      A   D  A
 1.Aijā žū-žū lāča bērnī  Ai-jā žū-ū-žū,

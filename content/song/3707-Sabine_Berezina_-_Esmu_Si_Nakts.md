@@ -6,6 +6,7 @@ categories: ["Sabīne Berezina"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Šo tumsu tveru klusumā
 Un tumsa mani arī tā

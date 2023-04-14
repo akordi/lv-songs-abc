@@ -6,6 +6,7 @@ categories: ["Triānas Parks (Triana Park)"]
 tags: ["supernova", "eurovision", "supernova 2017", "eng"]
 draft: false
 ---
+
 ```text
             E             Ebm
 I'm going round in circles

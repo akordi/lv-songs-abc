@@ -6,6 +6,7 @@ categories: ["Bumerangs"]
 tags: []
 draft: false
 ---
+
 ```text
    C                 G       
 Es sēdēju uz Gaujas krasta

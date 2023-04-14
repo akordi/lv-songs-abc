@@ -6,6 +6,7 @@ categories: ["Dzenīši"]
 tags: []
 draft: false
 ---
+
 ```text
 DZENĪŠI - 2008 gada Lāčplēšiem - (dziesma izpildāma parūkās, viena jau ir)
  

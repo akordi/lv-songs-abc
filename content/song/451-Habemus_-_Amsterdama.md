@@ -6,6 +6,7 @@ categories: ["Habemus"]
 tags: []
 draft: false
 ---
+
 ```text
 Am                       F
 Lai sadeg pelnos nelaimīgo ļaužu skumjas

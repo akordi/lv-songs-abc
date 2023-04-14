@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 drīz jau saule drīz jau saule
 manu dienu nesāpēs

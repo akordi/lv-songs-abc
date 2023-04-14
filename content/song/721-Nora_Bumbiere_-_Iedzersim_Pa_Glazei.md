@@ -6,6 +6,7 @@ categories: ["Nora Bumbiere"]
 tags: []
 draft: false
 ---
+
 ```text
 C                   G
 Iedzersim pa glāzei kamēr jauni mēs

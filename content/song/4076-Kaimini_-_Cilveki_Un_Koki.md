@@ -6,6 +6,7 @@ categories: ["Kaimiņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Stādi pie mājas ozola spītu,
 Tādu kā latviets to prot.

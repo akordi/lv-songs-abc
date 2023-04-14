@@ -6,6 +6,7 @@ categories: ["Antra Stafecka"]
 tags: []
 draft: false
 ---
+
 ```text
 [F#m] Skaties visapkārt un redzi
 [E] Gaismu visos un sevī.

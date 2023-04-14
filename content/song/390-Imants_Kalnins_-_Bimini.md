@@ -6,6 +6,7 @@ categories: ["Imants Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 G       Em    G   Bm            G    Bm   C
 Mazais putniņ, kolibri, aizved mūs uz bimini

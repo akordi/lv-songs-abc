@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Vai par [C]Tevi domājot dziesma šī būs
 Kad [G]aizejot dvēsele skumst

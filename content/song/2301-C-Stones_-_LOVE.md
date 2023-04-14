@@ -6,6 +6,7 @@ categories: ["C-Stones"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 You!
 No reason to be blue

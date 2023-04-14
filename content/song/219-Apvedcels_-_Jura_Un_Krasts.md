@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Jau [G]pagājis [C]laiks, un es [D]atkal šai [G]pusē
 Tik [Em]savādi [Am]domāt, ka viss pagājis [D]jau

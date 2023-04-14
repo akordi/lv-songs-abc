@@ -6,6 +6,7 @@ categories: ["Ieva Akurātere"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 C                G       C                       G      C
 Kungs, kas zāles čukstus dzirdi, kas pat smilgai neliec ciest,

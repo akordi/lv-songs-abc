@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Jā, [C]jauka dzīve Liepājā, un jauka arī [G]Preiļos
 Un visam ko viņš radījis, lai slava: hip, [C]urrā

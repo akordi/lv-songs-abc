@@ -6,6 +6,7 @@ categories: ["Gandreiž 10nīkā"]
 tags: []
 draft: false
 ---
+
 ```text
 pants E5,B5,C#5,A5
 

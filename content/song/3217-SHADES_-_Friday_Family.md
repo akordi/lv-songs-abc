@@ -6,6 +6,7 @@ categories: ["SHADES"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Wheels on the runway 
 It's a Friday

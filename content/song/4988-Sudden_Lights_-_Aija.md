@@ -6,6 +6,7 @@ categories: ["Sudden Lights"]
 tags: ["supernova 2023"]
 draft: false
 ---
+
 ```text
    F        G                         Em    Am
 You said some words, didn't hear you fall asleep

@@ -6,6 +6,7 @@ categories: ["Mārtiņš Jātnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1.Pants.
 Tik mežonīgs

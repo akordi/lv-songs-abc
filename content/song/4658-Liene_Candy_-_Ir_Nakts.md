@@ -6,6 +6,7 @@ categories: ["Liene Candy"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ārā ir nakts, ārā ir nakts pār pilsētu ielām kāds sauc 
 tevi,

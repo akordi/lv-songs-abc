@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Eb             Adim/Eb
 Aizved mani uz Slīteres siliem,

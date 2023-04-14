@@ -6,6 +6,7 @@ categories: ["Uldis Kazinovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Un nemaz nav jābūt trakam
             Prasi laimi Anunakam

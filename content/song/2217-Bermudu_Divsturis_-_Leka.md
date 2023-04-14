@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Lēkā, it kā grīda, būtu karsta, kkkkarsta.
 Tagad. [Am] Lēkā, it kā grīda, būtu karsta, kkkkarsta.

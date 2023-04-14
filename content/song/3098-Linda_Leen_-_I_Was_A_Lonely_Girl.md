@@ -6,6 +6,7 @@ categories: ["Linda Leen"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 I was a girl with an empty space in my heart
 I was a rock that stands on the empty beach, oh my God

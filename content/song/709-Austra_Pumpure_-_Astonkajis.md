@@ -6,6 +6,7 @@ categories: ["Austra Pumpure"]
 tags: []
 draft: false
 ---
+
 ```text
    Am
 1. Kur šie rodas plātīgie un glaunie,

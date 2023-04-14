@@ -6,6 +6,7 @@ categories: ["Tranzīts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 [2x] Es nevaru būt balts un tas nav iespējams,
 Jo visam vienmēr jābūt līdzsvarā.

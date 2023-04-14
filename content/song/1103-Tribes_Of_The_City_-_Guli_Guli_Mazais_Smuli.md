@@ -6,6 +6,7 @@ categories: ["Tribes of The City"]
 tags: ["šūpuļdziesma"]
 draft: false
 ---
+
 ```text
 C          G         Am
 Guli, guli mazais šmuli

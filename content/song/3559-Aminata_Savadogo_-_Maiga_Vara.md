@@ -6,6 +6,7 @@ categories: ["Aminata Savadogo"]
 tags: ["muzikālā banka 2019"]
 draft: false
 ---
+
 ```text
       Em            D          C  
 Kas paspēja beigties,tas netika sākts

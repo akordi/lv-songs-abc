@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Grūti salst jūra lūdz aizsalst
 Ar ledu kā ēna plānu

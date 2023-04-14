@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
      G                 C   Am7
 Gar jūras zeltmirdzošo krastu

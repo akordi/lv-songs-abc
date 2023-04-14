@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 [G] Ļaužu [C] sejas uzlū[G]ko, [C]
 [G] kad tie pa [C] ielām visur [G] steidz, [C] 

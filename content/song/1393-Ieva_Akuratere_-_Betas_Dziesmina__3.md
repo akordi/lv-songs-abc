@@ -6,6 +6,7 @@ categories: ["Ieva Akurātere"]
 tags: []
 draft: false
 ---
+
 ```text
  C              C7
 Zeltaini stari slīd,

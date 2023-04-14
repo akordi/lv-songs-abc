@@ -6,6 +6,7 @@ categories: ["Jānis Paukštello"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 C                          G7
 Es dziedāšu par tevi, tēvu zeme,

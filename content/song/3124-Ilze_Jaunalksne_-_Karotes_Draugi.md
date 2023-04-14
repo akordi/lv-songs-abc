@@ -6,6 +6,7 @@ categories: ["Ilze Jaunalksne"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Sēdēt pie putras, nemaz kad vairs negribas.
 Ielūdzu tos, kam ir labāka ēstgriba.

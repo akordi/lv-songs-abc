@@ -6,6 +6,7 @@ categories: ["Lita Pudnika"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ausīs jauns rīts, būs varbūt vieglāk,
 Par tevi nedomāt....

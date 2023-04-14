@@ -6,6 +6,7 @@ categories: ["Latgaliešu tautasdziesma"]
 tags: []
 draft: false
 ---
+
 ```text
 C                      F
 Lobs ar lobu sasatyka, leigū,

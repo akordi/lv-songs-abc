@@ -6,6 +6,7 @@ categories: ["Gausiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vagonā vēl sēžu viens
 blakus ģitāra un iesākts rums

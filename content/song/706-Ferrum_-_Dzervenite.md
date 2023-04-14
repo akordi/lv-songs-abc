@@ -6,6 +6,7 @@ categories: ["Ferrum"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 C   C
 

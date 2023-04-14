@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Nolaidies [D] zemāk vēl un [G] jūti, kā
 [C] Pārspēlēts [D] tukšums raud pēc [Em] mums

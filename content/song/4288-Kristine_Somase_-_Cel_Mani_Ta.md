@@ -6,6 +6,7 @@ categories: ["Kristīne Šomase"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 vai zini cik man viegli kļūst 
 kad auksta naktī stāvam mēs

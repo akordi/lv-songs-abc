@@ -6,6 +6,7 @@ categories: ["Bermudu Divstūris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja klusēšana ir zelts tad "AIZVER MUTI"
 

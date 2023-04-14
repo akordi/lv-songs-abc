@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
 Atkal viens gads 
 Slēpties grib sniegā

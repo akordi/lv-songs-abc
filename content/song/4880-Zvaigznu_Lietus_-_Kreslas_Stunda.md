@@ -6,6 +6,7 @@ categories: ["Zvaigžņu lietus"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Parkā klusi vakars zogas,
 Koku lapās lāses rit,

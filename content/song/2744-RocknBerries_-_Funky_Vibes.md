@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 I play my funky music tonight 
 It makes me high it feels so right 

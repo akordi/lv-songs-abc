@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Spēlēsim spēli 
 "Tu un te",

@@ -6,6 +6,7 @@ categories: ["Lādezers"]
 tags: []
 draft: false
 ---
+
 ```text
 C H/G (20033) F(133211 or x33210) G x2
 

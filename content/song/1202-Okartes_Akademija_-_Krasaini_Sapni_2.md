@@ -6,6 +6,7 @@ categories: ["O!kartes Akadēmija"]
 tags: []
 draft: false
 ---
+
 ```text
 [D]Krāsaini sapņi šai[G]pasaulē klejo 
 [A]Meklējot prātus, kas[D]brīnumiem tic 

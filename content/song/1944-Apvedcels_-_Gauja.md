@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [G]Pirms satumst, kam lai ceļu [C]prasu
 [D]Un vai vēl tēva mājas [G]stāv

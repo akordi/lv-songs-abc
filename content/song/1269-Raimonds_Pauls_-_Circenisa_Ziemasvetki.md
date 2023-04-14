@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 G                                               
 Dzied circenītis aizkrāsnē, 

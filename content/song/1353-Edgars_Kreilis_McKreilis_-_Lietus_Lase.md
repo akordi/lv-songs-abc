@@ -6,6 +6,7 @@ categories: ["Edgars Kreilis (McKreilis)"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Piedz. [C G D]
 Lietus lāse krīt no debesīm uz zemi, 

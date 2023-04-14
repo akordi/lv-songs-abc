@@ -6,6 +6,7 @@ categories: ["Renārs Kaupers"]
 tags: []
 draft: false
 ---
+
 ```text
       Dm
 Kā būtu, ja varētu dāvināt

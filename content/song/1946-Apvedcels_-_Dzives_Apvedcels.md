@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kad pār [D]dzīvi,  un baznīcu [G]galiem
 Nokrīt  [A]nakts un atbildes [F#m]nav, kā bijis, [Hm]kāpēc

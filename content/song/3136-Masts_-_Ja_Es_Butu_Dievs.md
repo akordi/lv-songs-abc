@@ -6,6 +6,7 @@ categories: ["Masts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kas vienam dārgs, to otrs met pret zemi
 Te cilvēki domā tik un vienīgi par sevi

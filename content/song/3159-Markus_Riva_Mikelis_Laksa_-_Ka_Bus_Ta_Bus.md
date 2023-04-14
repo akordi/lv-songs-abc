@@ -6,6 +6,7 @@ categories: ["Markus Riva (Miķelis Ļaksa)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es cenšos atcerēties to kāpēc ,
 es biju vienatnē bez Tevis tāpat vien

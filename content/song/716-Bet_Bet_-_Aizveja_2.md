@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
       D          A     G               D
 Tas notika citā posmā darba un asins pilnā

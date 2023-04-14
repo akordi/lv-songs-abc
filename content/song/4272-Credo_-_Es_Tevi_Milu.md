@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Šajā tik skaistajā, samtainā naktī,
 nevaru aizmigt es,kaut kas man traucē

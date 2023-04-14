@@ -6,6 +6,7 @@ categories: ["Mārtiņš Petrovs"]
 tags: []
 draft: false
 ---
+
 ```text
   C      G              C
 Dzirdu kā manas skumjas elš

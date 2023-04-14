@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
    F#m          G      F#m
 1) Uzliec savas vieglās rokas

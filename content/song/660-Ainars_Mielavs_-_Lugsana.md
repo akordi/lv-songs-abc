@@ -6,6 +6,7 @@ categories: ["Ainars Mielavs"]
 tags: []
 draft: false
 ---
+
 ```text
 C         F         C  Am
 Kamēr vēl dreb mana roka,

@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Too many wise men all around me 
 Sententious thoughts expressed out loud 

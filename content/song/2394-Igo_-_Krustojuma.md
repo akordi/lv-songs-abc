@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 C               
 Atgriežos pa mēness tiltu mājās

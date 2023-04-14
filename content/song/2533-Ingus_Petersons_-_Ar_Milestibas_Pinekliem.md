@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: []
 draft: false
 ---
+
 ```text
 Ar [G] mīlestības pinekļiem (Ar mīlestības pinekļiem)
 Ar [C] roku važām saldām (Ar roku važām saldām)

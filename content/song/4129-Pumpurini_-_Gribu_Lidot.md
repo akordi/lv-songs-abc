@@ -6,6 +6,7 @@ categories: ["Pumpuriņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Gribu lidot gaišās domās
 Spēlēt debeskrāsu lomas

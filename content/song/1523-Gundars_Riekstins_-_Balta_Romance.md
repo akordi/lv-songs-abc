@@ -6,6 +6,7 @@ categories: ["Gundars Riekstiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 D                           G
 Baltas liepas blakām baltām palmām.

@@ -6,6 +6,7 @@ categories: ["Fēlikss Ķiģelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pants:
 Cauri ērkšķiem, caur dzeloņiem mans ceļš pie tevis iet

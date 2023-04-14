@@ -6,6 +6,7 @@ categories: ["Menuets"]
 tags: []
 draft: false
 ---
+
 ```text
 Am                           Em           Am
 Ja četri balti krekli ir jaunam cilvēkam,

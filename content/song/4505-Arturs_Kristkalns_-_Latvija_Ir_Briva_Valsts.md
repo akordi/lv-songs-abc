@@ -6,6 +6,7 @@ categories: ["Artūrs Kristkalns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Latvija ir brīva valsts
 Latvija ir brīva valsts,

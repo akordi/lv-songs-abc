@@ -6,6 +6,7 @@ categories: ["Edd Meyer"]
 tags: []
 draft: false
 ---
+
 ```text
 Es sniedzos pretī tai liesmai,
 Kas siltumu, gaišumu dod.

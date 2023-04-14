@@ -6,6 +6,7 @@ categories: ["Rīgas Modes"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 tev ir daudzas labas īpašības
 vai es varu palūgt tavu autogrāfu?

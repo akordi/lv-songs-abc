@@ -6,6 +6,7 @@ categories: ["Caffe"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Everything is so beautiful
 That’s what makes it so grateful

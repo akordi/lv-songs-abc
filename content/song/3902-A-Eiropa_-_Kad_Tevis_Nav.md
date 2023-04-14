@@ -6,6 +6,7 @@ categories: ["A-Eiropa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Diena kurā aiziesi no manis projām viss nomirs
 Vai tu mani dzirdi

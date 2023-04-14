@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 ja tu prasi , kapēc es pie sarkanā stāvu un kad rāda es 
 esmu no standarta tālu , ja tu prasi kādēļ man nav 

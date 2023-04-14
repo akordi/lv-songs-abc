@@ -6,6 +6,7 @@ categories: ["Austrumeiropa"]
 tags: []
 draft: false
 ---
+
 ```text
 Am       G               F 
 Es atkal klīstu pa Rīgas ielām

@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Am                  Dm7
 Baltas debesis kā piens,

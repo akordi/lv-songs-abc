@@ -6,6 +6,7 @@ categories: ["Gandreiž 10nīkā"]
 tags: []
 draft: false
 ---
+
 ```text
 E                             C
 Lietus līst un lāses pil no sejas

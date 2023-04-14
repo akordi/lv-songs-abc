@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man slīd caur pirkstiem ūdens, sāls un Tu.
 Kā lai to apturu?

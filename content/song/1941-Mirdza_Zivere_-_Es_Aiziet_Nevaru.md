@@ -6,6 +6,7 @@ categories: ["Mirdza Zīvere"]
 tags: []
 draft: false
 ---
+
 ```text
 Fm                    Bbm7
 Tu biji kails un vēju aplauzts koks.

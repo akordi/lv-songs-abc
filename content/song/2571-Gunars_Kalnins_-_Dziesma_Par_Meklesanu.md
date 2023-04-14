@@ -6,6 +6,7 @@ categories: ["Gunārs Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Es nezinu, kur ir tā vieta,
 [F] Kur nogu[G]rušie spēku [C] rod.

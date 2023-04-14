@@ -6,6 +6,7 @@ categories: ["Gunārs Meijers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu esi ass kā ešafots
 Uzbrukumā kašalots

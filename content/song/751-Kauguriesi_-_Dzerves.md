@@ -6,6 +6,7 @@ categories: ["Kaugurieši"]
 tags: []
 draft: false
 ---
+
 ```text
   Am                        Dm
 1.Kad dzērves atkal projām dodas

@@ -6,6 +6,7 @@ categories: ["Aigariņš"]
 tags: []
 draft: false
 ---
+
 ```text
 C G D G
 

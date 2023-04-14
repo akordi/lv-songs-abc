@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Ieskaties [Em] acīs, [F] lai [G] redzētu [C] tu 
 [C] Kas es tev [Em] esmu [F] un [G] kas esi [C] tu 

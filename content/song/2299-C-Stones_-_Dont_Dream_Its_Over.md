@@ -6,6 +6,7 @@ categories: ["C-Stones"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 [C] There is freedom within, [Am] there is freedom without
 [F] Try to catch the deluge in a paper [E] cup        

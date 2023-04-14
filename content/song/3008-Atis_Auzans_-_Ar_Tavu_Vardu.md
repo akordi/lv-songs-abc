@@ -6,6 +6,7 @@ categories: ["Atis Auzāns"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Ar rīta [Em] vēju [F] jauna diena [G] atnāk
 [Am] Un pāršķir [Em] lapu [F] jaunai [G] pasakai.

@@ -6,6 +6,7 @@ categories: ["Aigars Godiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kas mūžam nenotiks kas sen jau bijis
 nu krīt uz krūtīm itin itin viss

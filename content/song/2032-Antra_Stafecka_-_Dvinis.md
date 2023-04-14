@@ -6,6 +6,7 @@ categories: ["Antra Stafecka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāpēc kādam jārunā
 Ja visa patiesība skan tā – 

@@ -6,6 +6,7 @@ categories: ["Atis Ieviņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Chorus:
 Yeah, oh, oh, oh, oh,

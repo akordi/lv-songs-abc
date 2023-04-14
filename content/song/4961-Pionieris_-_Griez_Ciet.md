@@ -6,6 +6,7 @@ categories: ["Pionieris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Saprotu ka viegli ienīst mani redzam spīdot
 Šis mans sapnis kādēļ uztraukties par negatīvo

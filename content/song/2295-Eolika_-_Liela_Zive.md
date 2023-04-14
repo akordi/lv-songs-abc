@@ -6,6 +6,7 @@ categories: ["Eolika"]
 tags: []
 draft: false
 ---
+
 ```text
 D          A7         D
 Lielā zive labsirdīga bija

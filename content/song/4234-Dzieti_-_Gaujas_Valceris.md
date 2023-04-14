@@ -6,6 +6,7 @@ categories: ["Dzieti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Visas upes klusi tecēj, Gauja klusu netecēj’. (2X)
 Gauja tecēj skanēdama, sidrabiņu sijādam’. (2X)

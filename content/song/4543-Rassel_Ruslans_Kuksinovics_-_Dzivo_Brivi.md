@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzīvo brīvi, neko nelaid vējā,
 Esi blakus un nepaliec lejā.

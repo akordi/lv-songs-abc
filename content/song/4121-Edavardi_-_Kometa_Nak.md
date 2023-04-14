@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es dzirdu baumas, ka būs drīz liels karš
 Tā runā vai tā ir, par to tu strīdies pats

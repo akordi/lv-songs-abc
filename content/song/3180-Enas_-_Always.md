@@ -6,6 +6,7 @@ categories: ["Ēnas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 I tried to find an answer in every thing you said
 no emptiness in all those dreams that we both had made

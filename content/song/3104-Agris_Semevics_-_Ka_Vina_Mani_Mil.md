@@ -6,6 +6,7 @@ categories: ["Agris Semēvics"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nevar būt ka viss ir kā senāk
 Varbūt dzīvē mainās viss manā

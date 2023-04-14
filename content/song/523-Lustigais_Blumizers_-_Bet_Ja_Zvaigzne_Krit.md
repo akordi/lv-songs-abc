@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: []
 draft: false
 ---
+
 ```text
 D              G
 Vai tu jūti no sirds uz sirdi

@@ -6,6 +6,7 @@ categories: ["Inga Krasmane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Solīji, ka nāksi šovakar -
 Kad visapkārt jāņugunis ziedēs,

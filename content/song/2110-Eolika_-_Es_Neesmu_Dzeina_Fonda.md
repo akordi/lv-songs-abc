@@ -6,6 +6,7 @@ categories: ["Eolika"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads Am G Am G
 Am                G

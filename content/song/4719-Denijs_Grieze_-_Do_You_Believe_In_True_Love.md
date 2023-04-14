@@ -6,6 +6,7 @@ categories: ["Denijs Grieze"]
 tags: []
 draft: false
 ---
+
 ```text
 C(add9)                      G
 Long afternoon walks by the beach

@@ -6,6 +6,7 @@ categories: ["Kaugurieši"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laiva slīd pa ezeru kā saulains maija rīts, 
 Zēns kar stīgas ģitārai, un klusa dziesma trīc.

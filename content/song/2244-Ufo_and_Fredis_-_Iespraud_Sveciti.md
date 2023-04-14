@@ -6,6 +6,7 @@ categories: ["Ufo & Fredis"]
 tags: []
 draft: false
 ---
+
 ```text
        D           A
 Visur ledus, visur vēji

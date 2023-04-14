@@ -6,6 +6,7 @@ categories: ["TOUNS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāda starpība ir tam
 Kas bijis, laiku neatgriezt 

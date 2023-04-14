@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās"]
 draft: false
 ---
+
 ```text
 C            Am7         G
 Izsalcis pie Tevis nāku, Kungs,

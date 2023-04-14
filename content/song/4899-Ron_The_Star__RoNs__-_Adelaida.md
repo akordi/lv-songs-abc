@@ -6,6 +6,7 @@ categories: ["Ron the star ( RoNs )"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pelēkā miglā Es uzsaucu..
 Kaut kur pie - Adelaidas

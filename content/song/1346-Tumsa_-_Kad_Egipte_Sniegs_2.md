@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads:[ F [ C/E [ Dm [ C [ }2x 
 pants;[ F [ C/E [ Dm [ C [ }2x 

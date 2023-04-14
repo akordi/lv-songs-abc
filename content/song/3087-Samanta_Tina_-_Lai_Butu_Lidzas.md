@@ -6,6 +6,7 @@ categories: ["Samanta Tīna"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 vēlreiz vēl
 vēlreiz vēl man vienai lietū jāpaliek,

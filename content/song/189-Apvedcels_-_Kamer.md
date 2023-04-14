@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [D]Dū – [E]dū - da - di – [A]dū 2x
 

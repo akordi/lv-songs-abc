@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es klusēju un klusējot viss nozied,
 tāpat kā lapas,kurās salna kož,

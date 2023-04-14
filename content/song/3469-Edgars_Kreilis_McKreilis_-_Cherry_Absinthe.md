@@ -6,6 +6,7 @@ categories: ["Edgars Kreilis (McKreilis)"]
 tags: ["supernova", "eng", "bez akordiem", "supernova 2019"]
 draft: false
 ---
+
 ```text
 I don’t remember
 A lot of things

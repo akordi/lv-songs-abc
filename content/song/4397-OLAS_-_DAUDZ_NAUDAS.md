@@ -6,6 +6,7 @@ categories: ["OLAS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dēls, Olas ir klāt! 
 Vai Tu esi gatavs? 

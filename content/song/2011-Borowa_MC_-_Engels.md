@@ -6,6 +6,7 @@ categories: ["Borowa MC"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Am            G
 Ustobā tymss, ustobā tymss, 

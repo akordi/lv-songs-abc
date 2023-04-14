@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad man bija desmit vai vienpadsmit gadu,
 Reiz vectēvs tā klusi man pienāca klāt,

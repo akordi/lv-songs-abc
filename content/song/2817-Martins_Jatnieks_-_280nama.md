@@ -6,6 +6,7 @@ categories: ["Mārtiņš Jātnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Te pat vien tālāk, 
 Trīs stāvus augstāk, 

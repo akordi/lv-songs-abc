@@ -6,6 +6,7 @@ categories: ["Fredis & Co"]
 tags: []
 draft: false
 ---
+
 ```text
 Dubļi mani [D] dubļi
 šņirkst starp priekšzo[G]biem

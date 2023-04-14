@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 Pantiem: Am  Am   Am  D  Em  Em  Em  Em   Bm  Bm  Bm-C  C  
 

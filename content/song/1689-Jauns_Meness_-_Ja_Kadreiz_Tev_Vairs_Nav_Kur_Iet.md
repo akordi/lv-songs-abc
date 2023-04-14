@@ -6,6 +6,7 @@ categories: ["Jauns Mēness"]
 tags: []
 draft: false
 ---
+
 ```text
 D Bm G A }2x
 Em A G A

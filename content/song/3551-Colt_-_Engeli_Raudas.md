@@ -6,6 +6,7 @@ categories: ["Colt"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man ir tevis pilna sirds
 Vai spēsi viņu paturēt sev

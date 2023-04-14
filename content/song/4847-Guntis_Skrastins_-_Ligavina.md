@@ -6,6 +6,7 @@ categories: ["Guntis Skrastiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Gm D Gm Cm D
 Gm Cm Gm D Gm

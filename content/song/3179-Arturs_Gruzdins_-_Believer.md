@@ -6,6 +6,7 @@ categories: ["Arturs Gruzdiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Last night
 I looked up to the sky

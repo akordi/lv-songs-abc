@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads:   A  F#m  Bm  E  A  F#m  Bm  E
           A

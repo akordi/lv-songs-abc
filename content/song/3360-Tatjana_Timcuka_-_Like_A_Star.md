@@ -6,6 +6,7 @@ categories: ["Tatjana Timčuka"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Everything that we’ve been coming through,
 Everything that I have done for you,

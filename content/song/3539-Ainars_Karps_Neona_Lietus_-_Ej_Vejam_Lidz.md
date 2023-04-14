@@ -6,6 +6,7 @@ categories: ["Ainars Karps (Neona lietus)"]
 tags: []
 draft: false
 ---
+
 ```text
 Ej vējam līdz (A.Karps, Neona lietus)
 C           F           C

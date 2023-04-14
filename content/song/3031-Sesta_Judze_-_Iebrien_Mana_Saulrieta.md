@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Iebrien manā saulrietā un jūti,
 cik gan sen šeit gaidīta esi Tu,

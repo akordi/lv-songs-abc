@@ -6,6 +6,7 @@ categories: ["Vilki"]
 tags: []
 draft: false
 ---
+
 ```text
 
  Gm          Cm

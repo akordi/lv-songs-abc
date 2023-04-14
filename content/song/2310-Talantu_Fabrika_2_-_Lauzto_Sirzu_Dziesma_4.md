@@ -6,6 +6,7 @@ categories: ["Talantu Fabrika 2"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Šī vairs nebūs lauzto [C] siržu dziesma [G][D]
 [Am] Sirdī kvēlo mīles[C]tības liesma [G][D]

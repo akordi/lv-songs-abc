@@ -6,6 +6,7 @@ categories: ["Sweecha"]
 tags: []
 draft: false
 ---
+
 ```text
 F                G
 Kad sniegs snieg un ziema nak

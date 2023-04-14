@@ -6,6 +6,7 @@ categories: ["Viktors Zemgals"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Zvaigznei, kura krīt, lūdzu piepildīt,
 Lai esi tā, ar kuru iet uz pašu zemes malu.

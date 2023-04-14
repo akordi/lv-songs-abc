@@ -6,6 +6,7 @@ categories: ["Artūrs Kristkalns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad nav tevis es jūtos izmisis
 Es jūtos izmisis

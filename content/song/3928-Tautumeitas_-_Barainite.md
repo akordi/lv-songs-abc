@@ -6,6 +6,7 @@ categories: ["Tautumeitas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nedošu es irbītēmi
 Tēvu zemi purināt,

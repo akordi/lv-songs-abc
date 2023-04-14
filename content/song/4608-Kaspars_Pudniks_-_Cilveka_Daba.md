@@ -6,6 +6,7 @@ categories: ["Kaspars Pudniks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man vajag mašīnu, lampu un gultu,
 Man vajagmāju dārgu un jūru,

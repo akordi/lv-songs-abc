@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Ebm Fm Bbm
 Db  Ab Db

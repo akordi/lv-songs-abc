@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nāk no pistoles dūmi, vaj’g kaut ko sadomāt fiksi
 Viņš trāpīja galvā, jo zina, kā sabojāt visu

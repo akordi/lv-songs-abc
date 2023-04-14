@@ -6,6 +6,7 @@ categories: ["Jātnieki"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vai esi kādreiz bijis tur, 
 Kur zvaigznes rokas prieku bur.

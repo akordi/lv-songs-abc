@@ -6,6 +6,7 @@ categories: ["Rassel (Ruslans Kuksinovičs)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Divas biļetes un mēs jau virs zemes
 Mana čika vienmēr klāt, she the baddest

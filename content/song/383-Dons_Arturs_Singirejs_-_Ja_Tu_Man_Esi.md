@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 F/A  x  0 3 2 1 1
 G/B  7 10 9 7 8 7

@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 intro A A7 D D7 G D Bm Em A D
  

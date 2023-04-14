@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Apkārt tik [C] balts
 Uzsnidzis [C] sniegs,

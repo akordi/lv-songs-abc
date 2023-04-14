@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
    D                              A
 1. Melna laiva zilās jūras krastā,

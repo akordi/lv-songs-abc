@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
       C                         F
 1. Tu mājās pārnāci kaut kad ap sešiem

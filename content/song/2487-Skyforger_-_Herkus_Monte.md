@@ -6,6 +6,7 @@ categories: ["Skyforger"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Sudrabs un zelts
 Nespēj izmainīt to

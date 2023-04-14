@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: []
 draft: false
 ---
+
 ```text
 
 intro: E F#m  5x

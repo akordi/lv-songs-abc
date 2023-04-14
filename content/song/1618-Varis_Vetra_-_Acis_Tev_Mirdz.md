@@ -6,6 +6,7 @@ categories: ["Varis Vētra"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 Kā sirds man tevi mīlēt grib,

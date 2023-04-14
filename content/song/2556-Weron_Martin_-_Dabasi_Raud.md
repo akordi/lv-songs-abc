@@ -6,6 +6,7 @@ categories: ["Weron Martin"]
 tags: []
 draft: false
 ---
+
 ```text
 G        D                Am         C                G    
 Muokūņi sasystuos peļķuos ikdīnys spūduļojās i breinojās,

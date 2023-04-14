@@ -6,6 +6,7 @@ categories: ["Dinārs Gulbis"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo: 2.lada :)
 

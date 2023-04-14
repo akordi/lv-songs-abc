@@ -6,6 +6,7 @@ categories: ["Maskačkas spēlmaņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzeivuoj’ jauna meiteņa
 Pi tāva jar muoti:

@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["tulkojums", "latgaliski"]
 draft: false
 ---
+
 ```text
 Intro
 G D Am

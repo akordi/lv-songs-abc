@@ -6,6 +6,7 @@ categories: ["Velves"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Rudens palika, rudens klusēja,
 Aukstu ūdeni mutē ieņēmis,

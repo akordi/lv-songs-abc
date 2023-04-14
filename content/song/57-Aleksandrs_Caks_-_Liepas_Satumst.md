@@ -6,6 +6,7 @@ categories: ["Aleksandrs Čaks"]
 tags: []
 draft: false
 ---
+
 ```text
         Am                    Dm
 Liepas satumst, lapās apklust vēji

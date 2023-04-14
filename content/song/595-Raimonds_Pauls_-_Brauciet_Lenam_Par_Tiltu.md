@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: []
 draft: false
 ---
+
 ```text
      C
 Caur to ar' esam slaveni,

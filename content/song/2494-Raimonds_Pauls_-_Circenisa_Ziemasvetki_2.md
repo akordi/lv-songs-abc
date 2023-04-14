@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 [C] Dzied circenītis aizkrāsnē, 
 Nāc puisīt mātei azotē;                      

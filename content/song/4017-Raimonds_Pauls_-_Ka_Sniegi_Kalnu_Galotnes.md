@@ -6,6 +6,7 @@ categories: ["Raimonds Pauls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā sniegi kalnu galotnēs,
 Lai mūžam balti būtu mēs.

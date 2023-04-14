@@ -6,6 +6,7 @@ categories: ["Novadnieki"]
 tags: []
 draft: false
 ---
+
 ```text
 K?d? lietain? dien?
 satiku es tevi,

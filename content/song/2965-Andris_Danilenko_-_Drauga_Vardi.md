@@ -6,6 +6,7 @@ categories: ["Andris Daņiļenko"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ziemas vakars iekrīt zilgā mirgā,
 Debess telpā rīta zvaigzne dziest.

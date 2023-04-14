@@ -6,6 +6,7 @@ categories: ["Pēteris Upelnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu stāvi manā priekšā, 
 Un vairāk nesaki neko, 

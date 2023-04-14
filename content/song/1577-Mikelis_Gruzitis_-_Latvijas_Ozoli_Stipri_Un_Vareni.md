@@ -6,6 +6,7 @@ categories: ["Miķelis Gruzītis"]
 tags: []
 draft: false
 ---
+
 ```text
   C
 Latvijas ozoli stipri un vareni

@@ -6,6 +6,7 @@ categories: ["Saldaks (Andrejs Saldaks)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kas mēs bijām pirms gada un kas mēs esam tagad,
 Jā, es esmu cilvēks, pilns ar trūkumiem un kļūdām , bet 

@@ -6,6 +6,7 @@ categories: ["Andris Daņiļenko"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Dzimšanas dienā tev dāvinu prieku,
 Prieku ar mazu smaidiņu,

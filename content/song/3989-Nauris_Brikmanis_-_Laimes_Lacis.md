@@ -6,6 +6,7 @@ categories: ["Nauris Brikmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad aiz loga sniegota ziema 
 Ļaudis netā sēž, kā ap ugunskuru

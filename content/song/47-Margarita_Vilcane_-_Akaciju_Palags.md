@@ -6,6 +6,7 @@ categories: ["Margarita Vilcāne"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm
 Balts ir akāciju palags

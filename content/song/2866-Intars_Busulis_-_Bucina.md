@@ -6,6 +6,7 @@ categories: ["Intars Busulis"]
 tags: []
 draft: false
 ---
+
 ```text
 Tā pirmā buča nozīmē, ka Velns lai Tevi rāvis
 Tā otrā buča nozīmē, ka Enģels Tevi skāris

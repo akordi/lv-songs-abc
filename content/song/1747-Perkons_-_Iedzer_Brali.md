@@ -6,6 +6,7 @@ categories: ["Pērkons"]
 tags: []
 draft: false
 ---
+
 ```text
   Bb       Eb     Bb     F 
 Iedzer, brāli! Ātrām kājām

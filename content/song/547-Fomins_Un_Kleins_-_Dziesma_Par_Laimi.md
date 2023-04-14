@@ -6,6 +6,7 @@ categories: ["Fomins un Kleins"]
 tags: ["eurovision"]
 draft: false
 ---
+
 ```text
 C
 Kad nav vairs nekā, es domāju tā,

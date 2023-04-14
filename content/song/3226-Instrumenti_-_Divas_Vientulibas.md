@@ -6,6 +6,7 @@ categories: ["Instrumenti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Uz proscēnija maliņas tauriņu ēnā
 Divu čellu stīgas, silda dienā drēgnā

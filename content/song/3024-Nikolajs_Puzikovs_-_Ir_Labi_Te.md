@@ -6,6 +6,7 @@ categories: ["Nikolajs Puzikovs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mēs, meklējam, kur tā vieta ir.
 Kur naktī saule nenoriet, un kur var

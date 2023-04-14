@@ -6,6 +6,7 @@ categories: ["The Mundane"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Inftro 4x (ceturtajā reizē nespēlē pēdējo noti)
 E-----7-------7-------8-7------------

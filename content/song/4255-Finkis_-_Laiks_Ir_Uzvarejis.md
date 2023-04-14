@@ -6,6 +6,7 @@ categories: ["Finķis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Intro
 Cik ilgi tu skriesi man tā pa priekšu

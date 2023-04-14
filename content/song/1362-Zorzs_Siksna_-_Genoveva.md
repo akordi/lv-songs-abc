@@ -6,6 +6,7 @@ categories: ["Žoržs Siksna"]
 tags: []
 draft: false
 ---
+
 ```text
 D                   A
 Mežmalā reiz ēda avenes,

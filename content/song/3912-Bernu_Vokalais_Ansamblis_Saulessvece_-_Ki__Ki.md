@@ -6,6 +6,7 @@ categories: ["Bērnu vokālais ansamblis Saulessvece"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es pamostos no rīta, un kā jau pieņemts tas.
 Pie gultiņas uz grīdas, stāv melnas čībiņas

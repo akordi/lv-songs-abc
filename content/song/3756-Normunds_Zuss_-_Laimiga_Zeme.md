@@ -6,6 +6,7 @@ categories: ["Normunds Zušs"]
 tags: []
 draft: false
 ---
+
 ```text
 G Dm C F C Dm C F
 

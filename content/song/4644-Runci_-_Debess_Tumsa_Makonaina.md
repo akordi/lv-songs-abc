@@ -6,6 +6,7 @@ categories: ["Runči"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Debess tumša, mākoņaina,
 Jūra vētrās dauzīta;

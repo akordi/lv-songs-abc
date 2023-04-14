@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm                   Bb             F         C
 Mu juuksed kuumavad, jalge all maa, lööb leekima.

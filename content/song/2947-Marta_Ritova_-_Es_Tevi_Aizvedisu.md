@@ -6,6 +6,7 @@ categories: ["Marta Ritova"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es ar astoto tramvaju
 Tevi, uz Nepālu aizvedīšu.

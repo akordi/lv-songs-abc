@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kamīna ogles kvēlošās
 Tik lēnām dziest un vakars satumst

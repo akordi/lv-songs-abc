@@ -6,6 +6,7 @@ categories: ["Uldis Kazinovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es esmu cilvēks  es varu rādīt
       Kā pareiz mīlas bultas raidīt

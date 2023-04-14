@@ -6,6 +6,7 @@ categories: ["Artūrs Strautiņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir jāiemācās nepieskarties tev
 Blakus stāvēt bet kopā neaizmigt...

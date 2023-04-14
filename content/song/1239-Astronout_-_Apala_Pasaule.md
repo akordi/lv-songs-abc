@@ -6,6 +6,7 @@ categories: ["Astro'n'out"]
 tags: []
 draft: false
 ---
+
 ```text
 Gm             F         D#      Bb F
 Šodien apņēmos izkrāsot, pasauli koši,

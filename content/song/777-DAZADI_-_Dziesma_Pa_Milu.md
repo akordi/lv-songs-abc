@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 C         G    F                G
 Melodija skan ta ir dziesma pa milu

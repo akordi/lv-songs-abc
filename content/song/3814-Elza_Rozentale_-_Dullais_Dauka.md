@@ -6,6 +6,7 @@ categories: ["Elza Rozentāle"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 1. pants
 Reiz dzīvoja kāds puisis – Dullais Dauka,

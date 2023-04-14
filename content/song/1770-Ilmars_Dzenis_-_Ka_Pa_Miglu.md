@@ -6,6 +6,7 @@ categories: ["Ilmārs Dzenis"]
 tags: []
 draft: false
 ---
+
 ```text
 Es tiešām nezinu kā jums pa dzīvi iet,
 Bet man ar to liekas, kaut kas nekārtībā šķiet.

@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 ak, brāļi-brālīši un mīļā mās'
 tek vista ar cālīšiem

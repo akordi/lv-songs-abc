@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: []
 draft: false
 ---
+
 ```text
 Bet es nepar[B]ko tos neat[E]dotu,
 Tos vienkāršos [G#m] rītus mūsē[A]jos.

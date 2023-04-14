@@ -6,6 +6,7 @@ categories: ["Šokolāde"]
 tags: []
 draft: false
 ---
+
 ```text
 Ir kāds, kurš manu prātu slēdz
 Ar mani elpu sedz 

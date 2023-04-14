@@ -6,6 +6,7 @@ categories: ["Ex Animo"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Kas ir šis bērns?
 Intro G D Hm C H Em

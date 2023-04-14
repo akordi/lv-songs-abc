@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Divreiz gadā viņu apciemo mate
 Ceļa galā pie zīmes bīstami

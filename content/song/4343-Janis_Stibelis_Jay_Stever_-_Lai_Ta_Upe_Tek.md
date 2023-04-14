@@ -6,6 +6,7 @@ categories: ["Jānis Stībelis (Jay Stever)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Arvien tālāk mans ceļš    
 Pretī debesīm, klusi slīd

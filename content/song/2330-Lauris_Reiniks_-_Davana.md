@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Tu nedaudz kautri pieskaries
 Un [Am] saki lūdzu piedodiet

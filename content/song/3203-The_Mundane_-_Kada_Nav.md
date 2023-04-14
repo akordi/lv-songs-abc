@@ -6,6 +6,7 @@ categories: ["The Mundane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Cauri garai virtuālai dienai soļus plati speru
 It kā zinādams ka kaut kam tomēr šajā dzīvē deru

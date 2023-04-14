@@ -6,6 +6,7 @@ categories: ["Lauris Reiniks"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Akdievs man [G] tiešām nav tik [F] daudz
 Drosmes ar ko tev samaksāt

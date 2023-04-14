@@ -6,6 +6,7 @@ categories: ["Muiža"]
 tags: []
 draft: false
 ---
+
 ```text
 C                   G
 Pie niedres laivu sēju,

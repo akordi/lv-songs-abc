@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 Jau sen šo zemi bērzu zemi sauc,
      A7                   D

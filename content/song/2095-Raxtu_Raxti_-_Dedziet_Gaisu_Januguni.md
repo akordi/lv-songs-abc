@@ -6,6 +6,7 @@ categories: ["Raxtu raxti"]
 tags: ["līgo"]
 draft: false
 ---
+
 ```text
 D                      Bm    A
 Dedziet gaišu jāņuguni Līgo, Līgo

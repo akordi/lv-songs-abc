@@ -6,6 +6,7 @@ categories: ["Country Stones (Laukakmeņi)"]
 tags: []
 draft: false
 ---
+
 ```text
 Klaidonis.                             tulkojis: Jānis Osis
 F                                    C

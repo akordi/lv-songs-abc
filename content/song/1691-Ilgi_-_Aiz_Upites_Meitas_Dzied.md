@@ -6,6 +6,7 @@ categories: ["Iļģi"]
 tags: []
 draft: false
 ---
+
 ```text
 Cm    Bb    Cm
 Aiz upītes meitas dzied

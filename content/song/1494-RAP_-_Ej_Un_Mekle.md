@@ -6,6 +6,7 @@ categories: ["R-A-P-"]
 tags: []
 draft: false
 ---
+
 ```text
 Skaņojums - drop D[DADGBE]
 

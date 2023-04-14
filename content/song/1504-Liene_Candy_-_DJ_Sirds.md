@@ -6,6 +6,7 @@ categories: ["Liene Candy"]
 tags: []
 draft: false
 ---
+
 ```text
 D      G          Em              A
 Šonakt, es būšu tā komēta, kas krīt 

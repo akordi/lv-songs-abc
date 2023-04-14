@@ -6,6 +6,7 @@ categories: ["Aija Kukule"]
 tags: []
 draft: false
 ---
+
 ```text
            B                      F#
 Viņš klusi jautāja reiz magonei un nātrei,

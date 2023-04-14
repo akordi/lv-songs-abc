@@ -6,6 +6,7 @@ categories: ["Duets \"Divi\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es tevi gaidu.
 Domājot par tevi smaidu,

@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
   Tu zini, es [C] zinu
   Kā likt tiem stāt un skatīt kā [F] māku

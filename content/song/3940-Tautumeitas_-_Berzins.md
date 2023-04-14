@@ -6,6 +6,7 @@ categories: ["Tautumeitas"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Bērziņš auga uz akmiņa, uz akmiņa,
 Sudrabiņa lapiņāmi, lapiņāmi;

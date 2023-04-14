@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
 D             A             Bm        G        A
 Krustiem auga ceļam saknes, krustiem zvaigznes debesīs;

@@ -6,6 +6,7 @@ categories: ["Remix"]
 tags: []
 draft: false
 ---
+
 ```text
 intro: G C7 G Eb9 D9
 

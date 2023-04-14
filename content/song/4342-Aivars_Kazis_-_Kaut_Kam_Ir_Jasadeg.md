@@ -6,6 +6,7 @@ categories: ["Aivars Kažis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad sējējs sēklu zemē ber,
 Viņš noslēpumu mana,-

@@ -6,6 +6,7 @@ categories: ["Liepavots"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 Es [A] pamostos viens, bet tomēr kā trūkst
 Es [D] neatceros vairs nekā, man atmiņa lūzt.

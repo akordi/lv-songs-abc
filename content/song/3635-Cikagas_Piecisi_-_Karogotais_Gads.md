@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 C                  G      C
 Es vakardien avīzē lasīju pats,

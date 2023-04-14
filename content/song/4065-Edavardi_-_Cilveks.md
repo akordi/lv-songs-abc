@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Reps un bungas, sēžu es pie tukšas lapas – stress un 
 grumbas

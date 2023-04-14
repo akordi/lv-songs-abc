@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Aizmirstiet manus vārdus
 Ļaujiet tiem viļņus auklēt,

@@ -6,6 +6,7 @@ categories: ["Gapoljeri"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 No paša rīta glaunā uzvalkā,
 Ienāk Viktors ar tulpi veikalā, 

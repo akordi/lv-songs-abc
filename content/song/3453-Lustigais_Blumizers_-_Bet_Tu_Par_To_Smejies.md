@@ -6,6 +6,7 @@ categories: ["Lustīgais blūmīzers"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es nedrīkstu gaidīt,es nevaru nākt,
 es nemāku sevi šobrīd mierināt,

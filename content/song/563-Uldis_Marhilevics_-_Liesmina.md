@@ -6,6 +6,7 @@ categories: ["Uldis Marhilēvičs"]
 tags: []
 draft: false
 ---
+
 ```text
     Em                    B
 Tik tumšs ir visapkārt,ka sajust jau var

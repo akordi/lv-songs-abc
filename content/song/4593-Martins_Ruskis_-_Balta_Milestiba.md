@@ -6,6 +6,7 @@ categories: ["Mārtiņš Ruskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu mana lielā, baltā mīlestība,
 Pa baltu sniega ceļu atnākusi

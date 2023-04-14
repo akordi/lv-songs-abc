@@ -6,6 +6,7 @@ categories: ["Aija Rimša"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atšķiru atmiņu grāmatu savu
 Debesīs ieraugu varavīksni

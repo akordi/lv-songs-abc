@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                       Bm
 Atnāc, draugs, pretī man liedagā

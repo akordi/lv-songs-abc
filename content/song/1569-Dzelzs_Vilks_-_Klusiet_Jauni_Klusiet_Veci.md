@@ -6,6 +6,7 @@ categories: ["Dzelzs Vilks"]
 tags: []
 draft: false
 ---
+
 ```text
 Klusiet jauni, klusiet veci (Ritma ģitāra)
 

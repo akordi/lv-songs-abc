@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu, Tu noklusēsi par to, ko jūti (ko jūti), - 
 Es, es sajutīšu, ko noklusēji.

@@ -6,6 +6,7 @@ categories: ["Gunārs Placēns"]
 tags: ["ziemassvētku"]
 draft: false
 ---
+
 ```text
 Eb         Cm Eb  Fm7/Bb
 Laba slava sniedziņam -

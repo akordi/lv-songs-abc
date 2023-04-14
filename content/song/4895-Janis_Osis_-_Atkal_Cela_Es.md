@@ -6,6 +6,7 @@ categories: ["Jānis Osis"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
           [E] Atkal ceļā es,   laiks ātri skrien un atkal [G#] ceļā es,                   
               Vēl dzīvē mūzika man [F#m] daudz, daudz draugu nes,

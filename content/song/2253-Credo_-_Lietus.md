@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 [E] Lietus noskalo [F#] visas pēdas,
 [E] Paliek pāri tikai [F#] bēdas.

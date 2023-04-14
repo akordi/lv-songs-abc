@@ -6,6 +6,7 @@ categories: ["Iļģi"]
 tags: []
 draft: false
 ---
+
 ```text
 Em       Bm   G         D
 Es gulu, gulu man sapnī rādās,

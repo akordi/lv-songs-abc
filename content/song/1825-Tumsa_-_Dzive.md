@@ -6,6 +6,7 @@ categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tik sarežģīts un tik neprātīgs tavs vārds
 Tik saulains un tik apmācies tavs vaigs

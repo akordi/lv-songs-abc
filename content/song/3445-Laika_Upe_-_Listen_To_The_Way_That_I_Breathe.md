@@ -6,6 +6,7 @@ categories: ["Laika Upe"]
 tags: ["supernova", "eng", "supernova 2019"]
 draft: false
 ---
+
 ```text
 You keep lying
 Eyes glued to the ceiling

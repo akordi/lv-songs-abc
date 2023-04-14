@@ -6,6 +6,7 @@ categories: ["Tranzīts"]
 tags: []
 draft: false
 ---
+
 ```text
 Em                D                       Em
 Kad pāri kāds nodarījis, man pirmajam zvani

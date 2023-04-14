@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: []
 draft: false
 ---
+
 ```text
 C		G	F		G	
 Par to kas bijis, par to vairs nerunā,

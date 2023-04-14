@@ -6,6 +6,7 @@ categories: ["Nikolajs Puzikovs"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: Ab Db
 

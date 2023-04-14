@@ -6,6 +6,7 @@ categories: ["Jānis Krūzītis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Lai cik ir sūra no bangām jūra, 
 Manās domās nāc!

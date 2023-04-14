@@ -6,6 +6,7 @@ categories: ["Maskačkas spēlmaņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kas tā tāda liela lanka
 Bez bēriem kumeļiem;

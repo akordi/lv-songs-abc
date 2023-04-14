@@ -6,6 +6,7 @@ categories: ["Mazie Smirdīgie Kociņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 es sevi mīlu tu mani arī
 ja tu mani gribi es sevi nē

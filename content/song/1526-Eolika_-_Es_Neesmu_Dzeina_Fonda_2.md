@@ -6,6 +6,7 @@ categories: ["Eolika"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: {Dm C Bb}2x
 

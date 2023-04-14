@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Nesaprotot savu lomu,
 Maldināti cerībām,

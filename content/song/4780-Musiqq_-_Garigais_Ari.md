@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: ["muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Es laikam naivi domāju
 Ka šī loma rakstīta ir man.

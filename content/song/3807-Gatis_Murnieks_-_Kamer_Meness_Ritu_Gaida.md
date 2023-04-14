@@ -6,6 +6,7 @@ categories: ["Gatis Mūrnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kūst lēni kā sniegs
 Laiks manās plaukstās

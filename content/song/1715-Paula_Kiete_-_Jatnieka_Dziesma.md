@@ -6,6 +6,7 @@ categories: ["Paula Ķiete"]
 tags: []
 draft: false
 ---
+
 ```text
 Ab             Db     
 Koka zirdziņam zara rībiņa,

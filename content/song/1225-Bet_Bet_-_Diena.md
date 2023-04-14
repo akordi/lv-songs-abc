@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 G            C      G
 Vai Tu zini, kas ir diena?

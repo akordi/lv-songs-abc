@@ -6,6 +6,7 @@ categories: ["Konike"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Miuviga ues, konika amaui zeva di
 No dechka? Movei ves, Nomakua

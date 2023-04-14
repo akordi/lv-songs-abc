@@ -6,6 +6,7 @@ categories: ["Zigmārs Liepiņš"]
 tags: []
 draft: false
 ---
+
 ```text
 
 Pants E A B E G#m A E C#m B A B

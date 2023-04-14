@@ -6,6 +6,7 @@ categories: ["Valdis Ābols"]
 tags: []
 draft: false
 ---
+
 ```text
 Nu beidzot man vairs nav nekā,
 Nu viss ir baigā kārtībā -

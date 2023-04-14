@@ -6,6 +6,7 @@ categories: ["Jānis Vasiļevskis"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 G            Am        E           Am
 Ar tevi es, kopā mēs, pušķosim šīs ābeles.

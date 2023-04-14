@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads
 D F#m Bm G

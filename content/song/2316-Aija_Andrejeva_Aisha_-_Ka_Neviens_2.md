@@ -6,6 +6,7 @@ categories: ["Aija Andrejeva (Aisha)"]
 tags: []
 draft: false
 ---
+
 ```text
 G  Tu skatījies tā,Kā neviens.
 D   Tu runāji tā,    Em    Kā neviens.

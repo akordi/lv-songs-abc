@@ -6,6 +6,7 @@ categories: ["Katrina Gupalo"]
 tags: ["supernova", "eng", "supernova 2018", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Intoxicating scent sends wild flashes right in my prudence
 Agitating dead ends easily crashes

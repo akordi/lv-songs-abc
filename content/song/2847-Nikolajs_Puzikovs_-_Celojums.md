@@ -6,6 +6,7 @@ categories: ["Nikolajs Puzikovs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Saule, vēji, jūra, mīla, dīva 
 Cauri visai dzīvei nāksi tu 

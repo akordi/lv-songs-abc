@@ -6,6 +6,7 @@ categories: ["Transleiteris"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 [E] Kad piedzimu, māte [D] teica man- 
 Mēs visi [A] būsim superzvai[E]gznes.

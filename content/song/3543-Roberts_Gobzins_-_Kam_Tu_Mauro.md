@@ -6,6 +6,7 @@ categories: ["Roberts Gobziņš"]
 tags: []
 draft: false
 ---
+
 ```text
 G              D     Am           Em
 Cilveekpuulim paari kaada gaisma sliid,

@@ -6,6 +6,7 @@ categories: ["Artūrs Skrastiņš"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 Am              Dm
 Meżi,meżi tumšie meżi, 

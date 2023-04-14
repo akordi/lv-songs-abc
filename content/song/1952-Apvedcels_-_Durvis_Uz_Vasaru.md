@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā [H]plēsīga čūska žņaudz [F#]auto straume [H]mani
 Pilsētas torņi zvana, un laternas [F#]sauc

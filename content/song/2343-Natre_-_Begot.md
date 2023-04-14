@@ -6,6 +6,7 @@ categories: ["Nātre"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es bēgu, izeju ielās tikai vēlos vakaros,
 Kad neredzu sejas tiem ļaudīm, kas nāk pretim,

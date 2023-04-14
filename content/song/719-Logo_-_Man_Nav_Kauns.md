@@ -6,6 +6,7 @@ categories: ["Logo"]
 tags: []
 draft: false
 ---
+
 ```text
 Akordi: G Em C D
 

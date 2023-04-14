@@ -6,6 +6,7 @@ categories: ["Arstarulsmirus"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Labi, ar ko lai sāku?
 Domāju ikviens ir pamanījis cik bieži,

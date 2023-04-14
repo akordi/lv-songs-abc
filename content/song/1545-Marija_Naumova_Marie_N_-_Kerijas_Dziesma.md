@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 Dm        G       C
   Es varu jūs tik mīlēt

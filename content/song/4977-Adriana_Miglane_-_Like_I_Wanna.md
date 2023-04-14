@@ -6,6 +6,7 @@ categories: ["Adriana Miglāne"]
 tags: ["bez akordiem", "supernova 2023"]
 draft: false
 ---
+
 ```text
 [Chorus]
 Ooh la, la, like I wanna

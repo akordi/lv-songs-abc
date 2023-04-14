@@ -6,6 +6,7 @@ categories: ["Fakts"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ja vien tu zinātu, ko jūtu pret tevi
 Nepieciešams tu kā gaiss uz zeme man 

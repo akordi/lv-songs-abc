@@ -6,6 +6,7 @@ categories: ["Marta Ritova"]
 tags: []
 draft: false
 ---
+
 ```text
          B               F#
 Reiz pa reizei vārdi tik asi 

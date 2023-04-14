@@ -6,6 +6,7 @@ categories: ["Jeļena Lorena Švilpe"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Draugs lai draugam spēku dod
 Lai nekad to nenodod

@@ -6,6 +6,7 @@ categories: ["4-elements"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laivinieka meita biju
 Niedrā kāru vainadziņ

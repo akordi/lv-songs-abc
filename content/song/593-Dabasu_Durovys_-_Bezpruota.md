@@ -6,6 +6,7 @@ categories: ["Dabasu Durovys"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Ievads: Em D C
 

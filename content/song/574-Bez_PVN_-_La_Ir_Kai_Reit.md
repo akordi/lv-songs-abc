@@ -6,6 +6,7 @@ categories: ["Bez PVN"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
 Pants 1:
 Solo:     G | G | G | G

@@ -6,6 +6,7 @@ categories: ["Dziļi violets"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad mēs kopā gludinām veļu,
 Es kā aizsapņojies šoferis skatos uz tevis, 

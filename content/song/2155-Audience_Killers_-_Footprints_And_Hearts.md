@@ -6,6 +6,7 @@ categories: ["Audience Killers"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 People come and [C] go, [G] in and [Am] out of your [F] life
 People come and [C] go, [G] go, go [Am] [F]

@@ -6,6 +6,7 @@ categories: ["Beigtie Ulmaņi"]
 tags: []
 draft: false
 ---
+
 ```text
 D         F       E
 Vērot jūs man nav laika

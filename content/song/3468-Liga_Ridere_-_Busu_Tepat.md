@@ -6,6 +6,7 @@ categories: ["Līga Rīdere"]
 tags: ["supernova", "bez akordiem", "supernova 2019"]
 draft: false
 ---
+
 ```text
 Vai Tava sirds stostās neziņā
 Beidzot sāku Tevi saprast

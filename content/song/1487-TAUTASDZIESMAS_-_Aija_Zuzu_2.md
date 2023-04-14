@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["šūpuļdziesma"]
 draft: false
 ---
+
 ```text
 F                         Bb  F
 Aijā, žūžū, lāču bērni, aijā, žūžū

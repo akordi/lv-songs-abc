@@ -6,6 +6,7 @@ categories: ["Latgaliešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kupla līpa izauguse
 Muna tāva pogolmā. 

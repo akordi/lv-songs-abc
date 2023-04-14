@@ -6,6 +6,7 @@ categories: ["Laura Lo"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Teici nepievilsi
 [F] Uzbūvēji melus

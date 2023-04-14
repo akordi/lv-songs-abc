@@ -6,6 +6,7 @@ categories: ["New Old"]
 tags: []
 draft: false
 ---
+
 ```text
 Liec savu roku manējā! Ļauj man noticēt, ka Tu esi manējā!
 Tad atstāj mani! Pat nedomā! Nekas, viss būs labi. Man ir fotogrāfijas.

@@ -6,6 +6,7 @@ categories: ["Re:public"]
 tags: []
 draft: false
 ---
+
 ```text
 E             C#m
 Ja sanāk, tad paskaties logā,

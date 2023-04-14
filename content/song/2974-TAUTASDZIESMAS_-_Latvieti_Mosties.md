@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 *1905.gada revolūcijas dziesma
 

@@ -6,6 +6,7 @@ categories: ["Jēkabs Nīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Atnāc šonakt, nenāc rīt!
 Nevar tevi sagaidīt

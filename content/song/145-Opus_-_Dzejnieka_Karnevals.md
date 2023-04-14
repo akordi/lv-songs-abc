@@ -6,6 +6,7 @@ categories: ["Opus"]
 tags: []
 draft: false
 ---
+
 ```text
 F       Dm         C
 Kāda dzejnieka namā

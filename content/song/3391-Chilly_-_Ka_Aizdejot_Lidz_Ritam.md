@@ -6,6 +6,7 @@ categories: ["Chilly (Ilva Šeškauska-Štāla)"]
 tags: []
 draft: false
 ---
+
 ```text
 INTRO [A][D][F#m][E][F#m][D][Bm][E][F#m]
 

@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 Noviz [C] gadi, aizskan [G] zvani, atnāk [C] mūžs
 Noviz [F] gadi, aizskan [G] zvani, atnāk [C] mūžs

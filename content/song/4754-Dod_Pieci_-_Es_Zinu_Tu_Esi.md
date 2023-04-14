@@ -6,6 +6,7 @@ categories: ["Dod pieci"]
 tags: []
 draft: false
 ---
+
 ```text
 F Gm Dm Bb
 Dm Bb Dm F/A

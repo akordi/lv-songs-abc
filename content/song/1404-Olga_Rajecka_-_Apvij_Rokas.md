@@ -6,6 +6,7 @@ categories: ["Olga Rajecka"]
 tags: []
 draft: false
 ---
+
 ```text
 Kapo 2
 G     D     Em        Bm           C        	D7 G D7

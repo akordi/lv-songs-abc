@@ -6,6 +6,7 @@ categories: ["Lauku Muzikanti"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 Ievads: Am C Dm C G Am 
 

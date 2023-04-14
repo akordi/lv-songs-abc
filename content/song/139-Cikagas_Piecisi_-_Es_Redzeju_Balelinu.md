@@ -6,6 +6,7 @@ categories: ["Čikāgas piecīši"]
 tags: []
 draft: false
 ---
+
 ```text
 C                   G7
 Es redzēju bāleliņu jājam kumeliņ

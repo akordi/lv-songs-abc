@@ -6,6 +6,7 @@ categories: ["Intars Busulis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu panāc man pretī,
 Tu stāvi tepat.

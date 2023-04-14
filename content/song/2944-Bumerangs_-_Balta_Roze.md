@@ -6,6 +6,7 @@ categories: ["Bumerangs"]
 tags: []
 draft: false
 ---
+
 ```text
 Capo uz 3. ladas.
 

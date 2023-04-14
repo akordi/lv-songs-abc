@@ -6,6 +6,7 @@ categories: ["PeR"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Verse:
 We dance, we dance, we dance

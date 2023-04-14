@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
    Fm        A#7         D#
 Pa septiņiem vārtiem var ienākt,

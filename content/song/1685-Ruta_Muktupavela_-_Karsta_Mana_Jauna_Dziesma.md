@@ -6,6 +6,7 @@ categories: ["Rūta Muktupāvela"]
 tags: []
 draft: false
 ---
+
 ```text
 A                        E     A
 Karsta mana, karsta mana jauna dziesma

@@ -6,6 +6,7 @@ categories: ["Double Faced Eels"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir liesma, kura manī nenodziest
 Tā mani dīda, neļauj padoties

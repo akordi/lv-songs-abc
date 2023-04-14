@@ -6,6 +6,7 @@ categories: ["Vilnis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Fabrikas reps-
 Pa taisno no līnijas,

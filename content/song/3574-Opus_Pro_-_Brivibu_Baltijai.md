@@ -6,6 +6,7 @@ categories: ["Opus pro"]
 tags: []
 draft: false
 ---
+
 ```text
 F                    Cm      
 Māmuļa jūra mūs apskalo,

@@ -6,6 +6,7 @@ categories: ["Lauris Valters"]
 tags: ["supernova", "eng", "supernova 2018", "bez akordiem"]
 draft: false
 ---
+
 ```text
 So there is something
 I really want you to know

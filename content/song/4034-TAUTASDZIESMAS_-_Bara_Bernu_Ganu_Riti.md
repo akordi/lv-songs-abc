@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kas tie tādi, kas dziedāja
 Bez saulītes vakarā'i, vakarā?

@@ -6,6 +6,7 @@ categories: ["Opus pro"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Līst lietus, skumji līst.
 Liekas-viss

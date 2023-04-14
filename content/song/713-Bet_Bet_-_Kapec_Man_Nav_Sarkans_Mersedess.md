@@ -6,6 +6,7 @@ categories: ["Bet Bet"]
 tags: []
 draft: false
 ---
+
 ```text
 C Em C Em
 Saki man kāpēc, neviens nespēja man dot.

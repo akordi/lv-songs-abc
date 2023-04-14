@@ -6,6 +6,7 @@ categories: ["Rēzeknes zaļo pakalnu koris"]
 tags: []
 draft: false
 ---
+
 ```text
 C                  Dm
 Piena baltumā,tava bērnība,

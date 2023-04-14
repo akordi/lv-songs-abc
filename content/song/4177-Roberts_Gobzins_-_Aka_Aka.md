@@ -6,6 +6,7 @@ categories: ["Roberts Gobziņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tu trakais purva āzi,
 Kur tu to bozi bāzi?

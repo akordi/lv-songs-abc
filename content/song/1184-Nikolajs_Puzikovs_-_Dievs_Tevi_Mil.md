@@ -6,6 +6,7 @@ categories: ["Nikolajs Puzikovs"]
 tags: []
 draft: false
 ---
+
 ```text
 C       G          Am      G
 Kā tevi sauc, mazā kā tevi sauc

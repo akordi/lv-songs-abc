@@ -6,6 +6,7 @@ categories: ["Arkādija"]
 tags: []
 draft: false
 ---
+
 ```text
 Nāk! G/ Em / D
 Nāk! G / Em / A

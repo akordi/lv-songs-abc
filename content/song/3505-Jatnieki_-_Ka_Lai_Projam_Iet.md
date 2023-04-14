@@ -6,6 +6,7 @@ categories: ["Jātnieki"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pamosties no tās kas neliek tevi mierā
 Vakarā no trokšņa nepievilcīgā veidā

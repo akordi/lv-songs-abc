@@ -6,6 +6,7 @@ categories: ["Kaspars Tīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Sen kaklu asaru kamols skrāpē,
 Pār pleciem pelēkas ēnas slīd.

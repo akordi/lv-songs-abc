@@ -6,6 +6,7 @@ categories: ["Kaspars Dimiters"]
 tags: []
 draft: false
 ---
+
 ```text
 Dm     Dm/A# Em    Em/B
 Baigi gribas vecos laikus,

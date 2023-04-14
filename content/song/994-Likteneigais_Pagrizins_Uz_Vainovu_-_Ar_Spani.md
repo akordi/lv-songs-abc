@@ -6,6 +6,7 @@ categories: ["Likteneigais pagrīzīņs uz Vainovu"]
 tags: []
 draft: false
 ---
+
 ```text
 G C G D 4x
 

@@ -6,6 +6,7 @@ categories: ["Kace"]
 tags: []
 draft: false
 ---
+
 ```text
 Apkārt klusums,
 Tik kluss un mierīgs

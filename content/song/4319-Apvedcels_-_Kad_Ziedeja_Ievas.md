@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Itkā pateikts nav daudz,
 Bet tomēr ir gan.

@@ -6,6 +6,7 @@ categories: ["Justs Sirmais"]
 tags: []
 draft: false
 ---
+
 ```text
 [Am] Pretī taviem vārdiem
 [G] Es lieku savus

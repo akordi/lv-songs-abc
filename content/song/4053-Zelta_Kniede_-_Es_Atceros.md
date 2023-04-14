@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vecais tilts man atmiņā - mūs abus slavēja
 Debesīs bij’ zvaigznes tās, kas ceļu radīja

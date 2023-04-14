@@ -6,6 +6,7 @@ categories: ["The Hobos"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 The Hobos - Lost in space
 

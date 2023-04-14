@@ -6,6 +6,7 @@ categories: ["Miks Dukurs"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es svinīgi solu Tev sevi,
 Es svinīgi solu Tev sevi.

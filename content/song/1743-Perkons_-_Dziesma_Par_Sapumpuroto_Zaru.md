@@ -6,6 +6,7 @@ categories: ["Pērkons"]
 tags: []
 draft: false
 ---
+
 ```text
 Bbm
 Viena alga, kas tev priekšā -

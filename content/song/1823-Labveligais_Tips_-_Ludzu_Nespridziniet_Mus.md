@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Saldējuma pārdevēja, šoferis vai apkopēja,
 Studenti un skolotāji, pagāni un mācītāji.

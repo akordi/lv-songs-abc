@@ -6,6 +6,7 @@ categories: ["Linda Leen"]
 tags: []
 draft: false
 ---
+
 ```text
 Am            B
 Ziemeļos vēji asi,

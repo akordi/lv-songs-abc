@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Par vēju [C] ātrāk amors mākoņbēri [F] jāj.
 Un kailā [C] bulta ir viņa lokā pēdē[G]jā.

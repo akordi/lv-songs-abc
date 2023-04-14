@@ -6,6 +6,7 @@ categories: ["Euphony"]
 tags: ["supernova", "supernova 2015", "eng"]
 draft: false
 ---
+
 ```text
 There are so many places around the world to see
 There are so many people to meet, but only she knows how

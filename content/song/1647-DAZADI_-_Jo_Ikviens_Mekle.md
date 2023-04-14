@@ -6,6 +6,7 @@ categories: ["#DAŽĀDI"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads - G Em Am F F G Em am
 Pants  - Am Dm G C

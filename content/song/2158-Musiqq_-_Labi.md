@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: []
 draft: false
 ---
+
 ```text
 [Bm] Nolaidies manā bāzē, [A] āha tu saprat' pareiz', 
 [G] bet ja man jāpārfrāzē: [F#m] mans penijs tavā kasē.

@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 Kā reiz  [C]nozaga  ozolam  lapas, jūlija [Dm]vidū
 Tā uz [G]pasaules malu, tevi klusējot aizveda [C]cits [E]

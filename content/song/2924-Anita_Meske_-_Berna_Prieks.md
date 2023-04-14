@@ -6,6 +6,7 @@ categories: ["Anita Mešķe"]
 tags: []
 draft: false
 ---
+
 ```text
 Bb        Gm
 Man patīk lēkāt pa peļķēm

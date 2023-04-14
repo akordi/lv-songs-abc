@@ -6,6 +6,7 @@ categories: ["Ingus Ulmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads (8 t.)
 

@@ -6,6 +6,7 @@ categories: ["Valdis Atāls"]
 tags: []
 draft: false
 ---
+
 ```text
 E
 Ja tu būtu ziedoošs ķirša koks

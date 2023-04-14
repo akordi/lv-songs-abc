@@ -6,6 +6,7 @@ categories: ["#TAUTASDZIESMAS"]
 tags: []
 draft: false
 ---
+
 ```text
    C                       G             C
 1. Kur, pelīte, tu tecēji? Dikdai dikdai dam. 2 reizes

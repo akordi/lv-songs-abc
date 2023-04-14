@@ -6,6 +6,7 @@ categories: ["Imants Kalniņš"]
 tags: []
 draft: false
 ---
+
 ```text
 Intro: G# E/G# 2x C#m/G#
 

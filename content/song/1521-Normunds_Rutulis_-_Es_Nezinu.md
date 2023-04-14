@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
    D		 G	    Em	    	 A
 Ar sveču liesmu maigu, ar veltēm brīnišķām, 

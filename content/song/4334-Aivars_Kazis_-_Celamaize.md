@@ -6,6 +6,7 @@ categories: ["Aivars Kažis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Paņem ceļamaizei dziesmu,
 Klavieres jau ceļā nepaņemsi līdz,

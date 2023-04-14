@@ -6,6 +6,7 @@ categories: ["Justs Sirmais"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Domas plūst, neprāts mostas 
 Bet tomēr viss tik rāms

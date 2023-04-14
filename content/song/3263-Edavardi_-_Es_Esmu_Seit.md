@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pie manis policists piegāja, kam smaids bij’ imitēts
 Es ātrumu pārkāpu, skrienot kā baigais zibenzellis

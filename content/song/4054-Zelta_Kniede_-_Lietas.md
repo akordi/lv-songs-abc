@@ -6,6 +6,7 @@ categories: ["Zelta Kniede"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ir lietas, ko man pateikt
 Bet tas nemainīs neko

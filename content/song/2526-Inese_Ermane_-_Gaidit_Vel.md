@@ -6,6 +6,7 @@ categories: ["Inese Ērmane"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Te ar pirkstu galiem pieskaries 
 

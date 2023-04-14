@@ -6,6 +6,7 @@ categories: ["Oskars Deigelis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es nelūdzu lai Tu sniedz man to ko vēlos
 Visrūgtākais ir kas cits ko sagremot

@@ -6,6 +6,7 @@ categories: ["Ēriks Gruzniņš"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ko gan man darīt, lai viss tagad izmainās,
 Ko gan man darīt, lai viss notiek savādāk.

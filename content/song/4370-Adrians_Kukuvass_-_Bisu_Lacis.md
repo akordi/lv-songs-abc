@@ -6,6 +6,7 @@ categories: ["Adrians Kukuvass"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vai tu pie manis nāci, 
 Vai es pie tevis gāju?

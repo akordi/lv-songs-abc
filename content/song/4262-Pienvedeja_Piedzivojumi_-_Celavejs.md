@@ -6,6 +6,7 @@ categories: ["Pienvedēja Piedzīvojumi"]
 tags: []
 draft: false
 ---
+
 ```text
 D         C            G         D
 Rotājies sirds mieram sevi iztukšo

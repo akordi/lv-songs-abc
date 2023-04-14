@@ -6,6 +6,7 @@ categories: ["Gvido Linga"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kādreiz tālu, kad jāiet ir prom
 [Am] Raisies projām no [F] spožuma nost

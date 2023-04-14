@@ -6,6 +6,7 @@ categories: ["Colt"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Viens vienīgs klusums telpā
 Un gaiss tik salts

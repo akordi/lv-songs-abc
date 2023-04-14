@@ -6,6 +6,7 @@ categories: ["MESA"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es redzu laiku kā nogriezi no A līdz Z,
 Un katru dzīves notikumu, kā ejot sānslīdē,

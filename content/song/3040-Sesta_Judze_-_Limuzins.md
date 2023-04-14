@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tikai nesaki man šobrīd,kapēc putni nelido 
 tad kad mēness savu roku pretī māju jumtiem dod 

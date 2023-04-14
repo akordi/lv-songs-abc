@@ -6,6 +6,7 @@ categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es ticu,ka ir liktenis,
 ik vienam zem šīm debesīm,

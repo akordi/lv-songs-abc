@@ -6,6 +6,7 @@ categories: ["Intars Busulis"]
 tags: []
 draft: false
 ---
+
 ```text
 <p class="text-muted">*no šova "Pusnakts šovs septiņos ar Jāni Skuteli"</p>
 C G Am F 

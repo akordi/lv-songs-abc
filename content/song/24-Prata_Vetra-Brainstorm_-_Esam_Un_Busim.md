@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: []
 draft: false
 ---
+
 ```text
        Bb                                 F
 Man ir tas- ko var slīcināt un tas ko var glābt,

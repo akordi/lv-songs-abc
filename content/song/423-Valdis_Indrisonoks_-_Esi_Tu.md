@@ -6,6 +6,7 @@ categories: ["Valdis Indrišonoks"]
 tags: []
 draft: false
 ---
+
 ```text
     G  C    D 
 Esi Tu mans Dievs,

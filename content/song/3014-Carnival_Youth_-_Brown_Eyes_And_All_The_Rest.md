@@ -6,6 +6,7 @@ categories: ["Carnival Youth"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Intro(2x)
 C# G# D# D#

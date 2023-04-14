@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ai — nāve, nāve, nāvīte —
 pa draugam būsim mēs:

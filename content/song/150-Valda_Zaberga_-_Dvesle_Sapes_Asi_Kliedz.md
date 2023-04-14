@@ -6,6 +6,7 @@ categories: ["Valda Zāberga"]
 tags: []
 draft: false
 ---
+
 ```text
 F#m
 Dvēs’le sāpēs asi kliedz

@@ -6,6 +6,7 @@ categories: ["Prāta Vētra/Brainstorm"]
 tags: ["teātra izrādes"]
 draft: false
 ---
+
 ```text
 Ardievu, [D] meitenes, man jādodas,
 Kur kaujas lauki baltos kaulos lās,

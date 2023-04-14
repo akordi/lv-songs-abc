@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads: A/D/Fm/E/A/D/FmE/D
 

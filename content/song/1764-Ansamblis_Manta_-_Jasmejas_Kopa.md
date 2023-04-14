@@ -6,6 +6,7 @@ categories: ["Ansamblis \"Manta\""]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kāpēc man nāk smiekli par to, par ko citiem cilvēkiem 
 nenāk?

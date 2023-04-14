@@ -6,6 +6,7 @@ categories: ["Gaujarts"]
 tags: []
 draft: false
 ---
+
 ```text
 Atvaino par saulrietu to
 Em.............C..G..Am..Em

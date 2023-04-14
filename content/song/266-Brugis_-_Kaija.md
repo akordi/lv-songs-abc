@@ -6,6 +6,7 @@ categories: ["Bruģis"]
 tags: ["ziņģes"]
 draft: false
 ---
+
 ```text
 Ritms- D D U U D U
 

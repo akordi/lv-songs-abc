@@ -6,6 +6,7 @@ categories: ["Andris Ērglis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā gan tā var - mani iemīt dubļos
 Un pret zvaizgznēm samainīt?

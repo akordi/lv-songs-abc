@@ -6,6 +6,7 @@ categories: ["Monologs divatā"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kaķi melni un spocīgi sēdēja pie mana loga
 Tie gaidīja smieklus manus un tavus

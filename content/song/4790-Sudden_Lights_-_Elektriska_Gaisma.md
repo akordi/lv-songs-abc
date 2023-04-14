@@ -6,6 +6,7 @@ categories: ["Sudden Lights"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm  F#
 

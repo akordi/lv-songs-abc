@@ -6,6 +6,7 @@ categories: ["ReVīzija"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kad pilsētas pilsoņi dodas uz dusu
 Es braucu ar 7. autobusu

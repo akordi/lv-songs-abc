@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 G                    C
 Šajā pilsētā ikviens viņu pamanīs

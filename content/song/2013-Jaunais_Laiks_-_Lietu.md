@@ -6,6 +6,7 @@ categories: ["Jaunais Laiks"]
 tags: []
 draft: false
 ---
+
 ```text
 D
 Kad lietus līs, tu nāksi man līdz,

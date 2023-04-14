@@ -6,6 +6,7 @@ categories: ["Pionieris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Manu pagātni un nākotni šķīra robeža
 Gribu lai tu zini to tā ir mana atziņa

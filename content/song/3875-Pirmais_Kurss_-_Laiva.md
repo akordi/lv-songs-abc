@@ -6,6 +6,7 @@ categories: ["Pirmais kurss"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Sniegs ir tikko nokusis, dosimies mēs pētīt dabu
 Līdzi seši litri baltā, plāksteris un resnā Māra

@@ -6,6 +6,7 @@ categories: ["Singapūras Satīns"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Pi-sam flexkursijā 3x
 Pisam, pisam, pisam, pisam, pisam flex-kursijā

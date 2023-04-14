@@ -6,6 +6,7 @@ categories: ["Noktirne"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Cerību vīns.
 Satumst aiz loga,saule jau riet,

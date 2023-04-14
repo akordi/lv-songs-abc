@@ -6,6 +6,7 @@ categories: ["Vēja Runa"]
 tags: []
 draft: false
 ---
+
 ```text
 Uz krūtīm reiz [Am] sapnis man dusē[D]ja
 Rīts [G] nāca un [Em] krūtīs man palika

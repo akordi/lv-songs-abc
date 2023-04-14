@@ -6,6 +6,7 @@ categories: ["Ojārs Grīnbergs"]
 tags: []
 draft: false
 ---
+
 ```text
 C                         G7
 Māt, atkal logā zvaigznes kvēlo,

@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Fāters aiziet muterēs, palieku es viens un ēst,
 Limonādi dzert un ēst, jo fāters aiziet muterēs,

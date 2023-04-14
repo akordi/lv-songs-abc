@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Zvanu tev ka  pārradīšos vēlāk
 Jo vēl brīdi jāpaliek ir šeit

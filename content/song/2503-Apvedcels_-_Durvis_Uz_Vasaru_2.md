@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
      B                  F#            B
 Kā plēsīga čūska žņaudz auto straume mani

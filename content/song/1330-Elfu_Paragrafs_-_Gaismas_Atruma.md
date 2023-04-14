@@ -6,6 +6,7 @@ categories: ["Elfu Paragrāfs"]
 tags: []
 draft: false
 ---
+
 ```text
 C             Am
 Tumsa iestāsies mazliet vēlāk

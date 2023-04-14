@@ -6,6 +6,7 @@ categories: ["V-I-P- (Vinegar into pearl)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Visu mūžu nodzīvojot
 sava prāta cietumā,

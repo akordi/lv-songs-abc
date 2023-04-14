@@ -6,6 +6,7 @@ categories: ["Oranžās brīvdienas"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm, A, E
 

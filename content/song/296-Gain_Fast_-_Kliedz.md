@@ -6,6 +6,7 @@ categories: ["Gain Fast"]
 tags: []
 draft: false
 ---
+
 ```text
 G                 C
 Nokrītu es atkal zemu,

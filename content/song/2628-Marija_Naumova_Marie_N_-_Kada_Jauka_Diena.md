@@ -6,6 +6,7 @@ categories: ["Marija Naumova (Marie N)"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kādā jaukā dienā [Am] saule spīd [G]
 [C] Kādā jaukā dienā [Am] zaļā pļavā [F] rasa krīt 

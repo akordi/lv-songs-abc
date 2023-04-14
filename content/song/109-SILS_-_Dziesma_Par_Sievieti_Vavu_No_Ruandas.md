@@ -6,6 +6,7 @@ categories: ["S-I-L-S-"]
 tags: ["eng"]
 draft: false
 ---
+
 ```text
 Bm  G  Bm  A
 Es cenšos apmelot tos vārdus, ko saki tu man kaut tu jau stāvi tik tālu no manis un es vairs

@@ -6,6 +6,7 @@ categories: ["Katrīna Cīrule"]
 tags: ["supernova", "supernova 2017", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Tryna find good out of everything i do
 When there’s a negative it always involves you

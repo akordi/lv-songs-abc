@@ -6,6 +6,7 @@ categories: ["Kār Lū"]
 tags: []
 draft: false
 ---
+
 ```text
 G D C A
   C                      D

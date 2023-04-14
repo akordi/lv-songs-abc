@@ -6,6 +6,7 @@ categories: ["Ingus Pētersons"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Neaizliedz vēl, to solīto vēl
 Pāri laikam pretī rītam

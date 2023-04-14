@@ -6,6 +6,7 @@ categories: ["OGHRE"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Satrieksim esošās 
 Ticības pelnos 

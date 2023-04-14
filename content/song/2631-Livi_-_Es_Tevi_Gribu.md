@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Reiz, koncerta laikā es 
 ieraudzīju meiteni skaistu.

@@ -6,6 +6,7 @@ categories: ["Labvēlīgais Tips"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Mana vārda diena klāt, tikai nav ko aicināt,
 Pasēdēt un palīksmot, piedzerties un padejot

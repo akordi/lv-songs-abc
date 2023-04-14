@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Gribu visu dzīvot tā, kā pirmo reizi
 Pīpēju pēdējo cīgu kādu simto reizi

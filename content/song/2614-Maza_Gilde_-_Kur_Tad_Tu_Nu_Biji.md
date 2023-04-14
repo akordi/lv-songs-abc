@@ -6,6 +6,7 @@ categories: ["Mazā ģilde"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Kur tad tu nu biji, [F] āzīti [G] manu?
 [C] Kur tad tu nu biji, [F] āzīti [G] manu?

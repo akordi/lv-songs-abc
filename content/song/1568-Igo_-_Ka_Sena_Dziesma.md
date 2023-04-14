@@ -6,6 +6,7 @@ categories: ["Igo"]
 tags: []
 draft: false
 ---
+
 ```text
 Ieavads C / C7 C / C7 C / C7 / C / C7
 

@@ -6,6 +6,7 @@ categories: ["Rock'n'Berries"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ceturtdienas vakarā 
 Viņš iziet ielās pastaigāt  

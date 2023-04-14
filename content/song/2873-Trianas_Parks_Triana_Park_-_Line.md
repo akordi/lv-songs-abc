@@ -6,6 +6,7 @@ categories: ["Triānas Parks (Triana Park)"]
 tags: ["supernova", "eurovision", "supernova 2017", "eng"]
 draft: false
 ---
+
 ```text
 I’m going [F] round in [Em] circles
 And the [Am] door’s wide [G] open

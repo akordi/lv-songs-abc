@@ -6,6 +6,7 @@ categories: ["Maranata"]
 tags: []
 draft: false
 ---
+
 ```text
 C  G  Am  G
 C  G  F   G

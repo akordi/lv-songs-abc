@@ -6,6 +6,7 @@ categories: ["Klaidonis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Caur ābeļdārzu divatā mēs gājām
 Un runājām par to, kā ziedi plaukst;

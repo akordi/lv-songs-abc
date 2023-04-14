@@ -6,6 +6,7 @@ categories: ["Ivo Grīsniņš-Grīslis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Once upon a time lived a girl
 With a honey blonde hair and eyes like pearls

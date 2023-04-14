@@ -6,6 +6,7 @@ categories: ["Voiceks Voiska"]
 tags: []
 draft: false
 ---
+
 ```text
 
 Intro: C F G F C F G

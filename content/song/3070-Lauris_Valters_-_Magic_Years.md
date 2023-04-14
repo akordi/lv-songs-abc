@@ -6,6 +6,7 @@ categories: ["Lauris Valters"]
 tags: ["supernova", "supernova 2017", "eng", "bez akordiem"]
 draft: false
 ---
+
 ```text
 When this world is turning and the fire is burning
 I keep thinking about you, every moment, my love

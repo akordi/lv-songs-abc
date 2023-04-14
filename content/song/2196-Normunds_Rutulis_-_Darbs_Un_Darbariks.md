@@ -6,6 +6,7 @@ categories: ["Normunds Rutulis"]
 tags: []
 draft: false
 ---
+
 ```text
 Kaut kur [C#] tālu tālumā nodārd [D#m] debesis,
 Vējā [G#] koki šūpojas, tūlīt, tūlīt [C#] līs.

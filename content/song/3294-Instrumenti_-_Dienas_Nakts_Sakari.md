@@ -6,6 +6,7 @@ categories: ["Instrumenti"]
 tags: []
 draft: false
 ---
+
 ```text
 Aptuveni spēlējams:
 e|--------------------------------------------------------------------|

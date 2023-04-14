@@ -6,6 +6,7 @@ categories: ["Laura Rizzotto"]
 tags: ["supernova", "eurovision", "eng", "supernova 2018", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Ain’t it funny, ain’t it funny
 Oh, it all started as a joke

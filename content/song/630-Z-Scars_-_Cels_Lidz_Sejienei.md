@@ -6,6 +6,7 @@ categories: ["Z-Scars"]
 tags: []
 draft: false
 ---
+
 ```text
 viss, ko juti tu - tagad ir pie manis
 un neviens nepamanīs, vai tie tiešām bijām mēs

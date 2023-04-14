@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Cm                      
 Vienā valodā raud visi ļaudis, 

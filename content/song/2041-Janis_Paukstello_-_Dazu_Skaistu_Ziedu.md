@@ -6,6 +6,7 @@ categories: ["Jānis Paukštello"]
 tags: []
 draft: false
 ---
+
 ```text
 G
 Dažu skaistu ziedu

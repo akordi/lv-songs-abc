@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es kādu dienu miršu, fakts, vajag atzīt
 Ka redzēšu, kā pazūdu es, pats savām acīm

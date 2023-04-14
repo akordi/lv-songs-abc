@@ -6,6 +6,7 @@ categories: ["Sapņu Pīpe"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ap pazīstamiem un radiem,
 Ap katru vai liels tas, vai mazs

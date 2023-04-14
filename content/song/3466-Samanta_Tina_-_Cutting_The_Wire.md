@@ -6,6 +6,7 @@ categories: ["Samanta Tīna"]
 tags: ["supernova", "eng", "bez akordiem", "supernova 2019"]
 draft: false
 ---
+
 ```text
 Oooo! Oooo! O! O!
 Oooo! Oooo! O! O!

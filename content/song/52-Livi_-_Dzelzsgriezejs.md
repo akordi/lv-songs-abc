@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 Melns [Am] nezvērs, [C] rūkdams saēd [D] dakti
 Vīn[Am]sarkans [C] zieds uz krūti [D] spiež

@@ -6,6 +6,7 @@ categories: ["Dopings"]
 tags: []
 draft: false
 ---
+
 ```text
 C Dm G piedz C F C G C   
 

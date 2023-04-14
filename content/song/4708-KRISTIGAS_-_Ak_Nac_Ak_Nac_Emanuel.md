@@ -6,6 +6,7 @@ categories: ["#KRISTĪGĀS"]
 tags: ["kristīgās", "bez akordiem"]
 draft: false
 ---
+
 ```text
 1. Ak, nāc, ak, nāc, Emanuel,
 lai brīvs ir atkal Izraels,

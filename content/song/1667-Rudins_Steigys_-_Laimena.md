@@ -6,6 +6,7 @@ categories: ["Rudins Steigys"]
 tags: []
 draft: false
 ---
+
 ```text
 A G Dm A (D)
 

@@ -6,6 +6,7 @@ categories: ["Harijs Ozols"]
 tags: []
 draft: false
 ---
+
 ```text
 Nokrīt [Am] ledus gabaliņš pie sirds,
 Kas no [F] tāliem ledājiem bij’ šķirts,

@@ -6,6 +6,7 @@ categories: ["Ieva Akurātere"]
 tags: []
 draft: false
 ---
+
 ```text
 2x
     C                     G

@@ -6,6 +6,7 @@ categories: ["Credo"]
 tags: []
 draft: false
 ---
+
 ```text
 [E] Ko tu puika stāvi mali[B]ņā?
 [E] Ko tu dungo savā kaba[B]tā?

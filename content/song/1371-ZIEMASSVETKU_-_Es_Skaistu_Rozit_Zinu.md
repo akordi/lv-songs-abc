@@ -6,6 +6,7 @@ categories: ["#ZIEMASSVĒTKU"]
 tags: ["ziemassvētku", "kristīgās"]
 draft: false
 ---
+
 ```text
 Es skaistu rozīt’ zinu	
 A          D      E  F#m

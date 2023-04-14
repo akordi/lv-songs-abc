@@ -6,6 +6,7 @@ categories: ["Saldaks (Andrejs Saldaks)"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Vai tiek prasīts par daudz ?
 Ja dāvā mīlu un pēc pretmīlas sauc..

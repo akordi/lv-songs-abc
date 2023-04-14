@@ -6,6 +6,7 @@ categories: ["VIŅA"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Koku zari debesīs skrāpē manu vārdu, 
 tāpēc ka es nāku un zem kājām zeme plīst.

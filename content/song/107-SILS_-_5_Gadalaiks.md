@@ -6,6 +6,7 @@ categories: ["S-I-L-S-"]
 tags: []
 draft: false
 ---
+
 ```text
 Em         D        C     
 es slīkstu nejūtot kā sāp

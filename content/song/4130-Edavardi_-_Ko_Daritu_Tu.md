@@ -6,6 +6,7 @@ categories: ["Edavārdi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Es esmu reperis Rīgā, ko Tu teiksi
 Par to, novēli man papīru tad un veiksmi

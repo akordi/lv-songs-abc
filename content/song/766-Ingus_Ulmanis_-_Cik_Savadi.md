@@ -6,6 +6,7 @@ categories: ["Ingus Ulmanis"]
 tags: []
 draft: false
 ---
+
 ```text
 G | Bm A | x3
 G D

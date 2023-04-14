@@ -6,6 +6,7 @@ categories: ["Haralds Sīmanis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tas neesmu es - tā mana ēna, 
 Kas pie kājām Tev klājienā krīt;

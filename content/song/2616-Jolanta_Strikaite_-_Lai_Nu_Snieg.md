@@ -6,6 +6,7 @@ categories: ["Jolanta Strikaite"]
 tags: ["ziemassvētku", "tulkojums"]
 draft: false
 ---
+
 ```text
 Te [Em] kalnus ieskauj [C] baltai sniegs un tas [D] pārklāj nogāzes. [Am]
 Šī [Em] karaļvalsts visa [C] ledū, kurā [D] diemžēl valdu [A] es.

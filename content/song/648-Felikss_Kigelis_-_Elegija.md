@@ -6,6 +6,7 @@ categories: ["Fēlikss Ķiģelis"]
 tags: []
 draft: false
 ---
+
 ```text
 intro: A
 Bm    A            G

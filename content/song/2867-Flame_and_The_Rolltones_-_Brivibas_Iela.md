@@ -6,6 +6,7 @@ categories: ["Flame & The Rolltones"]
 tags: []
 draft: false
 ---
+
 ```text
 E      
 Gar Brīvības ielas stūriem,

@@ -6,6 +6,7 @@ categories: ["Apvedceļš"]
 tags: []
 draft: false
 ---
+
 ```text
 [A]Kad bēdas slīkst [E]vīnā, [F#m]es sapņos atgriežos [D]Argentīnā
 

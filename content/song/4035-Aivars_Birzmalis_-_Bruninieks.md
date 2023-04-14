@@ -6,6 +6,7 @@ categories: ["Aivars Birzmalis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Man mamma ir tik skaista,
 viņa ir visskaistākā,

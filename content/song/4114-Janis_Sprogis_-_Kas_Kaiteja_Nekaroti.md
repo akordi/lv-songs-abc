@@ -6,6 +6,7 @@ categories: ["Jānis Sproģis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kas Kaitēja Nekaroti , Latvju zēnu strēlniekos'i 
 Kas Kaitēja Nekaroti , Latvju zēnu strēlniekos'i 

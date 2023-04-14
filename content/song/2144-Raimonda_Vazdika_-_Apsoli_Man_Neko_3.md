@@ -6,6 +6,7 @@ categories: ["Raimonda Vazdika"]
 tags: []
 draft: false
 ---
+
 ```text
 [C] Es [G] nezinu, kā man [C] būt. [G]
 [C] Es [G] nezinu, kā man [Am] būt.

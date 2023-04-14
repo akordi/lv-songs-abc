@@ -6,6 +6,7 @@ categories: ["Dzieti"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Bēgu dienu, bēgu nakti,
 Laimas liktā neizbēgu.   2X

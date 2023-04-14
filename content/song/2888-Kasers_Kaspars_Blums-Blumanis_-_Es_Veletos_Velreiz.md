@@ -6,6 +6,7 @@ categories: ["Kašers (Kaspars Blūms-Blūmanis)"]
 tags: []
 draft: false
 ---
+
 ```text
 Taviem [F] vārdiem [C] piesais[Dm]tīts
 Tavām [F] acīm [C] kvēli[Dm]nāts

@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
       Am7       C            D
 Melns nezvērs ,rūkdams saēd dakti,

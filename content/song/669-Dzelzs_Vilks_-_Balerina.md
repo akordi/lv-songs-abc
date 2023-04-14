@@ -6,6 +6,7 @@ categories: ["Dzelzs Vilks"]
 tags: []
 draft: false
 ---
+
 ```text
 [Cm]Uz mēles viņa dejo [Fm]vienās [Eb]kurpēs
 [Cm]Neslēpj viņu ne [Fm]samts, ne [Eb]zīds.

@@ -6,6 +6,7 @@ categories: ["Aminata Savadogo"]
 tags: ["muzikālā banka 2021"]
 draft: false
 ---
+
 ```text
 Dm Am G Dm
 Dm 

@@ -6,6 +6,7 @@ categories: ["Dons (Artūrs Šingirejs)"]
 tags: []
 draft: false
 ---
+
 ```text
 [G] Dievs vēl [D] nav šo zemi [C] sācis
 [G] neviens nav [D] kodis [C] ābolos

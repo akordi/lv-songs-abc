@@ -6,6 +6,7 @@ categories: ["Em-Dārziņa mūzikas skolas zēnu koris"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ar nēstiņu pār pleciem iet Lapu Krišs,
  un lapas krīt, un lapas krīt,

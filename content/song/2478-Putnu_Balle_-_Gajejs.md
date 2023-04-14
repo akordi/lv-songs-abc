@@ -6,6 +6,7 @@ categories: ["Putnu balle"]
 tags: []
 draft: false
 ---
+
 ```text
 Ievads, Pants C Em F G 2x
 Piedz. C Am F G

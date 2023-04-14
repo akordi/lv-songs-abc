@@ -6,6 +6,7 @@ categories: ["AssA"]
 tags: []
 draft: false
 ---
+
 ```text
 Bm#                     A     Bm#        A
 Mēs gribam dzīvot labāku dzīvi nekā tagad

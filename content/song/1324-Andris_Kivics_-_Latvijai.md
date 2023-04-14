@@ -6,6 +6,7 @@ categories: ["Andris Kivičs"]
 tags: ["patriotiskās"]
 draft: false
 ---
+
 ```text
 Ievads: Bb F C Dm
 

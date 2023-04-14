@@ -6,6 +6,7 @@ categories: ["PeR"]
 tags: []
 draft: false
 ---
+
 ```text
 [E] Es tevi mīlu gribu un jūtu 
 [A] skaistu un jauku simpātisku 

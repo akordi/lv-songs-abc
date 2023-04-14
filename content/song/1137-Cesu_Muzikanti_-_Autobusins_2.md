@@ -6,6 +6,7 @@ categories: ["Cēsu Muzikanti"]
 tags: []
 draft: false
 ---
+
 ```text
 G                        Em 
 Caur nakti autobusiņš laužas

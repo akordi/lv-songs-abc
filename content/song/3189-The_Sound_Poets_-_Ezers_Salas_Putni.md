@@ -6,6 +6,7 @@ categories: ["The Sound Poets"]
 tags: []
 draft: false
 ---
+
 ```text
 F          Dm               Am
 Rāms ezers mākoņiem klāts stāv

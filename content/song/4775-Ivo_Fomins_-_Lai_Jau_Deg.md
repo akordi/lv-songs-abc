@@ -6,6 +6,7 @@ categories: ["Ivo Fomins"]
 tags: ["muzikālā banka 2020"]
 draft: false
 ---
+
 ```text
 Am           G
 Melna, melna upe lien

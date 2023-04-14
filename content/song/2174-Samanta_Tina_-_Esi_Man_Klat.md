@@ -6,6 +6,7 @@ categories: ["Samanta Tīna"]
 tags: []
 draft: false
 ---
+
 ```text
 / S. Tīna /
 [Am]Atver acis un [F] kliedz, ja Tu jūti kā [C] sniegs,[G] Aizkrīt Tev aiz krāgas

@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Kā uz dzīrēm atskrien ķīves
 Noreibst jūras, ķērc un brēc

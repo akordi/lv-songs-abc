@@ -6,6 +6,7 @@ categories: ["Ēriks un Daniels"]
 tags: ["kristīgās", "bez akordiem"]
 draft: false
 ---
+
 ```text
 Bet stunda nāk
 Un ir jau klāt

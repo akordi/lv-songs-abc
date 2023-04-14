@@ -6,6 +6,7 @@ categories: ["Zvaigžņu lietus"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Tevi satvēra aiznesa projām,
 Sirdi dūra kāds mirklis tik ass,

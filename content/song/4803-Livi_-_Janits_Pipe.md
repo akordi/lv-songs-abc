@@ -6,6 +6,7 @@ categories: ["Līvi"]
 tags: []
 draft: false
 ---
+
 ```text
 F#                                            A
 Jānītis ir vēl mazs - saulē iededzis strīpains

@@ -6,6 +6,7 @@ categories: ["Second File"]
 tags: []
 draft: false
 ---
+
 ```text
 intro G F C 2x
 

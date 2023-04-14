@@ -6,6 +6,7 @@ categories: ["Patrioti-lg"]
 tags: ["latgaliski"]
 draft: false
 ---
+
 ```text
    Am                     E             Am
 1. Kur upeite i tylts, pi veikala stuov zyrgs.

@@ -6,6 +6,7 @@ categories: ["Maskačkas spēlmaņi"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Diezin, diezin, vai būs tiesa,
 Ko tie ļaudis izrunāja?

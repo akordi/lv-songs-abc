@@ -6,6 +6,7 @@ categories: ["Dakota"]
 tags: []
 draft: false
 ---
+
 ```text
 Kas tev ir lieks to aizmet prom
 Lai paliek prieks vēl būs jādzīvo

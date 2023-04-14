@@ -6,6 +6,7 @@ categories: ["Mārtiņš Jātnieks"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laiks piesēst uz vecā lieveņa,
 Tur miers, tur klusums, tur iedvesma 

@@ -6,6 +6,7 @@ categories: ["Uldis Kazinovskis"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Ne jau visur vainīgs kaimiņš
          Pat ja tevim gadās bērniņš

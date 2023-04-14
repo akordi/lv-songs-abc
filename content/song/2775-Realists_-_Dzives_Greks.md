@@ -6,6 +6,7 @@ categories: ["Reālists"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 No sākuma sāpīg ilgāk labāk bet pēctam tu izaudz un 
 prasi naudu

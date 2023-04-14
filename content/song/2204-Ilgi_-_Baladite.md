@@ -6,6 +6,7 @@ categories: ["Iļģi"]
 tags: []
 draft: false
 ---
+
 ```text
 C Em Am 
 Am Em C Em Am

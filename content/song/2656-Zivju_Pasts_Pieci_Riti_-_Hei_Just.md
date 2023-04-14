@@ -6,6 +6,7 @@ categories: ["Zivju pasts (Pieci Rīti)"]
 tags: ["tulkojums"]
 draft: false
 ---
+
 ```text
 Ja nu.. [G] kurpe atsiesies
 Ja nu.. [D] mikrofons saitēsies

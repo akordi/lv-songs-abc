@@ -6,6 +6,7 @@ categories: ["Rupuči"]
 tags: []
 draft: false
 ---
+
 ```text
 E        C#m  A       B
 Div mozi eži, Div osi eži.

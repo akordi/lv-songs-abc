@@ -6,6 +6,7 @@ categories: ["Musiqq"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Laiks - nesaliek visu pa plauktiem,tas vienkārši padara 
 mūs vecākus

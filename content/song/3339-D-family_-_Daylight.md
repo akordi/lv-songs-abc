@@ -6,6 +6,7 @@ categories: ["D-family"]
 tags: ["bez akordiem"]
 draft: false
 ---
+
 ```text
 Night, no one ever talks at night
 Darkness hardly gives advice
