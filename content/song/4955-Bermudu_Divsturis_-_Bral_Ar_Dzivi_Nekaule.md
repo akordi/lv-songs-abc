@@ -65,7 +65,7 @@ Māsas brāļus sagaidīs, brāļi māsas apzeltīs
 E 
 Še, Tev mana sirds plēs to pušu 
 C#m
-Tu un es būsim kongorenārs
+Tu un es būsim konglomerāts
 E                                            C#m
 Bohēmā redzu vairāk plusu, nekā mans ģimenes ārsts
 E                                          C#m 

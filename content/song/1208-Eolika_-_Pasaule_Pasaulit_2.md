@@ -13,22 +13,21 @@ Eolika/Boriss Rezņiks
 
 C                         Dm
 Zied debesīs linu ziedi,  mākoņi zili zied!
-G                            C
+G                            F             G         C
 Tur putni vasaras dziedoņi - lūdz, lai tos uzklausiet
 C                               Dm
 Cik auglīgs lietus, cik devīgs, šai karstajā zemē krīt
-G                     F     G       C
+G                     F        G      C
 Mēs Tev dāvinam sevi, pasaule, pasaulīt.
 
-
-Zied pusnaktī zemu zvaigznes, 
-reibdamas zvaigznes zied
-Laiks, balsis visumā aiznesot,
-teic, lai tos izdziediet
-Lai gremdējas vītols pats sevī,
-līdz uzausīs viņa rīts
-Mēs Tev dāvinam sevi,
-pasaule, pasaulīt.
+C                             Dm
+Zied pusnaktī zemu zvaigznes, reibdamas zvaigznes zied
+       G                       F             G         C
+Laiks, balsis visumā aiznesot, teic, lai tos izdziediet
+C                               Dm
+Lai gremdējas vītols pats sevī, līdz uzausīs viņa rīts
+G                     F        G      C
+Mēs Tev dāvinam sevi, pasaule, pasaulīt.
 
 
 
@@ -39,12 +38,21 @@ G                C
 Mēs sev dāvinam Tevi pasaulīt!
 
 
-
+     Am                      F
 Vecs vītols kanāla malā, pie mūra kas senlaikos celts
+G                            F                G
 Vēl it nekas nav galā, kamēr zeme caur mūžību peld
+    C                             Dm
 Pār Rīgas jumtiem un bruģi, blāv gaisma kā gadsimtu zelts
+      G                                  F           G      C
 Kamēr zeme, šis brīnišķais kuģis, apkārt Saulei caur mūžību peld
 
+P: 
+C                Dm
+Mēs Tevi dāvinam sevi pasaulīt!
+G                C
+Mēs sev dāvinam Tevi pasaulīt!
 
-By Kuto
+
+
 ```

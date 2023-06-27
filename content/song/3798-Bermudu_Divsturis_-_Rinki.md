@@ -8,7 +8,9 @@ draft: false
 ---
 
 ```text
+F               G
 Riņķi zem acīm, jo vakar bija labi
+Am                 C
 Riņķi būs arī rīt, jo šonakt atkal labi
 
 Lai no augšas atkal pil pil pil pil

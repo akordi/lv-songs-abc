@@ -3,10 +3,20 @@ title: "Āvu, āvu baltas kājas"
 date: 2015-07-07T08:11:09+00:00
 url: /song/2225-TAUTASDZIESMAS_-_Avu_Avu_Baltas_Kajas
 categories: ["#TAUTASDZIESMAS"]
-tags: []
+tags: [abc]
 draft: false
 ---
-
+{{< abcjs song>}}
+T: Āvu, āvu baltas kājas
+M: 2/4
+L: 1/16
+K: F
+Q: 90
+"F" F3 C F2 F2 | "C" EF G2 C2 C2 | "F" A2 A2 c2 c2 | "C" G4-c2 B2 |
+w:1.Ā-vu, ā-vu bal--tas kā-jas lē-cu dār-zi ņā--i
+"F" A3 G F2 A2 | "C/E" G2 G2 C2 C2 | "Bb/D" FE D2 "C7" C2 E2 | "F" F4 F4 |]
+w: ā-vu, ā-vu bal-tas kā-jas, lē--cu dār-zi ņā-i.
+{{< /abcjs >}}
 ```text
 [C] Āvu, āvu [G] baltas kājas,
 [C] Lēcu dārzi[G]ņāi.

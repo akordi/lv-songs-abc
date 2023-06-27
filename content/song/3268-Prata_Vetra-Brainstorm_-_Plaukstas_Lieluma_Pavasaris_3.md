@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-INTRO(Starpspēle):|Em|Em|C|C|Am|Am|B|B7|
+INTRO(Starpspēle):| Em | Em | C | C | Am | Am | B | B7 |
 
 Em             Bm                      Am                 B
   Dienas sākas kāpju uz svariem, manis pietiks vēl diviem pavasariem.
@@ -26,7 +26,7 @@ G                              Am
 Am                          G                          D      
   Ahā!Es raustu plecus saku "Gaidu plaukstas lieluma pavasari"
 
-Starpspēle. |Em|Em|C|C|Am|Am|B|B7|
+Starpspēle. | Em | Em | C | C | Am | Am | B | B7 |
 
 Em              Bm               Am               B
   Mēles karstas,vārdi kad trinas  tā mēs dzīvojam tā mēs svinam.
@@ -50,7 +50,7 @@ G                              Am
 Am                          G                          D      
   Ahā!Es raustu plecus saku "Gaidu plaukstas lieluma pavasari"
 
-|Am|Am|G|G|Am|Am|
+| Am | Am | G | G | Am | Am |
 La,la,la,la,la....
 G                       D   Am
 la, Plaukstas lieluma pavasari!

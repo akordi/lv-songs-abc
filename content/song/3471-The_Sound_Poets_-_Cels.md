@@ -43,7 +43,7 @@ Kur vedīs mani ceļš
 
    Un dienās, kad
    Koferi un somas zūd
-   Kad kilometru pēdas zūst
+   Kad kilometru pēdas sūrst
    Man viena ceļa biedra trūkst
 
    Vēl nē, vēl nē

@@ -23,7 +23,7 @@ No asarām piebrieda durvis
     D               Am
 Nav nozīmes aizbultēt ciet -
 Em                 C
-Tās neatvētu pat burvis
+Tās neatvērtu pat burvis
     D               Am
 Kaut būtu iemīlējies
 
@@ -44,8 +44,8 @@ No dusmām aizdegās zārdi
 Ar sausajiem solījumiem
 Bet steigā izteiktie vārdi
 Nu kļuva par karavīriem
-No naida sardupa sienas
-Ar slāpētām emocījām
+No naida sadrupa sienas
+Ar slāpētām emocijām
 Un visas parastās dienas
 Tad tapa par labākajām
 ```

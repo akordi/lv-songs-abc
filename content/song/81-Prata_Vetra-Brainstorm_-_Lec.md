@@ -33,7 +33,7 @@ Bm---------------Em--------C-----------------------Am
 Tev jātic man līdz, lai kur arī būtu sapnis piepildīsies
 
 C------------------Bm
-Lec pāri semes malai,
+Lec pāri Zemes malai,
 C-------------Bm
 lec pāri vientuļai salai
 C-------------D----------G

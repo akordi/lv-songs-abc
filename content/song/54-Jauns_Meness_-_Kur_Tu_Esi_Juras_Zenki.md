@@ -11,12 +11,12 @@ draft: false
 G
 Kur tu esi jūras zeņķi,
  D             G
-Nāc man līdzi šeit uz рeņķi.
+Nāc man līdzi šeit uz šeņķi.
 
       C           G          D           G
 P:   Līgo, līgo, līgo, līgo līgo kuģīts jūriņā
 
-Šķeņķī tur ir gardas desas,
+Šeņķī tur ir gardas desas,
 Alus, šņabis, liķieris.
 P:
 Jūriniekiem plati krāgi,

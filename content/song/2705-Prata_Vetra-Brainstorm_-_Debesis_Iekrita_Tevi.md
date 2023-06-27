@@ -67,6 +67,14 @@ Debesis iekrita tevī
 Debesis iekrita
 E               B    F#
 Debesis iekrita tevī
+Debesis iekrita
+E               B    F#
+Debesis iekrita tevī
+        Abm
+Debesis iekrita
+E               B    F#
+Debesis iekrita tevī
+
 
 
 Abm F# C#m E (uz riņķi)

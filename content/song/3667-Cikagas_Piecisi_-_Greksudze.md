@@ -12,7 +12,7 @@ draft: false
 1. Tas notik` pirms gadiem,
     G           C
 Kad pieņemts tā bij`.
-    G 
+    F 
 Kad bērni savus vecākus
           C
 Vēl paklausīj`.

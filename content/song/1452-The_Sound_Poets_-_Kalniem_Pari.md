@@ -83,7 +83,7 @@ Ar vieglu soli pāri tiem, ar vienu soli
 
 
 Zalves rībēt beigs, līdz lepnums atkāpsies
-Zeme mītā reiz, jau atkal atkal zāle dīkst, jūti, jūti
+Zeme mītā reiz, jau atkal zāle dīkst, jūti, jūti
 
 Piedz
 

@@ -10,12 +10,12 @@ draft: false
 ```text
 Vai par [C]Tevi domājot dziesma šī būs
 Kad [G]aizejot dvēsele skumst
-Nē, par [F]dienām kas aiziet un negaida mūs
+Nē, par [F]dienām kas bija un negaida mūs
 Un kā [Am]veļa virtuvē [G]žūst
 
 Nokrīt zvaigzne, es vēlos, lai atpakaļ nāc
-Lai ka agrāk man dvēsele dzied
-Un lai diena, kas aiziet un negaida mūs
+Lai kā agrāk man dvēsele dzied
+Un lai diena, kas aiziet un sasilda mūs
 Šodien bezgalīga kļūst
 
 PIEDZ:
@@ -26,7 +26,7 @@ Tavā [G]sejā, [C]šovakar
 
 Vai vēl spēsim mēs kādreiz, tik laimīgi būt
 Tu man vaicāji saule kad riet
-Un vai diena, kas aizdedz un sasilda mūs
+Un vai diena, kas aiziet un sasilda mūs
 Šodien bezgalīga kļūs
 
 Nokrīt zvaigzne tu vēlies tai vasarā būt

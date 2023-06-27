@@ -10,26 +10,26 @@ draft: false
 ```text
 A            E
 Atstuots tev lidoj mīrs
-A            D
+F#m            D
 Tu jū redzi, viņ nadzierdi
 A            E
 Atstuots tev pleist laimis sīts
-A              D
+F#m              D
 Tu jū dzierdi, viņ najiuti..
 
 A            E         D
 Laiks myusus saliks pa vītom
-A        E
+A        E        D
 Myužeiba goram na lītom
 A          E           D
 Tovys rūkys dzeivi maņ virpoj..
-A        E        D
+F#m       E        D
 A, eņgeli dabasūs sviļpoj,
 A        E        D
 Eņgeli dabasūs sviļpoj,
 A        E        D
 Eņgeli dabasūs sviļpoj,
-A     E    D
+F#m     E    D
 Muni eņgeli sviļpoj..
 
 A E F#m D

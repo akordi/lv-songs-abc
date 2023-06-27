@@ -15,7 +15,7 @@ Pret [G]rītu izbeidzās [C]ceļš
 
 Aizmirsti mani, pirms projām Tu ej
 Kaut nezinu, kā būs bez Tevis
-Saule un zeme, tās tur Tevi vēl
+Saule un zeme, tās tur mani vēl
 Drīz apkārt pienenes zied
 
 PIEDZ:

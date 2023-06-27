@@ -12,42 +12,42 @@ Ievads 4x
 C        Am
 Pants:   3x
 
-C               Am
+C                     Am
 Viss sākās ar kliedzienu
-C               Am
+C                      Am
 Ar rupjas maizes riecienu
-F               G
+F                      G
 Kas zin, kā tam beigties
-F               Em
+F              Em
 Laiks taču mīl steigties, steigties
 
-C       Am
+C           Am
 Milzu mākoņi
-C       Am
+C                Am
 Mūsu ezeros platos
-F               G
+F                    G
 Un milzīgs ir klusums
-F               Em
-Ar kādu es tevī skatos
+F           Em
+Ar kādu, es tevī skatos
 
-C       Am
+C            Am
 Debess spogulī
-C       Am
+C                      Am
 Lai paliek mūsu smiekli
-F               G
+F                    G
 Kā nācam, tā aiziesim
-F               G
+F            G
 Pāri pļavām, viegli, viegli
 
 Piedz.	2x
 
-Dm      C       F       G
+Dm      C              F          G
 Ooooo..........Kur nav noslēpumiem gala?
-Dm      Am      F       G
+         Dm           Am           F  G
 Tur, kur dzīvi skatīt var no malas
-Dm      C       F              G
+Dm      C             F               G
 Ooooo..........Un kur saulriets satiek jūru?
-Dm      Am      F       G
+         Dm          Am          F  G
 Tur, kur milzu kalni liekas mazi
 
 Starpsp.  4x

@@ -45,14 +45,23 @@ Bet es mācos dienu
 C           G     C
 Nodzīvot kā dzīvi vienu.
 
+
+F
 Gara, gara čūska
-Manā ābelē vienīgo ābolu sargā. 
+G                            Em
+Manā ābelē vienīgo ābolu sargā,
+F
 Un neaizver acis
-Ne vasarā, ne ziemā bargā,
+G            C      G
+Ne vasarā, ne ziemā bargā.
+F
 Manas domas un lūpas
+G                      Em
 Tik pie ābola rītos un vakaros tiecas.
+F
 Un varbūt pat labi,
-Ka nekad līdz tam arī neaizsniedzas
+G                     C    G
+Ka nekad līdz tam arī neaizsniedzas.
 
 Am
 Gara, gara dziesma.

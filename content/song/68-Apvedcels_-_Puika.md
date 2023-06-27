@@ -18,16 +18,20 @@ Bet sacīja tētis: - gan citu reiz
 Viss dzīvē, ir pirmoreiz
  E                 A
 Allaž kad vecais jūrā gāja
-    B.                      E
+    B                      E
 Viņš stāvēja krastā, ar roku māja
                         A
 Sudraba zivs un sapņi par tālēm
-       B.         E
+       B        E
 Viss dzīvē, ir pirmoreiz
 
-PIEDZ: 2x
+PIEDZ:
 E        A       B             E
 Lai vai kā, nes viļņi vienmēr tur kur mājas ir
+E       A      B            E
+Un vienmēr, pa ceļam – bākuguns
+E        A       B             E
+Lai vai kā, nes viļņi vienmēr tur kur labi ir
 E       A      B            E
 Un vienmēr, pa ceļam – bākuguns
 

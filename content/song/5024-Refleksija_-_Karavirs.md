@@ -8,14 +8,18 @@ draft: false
 ---
 
 ```text
-(verse)
-Māt, tavās šūpuļa dziesmās
-Dzied, kas nededzis liesmās
-Nededzis dedzināts
+(intro)
+Em G D
+Em G A
+Em G D x2
 
-Māt, pļavas zied, koki runā
-Tiecas mākoņiem tuvāk
-Debesis remdināt
+(verse)
+Em  G      D      Em
+Māt, tavās šūpuļa dziesmās
+G          D        Em 
+Dzied, kas nededzis liesmās
+G   D         Em
+Nededzis dedzināts
 
 (chorus)
 Es gribu lietu just un rasu rīta saulē

@@ -46,7 +46,7 @@ Dm  Am            G
 Ka aizlidosi kādu dien'
 Gm       C
 Ka gaisā pacelsies
-Dm           G
+Dm Am          G
 Un neatskatīsies
 
 Bb    C    Dm

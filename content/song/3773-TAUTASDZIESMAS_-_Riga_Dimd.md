@@ -27,7 +27,7 @@ Mātes brālis atslēdziņ,
 Aijaijā trallallā,
 Mātes brālis atslēdziņ.
 
-Viņas pašas īstais,
+Viņas pašas īstais,bralis
 Zelta vāku liedināj,
 Aijaijā trallallā,
 Zelta vāku liedināj.

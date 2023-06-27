@@ -3,25 +3,33 @@ title: "Tautasbalss"
 date: 2016-01-04T19:02:57+00:00
 url: /song/2443-Gunars_Meijers_-_Tautasbalss
 categories: ["Gunārs Meijers"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Lauka valžas tautasbalss
+Em
+Laukā laužas tautasbalss
+Em                   Am
 Viņas dziesmai nebūs gals
+Em                   Bm
 Tautai lemts būs palīdzet
-Jo mūseie ir uzvaret!
+Am                  Em
+Jo mūsejie grib uzvarēt!
 
-Ziemeļvējš mus nesaldes
-Bet dienvidsaule nekaves
-Un brunais lacis negules
-Jo museie tur uzvare!
+Ziemeļvējš mus nesaldēs
+Bet dienvidsaule nekavēs
+Un brūnais lācis negulēs
+Jo musējie to uzvarēs.
 
- [PIEDZ] 
+Piedz.
+Em                   G
 Sarauj Sarauj Sarauj Sarauj
+   D             Em
 Ei ei ei ei Latvija!
+Em                   G
 Sarauj Sarauj Sarauj Sarauj
+   D             Em
 Ei ei ei ei Latvija!
 
 Ar savam koklem stabule 

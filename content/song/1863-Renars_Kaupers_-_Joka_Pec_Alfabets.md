@@ -3,7 +3,7 @@ title: "Joka pēc alfabēts"
 date: 2014-09-10T21:09:44+00:00
 url: /song/1863-Renars_Kaupers_-_Joka_Pec_Alfabets
 categories: ["Renārs Kaupers"]
-tags: []
+tags: ["bērnu"]
 draft: false
 ---
 

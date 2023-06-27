@@ -15,8 +15,10 @@ Am7/D
 Acis zilas, zilas, zilas,
 Kas tu esi, Margarita?
 
+G
 Takas malā zāle glāsta
 Slaidas, brūnas, basas kājas.
+Am7/D
 Un kā pirmā mīlestība
 Matu pīne guļ uz krūtīm.
 
@@ -30,13 +32,17 @@ Piedz.
     D7                         C          G
    Kur, vienalga, kur tu gribi.
 
+G
 Šodien ciematā ir svētki,
 Cilvēku un ziedu jūra.
+Am7/D
 Iepin savā matu pīnē
 Savus sapņus, Margarita.
 
+G
 Kur es braucu, vēl joprojām
 Dzirdu tavu mazo paldies.
+Am7/D
 Kāpēc man bij jāved citam
 Meitene ar kallu ziediem?
 

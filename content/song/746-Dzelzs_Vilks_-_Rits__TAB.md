@@ -23,22 +23,22 @@ A|-----------------------------------------------------------||
 E|-6-----6-----6-----6-----5-----5-----5-----5---------------||
 
 
-Uz ielas satrauktu cilv?ku ?nas
-K?ds kliedz bet es nedzirdu vairs
-Tik viegls v?jš pirms lidot
-Es atpl?tu rokas un biju tik br?vs
-Tik st?viem pirkstiem tu saž?audz aizkarus
-Bet zini man vairs nav ž?l
-Izsp?rušiem matiem sej? ledains smaids
-Un n?ca r?ts tik sterili t?rs
+Uz ielas satrauktu cilvēku ēnas
+Kāds kliedz bet es nedzirdu vairs
+Tik viegls vējš pirms lidot
+Es atpletu rokas un biju tik brīvs
+Tik stīviem pirkstiem tu sažņaudz aizkarus
+Bet zini man vairs nav žēl
+Izspūrušiem matiem sejā ledains smaids
+Un nāca rīts tik sterili tīrs
 Tu piekliedz nakti tukšiem vaidiem
-Es st?v?ju log? un v?l?jos iet
-Tavi trauslie kailie pleci s?rt?s l?pas
-Es aizeju br?vs
-Izsp?rušiem matiem sej? ledains smaids
-Bet zini man vairs nav ž?l
-Izsp?rušiem matiem sej? ledains smaids
-Un n?ca r?ts tik sterili t?rs
+Es stāvēju logā un vēlējos iet
+Tavi trauslie kailie pleci sārtās lūpas
+Es aizeju brīvs
+Izspūrušiem matiem sejā ledains smaids
+Bet zini man vairs nav žēl
+Izspūrušiem matiem sejā ledains smaids
+Un nāca rīts tik sterili tīrs
 
 
 Made by Engel1s
