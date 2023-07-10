@@ -63,10 +63,12 @@ Kā saule no rīta
 Kā pakāpiens drošs
 Kā ceļojums laikā tik aizraujošs.
 
-Laiks nāk, laiks iet
+Piedz.
+
+Laiks nākt, laiks iet
 Vienas durvis vaļā otras ciet
 Būs mezgli ko neatsiet
 Viens otram piedodiet, piedodiet
 
-Piedz.
+Piedz.x2
 ```

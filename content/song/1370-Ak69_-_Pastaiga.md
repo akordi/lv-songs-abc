@@ -23,7 +23,7 @@ Maniem draugiem ir rīts,
 Bet es jau vakarā
 Hei!
 
-Salecenes krekliņš tev mugurā
+Salātzaļais krekliņš tev mugurā
 Ejam kopā pastaigā
 Runāšana nav aizliegto lietu sarakstā
 

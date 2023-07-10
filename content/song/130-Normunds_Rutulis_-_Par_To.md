@@ -30,7 +30,7 @@ G       D              G
 Raudāja māte, raudāja meita,
          D          G
 Raudāja mēness debesīs
-        D              G
+        C              G
 Raudāja māte, raudāja meita,
           D           G
 Dzīve ir gara mūžs ir īss
