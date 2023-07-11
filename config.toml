@@ -16,7 +16,7 @@ preserveTaxonomyNames = true
     weight = 20
 
 [[menu.main]]
-    identifier = "example"
-    name = "Example.org"
-    url = "https://example.org"
+    identifier = "akordi"
+    name = "Akordi.lv"
+    url = "https://www.akordi.lv"
     weight = 30
