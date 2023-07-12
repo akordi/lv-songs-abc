@@ -14,7 +14,7 @@ Uz aizmigušiem peroniem krīt sniegs un smejas
                  Eb   F
 Tikai lūdzu neaizmiedz
 Bb
-Zem aizejošiem peroniem es pazīmejos
+Zem aizejošiem vilcieniem es pazīmejos
                  Eb  F
 Cenšos ziemu piemānīt
 Dm   Gm              Dm        Gm         Dm

@@ -10,43 +10,43 @@ draft: false
 ```text
 (Jādziet lēnu un zemu.)
 
-G      D          Em      
+F      Em          Dm      
 Rudenī viņa kā rupjmaize,
-C         D        G
+Gm         C        F
 Siltiem gabaliem laužama
-G      D         Em      
+F      Em         Dm      
 Ziemā kabatā sildīta 
-C          D        G
+Gm          C        F
 Es viņu kā burkānu graužu
 
-G      D          Em  
+F      Em          Dm     
 Vasarā bērniem galviņas 
-C         D        G
+Gm         C        F
 Viņa tik mīļi pieglāsta
-G      D         Em
+F      Em          Dm   
 Ka atnākam gaidīšanai
-C          D        G
+Gm         C        F
 Kļūst tik pavasar' viegla
 
 
-     C           D            Em    C          D            Em        
+     Gm           Am            Dm    Bb          C            Dm        
 P:   Saule , ko vienreiz var iegūt, saule , ko nevar vairs zaudēt        
-     C           D           Em     Am                C           D 
+     Gm           Am           Dm     Bb                     Am        Bb          C 
      Saule , ko vienreiz var iegūt, saule , ko nevar vairs zaudēt   
 
-G      D         Em
+F      Em         Dm 
 Pāri kalnsētas kokiem austoša
-C          D        G
+Gm         C        F
 Visur līdzi tā bijusi
-G      D         Em
+F      Em         Dm 
 Mana zelta kontrabanda
-C          D        G
+Gm          C        F
 Mana kabatas baterija
 
 
-P:   C           D            Em    C          D            Em        
+P:   Gm           Am            Dm    Bb          C            Dm   
 P:   Saule , ko vienreiz var iegūt, saule , ko nevar vairs zaudēt        
-     C           D           Em     Am                C           D 
+     Gm           Am           Dm     Bb                     Am        Bb          C 
      Saule , ko vienreiz var iegūt, saule , ko nevar vairs zaudēt   
 
 <p class="text-muted">Pilnu dziesmas Guitar Pro versiju var lejupielādēt šeit:

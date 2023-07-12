@@ -2,7 +2,7 @@
 
 <div id="{{ $id }}"></div>
 <div id="audio"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/abcjs/6.2.0/abcjs-basic-min.min.js" integrity="sha512-Fdtl4C9HE63Nc4+5L2ULoR1BSmlwz6T962n6lsh6YgDIhuKT59zr0c1dPilTt0FjX9g2F0toQOTvA+DU/9N3XA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/abcjs/6.2.2/abcjs-basic-min.min.js" integrity="sha512-REXLcx385NL3ZWosam5LzLJoA0AkfeVdW94IQURSM/Gl6EyrS0hS3LtqR094d00lsicEVAprWA5SUTD5oljapg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
    var {{$id| safeJS}}= "{{- .Inner|safeJS -}}";
    window.onload=function() {

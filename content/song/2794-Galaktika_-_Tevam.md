@@ -8,23 +8,23 @@ draft: false
 ---
 
 ```text
-Tu stāsti man , kur paliek gaisma kad vakars tumst..
+Tu stāstīji man , kur paliek gaisma kad vakars tumst..
 Kur Mēness ir , kad zvaigznes vienas skumst?
-Tu stāsti man , kā gāju putni prot 
+Tu stāstīji man , kā gāju putni prot 
 No tālām zemēm , mājup atlidot ..
 
-Tu māci man , kā zirgu ar klājut...
-Un darbu sākot Dievpalīgu lūdz
-Man pirmo vagu palidzēji dzīt
-Un sēklu zemes sēt, lai uzdīgtu tā rīt.
+Tu mācīji man , kā zirgu arklā jūgt...
+Un darbu sākot Dievpalīgu lūgt
+Man pirmo vagu palīdzēji dzīt
+Un sēklu zemē sēt, lai uzdīgtu tā rīt.
 
 Tev tagad galva sirma, salīcis ir plecs 
-Esi izaudzis, bet tu jau kļuvi svēts
-Es grūtā brīdi gribu būt tev klāt 
-Un tā kā bērnībā ar tevi parunāt.
+Es izaudzis, bet tu jau kļuvi svēts
+Es grūtā brīdi gribu būt Tev klāt 
+Un tā kā bērnībā ar Tevi parunāt.
 
-Es grūtā brīdi gribu būt tev klāt 
-Kā bērnībā ar tevi parunāt.
+Es grūtā brīdi gribu būt Tev klāt 
+Kā bērnībā ar Tevi parunāt.
 
 Tu piemērs man kā tikai retais prot
 Tik skaisti savu dzīvi nodzīvot.
@@ -33,19 +33,19 @@ Lai spētu izaugt es - par goda vīru
 
 Tev tagad galva sirma, salīcis ir plecs 
 Esi izaudzis, bet tu jau kļuvi svēts
-Es grūtā brīdi gribu būt tev klāt 
-Un tā kā bērnībā ar tevi parunāt.
+Es grūtā brīdi gribu būt Tev klāt 
+Un tā kā bērnībā ar Tevi parunāt.
 
-Es grūtā brīdi gribu būt tev klāt 
-Kā bērnībā ar tevi parunāt. 
+Es grūtā brīdi gribu būt Tev klāt 
+Kā bērnībā ar Tevi parunāt. 
 
 Tev tagad galva sirma, salīcis ir plecs 
-Esi izaudzis, bet tu jau kļuvi svēts
+Es izaudzis, bet tu jau kļuvi svēts
 Es grūtā brīdi gribu būt tev klāt 
 Un tā kā bērnībā ar tevi parunāt.  
 
-Es grūtā brīdi gribu būt tev klāt 
-Kā bērnībā ar tevi parunāt.  
+Es grūtā brīdi gribu būt Tev klāt 
+Kā bērnībā ar Tevi parunāt.  
  
-Kā bērnībā ar tevi parunāt.....
+Kā bērnībā ar Tevi parunāt.....
 ```
