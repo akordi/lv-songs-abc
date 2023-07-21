@@ -17,7 +17,7 @@ E     E7              Am
 Tikai tevi es mīlējis esmu.
 A7    Dm                 Am
 Kādā dīvainā sulā savas lūpas tu mērc, \
-          E7              Am            2x
+                   E7      Am            2x
 Ka tās kvēl ar tik sarkanu dvesmu?       /
 
 
@@ -26,9 +26,9 @@ Ka tās kvēl ar tik sarkanu dvesmu?       /
 Tur kur bulvāri kūp, tevi satiku reiz
 E       E7              Am
 Un vairs nezinu miera ne mirkli.
-A7    Dm                 Am
+A7    Dm                    Am
 Uz tā stūra, kur lūdz naudu ubags sev greizs,
-      E7              Am    
+      E7                 Am    
 Mani samīs drīz ilgas kā zirgi.
 
 3.
@@ -67,6 +67,6 @@ E     E7              Am
 Tavas acis tur redzēšu spīdam,
 A7    Dm                 Am
 Bet man cerību putni tikai smadzenēs zūd,
-E7              Am    
+E7                      Am    
 Jūtu mirkļus tik mūžībā krītam.
 ```

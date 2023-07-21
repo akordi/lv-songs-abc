@@ -29,7 +29,7 @@ Bm                 D  E
 Mož redzieja kur palyka 
 
 Siediej pierts(i) dybinā
-Zīdu kraklu mugurā(i)
+Svīdru kraklu mugurā(i)
 Pierteņā(i) īīdama
 Duraveņas aiztaisieju
 

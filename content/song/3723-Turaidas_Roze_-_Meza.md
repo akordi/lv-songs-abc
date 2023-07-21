@@ -8,9 +8,13 @@ draft: false
 ---
 
 ```text
+A        D           A           E7  
 Te ir tā vieta, mans mīļais, kur apraksim tos.
+        D      C#m    E       F#m  
 Mirušos sapņus glabāsim uguns kapā.
+         A            D                     C#m
 Te, šajā mežā, liesmu lāpas drīz uzdzirksteļos
+Bm                                   A       (E7) 
 Kopā ar vītušiem ziediem un sarkanām lapām.
 
 Atvilksim elpu. Smags ir mirušo sapņu slogs.
