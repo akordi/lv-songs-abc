@@ -8,13 +8,13 @@ draft: false
 ---
 
 ```text
-C            G
+F            Em   Am
 Smaids izkrāsots
-C               G
+F               Em
 Kā ziedošs pavasars.
-C        G
+F        Em     Am
 Tu noraugies
-C              G
+F              Em
 Kā tikko plaukstošs zieds.
 
 Kāds man nedzirdami čukst,
