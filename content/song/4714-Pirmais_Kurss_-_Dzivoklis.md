@@ -10,6 +10,7 @@ draft: false
 ```text
 Pants: G | Am | C | G
 Piedziedājums: Bm | F | C | G
+Bridge: G5 Ab5 A5 Bb5
 
 Esam Oko dzīvoklī, 
 Mums ir forša ballīte, 

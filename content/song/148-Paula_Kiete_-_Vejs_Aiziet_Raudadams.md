@@ -28,7 +28,7 @@ vējš aiziet raudādams.
 
 E             A
 Tam vējam ir lūša nagi,
-             E
+             Fm
 tam vējam ir vilka balss,
            D           E
 un tomēr arī tam vējam

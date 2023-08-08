@@ -11,7 +11,7 @@ M:12/8
 L:1/8
 Q:150
 K:C
-E2 F | "G7" E D2-D3-D2 E F E D | "C" DE C-C5 C2 C |
+E2 F | "G7" E D2-D3-D2 D F E D | "C" DE C-C5 C2 C |
 w: 1.Ap to mir-kli,** ap ska-tie-nu vie--nu* sa-vu
 "F" C A A-A5 "C" GF E| "G" E D2-D5 "C" G2 G |
 w: die-niš-ķo* pa--ve-die-nu* ti-nu
