@@ -1,3 +1,11 @@
+
+## Prerequisites
+
+- [Go](https://golang.org/dl/)
+- [Hugo](https://gohugo.io/getting-started/installing/)
+- [Git](https://git-scm.com/downloads)
+
+
 Downloading content
 
 `go run download.go` 

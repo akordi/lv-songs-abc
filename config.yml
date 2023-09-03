@@ -1,0 +1,18 @@
+languageCode: 'en-us'
+title: 'Latvian songs ABC notation'
+theme: 'PaperMod'
+preserveTaxonomyNames: true
+menu:
+  main:
+    - identifier: "categories"
+      name: "Artists"
+      url: "/categories/"
+      weight: 10
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 20
+    - identifier: "akordi"
+      name: "Akordi.lv"
+      url: "https://www.akordi.lv"
+      weight: 30
