@@ -3,7 +3,7 @@ title: "Long Way to Run"
 date: 2018-03-11T18:58:28+00:00
 url: /song/3350-4elements_-_Long_Way_To_Run
 categories: ["4-elements"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

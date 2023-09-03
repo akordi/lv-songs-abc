@@ -2,8 +2,8 @@
 title: "Topmodele"
 date: 2020-06-11T11:34:00+00:00
 url: /song/4480-Latgaliesu_Damu_Pops_-_Topmodele
-categories: ["Latgaliešu dāmu pops"]
-tags: []
+categories: ["Latgales Dāmu Pops"]
+tags: ["latgaliski"]
 draft: false
 ---
 

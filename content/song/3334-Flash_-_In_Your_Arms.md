@@ -3,7 +3,7 @@ title: "In Your Arms"
 date: 2018-03-11T20:13:12+00:00
 url: /song/3334-Flash_-_In_Your_Arms
 categories: ["Flash"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

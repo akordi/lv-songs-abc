@@ -3,7 +3,7 @@ title: "You Don't Know Me"
 date: 2018-03-10T11:58:11+00:00
 url: /song/3341-Baiba_Dekena_-_You_Dont_Know_Me
 categories: ["Baiba Dēķena"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

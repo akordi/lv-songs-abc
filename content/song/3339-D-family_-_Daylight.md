@@ -3,7 +3,7 @@ title: "Daylight"
 date: 2018-03-11T21:44:48+00:00
 url: /song/3339-D-family_-_Daylight
 categories: ["D-family"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

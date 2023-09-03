@@ -3,7 +3,7 @@ title: "Eyes"
 date: 2020-06-03T20:28:49+00:00
 url: /song/4094-Sudden_Lights_-_Eyes
 categories: ["Sudden Lights"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

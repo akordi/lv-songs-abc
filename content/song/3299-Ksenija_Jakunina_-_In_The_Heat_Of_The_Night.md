@@ -3,7 +3,7 @@ title: "In the Heat of the Night"
 date: 2018-03-11T20:14:49+00:00
 url: /song/3299-Ksenija_Jakunina_-_In_The_Heat_Of_The_Night
 categories: ["Ksenija Jakunina"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

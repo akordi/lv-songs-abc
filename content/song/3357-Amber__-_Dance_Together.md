@@ -3,7 +3,7 @@ title: "Dance Together"
 date: 2018-03-11T20:26:42+00:00
 url: /song/3357-Amber__-_Dance_Together
 categories: ["Amber"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -37,15 +37,15 @@ A      B      E      E
 Pat tad, ja nejūti, kāpēc.
 
 Iespēle:
-F#m .... G#
+F#m  .... G#
 
-G#     E     G#     G#
+G#     A     G#     G#
 Elpo dienu, elpo sauli,
-E      G#    C#m    G#
+A      G#    A    G#
 Pārdarīto izelpo.
-G#     E     G#     G#
+G#     A     G#     G#
 Mēs joprojām esam jauni,
-E      G#    C#m    G#
+A      G#    C#m    G#
 Atsacīties neprotot.
 
 PANTS:

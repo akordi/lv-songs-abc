@@ -3,7 +3,7 @@ title: "Jauneibys himna"
 date: 2014-07-10T21:00:00+00:00
 url: /song/1674-Gandreiz_10nika_-_Jauneibys_Himna
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

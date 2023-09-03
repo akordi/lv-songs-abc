@@ -3,7 +3,7 @@ title: "Kur gaismeņa"
 date: 2007-04-30T21:00:00+00:00
 url: /song/387-TAUTASDZIESMAS_-_Kur_Gaismena
 categories: ["#TAUTASDZIESMAS"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

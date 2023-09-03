@@ -3,7 +3,7 @@ title: "Fake Love"
 date: 2023-02-04T18:08:47+00:00
 url: /song/4987-Reinis_Straume_-_Fake_Love
 categories: ["Reinis Straume"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

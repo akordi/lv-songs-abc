@@ -3,7 +3,7 @@ title: "Laika Prognoze Reitdīnai"
 date: 2009-11-25T22:00:00+00:00
 url: /song/1069-Trojs_-_Laika_Prognoze_Reitdinai
 categories: ["Trojs"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 
@@ -20,7 +20,7 @@ F               G
 
 
 Pants:
-c                             G
+C                             G
 Jau aizvakar maņ rakstieji, Pī tevis baigi snīgūt
 Am                   F
 Pat autobusi naīt, Beiguos, pīdūt
@@ -28,12 +28,9 @@ Pat autobusi naīt, Beiguos, pīdūt
 A šudiņ otkon vātra I leist kai nū spaiņa
 Es saprūtu i zynu, Tei nav tova vaina
 
-
-
-
 Tylts:
 
-c                G	
+C                G	
 I tai, tai, es vusam nūticieju,
 Am               F
 Bet kai, kai gon saprast navarieju
@@ -41,9 +38,6 @@ C                G
 It kai, vīnā laika jūslā
 Am               F        G
 Mes dzeivojam ar tevi vīnā pilsātā!
-
-
-
 
 Pīdzīduojums:    2x
 
@@ -71,9 +65,4 @@ Pīdzīd.:    1x
 Sarpspēļe (kuo īvodā)
 
 Pīdzīd.:   2x
-
-
-Pīdūdid man, ja ešu nūzakļyudejīs voi puorzaklausiejīs kuodūs vuordūs!;)
-
-Made by Justedd
 ```

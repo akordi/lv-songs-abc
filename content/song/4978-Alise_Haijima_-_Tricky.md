@@ -3,7 +3,7 @@ title: "Tricky"
 date: 2023-02-04T17:49:29+00:00
 url: /song/4978-Alise_Haijima_-_Tricky
 categories: ["Alise Haijima"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

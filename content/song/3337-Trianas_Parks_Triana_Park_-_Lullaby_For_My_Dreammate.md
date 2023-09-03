@@ -3,7 +3,7 @@ title: "Lullaby for My Dreammate (Diamond Lullaby)"
 date: 2018-03-11T21:03:47+00:00
 url: /song/3337-Trianas_Parks_Triana_Park_-_Lullaby_For_My_Dreammate
 categories: ["Triānas Parks (Triana Park)"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

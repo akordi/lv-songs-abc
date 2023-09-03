@@ -3,7 +3,7 @@ title: "Kam, māmeņa, audzynuoji"
 date: 2014-09-11T12:20:50+00:00
 url: /song/1882-Maskackas_Spelmani_-_Kam_Mamena_Audzynuoji
 categories: ["Maskačkas spēlmaņi"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

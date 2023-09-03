@@ -9,7 +9,7 @@ draft: false
 
 ```text
 C           G     Am
-Saule Latvi sēdināja
+Saule Latvi sēdināj
 C             G    C
 Tur, kur gali satiekas
 Am          G      Am

@@ -3,7 +3,7 @@ title: "I Will Be Here"
 date: 2020-06-03T13:40:38+00:00
 url: /song/3895-Liga_Ridere_-_I_Will_Be_Here
 categories: ["Līga Rīdere"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

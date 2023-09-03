@@ -3,7 +3,7 @@ title: "Maybe"
 date: 2018-03-11T19:05:11+00:00
 url: /song/3359-Janis_Stibelis_Jay_Stever_-_Maybe
 categories: ["Jānis Stībelis (Jay Stever)"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Look Back at Me Again"
 date: 2018-03-11T21:22:09+00:00
 url: /song/3356-Elina_Krastina-Grence_-_Look_Back_At_Me_Again
 categories: ["Elīna Krastiņa-Grence"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Runaway"
 date: 2018-03-11T19:45:30+00:00
 url: /song/3333-Z-Scars_-_Runaway
 categories: ["Z-Scars"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

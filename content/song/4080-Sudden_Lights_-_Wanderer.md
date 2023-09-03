@@ -3,7 +3,7 @@ title: "Wanderer"
 date: 2020-06-03T20:24:34+00:00
 url: /song/4080-Sudden_Lights_-_Wanderer
 categories: ["Sudden Lights"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

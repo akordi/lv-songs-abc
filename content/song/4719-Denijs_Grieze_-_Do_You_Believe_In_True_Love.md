@@ -3,7 +3,7 @@ title: "Do You Believe In True Love"
 date: 2020-07-24T21:53:44+00:00
 url: /song/4719-Denijs_Grieze_-_Do_You_Believe_In_True_Love
 categories: ["Denijs Grieze"]
-tags: []
+tags: ["eng"]
 draft: false
 ---
 

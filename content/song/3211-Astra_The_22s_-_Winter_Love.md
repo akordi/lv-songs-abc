@@ -3,7 +3,7 @@ title: "Winter Love"
 date: 2017-12-15T09:35:56+00:00
 url: /song/3211-Astra_The_22s_-_Winter_Love
 categories: ["Astra The 22's"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

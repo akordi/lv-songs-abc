@@ -3,7 +3,7 @@ title: "Don't Stop the Dance"
 date: 2018-03-11T21:20:17+00:00
 url: /song/3303-Evija_Sloka_-_Dont_Stop_The_Dance
 categories: ["Evija Sloka"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

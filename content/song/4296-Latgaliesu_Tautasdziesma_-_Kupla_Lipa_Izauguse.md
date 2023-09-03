@@ -3,7 +3,7 @@ title: "Kupla līpa izauguse"
 date: 2020-06-05T10:46:01+00:00
 url: /song/4296-Latgaliesu_Tautasdziesma_-_Kupla_Lipa_Izauguse
 categories: ["Latgaliešu tautasdziesma"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

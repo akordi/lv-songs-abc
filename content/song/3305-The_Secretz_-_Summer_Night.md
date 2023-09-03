@@ -3,7 +3,7 @@ title: "Summer Night"
 date: 2018-03-11T21:36:38+00:00
 url: /song/3305-The_Secretz_-_Summer_Night
 categories: ["The Secretz"]
-tags: ["eurovision", "bez akordiem"]
+tags: ["eurovision", "eng", "bez akordiem"]
 draft: false
 ---
 

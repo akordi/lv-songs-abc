@@ -3,7 +3,7 @@ title: "Putreņa"
 date: 2014-05-26T21:00:00+00:00
 url: /song/1665-Gandreiz_10nika_-_Putrena
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

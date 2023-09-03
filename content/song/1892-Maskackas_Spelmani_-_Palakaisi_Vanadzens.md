@@ -3,7 +3,7 @@ title: "Palākaisi vanadzeņš"
 date: 2014-09-11T12:21:04+00:00
 url: /song/1892-Maskackas_Spelmani_-_Palakaisi_Vanadzens
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

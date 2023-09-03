@@ -3,7 +3,7 @@ title: "Strange Days"
 date: 2020-06-03T16:35:45+00:00
 url: /song/4019-Pyro_Trees_-_Strange_Days
 categories: ["Pyro Trees"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Tell Me Why"
 date: 2018-03-11T18:54:51+00:00
 url: /song/3319-Gunars_Kalnins_-_Tell_Me_Why
 categories: ["Gunārs Kalniņš"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

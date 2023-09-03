@@ -3,7 +3,7 @@ title: "My World"
 date: 2018-03-11T21:49:55+00:00
 url: /song/3304-Ruta_Duduma_-_My_World
 categories: ["Rūta Dūduma"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

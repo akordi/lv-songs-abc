@@ -3,7 +3,7 @@ title: "Īsalaižu dzīsmeitēs"
 date: 2020-06-11T11:45:13+00:00
 url: /song/4516-ElektroFolk_-_Isalaizu_Dzismeites
 categories: ["ElektroFolk"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

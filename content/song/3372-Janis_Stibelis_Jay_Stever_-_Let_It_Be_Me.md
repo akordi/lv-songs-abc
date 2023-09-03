@@ -3,7 +3,7 @@ title: "Let It Be Me"
 date: 2018-03-11T21:39:51+00:00
 url: /song/3372-Janis_Stibelis_Jay_Stever_-_Let_It_Be_Me
 categories: ["Jānis Stībelis (Jay Stever)"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

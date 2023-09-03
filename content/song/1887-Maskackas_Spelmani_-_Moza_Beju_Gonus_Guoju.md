@@ -3,7 +3,7 @@ title: "Moza beju, gonūs guoju"
 date: 2014-09-11T12:20:57+00:00
 url: /song/1887-Maskackas_Spelmani_-_Moza_Beju_Gonus_Guoju
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

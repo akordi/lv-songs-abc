@@ -3,7 +3,7 @@ title: "Without You"
 date: 2018-03-11T21:01:37+00:00
 url: /song/3336-Ketta_-_Without_You
 categories: ["Ketta"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Let's Sing the Song"
 date: 2018-03-11T18:48:38+00:00
 url: /song/3354-Janis_Stibelis_Jay_Stever_-_Lets_Sing_The_Song
 categories: ["Jānis Stībelis (Jay Stever)"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

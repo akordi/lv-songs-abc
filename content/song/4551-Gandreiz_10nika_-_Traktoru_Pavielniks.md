@@ -3,7 +3,7 @@ title: "Traktoru pavieļnīks"
 date: 2020-06-11T20:56:33+00:00
 url: /song/4551-Gandreiz_10nika_-_Traktoru_Pavielniks
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

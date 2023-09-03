@@ -3,7 +3,7 @@ title: "No More"
 date: 2020-06-19T20:07:46+00:00
 url: /song/4706-TOM_SIMO_-_No_More
 categories: ["TOM SIMO"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Ready"
 date: 2018-03-11T19:28:52+00:00
 url: /song/3355-4elements_-_Ready
 categories: ["4-elements"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

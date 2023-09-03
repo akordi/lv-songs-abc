@@ -3,7 +3,7 @@ title: "Dabasi raud"
 date: 2016-03-03T14:39:06+00:00
 url: /song/2556-Weron_Martin_-_Dabasi_Raud
 categories: ["Weron Martin"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

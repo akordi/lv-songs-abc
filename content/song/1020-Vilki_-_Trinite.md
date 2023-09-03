@@ -8,14 +8,14 @@ draft: false
 ---
 
 ```text
-    C                        G         
+    D                       A         
 “Ik katru sestdiens vakaru — arvien, arvien
-                          C
+                          D
 Pie Trīnes gāju klētiņā — arvien,arvien
 
-    F                                
+    G                                
 “Ik katru sestdiens vakaru
-    C                     G              C
+    D                     A              D
 Pie Trīnes gāju klētiņā — arvien,arvien, arvien arvien arvien
 
 Bet reiz pie klētis piegāju — arvien, arvien

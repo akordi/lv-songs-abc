@@ -3,7 +3,7 @@ title: "Friday Family"
 date: 2017-12-17T12:35:31+00:00
 url: /song/3217-SHADES_-_Friday_Family
 categories: ["SHADES"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

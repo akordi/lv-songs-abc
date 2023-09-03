@@ -3,7 +3,7 @@ title: "Ļipa kust"
 date: 2020-06-05T10:46:05+00:00
 url: /song/4297-Maskackas_Spelmani_-_Lipa_Kust
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

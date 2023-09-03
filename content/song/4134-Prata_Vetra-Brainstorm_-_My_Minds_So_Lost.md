@@ -3,7 +3,7 @@ title: "My Mind's So Lost (On You)"
 date: 2020-06-03T20:38:13+00:00
 url: /song/4134-Prata_Vetra-Brainstorm_-_My_Minds_So_Lost
 categories: ["Prāta Vētra/Brainstorm"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

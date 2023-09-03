@@ -3,7 +3,7 @@ title: "When I Close My Eyes"
 date: 2018-03-11T21:11:33+00:00
 url: /song/3309-H2O_-_When_I_Close_My_Eyes
 categories: ["H2O"]
-tags: ["eurovision", "bez akordiem"]
+tags: ["eurovision", "eng", "bez akordiem"]
 draft: false
 ---
 

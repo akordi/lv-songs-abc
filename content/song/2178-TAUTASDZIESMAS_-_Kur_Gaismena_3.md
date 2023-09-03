@@ -3,7 +3,7 @@ title: "Kur gaismeņa 3"
 date: 2015-06-25T17:32:11+00:00
 url: /song/2178-TAUTASDZIESMAS_-_Kur_Gaismena_3
 categories: ["#TAUTASDZIESMAS"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

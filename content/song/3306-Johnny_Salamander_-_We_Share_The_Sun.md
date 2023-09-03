@@ -3,7 +3,7 @@ title: "We Share the Sun"
 date: 2018-03-11T19:41:58+00:00
 url: /song/3306-Johnny_Salamander_-_We_Share_The_Sun
 categories: ["Johnny Salamander"]
-tags: ["eurovision", "bez akordiem"]
+tags: ["eurovision", "eng", "bez akordiem"]
 draft: false
 ---
 

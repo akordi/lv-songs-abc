@@ -3,7 +3,7 @@ title: "Hey, Boy, Follow Me"
 date: 2018-03-11T18:30:09+00:00
 url: /song/3311-Marija_Naumova_Marie_N_-_Hey_Boy_Follow_Me
 categories: ["Marija Naumova (Marie N)"]
-tags: ["eurovision", "bez akordiem"]
+tags: ["eurovision", "eng", "bez akordiem"]
 draft: false
 ---
 

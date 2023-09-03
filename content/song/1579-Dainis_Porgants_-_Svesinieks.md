@@ -8,21 +8,21 @@ draft: false
 ---
 
 ```text
-   Am
+   Am             C
 Vecpilsētas ielās vakars ēnas klāj
    Dm         G               Am
 Soļus skaitīt gurdais bruģis stāj 
-   Am
+   Am              C
 Saplūstot ar ēnām, neievērots, lieks
    Dm          G             Am
 Vientuļš pretī nāk kāds svešinieks.
 
 Piedz. 
-  Am      Dm                        Am
+  Am      F                        Am
 Teic man, svešiniek, no kurienes Tu nāc?
          Dm             G          Am
 Kurp Tu dodies, un vai Tevi gaida kāds?
-  Am  Dm                           Am
+  Am  F                           Am
 Īsto atbildi tik paša sirds vien sniegs - 
        Dm            G          Am
 vai Tu savējais vai esi svešinieks.

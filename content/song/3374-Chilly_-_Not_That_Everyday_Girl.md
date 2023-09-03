@@ -3,7 +3,7 @@ title: "Not That Everyday Girl"
 date: 2018-03-11T19:44:03+00:00
 url: /song/3374-Chilly_-_Not_That_Everyday_Girl
 categories: ["Chilly (Ilva Šeškauska-Štāla)"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

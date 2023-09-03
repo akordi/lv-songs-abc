@@ -3,7 +3,7 @@ title: "White Devil"
 date: 2020-06-11T11:26:47+00:00
 url: /song/4441-Crow_Mother_-_White_Devil
 categories: ["Crow Mother"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

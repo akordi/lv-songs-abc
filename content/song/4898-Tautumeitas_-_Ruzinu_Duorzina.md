@@ -3,7 +3,7 @@ title: "Rūžiņu duorziņā"
 date: 2022-04-23T20:13:19+00:00
 url: /song/4898-Tautumeitas_-_Ruzinu_Duorzina
 categories: ["Tautumeitas"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Lobs ar lobu sasatyka"
 date: 2016-10-11T19:38:23+00:00
 url: /song/2802-Latgaliesu_Tautasdziesma_-_Lobs_Ar_Lobu_Sasatyka
 categories: ["Latgaliešu tautasdziesma"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

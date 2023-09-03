@@ -3,7 +3,7 @@ title: "Seika, moza meitineite"
 date: 2020-06-11T11:31:28+00:00
 url: /song/4457-ElektroFolk_-_Seika_Moza_Meitineite
 categories: ["ElektroFolk"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

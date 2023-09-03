@@ -3,7 +3,7 @@ title: "Nadūd Dīvs veitūlam"
 date: 2011-07-04T21:00:00+00:00
 url: /song/1313-TAUTASDZIESMAS_-_Nadud_Divs_Veitulam
 categories: ["#TAUTASDZIESMAS"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

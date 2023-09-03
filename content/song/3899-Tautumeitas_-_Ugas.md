@@ -3,7 +3,7 @@ title: "Ūgas"
 date: 2020-06-03T13:41:35+00:00
 url: /song/3899-Tautumeitas_-_Ugas
 categories: ["Tautumeitas"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

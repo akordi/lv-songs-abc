@@ -3,7 +3,7 @@ title: "Fly Away With You"
 date: 2018-03-11T19:57:12+00:00
 url: /song/3338-Amber__-_Fly_Away_With_You
 categories: ["Amber"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

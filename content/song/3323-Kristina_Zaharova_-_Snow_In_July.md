@@ -3,7 +3,7 @@ title: "Snow in July"
 date: 2018-03-11T21:16:44+00:00
 url: /song/3323-Kristina_Zaharova_-_Snow_In_July
 categories: ["Kristīna Zaharova"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

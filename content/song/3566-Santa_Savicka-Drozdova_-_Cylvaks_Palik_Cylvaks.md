@@ -3,7 +3,7 @@ title: "Cylvāks palīk cylvāks"
 date: 2019-12-05T19:15:54+00:00
 url: /song/3566-Santa_Savicka-Drozdova_-_Cylvaks_Palik_Cylvaks
 categories: ["Santa Savicka-Drozdova"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

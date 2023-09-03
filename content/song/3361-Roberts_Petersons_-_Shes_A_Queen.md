@@ -3,7 +3,7 @@ title: "She's a Queen"
 date: 2018-03-11T21:59:18+00:00
 url: /song/3361-Roberts_Petersons_-_Shes_A_Queen
 categories: ["Roberts Pētersons"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

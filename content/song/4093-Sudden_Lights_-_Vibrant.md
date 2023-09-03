@@ -3,7 +3,7 @@ title: "Vibrant"
 date: 2020-06-03T20:28:45+00:00
 url: /song/4093-Sudden_Lights_-_Vibrant
 categories: ["Sudden Lights"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

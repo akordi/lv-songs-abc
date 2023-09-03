@@ -3,7 +3,7 @@ title: "Strangers"
 date: 2023-02-04T18:02:01+00:00
 url: /song/4982-Justs_Sirmais_-_Strangers
 categories: ["Justs Sirmais"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

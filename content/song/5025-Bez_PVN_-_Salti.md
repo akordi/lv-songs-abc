@@ -11,29 +11,32 @@ draft: false
 Db Fm Ab Eb
 
 Ab                 Db
-Savervētas debesis izkāpa no krastiem.
+Savervāti dabasi izkuope nu krostu.
 Fm                  Eb                Ab
-Es ar tevi staigāju mirkli neparastu.
+Es ar tevi staiguoju šaļti naparostu.
 Ab              Db
-Esplanādē ubagi naudu bēra gaisā.
+Esplanādē ubogi naudu bēre gaisā.
 Fm                     Eb              Ab
-Tavai blūzei galvā man bante atraisījās.
+Tovai blūzei golvā maņ būrte atsaraisē'.
 
 Piedz.
 Db               Fm           Eb
-Roku tavu turēju aukstā dienā karstu
+Rūku tovu turieju soltā dīnā korstu
 Db                    Ab         Eb
-Turu to jau kādu labu mirkli neparastu..
+Turu tū jau kaidu lobu šaļti naparostu..
 
-Teici, ka samirksim mēs līdz pašam kaulam
-Pļava griestiem bezgalīgiem bija mūsu aula
-Salīmējušies bezceļos. “Pangeja” mēs kartē
-Izkaltuši, kad ezerkrastā vairāk nav ko dzert‘i.
+Sacieji, ka samierksim mes da poša kaula
+Pļova grīstim bezgaleigim beja myusu aula
+Sasaleimiej'šs bezceļūs. “Pangeja” mēs kartī
+Izkoltušs, kod azarkrostā vaira nav kuo dzerti.
 
-Ieaguši ķiršu koki
-Izauguši – saziedējuši
-Ieaguši mūsu dārzi
-Izauguši mēs kopā pieauguši!
-Roku tavu turēšu karstā dienā aukstu..
-Turēšu to visu mūžu..
+Īauguši kiršu kūki
+Izauguši – sazīdiejuši
+Īauguši myusu duorzi
+Izauguši mēs kūpā pīauguši!
+
+Rūku tovu turieju soltā dīnā korstu
+Turu tū jau kaidu lobu šaļti naparostu..
+Rūku tovu tureišu korstā dīnā soltu
+Tureišu tū vysu myužu..
 ```

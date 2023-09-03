@@ -3,7 +3,7 @@ title: "Voi tu maņi puorbļaut spiesi"
 date: 2014-07-14T21:00:00+00:00
 url: /song/1675-Gandreiz_10nika_-_Voi_Tu_Mani_Puorblaut_Spiesi
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

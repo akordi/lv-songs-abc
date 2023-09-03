@@ -3,7 +3,7 @@ title: "No Way Back"
 date: 2018-03-11T20:21:44+00:00
 url: /song/3302-Iedomu_Sparni_-_No_Way_Back
 categories: ["Iedomu spārni"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

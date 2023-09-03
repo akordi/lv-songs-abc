@@ -3,7 +3,7 @@ title: "Maybe (Bass Tab)"
 date: 2007-02-26T22:00:00+00:00
 url: /song/4-Prata_Vetra-Brainstorm_-_Maybe
 categories: ["Prāta Vētra/Brainstorm"]
-tags: ["tab", "bass"]
+tags: ["tab", "bass", "eng"]
 draft: false
 ---
 

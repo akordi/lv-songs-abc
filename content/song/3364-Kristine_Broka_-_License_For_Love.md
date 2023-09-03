@@ -3,7 +3,7 @@ title: "License for Love"
 date: 2018-03-11T19:03:06+00:00
 url: /song/3364-Kristine_Broka_-_License_For_Love
 categories: ["Kristīne Broka"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

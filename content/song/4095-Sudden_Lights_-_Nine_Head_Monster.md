@@ -3,7 +3,7 @@ title: "Nine Head Monster"
 date: 2020-06-03T20:28:53+00:00
 url: /song/4095-Sudden_Lights_-_Nine_Head_Monster
 categories: ["Sudden Lights"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

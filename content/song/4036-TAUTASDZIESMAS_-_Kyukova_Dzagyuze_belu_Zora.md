@@ -3,7 +3,7 @@ title: "Kyukova dzagyuze ōbeļu zorā"
 date: 2020-06-03T16:40:41+00:00
 url: /song/4036-TAUTASDZIESMAS_-_Kyukova_Dzagyuze_belu_Zora
 categories: ["#TAUTASDZIESMAS"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

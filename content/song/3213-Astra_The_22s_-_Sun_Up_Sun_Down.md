@@ -3,7 +3,7 @@ title: "Sun Up, Sun Down"
 date: 2017-12-15T09:32:48+00:00
 url: /song/3213-Astra_The_22s_-_Sun_Up_Sun_Down
 categories: ["Astra The 22's"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

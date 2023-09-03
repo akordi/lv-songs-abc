@@ -3,7 +3,7 @@ title: "Upside down"
 date: 2020-06-11T11:34:22+00:00
 url: /song/4483-Sabine_Berezina_-_Upside_Down
 categories: ["Sabīne Berezina"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

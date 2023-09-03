@@ -3,7 +3,7 @@ title: "Waterfall"
 date: 2018-03-11T18:25:25+00:00
 url: /song/3332-Yana_Kay_-_Waterfall
 categories: ["Yana Kay"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

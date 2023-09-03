@@ -3,7 +3,7 @@ title: "Polyester"
 date: 2020-02-08T19:38:39+00:00
 url: /song/3591-Annna_-_Polyester
 categories: ["Annna"]
-tags: ["supernova 2020"]
+tags: ["eng", "supernova 2020"]
 draft: false
 ---
 

@@ -22,7 +22,7 @@ Patīk man
 Kā man neviena nepamanītam
              Ab          Eb
 Sanāk tev no lūpām lasīt pamazām
-       Gm                   G
+       Gm                   Ab
 Un izlikties, ka mēs viens otru pazīstam 
 
 Fm      Bb         Cm

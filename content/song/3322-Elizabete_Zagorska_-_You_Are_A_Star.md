@@ -3,7 +3,7 @@ title: "You Are a Star"
 date: 2018-03-11T21:56:59+00:00
 url: /song/3322-Elizabete_Zagorska_-_You_Are_A_Star
 categories: ["Elizabete Zagorska"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

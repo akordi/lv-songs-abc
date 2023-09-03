@@ -3,7 +3,7 @@ title: "My Memory Tape"
 date: 2018-03-11T18:35:17+00:00
 url: /song/3327-Lauris_Reiniks_-_My_Memory_Tape
 categories: ["Lauris Reiniks"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

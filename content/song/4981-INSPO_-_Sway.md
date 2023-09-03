@@ -3,7 +3,7 @@ title: "Sway"
 date: 2023-02-04T17:54:32+00:00
 url: /song/4981-INSPO_-_Sway
 categories: ["INSPO"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

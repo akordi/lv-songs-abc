@@ -3,7 +3,7 @@ title: "Puortecieju Daugaveņu"
 date: 2014-09-11T12:21:03+00:00
 url: /song/1891-Maskackas_Spelmani_-_Puortecieju_Daugavenu
 categories: ["Maskačkas spēlmaņi"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

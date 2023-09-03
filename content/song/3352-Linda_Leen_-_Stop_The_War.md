@@ -3,7 +3,7 @@ title: "Stop the War"
 date: 2018-03-11T18:46:25+00:00
 url: /song/3352-Linda_Leen_-_Stop_The_War
 categories: ["Linda Leen"]
-tags: ["eurovision", "bez akordiem"]
+tags: ["eurovision", "eng", "bez akordiem"]
 draft: false
 ---
 

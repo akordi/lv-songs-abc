@@ -3,7 +3,7 @@ title: "When it All Falls"
 date: 2023-02-04T18:11:58+00:00
 url: /song/4989-Toms_Kalderauskis_-_When_It_All_Falls
 categories: ["Toms Kalderauskis"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

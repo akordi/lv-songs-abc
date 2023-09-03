@@ -3,7 +3,7 @@ title: "Opeļs"
 date: 2008-10-06T21:00:00+00:00
 url: /song/787-Likteneigais_Pagrizins_Uz_Vainovu_-_Opels
 categories: ["Likteneigais pagrīzīņs uz Vainovu"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Munam opeļam ir zviereiga krosa
 D G
 Kuru tautā sauc par palāku 
 
-piidziidojums (C;G;D;G):
+piidziidojums ( C G D G ):
 
 Jā ar opeli es ripoju
 Kai teik munam proteņam

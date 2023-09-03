@@ -3,7 +3,7 @@ title: "Apleik kolnu ar leikumu"
 date: 2021-05-31T15:26:41+00:00
 url: /song/4806-Aija_Rimsa_-_Apleik_Kolnu_Ar_Leikumu
 categories: ["Aija Rimša"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

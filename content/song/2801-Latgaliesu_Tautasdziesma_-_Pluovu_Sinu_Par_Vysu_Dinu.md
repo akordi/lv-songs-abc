@@ -3,7 +3,7 @@ title: "Pļuovu sīnu par vysu dīnu"
 date: 2016-10-11T19:36:39+00:00
 url: /song/2801-Latgaliesu_Tautasdziesma_-_Pluovu_Sinu_Par_Vysu_Dinu
 categories: ["Latgaliešu tautasdziesma"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

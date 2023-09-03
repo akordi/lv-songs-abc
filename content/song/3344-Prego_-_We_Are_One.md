@@ -3,7 +3,7 @@ title: "We Are One"
 date: 2018-03-11T20:03:29+00:00
 url: /song/3344-Prego_-_We_Are_One
 categories: ["Prego"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Pats precieju, pats atvežu"
 date: 2014-09-11T12:21:13+00:00
 url: /song/1896-Maskackas_Spelmani_-_Pats_Precieju_Pats_Atvezu
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

@@ -9,27 +9,27 @@ draft: false
 
 ```text
 Am
-Vienā valodā raud visi ļaudis
+Vienā valodā raud visi ļaudis,
 E Am
-Vienā valodā, valodā tie smej
+Vienā valodā, valodā tie smej.
 Am
-Tikai dzimtā valodā ceļš sāpes 
+Tikai dzimtā valoda dzēš sāpes,
 E Am
-Prieku dziesmas dod. Atdod pasaulei!
+Prieku dziesmas dod, atdod pasaulei!
 
 Am Dm Am Dm 
-Dzimtā valodā ir māte, māte
+Dzimtā valodā ir māte, māte,
 Am Dm Am Dm 
-Dzimtā valodā viss vēl saldāks
+Dzimtā valodā vīns vēl saldāks,
 Am Dm Am Dm Am E Am E
-Dzimtā valodā pasmejies pie sevis pats
+Dzimtā valodā pasmejies pie sevis pats.
 
 Am
-Kad tu nespēsi ne dziedāt ne raudāt
+Kad tu nespēsi ne dziedāt, ne raudāt,
 E Am
-Kad tu nespēsi vairs nekā
+Kad tu nespēsi vairs it nekā -
 Am
-Ar debesīm, zemi tu klusēsi
+Ar debesīm, zemi tu klusēsi,
 E Am
-Tas būs tavā dzimtā valodā
+Tas būs tavā dzimtā valodā.
 ```

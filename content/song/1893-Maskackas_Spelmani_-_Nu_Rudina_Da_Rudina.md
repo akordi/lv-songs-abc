@@ -3,7 +3,7 @@ title: "Nu rudiņa, da rudiņa"
 date: 2014-09-11T12:21:06+00:00
 url: /song/1893-Maskackas_Spelmani_-_Nu_Rudina_Da_Rudina
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

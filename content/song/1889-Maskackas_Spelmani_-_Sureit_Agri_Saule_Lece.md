@@ -3,7 +3,7 @@ title: "Šūreit agri sauļe lēce"
 date: 2014-09-11T12:21:00+00:00
 url: /song/1889-Maskackas_Spelmani_-_Sureit_Agri_Saule_Lece
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Kur ža tu beji"
 date: 2014-09-11T12:21:16+00:00
 url: /song/1898-Maskackas_Spelmani_-_Kur_Za_Tu_Beji
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

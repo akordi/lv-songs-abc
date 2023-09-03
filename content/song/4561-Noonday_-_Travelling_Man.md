@@ -3,7 +3,7 @@ title: "Travelling man"
 date: 2020-06-14T19:50:36+00:00
 url: /song/4561-Noonday_-_Travelling_Man
 categories: ["Noonday"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

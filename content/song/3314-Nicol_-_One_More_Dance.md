@@ -3,7 +3,7 @@ title: "One More Dance"
 date: 2018-03-11T18:57:18+00:00
 url: /song/3314-Nicol_-_One_More_Dance
 categories: ["Nicol"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

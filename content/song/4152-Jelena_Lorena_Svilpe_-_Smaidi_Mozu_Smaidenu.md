@@ -3,7 +3,7 @@ title: "Smaidi mozu smaideņu. (Latg.)"
 date: 2020-06-04T06:26:53+00:00
 url: /song/4152-Jelena_Lorena_Svilpe_-_Smaidi_Mozu_Smaidenu
 categories: ["Jeļena Lorena Švilpe"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

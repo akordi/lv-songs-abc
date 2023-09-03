@@ -3,7 +3,7 @@ title: "Dzeivuoj’ jauna meiteņa"
 date: 2014-09-11T12:20:52+00:00
 url: /song/1883-Maskackas_Spelmani_-_Dzeivuoj_Jauna_Meitena
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

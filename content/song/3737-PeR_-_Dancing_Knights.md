@@ -3,7 +3,7 @@ title: "Dancing Knights"
 date: 2020-05-29T20:04:57+00:00
 url: /song/3737-PeR_-_Dancing_Knights
 categories: ["PeR"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

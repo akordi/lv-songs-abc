@@ -3,7 +3,7 @@ title: "Ūsi, ūsi, kod lopuosi"
 date: 2015-04-15T06:20:09+00:00
 url: /song/2059-TAUTASDZIESMAS_-_Usi_Usi_Kod_Lopuosi
 categories: ["#TAUTASDZIESMAS"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

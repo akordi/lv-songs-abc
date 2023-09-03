@@ -3,7 +3,7 @@ title: "Ļauds iz mani izrunōja"
 date: 2020-06-05T06:27:53+00:00
 url: /song/4180-Latgaliesu_Tautasdziesma_-_Lauds_Iz_Mani_Izrunja
 categories: ["Latgaliešu tautasdziesma"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

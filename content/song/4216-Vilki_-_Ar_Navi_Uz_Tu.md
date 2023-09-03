@@ -3,16 +3,21 @@ title: "Ar Nāvi Uz Tu"
 date: 2020-06-05T08:42:23+00:00
 url: /song/4216-Vilki_-_Ar_Navi_Uz_Tu
 categories: ["Vilki"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+Am
 Mēs Daugavas vanagu cilts
 Tur gaiss liesmo šķepi, deg smilts
+    E                           Am
 Pat naidnieks viss baigais mums nedara bēdas
+   E                 Am
 Un nebaida sātans ik soli kas mēdas
+   Am       E       Am
 Ar nāvi mēs esam uz tu
+   Am       E       Am
 Ar nāvi mēs esam uz tu
 
 Kausu pie kausa kas skan

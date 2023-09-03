@@ -3,7 +3,7 @@ title: "Vysi vieji mani pyuta"
 date: 2020-06-03T13:21:07+00:00
 url: /song/3851-TAUTASDZIESMAS_-_Vysi_Vieji_Mani_Pyuta
 categories: ["#TAUTASDZIESMAS"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

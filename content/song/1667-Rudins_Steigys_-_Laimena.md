@@ -3,7 +3,7 @@ title: "Laimeņa"
 date: 2014-06-20T21:00:00+00:00
 url: /song/1667-Rudins_Steigys_-_Laimena
 categories: ["Rudins Steigys"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

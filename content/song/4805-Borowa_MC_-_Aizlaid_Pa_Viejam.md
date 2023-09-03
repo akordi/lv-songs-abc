@@ -3,7 +3,7 @@ title: "Aizlaid pa viejam"
 date: 2021-05-31T15:02:02+00:00
 url: /song/4805-Borowa_MC_-_Aizlaid_Pa_Viejam
 categories: ["Borowa MC"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

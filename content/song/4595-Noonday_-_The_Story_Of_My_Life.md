@@ -3,7 +3,7 @@ title: "The story of my life"
 date: 2020-06-14T19:56:39+00:00
 url: /song/4595-Noonday_-_The_Story_Of_My_Life
 categories: ["Noonday"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

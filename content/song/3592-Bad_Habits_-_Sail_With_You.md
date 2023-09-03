@@ -3,7 +3,7 @@ title: "Sail with you"
 date: 2020-02-08T19:45:28+00:00
 url: /song/3592-Bad_Habits_-_Sail_With_You
 categories: ["Bad habits"]
-tags: ["supernova 2020"]
+tags: ["eng", "supernova 2020"]
 draft: false
 ---
 

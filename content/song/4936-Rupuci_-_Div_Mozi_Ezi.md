@@ -3,7 +3,7 @@ title: "Div mozi eži"
 date: 2022-11-08T19:53:18+00:00
 url: /song/4936-Rupuci_-_Div_Mozi_Ezi
 categories: ["Rupuči"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Tymā upes molā"
 date: 2020-05-31T06:35:56+00:00
 url: /song/3833-Aija_Rimsa_-_Tyma_Upes_Mola
 categories: ["Aija Rimša"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

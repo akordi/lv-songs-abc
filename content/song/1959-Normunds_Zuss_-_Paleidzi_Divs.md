@@ -3,7 +3,7 @@ title: "Paleidzi Dīvs"
 date: 2014-11-23T20:31:18+00:00
 url: /song/1959-Normunds_Zuss_-_Paleidzi_Divs
 categories: ["Normunds Zušs"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

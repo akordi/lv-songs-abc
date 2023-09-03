@@ -3,7 +3,7 @@ title: "Es nagōju krystabōs"
 date: 2016-10-11T19:34:30+00:00
 url: /song/2800-Latgaliesu_Tautasdziesma_-_Es_Nagju_Krystabs
 categories: ["Latgaliešu tautasdziesma"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

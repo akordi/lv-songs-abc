@@ -3,7 +3,7 @@ title: "Sastdīne"
 date: 2020-06-03T13:48:52+00:00
 url: /song/3926-Tautumeitas_-_Sastdine
 categories: ["Tautumeitas"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

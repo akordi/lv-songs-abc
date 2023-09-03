@@ -3,7 +3,7 @@ title: "Flashbacks"
 date: 2019-02-07T22:28:20+00:00
 url: /song/3465-Kristiana___-_Flashbacks
 categories: ["Kristiāna"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

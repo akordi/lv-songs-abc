@@ -3,7 +3,7 @@ title: "Take Off Your Mask"
 date: 2018-03-11T20:39:54+00:00
 url: /song/3366-Liene_Somase_-_Take_Off_Your_Mask
 categories: ["Liene Šomase"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

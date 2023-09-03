@@ -3,19 +3,20 @@ title: "Pierteņa"
 date: 2014-07-20T21:00:00+00:00
 url: /song/1681-Gandreiz_10nika_-_Piertena
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 
 ```text
-A5,C5,G5,F5,E5
-
+A5 C5 G5 F5 E5
 
 Kurīs pierteņa aiz kolna
 Latgaļī ir šudīņ sastys reits
 Sauļa ļīcinoj par solnu
 Sasolušuos lopys kūkūs treis
-p.
+
+Piedz.
+
 Ļidoj muna dvjāsaļeite
 Sauļī, viejī, putekļūs
 Naaizmiersti atsagrīztīs
@@ -25,11 +26,7 @@ Apzaverīs pasauļi
 Naaizmiersti atsagrīztīs
 Ju as asmu pierteņī
 
-
 Pants spēlējas uz clean, piedziedājums drive
-
-
-
 
 Shmakownix
 ```

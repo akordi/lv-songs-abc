@@ -3,7 +3,7 @@ title: "Teci rikšnim, kumeleni"
 date: 2014-09-11T12:21:14+00:00
 url: /song/1897-Maskackas_Spelmani_-_Teci_Riksnim_Kumeleni
 categories: ["Maskačkas spēlmaņi"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 

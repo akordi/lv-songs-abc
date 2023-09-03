@@ -3,7 +3,7 @@ title: "Your Morning Lullaby"
 date: 2018-03-11T21:06:23+00:00
 url: /song/3362-Lauris_Reiniks_-_Your_Morning_Lullaby
 categories: ["Lauris Reiniks"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

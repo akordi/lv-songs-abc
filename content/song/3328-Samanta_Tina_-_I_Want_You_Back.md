@@ -3,7 +3,7 @@ title: "I Want You Back"
 date: 2018-03-11T21:51:28+00:00
 url: /song/3328-Samanta_Tina_-_I_Want_You_Back
 categories: ["Samanta Tīna"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

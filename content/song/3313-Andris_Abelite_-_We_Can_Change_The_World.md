@@ -3,7 +3,7 @@ title: "We Can Change the World"
 date: 2018-03-11T21:55:17+00:00
 url: /song/3313-Andris_Abelite_-_We_Can_Change_The_World
 categories: ["Andris Ābelīte"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

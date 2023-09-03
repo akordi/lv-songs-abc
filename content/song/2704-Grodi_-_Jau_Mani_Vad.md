@@ -3,7 +3,7 @@ title: "Jau mani vad"
 date: 2016-06-17T10:01:04+00:00
 url: /song/2704-Grodi_-_Jau_Mani_Vad
 categories: ["Grodi"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

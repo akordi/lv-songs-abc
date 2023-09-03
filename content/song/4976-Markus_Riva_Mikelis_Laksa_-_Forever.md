@@ -3,7 +3,7 @@ title: "Forever"
 date: 2023-02-04T17:41:54+00:00
 url: /song/4976-Markus_Riva_Mikelis_Laksa_-_Forever
 categories: ["Markus Riva (Miķelis Ļaksa)"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

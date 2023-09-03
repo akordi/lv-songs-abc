@@ -3,7 +3,7 @@ title: "Take me home"
 date: 2020-06-03T13:40:22+00:00
 url: /song/3892-Miks_Galvanovskis_-_Take_Me_Home
 categories: ["Miks Galvanovskis"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

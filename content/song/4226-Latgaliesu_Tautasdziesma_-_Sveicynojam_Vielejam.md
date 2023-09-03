@@ -3,7 +3,7 @@ title: "Sveicynojam, vieļējam"
 date: 2020-06-05T08:46:20+00:00
 url: /song/4226-Latgaliesu_Tautasdziesma_-_Sveicynojam_Vielejam
 categories: ["Latgaliešu tautasdziesma"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

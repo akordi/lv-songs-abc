@@ -3,7 +3,7 @@ title: "Ai, gaļdeņ(i)"
 date: 2021-06-01T14:10:52+00:00
 url: /song/4807-Latgaliesu_Tautasdziesma_-_Ai_Galden
 categories: ["Latgaliešu tautasdziesma"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 

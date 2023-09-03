@@ -3,7 +3,7 @@ title: "You To Hold Me"
 date: 2023-02-04T18:04:58+00:00
 url: /song/4984-Luize_-_You_To_Hold_Me
 categories: ["Luīze"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

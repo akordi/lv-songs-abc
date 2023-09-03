@@ -3,7 +3,7 @@ title: "Rūtoj"
 date: 2015-06-29T08:38:05+00:00
 url: /song/2193-Lana_Franceska_-_Rutoj
 categories: ["Lana Frančeska"]
-tags: ["līgo"]
+tags: ["līgo", "latgaliski"]
 draft: false
 ---
 

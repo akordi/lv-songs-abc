@@ -3,12 +3,12 @@ title: "Četrys vuornys"
 date: 2014-07-18T11:32:00+00:00
 url: /song/1680-Gandreiz_10nika_-_Cetrys_Vuornys
 categories: ["Gandreiž 10nīkā"]
-tags: []
+tags: ["latgaliski"]
 draft: false
 ---
 
 ```text
-D5, A5, B5, G5
+D5 A5 B5 G5
 
 Četrys vuornys siež iz zora i por laiku runoj juos
 Vysom četrom knuobi vaļī veruos tuolūs plošumuos

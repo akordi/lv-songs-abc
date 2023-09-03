@@ -3,7 +3,7 @@ title: "Find You"
 date: 2020-06-14T20:03:26+00:00
 url: /song/4641-Katrine_Lukins_-_Find_You
 categories: ["Katrine Lukins"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

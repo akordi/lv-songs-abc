@@ -3,7 +3,7 @@ title: "Hush"
 date: 2023-02-04T18:07:44+00:00
 url: /song/4986-Patrisha_-_Hush
 categories: ["Patrisha"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 

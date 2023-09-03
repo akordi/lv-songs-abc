@@ -3,7 +3,7 @@ title: "Let Me Go"
 date: 2023-02-04T17:52:40+00:00
 url: /song/4980-Avi_-_Let_Me_Go
 categories: ["Avéi"]
-tags: ["bez akordiem", "supernova 2023"]
+tags: ["eng", "bez akordiem", "supernova 2023"]
 draft: false
 ---
 
