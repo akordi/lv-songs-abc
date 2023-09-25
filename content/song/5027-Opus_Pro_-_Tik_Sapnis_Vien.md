@@ -2,7 +2,7 @@
 title: "Tik sapnis vien"
 date: 2023-04-19T20:19:27+00:00
 url: /song/5027-Opus_Pro_-_Tik_Sapnis_Vien
-categories: ["Opus Pro"]
+categories: ["Opus pro"]
 tags: ["bez akordiem"]
 draft: false
 ---

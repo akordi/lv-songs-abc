@@ -3,12 +3,20 @@ title: "Gaujas valceris"
 date: 2020-06-05T08:47:55+00:00
 url: /song/4234-Dzieti_-_Gaujas_Valceris
 categories: ["Dzieti"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Visas upes klusi tecēj, Gauja klusu netecēj’. (2X)
+C                      
+Visas upes klusi tecēj, 
+F     G     C
+Gauja klusu netecēj’.
+G          C                      
+Visas upes klusi tecēj, 
+F     G     C
+Gauja klusu netecēj’.
+
 Gauja tecēj skanēdama, sidrabiņu sijādam’. (2X)
 Pār Gaujiņu pārpeldēja divi sirmi kumeliņ’. (2X)
 Ne tie ēda Gaujas zāli, ne dzer Gaujas ūdentiņ’. (2X)

@@ -14,7 +14,7 @@ Zeme ar likteni grūtu
 Kad ienaidnieks nokauts uzrodas cits
 
 Tā gadu no gada
-Kāp pāri olim <--- ? 
+Kāp pāri olim 
 Līdz kļūsti tu savāda 
 Soli pa solim 
 Tiec sista un kauta
@@ -37,7 +37,7 @@ Tā latviešu tauta
 No tevis es smeļos 
 
 Tā gadu no gada
-Kāp pāri olim <--- ? 
+Kāp pāri olim 
 Līdz kļūsti tu savāda 
 Soli pa solim 
 Tiec sista un kauta
