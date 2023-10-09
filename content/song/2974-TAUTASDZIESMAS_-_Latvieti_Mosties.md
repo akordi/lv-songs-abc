@@ -2,7 +2,7 @@
 title: "Latvieti, mosties"
 date: 2017-06-03T10:18:16+00:00
 url: /song/2974-TAUTASDZIESMAS_-_Latvieti_Mosties
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["patriotiskās"]
 draft: false
 ---

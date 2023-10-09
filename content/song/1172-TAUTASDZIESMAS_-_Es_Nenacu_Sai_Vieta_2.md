@@ -2,7 +2,7 @@
 title: "Es nenācu šai vietā 2"
 date: 2010-05-06T21:00:00+00:00
 url: /song/1172-TAUTASDZIESMAS_-_Es_Nenacu_Sai_Vieta_2
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

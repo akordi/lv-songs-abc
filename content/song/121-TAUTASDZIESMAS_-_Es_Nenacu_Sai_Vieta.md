@@ -2,7 +2,7 @@
 title: "Es nenācu šai vietā"
 date: 2007-02-26T22:00:00+00:00
 url: /song/121-TAUTASDZIESMAS_-_Es_Nenacu_Sai_Vieta
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

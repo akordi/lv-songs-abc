@@ -2,7 +2,7 @@
 title: "Krauklīt's sēž ozolā(i)"
 date: 2015-07-07T06:05:49+00:00
 url: /song/2223-TAUTASDZIESMAS_-_Krauklits_Sez_Ozola
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

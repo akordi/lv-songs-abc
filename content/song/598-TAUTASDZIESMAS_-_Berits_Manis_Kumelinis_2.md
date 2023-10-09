@@ -2,7 +2,7 @@
 title: "Bērīt's manis kumeliņis 2"
 date: 2008-03-26T22:00:00+00:00
 url: /song/598-TAUTASDZIESMAS_-_Berits_Manis_Kumelinis_2
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

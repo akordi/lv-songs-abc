@@ -2,7 +2,7 @@
 title: "Skaisti dziedi, lakstīgala"
 date: 2015-07-09T06:26:26+00:00
 url: /song/2234-TAUTASDZIESMAS_-_Skaisti_Dziedi_Lakstigala
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

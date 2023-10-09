@@ -2,7 +2,7 @@
 title: "Kareivis"
 date: 2008-05-31T21:00:00+00:00
 url: /song/664-TAUTASDZIESMAS_-_Kareivis
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

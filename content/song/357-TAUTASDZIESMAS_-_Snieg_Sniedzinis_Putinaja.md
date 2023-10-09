@@ -2,7 +2,7 @@
 title: "Snieg sniedziņis, putināja"
 date: 2007-04-08T21:00:00+00:00
 url: /song/357-TAUTASDZIESMAS_-_Snieg_Sniedzinis_Putinaja
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

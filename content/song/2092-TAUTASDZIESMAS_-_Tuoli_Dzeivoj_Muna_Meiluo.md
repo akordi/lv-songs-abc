@@ -2,7 +2,7 @@
 title: "Tuoli dzeivoj muna meiluo"
 date: 2015-04-28T10:22:50+00:00
 url: /song/2092-TAUTASDZIESMAS_-_Tuoli_Dzeivoj_Muna_Meiluo
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski"]
 draft: false
 ---

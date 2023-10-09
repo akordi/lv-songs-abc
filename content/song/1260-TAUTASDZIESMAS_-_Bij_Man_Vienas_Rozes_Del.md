@@ -2,7 +2,7 @@
 title: "Bij` man vienas rozes dēļ"
 date: 2011-01-12T22:00:00+00:00
 url: /song/1260-TAUTASDZIESMAS_-_Bij_Man_Vienas_Rozes_Del
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

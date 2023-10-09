@@ -2,7 +2,7 @@
 title: "Krustiem Zvaigznes Debesīs"
 date: 2018-07-12T22:43:16+00:00
 url: /song/3399-TAUTASDZIESMAS_-_Krustiem_Zvaigznes_Debesis
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

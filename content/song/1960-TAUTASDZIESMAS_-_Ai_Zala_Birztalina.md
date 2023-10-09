@@ -2,7 +2,7 @@
 title: "Ai zaļā birztaliņa"
 date: 2014-11-24T10:13:12+00:00
 url: /song/1960-TAUTASDZIESMAS_-_Ai_Zala_Birztalina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

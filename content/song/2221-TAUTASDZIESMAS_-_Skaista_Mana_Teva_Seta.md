@@ -2,7 +2,7 @@
 title: "Skaista mana tēva sēta"
 date: 2015-07-06T19:58:44+00:00
 url: /song/2221-TAUTASDZIESMAS_-_Skaista_Mana_Teva_Seta
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

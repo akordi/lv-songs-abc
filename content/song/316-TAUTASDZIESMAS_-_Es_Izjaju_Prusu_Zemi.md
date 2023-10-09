@@ -2,7 +2,7 @@
 title: "Es Izjāju Prūšu Zemi"
 date: 2007-03-14T22:00:00+00:00
 url: /song/316-TAUTASDZIESMAS_-_Es_Izjaju_Prusu_Zemi
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

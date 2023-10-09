@@ -2,7 +2,7 @@
 title: "Maza, Maza Meitenīte"
 date: 2008-08-26T21:00:00+00:00
 url: /song/758-TAUTASDZIESMAS_-_Maza_Maza_Meitenite
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

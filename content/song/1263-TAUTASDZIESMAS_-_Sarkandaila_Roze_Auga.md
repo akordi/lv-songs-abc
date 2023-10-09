@@ -2,7 +2,7 @@
 title: "Sarkandaiļa roze auga"
 date: 2011-01-12T22:00:00+00:00
 url: /song/1263-TAUTASDZIESMAS_-_Sarkandaila_Roze_Auga
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

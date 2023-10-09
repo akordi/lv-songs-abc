@@ -2,7 +2,7 @@
 title: "Alutiņi, Vecais Brāli"
 date: 2008-03-26T22:00:00+00:00
 url: /song/594-TAUTASDZIESMAS_-_Alutini_Vecais_Brali
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

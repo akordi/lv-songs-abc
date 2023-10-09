@@ -2,7 +2,7 @@
 title: "Pī Dīveņa gari goldi"
 date: 2020-06-05T08:36:45+00:00
 url: /song/4210-TAUTASDZIESMAS_-_Pi_Divena_Gari_Goldi
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski"]
 draft: false
 ---

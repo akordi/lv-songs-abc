@@ -2,7 +2,7 @@
 title: "Ik vakara dziedāt gāju"
 date: 2020-06-11T11:33:06+00:00
 url: /song/4476-TAUTASDZIESMAS_-_Ik_Vakara_Dziedat_Gaju
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

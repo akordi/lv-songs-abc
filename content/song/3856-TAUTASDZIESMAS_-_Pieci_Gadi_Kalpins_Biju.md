@@ -2,7 +2,7 @@
 title: "Pieci gadi kalpiņš biju"
 date: 2020-06-03T13:27:42+00:00
 url: /song/3856-TAUTASDZIESMAS_-_Pieci_Gadi_Kalpins_Biju
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

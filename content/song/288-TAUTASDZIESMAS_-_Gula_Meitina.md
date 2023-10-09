@@ -2,7 +2,7 @@
 title: "Gula meitīna"
 date: 2007-03-07T22:00:00+00:00
 url: /song/288-TAUTASDZIESMAS_-_Gula_Meitina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

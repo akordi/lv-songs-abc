@@ -2,7 +2,7 @@
 title: "Es ar sauli saderēju"
 date: 2022-03-19T07:44:18+00:00
 url: /song/4883-TAUTASDZIESMAS_-_Es_Ar_Sauli_Sadereju
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

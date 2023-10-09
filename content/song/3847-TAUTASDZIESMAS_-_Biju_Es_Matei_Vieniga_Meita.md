@@ -2,7 +2,7 @@
 title: "Biju es mātei vienīgā meita"
 date: 2020-06-01T08:18:49+00:00
 url: /song/3847-TAUTASDZIESMAS_-_Biju_Es_Matei_Vieniga_Meita
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

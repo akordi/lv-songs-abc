@@ -2,7 +2,7 @@
 title: "Es nenācu šai vietā 4"
 date: 2015-07-13T21:24:10+00:00
 url: /song/2257-TAUTASDZIESMAS_-_Es_Nenacu_Sai_Vieta_4
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

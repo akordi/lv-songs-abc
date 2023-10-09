@@ -2,7 +2,7 @@
 title: "Aijā, žūžū"
 date: 2011-03-24T22:00:00+00:00
 url: /song/1288-TAUTASDZIESMAS_-_Aija_Zuzu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["šūpuļdziesma"]
 draft: false
 ---

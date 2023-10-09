@@ -2,7 +2,7 @@
 title: "Kas dziedāja Jāņu nakti"
 date: 2020-06-05T10:32:28+00:00
 url: /song/4267-TAUTASDZIESMAS_-_Kas_Dziedaja_Janu_Nakti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

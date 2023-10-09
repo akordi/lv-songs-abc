@@ -2,7 +2,7 @@
 title: "Bāra bērnu ganu rīti"
 date: 2020-06-03T16:40:24+00:00
 url: /song/4034-TAUTASDZIESMAS_-_Bara_Bernu_Ganu_Riti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

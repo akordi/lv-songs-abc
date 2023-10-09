@@ -2,7 +2,7 @@
 title: "Jautrie sēņotāji"
 date: 2015-01-11T17:22:13+00:00
 url: /song/1983-TAUTASDZIESMAS_-_Jautrie_Senotaji
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

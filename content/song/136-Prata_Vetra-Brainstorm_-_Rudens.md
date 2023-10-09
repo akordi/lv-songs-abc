@@ -13,7 +13,7 @@ Intro: 4x Em A Bm
 Pants.
 Em A         Bm      G                  A           Em
    Rudens kā rudens, biezie un gājputni laižas uz Nīlu  
-A          Bm        G                  A                 Em   
+A          Bm        G                  A                 Em    A Em A
 Pēkšņi man likās, tu esi mans draugs un es tevi - mazliet mīlu
 Em    A         Bm       G                     A            Em
 Saule cēlās un krita, es biju tavs meistars un tu mana Margarita
@@ -30,7 +30,7 @@ Laid savus putnus ārā no būra
                Em     A       [G   A] 
 Uz kurieni tie lidos, tur arī es
 
-  G            A
+  G            A       G    A
 Joprojām ļoti, ļoti
 
 

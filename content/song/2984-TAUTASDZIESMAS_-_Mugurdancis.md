@@ -2,7 +2,7 @@
 title: "Mugurdancis"
 date: 2017-06-06T19:52:30+00:00
 url: /song/2984-TAUTASDZIESMAS_-_Mugurdancis
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

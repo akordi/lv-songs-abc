@@ -2,7 +2,7 @@
 title: "Kur gaismeņa 2"
 date: 2009-11-03T22:00:00+00:00
 url: /song/1053-TAUTASDZIESMAS_-_Kur_Gaismena_2
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski"]
 draft: false
 ---

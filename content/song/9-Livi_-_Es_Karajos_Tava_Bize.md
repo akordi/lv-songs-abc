@@ -11,7 +11,7 @@ draft: false
 Am                 C          D      Am    C D
 Durvis ir vaļā par ilgu šai vietā ir būts
 Am                C          D      Am     C D
-Mūzika skaļa, aiz loga atrīs ubagi lūdz
+Mūzika skaļa, aiz loga trīs ubagi lūdz
 Am      C     D  G Am          C     D    G Am
 Tā šai dzīvē iet,      durvis veras ciet
 Am     C    D  G Am        C                           H7

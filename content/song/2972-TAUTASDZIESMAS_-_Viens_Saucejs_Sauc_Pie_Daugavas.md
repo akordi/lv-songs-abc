@@ -2,7 +2,7 @@
 title: "Viens saucējs sauc pie Daugavas"
 date: 2017-06-03T10:27:50+00:00
 url: /song/2972-TAUTASDZIESMAS_-_Viens_Saucejs_Sauc_Pie_Daugavas
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["patriotiskās"]
 draft: false
 ---

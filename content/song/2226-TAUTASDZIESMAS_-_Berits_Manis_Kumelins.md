@@ -2,7 +2,7 @@
 title: "Bērīt's manis kumeliņš"
 date: 2015-07-07T07:27:22+00:00
 url: /song/2226-TAUTASDZIESMAS_-_Berits_Manis_Kumelins
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

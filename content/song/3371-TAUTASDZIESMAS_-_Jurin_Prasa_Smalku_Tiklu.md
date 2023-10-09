@@ -2,7 +2,7 @@
 title: "Jūriņ prasa smalku tīklu"
 date: 2018-03-08T17:35:29+00:00
 url: /song/3371-TAUTASDZIESMAS_-_Jurin_Prasa_Smalku_Tiklu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

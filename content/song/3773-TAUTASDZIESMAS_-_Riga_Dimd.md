@@ -2,7 +2,7 @@
 title: "Rīga dimd"
 date: 2020-05-29T20:22:01+00:00
 url: /song/3773-TAUTASDZIESMAS_-_Riga_Dimd
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

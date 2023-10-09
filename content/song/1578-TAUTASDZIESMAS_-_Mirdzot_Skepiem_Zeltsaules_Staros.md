@@ -2,7 +2,7 @@
 title: "Mirdzot šķēpiem zeltsaules staros"
 date: 2014-04-19T21:00:00+00:00
 url: /song/1578-TAUTASDZIESMAS_-_Mirdzot_Skepiem_Zeltsaules_Staros
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["patriotiskās"]
 draft: false
 ---

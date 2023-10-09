@@ -2,7 +2,7 @@
 title: "Līgodama upe nesa"
 date: 2015-07-24T18:12:25+00:00
 url: /song/2278-TAUTASDZIESMAS_-_Ligodama_Upe_Nesa
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

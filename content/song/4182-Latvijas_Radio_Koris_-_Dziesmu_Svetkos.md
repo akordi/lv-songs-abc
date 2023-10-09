@@ -8,14 +8,17 @@ draft: false
 ---
 
 ```text
-C
+C               Gm
 Mūžu mūžos būs dziesma
-        G          C
+     Eb          Gm
 Un mūžu mūžos alus smeķēs
-    G               C
-Bet pāri no dziesmu svētkiem 2x
-     F              C
+    Eb              
+Bet pāri no dziesmu svētkiem 
+     Gm
+Bet pāri no dziesmu svētkiem
+     Bb Ab A  D      Gm
 Nāks meitene baltās zeķēs
+
 
 Ziedu un vainagu jūra
 Ak zilacainā skuķe
@@ -23,9 +26,13 @@ Viņa nāk no Dundagas dārziem 2x
 Un rokās tai balta puķe
 
  (PIEDZIED.)
+     C 
     Zīles un jāņuzāles
+               F
     Kur lai to puķi es lieku
+    C         G
     Ziedu un vainagu jūrā
+    Gb F                   C
     Tik tikko līdz vārtiem tieku
 
 Un paskatos atpakaļ

@@ -2,7 +2,7 @@
 title: "Apkal manu kumeliņu (Kalējiņi, bāleliņi)"
 date: 2014-12-30T08:15:46+00:00
 url: /song/1986-TAUTASDZIESMAS_-_Apkal_Manu_Kumelinu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

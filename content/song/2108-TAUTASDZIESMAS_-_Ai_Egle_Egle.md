@@ -2,7 +2,7 @@
 title: "Ai, egle, egle"
 date: 2015-05-21T12:28:37+00:00
 url: /song/2108-TAUTASDZIESMAS_-_Ai_Egle_Egle
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

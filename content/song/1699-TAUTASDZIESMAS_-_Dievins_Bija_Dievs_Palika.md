@@ -2,7 +2,7 @@
 title: "Dieviņš bija, Dievs palika"
 date: 2014-08-14T11:21:25+00:00
 url: /song/1699-TAUTASDZIESMAS_-_Dievins_Bija_Dievs_Palika
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

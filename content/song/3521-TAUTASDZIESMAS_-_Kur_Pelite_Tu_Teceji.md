@@ -2,7 +2,7 @@
 title: "Kur pelīte tu tecēji"
 date: 2019-04-07T18:09:43+00:00
 url: /song/3521-TAUTASDZIESMAS_-_Kur_Pelite_Tu_Teceji
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

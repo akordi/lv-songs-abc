@@ -2,7 +2,7 @@
 title: "Div` Pļaviņas Es Nopļāvu"
 date: 2008-08-26T21:00:00+00:00
 url: /song/760-TAUTASDZIESMAS_-_Div_Plavinas_Es_Noplavu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Bēdu, manu lielu bēdu 2"
 date: 2015-02-22T19:41:55+00:00
 url: /song/2006-TAUTASDZIESMAS_-_Bedu_Manu_Lielu_Bedu_2
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

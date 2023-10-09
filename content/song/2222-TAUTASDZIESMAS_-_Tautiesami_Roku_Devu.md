@@ -2,7 +2,7 @@
 title: "Tautiešami Roku Devu"
 date: 2015-07-07T06:32:06+00:00
 url: /song/2222-TAUTASDZIESMAS_-_Tautiesami_Roku_Devu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

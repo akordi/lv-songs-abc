@@ -2,7 +2,7 @@
 title: "Upe nesa ozoliņu"
 date: 2015-07-07T07:02:07+00:00
 url: /song/2224-TAUTASDZIESMAS_-_Upe_Nesa_Ozolinu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

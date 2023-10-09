@@ -2,7 +2,7 @@
 title: "Pūt, Vējiņi"
 date: 2010-11-17T22:00:00+00:00
 url: /song/1240-TAUTASDZIESMAS_-_Put_Vejini
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

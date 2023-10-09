@@ -10,11 +10,11 @@ draft: false
 ```text
 Am
 Zem mūsu kājām lielceļš balts
-   Am   E      Am   (E7 Am)
+   Am   E      Am   ( E7 Am)
 Uz Latviju tas ved.
 Am
 Uz Latviju, kur naidnieks baigs,
-    Am      E    Am    (E7 Am)
+    Am      E    Am    ( E7 Am)
 Pār laukiem nāvi sēj
  
 Am
@@ -23,7 +23,7 @@ Dm                    Am
 Un šautenes plecos ir mums,
    Dm     E      Am
 un senajo varoņu vārdi,
-    E         E7        Am    (E7 Am)
+    E         E7        Am    ( E7 Am)
 nāk līdzi, kā mantojums mums.
  
     Dm		      Am
@@ -32,7 +32,7 @@ Mēs nāksim drīz, Latvija, gaidi!
 Un nesīsim brīvību Tev , kas mums dārga!
         Am                  Dm
 (x2) Un mēs ejam un ejam un traucam un steidzam
-    Am       E          Am      (E7 Am)
+    Am       E          Am      ( E7 Am)
 Par vēlu mēs nedrīkstam būt!
  
 Mums viena doma sirdī kvēl

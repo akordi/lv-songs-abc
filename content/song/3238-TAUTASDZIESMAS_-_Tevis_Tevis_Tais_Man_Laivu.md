@@ -2,7 +2,7 @@
 title: "Tēvis tēvis tais man laivu"
 date: 2018-01-08T20:32:23+00:00
 url: /song/3238-TAUTASDZIESMAS_-_Tevis_Tevis_Tais_Man_Laivu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

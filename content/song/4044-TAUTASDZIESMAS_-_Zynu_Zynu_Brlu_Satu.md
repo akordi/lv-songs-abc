@@ -2,7 +2,7 @@
 title: "Zynu zynu brōļu sātu"
 date: 2020-06-03T16:41:46+00:00
 url: /song/4044-TAUTASDZIESMAS_-_Zynu_Zynu_Brlu_Satu
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski"]
 draft: false
 ---

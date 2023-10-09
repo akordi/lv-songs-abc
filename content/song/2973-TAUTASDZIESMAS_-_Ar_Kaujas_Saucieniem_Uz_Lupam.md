@@ -2,7 +2,7 @@
 title: "Ar kaujas saucieniem uz lūpām"
 date: 2017-06-03T10:21:26+00:00
 url: /song/2973-TAUTASDZIESMAS_-_Ar_Kaujas_Saucieniem_Uz_Lupam
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["patriotiskās"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Rūžeņa"
 date: 2008-01-15T22:00:00+00:00
 url: /song/530-TAUTASDZIESMAS_-_Ruzena
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski", abc]
 draft: false
 ---

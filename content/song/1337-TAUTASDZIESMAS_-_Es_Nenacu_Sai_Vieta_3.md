@@ -2,7 +2,7 @@
 title: "Es nenācu šai vietā 3"
 date: 2011-10-02T21:00:00+00:00
 url: /song/1337-TAUTASDZIESMAS_-_Es_Nenacu_Sai_Vieta_3
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

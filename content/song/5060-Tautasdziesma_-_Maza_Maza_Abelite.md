@@ -2,7 +2,7 @@
 title: "Maza, maza ābelīte"
 date: 2023-07-20T07:32:16+00:00
 url: /song/5060-Tautasdziesma_-_Maza_Maza_Abelite
-categories: ["Tautasdziesma"]
+categories: ["Latviešu tautasdziesma"]
 tags: [abc]
 draft: false
 ---

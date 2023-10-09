@@ -2,7 +2,7 @@
 title: "Nu, ardievu, Vidzemīte"
 date: 2017-06-03T10:41:22+00:00
 url: /song/2961-TAUTASDZIESMAS_-_Nu_Ardievu_Vidzemite
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["patriotiskās"]
 draft: false
 ---

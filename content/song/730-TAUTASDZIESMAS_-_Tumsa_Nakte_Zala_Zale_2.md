@@ -2,7 +2,7 @@
 title: "Tumša nakte, zaļa zāle 2"
 date: 2008-07-07T21:00:00+00:00
 url: /song/730-TAUTASDZIESMAS_-_Tumsa_Nakte_Zala_Zale_2
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

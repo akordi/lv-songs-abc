@@ -1,5 +1,5 @@
 ---
-title: "\"Bij' manam kumeļam\";"
+title: "Bij' manam kumeļam"
 date: 2023-05-09T16:02:54+00:00
 url: /song/5035-JVitola_Lat_Akademijas_Kol_-_Bij_Manam_Kumelam
 categories: ["J-Vītola Lat- akadēmijas kol-"]

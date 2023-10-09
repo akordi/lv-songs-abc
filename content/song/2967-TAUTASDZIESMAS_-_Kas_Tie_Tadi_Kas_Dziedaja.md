@@ -2,7 +2,7 @@
 title: "Kas tie tādi, kas dziedāja"
 date: 2017-06-03T10:36:28+00:00
 url: /song/2967-TAUTASDZIESMAS_-_Kas_Tie_Tadi_Kas_Dziedaja
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Lielais Jānis, mazais Jānis"
 date: 2019-06-24T11:20:01+00:00
 url: /song/3535-TAUTASDZIESMAS_-_Lielais_Janis_Mazais_Janis
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["līgo"]
 draft: false
 ---

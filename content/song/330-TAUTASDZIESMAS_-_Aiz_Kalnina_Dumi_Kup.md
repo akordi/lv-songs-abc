@@ -2,7 +2,7 @@
 title: "Aiz Kalniņa Dūmi Kūp"
 date: 2007-03-21T22:00:00+00:00
 url: /song/330-TAUTASDZIESMAS_-_Aiz_Kalnina_Dumi_Kup
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

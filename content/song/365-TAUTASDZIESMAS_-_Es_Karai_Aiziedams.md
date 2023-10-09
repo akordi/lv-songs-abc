@@ -2,7 +2,7 @@
 title: "Es karāi aiziedams"
 date: 2007-04-09T21:00:00+00:00
 url: /song/365-TAUTASDZIESMAS_-_Es_Karai_Aiziedams
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

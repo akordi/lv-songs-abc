@@ -2,7 +2,7 @@
 title: "Pie Dieviņa gari galdi"
 date: 2009-08-30T21:00:00+00:00
 url: /song/1023-TAUTASDZIESMAS_-_Pie_Dievina_Gari_Galdi
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

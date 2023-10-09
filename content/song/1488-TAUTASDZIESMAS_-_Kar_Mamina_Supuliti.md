@@ -2,7 +2,7 @@
 title: "Kar, māmiņa, šūpulīti"
 date: 2012-10-07T21:00:00+00:00
 url: /song/1488-TAUTASDZIESMAS_-_Kar_Mamina_Supuliti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Aijā, Ancīt, aijā"
 date: 2012-10-07T21:00:00+00:00
 url: /song/1489-TAUTASDZIESMAS_-_Aija_Ancit_Aija
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

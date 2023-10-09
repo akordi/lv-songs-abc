@@ -2,7 +2,7 @@
 title: "Visi ceļi guņiem pilni"
 date: 2020-06-05T10:32:45+00:00
 url: /song/4268-TAUTASDZIESMAS_-_Visi_Celi_Guniem_Pilni
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

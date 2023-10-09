@@ -2,7 +2,7 @@
 title: "Čuči, Guli Līgaviņa"
 date: 2008-08-26T21:00:00+00:00
 url: /song/759-TAUTASDZIESMAS_-_Cuci_Guli_Ligavina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

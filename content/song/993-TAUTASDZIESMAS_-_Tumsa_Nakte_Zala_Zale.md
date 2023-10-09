@@ -2,7 +2,7 @@
 title: "Tumša nakte, zaļa zāle"
 date: 2009-06-12T21:00:00+00:00
 url: /song/993-TAUTASDZIESMAS_-_Tumsa_Nakte_Zala_Zale
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

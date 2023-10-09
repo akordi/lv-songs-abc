@@ -2,7 +2,7 @@
 title: "Neguļu, neguļu Jānīša nakti"
 date: 2015-06-25T18:46:58+00:00
 url: /song/2179-TAUTASDZIESMAS_-_Negulu_Negulu_Janisa_Nakti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["līgo"]
 draft: false
 ---

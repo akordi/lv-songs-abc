@@ -2,7 +2,7 @@
 title: "Galdiņam Bij` Četri Stūri"
 date: 2010-05-03T21:00:00+00:00
 url: /song/1171-TAUTASDZIESMAS_-_Galdinam_Bij_Cetri_Sturi
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

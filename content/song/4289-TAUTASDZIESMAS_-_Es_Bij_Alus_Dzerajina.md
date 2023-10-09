@@ -2,7 +2,7 @@
 title: "Es bij` alus dzērājiņa"
 date: 2020-06-05T10:38:41+00:00
 url: /song/4289-TAUTASDZIESMAS_-_Es_Bij_Alus_Dzerajina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

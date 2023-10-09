@@ -2,7 +2,7 @@
 title: "Kur, priedīte, tavas skujas"
 date: 2023-08-24T13:35:07+00:00
 url: /song/5068-Tautasdziesma_-_Kur_Priedite_Tavas_Skujas
-categories: ["Tautasdziesma"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

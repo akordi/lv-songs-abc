@@ -2,7 +2,7 @@
 title: "Sauleite, māmeņa"
 date: 2023-09-25T11:31:49+00:00
 url: /song/5076-Tautasdziesma_-_Sauleite_Mamena
-categories: ["Tautasdziesma"]
+categories: ["Latviešu tautasdziesma"]
 tags: [abc]
 draft: false
 ---
@@ -11,6 +11,7 @@ X: 1
 T: Sauleite, māmeņa
 M: 3/8
 L: 1/8
+Q: 120
 K: C
 G G G | G/2F/2 E E| G E E|F/2E/2 E E:|]
 w: Sau-lei-te mā--me-ņa spī-ge-ļoi, spī--ge-ļoi.

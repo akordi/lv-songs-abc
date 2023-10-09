@@ -2,7 +2,7 @@
 title: "Diždancis"
 date: 2008-10-16T21:00:00+00:00
 url: /song/796-TAUTASDZIESMAS_-_Dizdancis
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

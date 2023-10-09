@@ -21,13 +21,13 @@ Tas ir nieks dzīvu uguni norīt,
                 A
 Ja tik aliņš ir virsū, ko dzert.
 
-Te mēs ugunis uzkožam korī
+Tikpat labi bez alus var noreibt,
                 D
-Korī ejam nakts tauriņus ķert.
+No vistukšākās pudeles dzert.
 
 Piedz.
    D      G
-Jo tu esi dzīvs, jo tu esi dzīva,
+Jo tu esi brīvs, jo tu esi dzīva,
       F#m                
 Viens zirgs vēl ir brīvs,
 Em    A        Bm
@@ -50,16 +50,16 @@ Vai jums vēderā dienišķā desa,
                   A
 Vai tur vienkārši vardes kurkst.
 
-Te mēs visi vienādi esam,
+Te mēs visi it vienādi esam,
                    D
-Vai tad būs tā vēl citur kaut kur?
+Vai tad vēl tā būs citur kaut kur?
 
 Piedz.
 
 D
-Zvaigžņu acīm noraugās runči,
+Zvaigžņu acīm noskatās runči,
                      A
-Bet tiem skatiens ir stiklaini stīvs.
+Un tiem skatiens ir stiklaini stīvs.
 
 Mūsu karogs ir meiteņu brunči,
                    D

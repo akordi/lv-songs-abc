@@ -2,7 +2,7 @@
 title: "Vakars vēls pār zemi laižas"
 date: 2017-06-03T10:46:49+00:00
 url: /song/2969-TAUTASDZIESMAS_-_Vakars_Vels_Par_Zemi_Laizas
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Tumša, tumša tā eglīte"
 date: 2019-01-13T17:48:11+00:00
 url: /song/3442-TAUTASDZIESMAS_-_Tumsa_Tumsa_Ta_Eglite
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Seši mazi bundzenieki"
 date: 2017-08-25T20:37:33+00:00
 url: /song/3111-TAUTASDZIESMAS_-_Sesi_Mazi_Bundzenieki
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

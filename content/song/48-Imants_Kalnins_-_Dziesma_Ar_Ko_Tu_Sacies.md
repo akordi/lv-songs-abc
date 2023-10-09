@@ -32,7 +32,7 @@ Par zemu zāli,
 Dziedi par gaišu staru,
 Par gaišu staru.
 Dziedi par gaišu staru,
-Iepin pa lētam jokam -
+Dziedi pa lētam jokam -
 Tavējie sapratīs
 Tavējie sapratīs,
 Ka dziesma ir kliedziens.

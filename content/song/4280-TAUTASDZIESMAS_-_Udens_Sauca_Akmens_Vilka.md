@@ -2,7 +2,7 @@
 title: "Ūdens sauca, akmens vilka"
 date: 2020-06-05T10:36:54+00:00
 url: /song/4280-TAUTASDZIESMAS_-_Udens_Sauca_Akmens_Vilka
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["bez akordiem"]
 draft: false
 ---

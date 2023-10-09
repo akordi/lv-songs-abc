@@ -2,7 +2,7 @@
 title: "Ai, zaļā(i) līdaciņa"
 date: 2011-01-12T22:00:00+00:00
 url: /song/1262-TAUTASDZIESMAS_-_Ai_Zala_Lidacina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

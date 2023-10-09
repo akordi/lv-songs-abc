@@ -2,7 +2,7 @@
 title: "Celiesi, brālīti, auniesi kājas"
 date: 2022-06-27T21:19:48+00:00
 url: /song/4917-TAUTASDZIESMAS_-_Celiesi_Braliti_Auniesi_Kajas
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["līgo", "bērnu"]
 draft: false
 ---

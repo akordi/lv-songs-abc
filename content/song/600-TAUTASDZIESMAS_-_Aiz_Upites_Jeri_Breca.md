@@ -2,7 +2,7 @@
 title: "Aiz Upītes Jēri Brēca"
 date: 2008-03-26T22:00:00+00:00
 url: /song/600-TAUTASDZIESMAS_-_Aiz_Upites_Jeri_Breca
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

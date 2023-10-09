@@ -2,7 +2,7 @@
 title: "Div' dūjiņas gaisā skrēja (Tabi)"
 date: 2009-11-16T22:00:00+00:00
 url: /song/1066-TAUTASDZIESMAS_-_Div_Dujinas_Gaisa_Skreja
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["tab"]
 draft: false
 ---

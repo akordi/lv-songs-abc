@@ -2,7 +2,7 @@
 title: "Pūti, pūti ziemelīti"
 date: 2016-12-17T08:01:35+00:00
 url: /song/2858-TAUTASDZIESMAS_-_Puti_Puti_Ziemeliti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

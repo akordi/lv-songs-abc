@@ -2,7 +2,7 @@
 title: "Goju Pa Mežu rubeņu Šaudeiti"
 date: 2008-01-15T22:00:00+00:00
 url: /song/531-TAUTASDZIESMAS_-_Goju_Pa_Mezu_Rubenu_Saudeiti
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: ["latgaliski"]
 draft: false
 ---

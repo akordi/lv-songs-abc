@@ -2,7 +2,7 @@
 title: "Silta, jauka istabiņa"
 date: 2017-06-06T19:46:29+00:00
 url: /song/2985-TAUTASDZIESMAS_-_Silta_Jauka_Istabina
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---

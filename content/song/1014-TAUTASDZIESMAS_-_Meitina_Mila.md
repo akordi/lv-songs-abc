@@ -2,7 +2,7 @@
 title: "Meitiņa Mīļā"
 date: 2009-08-14T21:00:00+00:00
 url: /song/1014-TAUTASDZIESMAS_-_Meitina_Mila
-categories: ["#TAUTASDZIESMAS"]
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---
