@@ -1,0 +1,23 @@
+name: Nightly Download
+
+# on:
+#   schedule:
+#     - cron: '0 2 * * *' # Scheduled to run at 2 AM UTC every day
+
+jobs:
+  go-run:
+    runs-on: ubuntu-latest
+    container: golang:1.18 # Use the Go Docker image
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Run download.go
+      run: go run download.go
+
+    - name: Commit and push if there are changes
+      run: |
+        git add .
+        git commit -m "Update downloaded files [skip ci]" || echo "No changes to commit"
+        git push
