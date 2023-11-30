@@ -8,6 +8,8 @@ draft: false
 ---
 
 ```text
+Kapo 3.lada
+
 [Am] Vienā valodā raud visi ļaudis,
 [B] Vienā valodā, valodā tie [E] smej.
 [Am] Tikai dzimtā valoda dzēš sāpes,

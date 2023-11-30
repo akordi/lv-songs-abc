@@ -23,7 +23,7 @@ Nu, Dieviņi, Tava vaļa, Tava vaļa,
 Nu Tavās(i) rociņās(i), rociņās.
 
 Nu Tavās(i) rociņās(i), rociņās(i)
-Pašas laimes atslēdziņa, atslēdziņ'.
+Pašas Laimes atslēdziņa, atslēdziņ'.
 
 Dod, Dieviņi, kalnā kāpt(i), kalnā kāpt(i),
 Ne no kalna lejiņā(i), lejiņā.

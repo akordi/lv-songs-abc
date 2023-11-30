@@ -8,79 +8,71 @@ draft: false
 ---
 
 ```text
-UZBUR LAIMI /LIENE ŠOMASE UN JĀNIS MOI
+Capo 2
 
-KAPPA UZ OTRĀS LADAS!!!
-
-INTRO
+Intro
 C G C
 
-PANTS
      C     G       Am        Em
-ŠAJĀ APAĻĀ PASAULĒ, KURU MĒS ZINĀM
+Šajā apaļā pasaulē, kuru mēs zinām
    F        C    F     G
-IR BURVIS,  KURŠ LAIMI BUR
+Ir burvis,  kurš laimi bur
      C      G        Am              Em
-TĀ TEIKSMĀS RUNĀ, KA AIZ TREJDEVIŅĀM JŪRĀM, AIZ 
+Tā teiksmās runā, ka aiz trejdeviņām jūrām, aiz 
    F        C    
-TREJDEVIŅĀM PĻAVĀM
+Trejdeviņām pļavām
 F          G
-VIŅŠ LAIMI KUR.
+Viņš laimi kur.
 
       C      G      Am   Em
-BALTĀ BURVJA BĀRDAS PAŠĀ GALĀ
+Baltā burvja bārdas pašā galā
 F       C       F     G
-LIKTENS ATSLĒGA SAULĒ MIRDZ,
+Liktens atslēga saulē mirdz,
      C       G         Am      Em
-VIŅŠ ATVEROT VĀRTUS UZ LAIMĪGO ZEMI,
-    F     C      F        G
-KUR TIKAI PRIEKA DZIESMAS DZIED.
+Viņš atverot vārtus uz laimīgo zemi,
+    F     C      F        g
+Kur tikai prieka dziesmas dzied.
 
-PIEDZ.
+Piedz.
 C      G           Am        
-BURVI, UZBUR LAIMI TU,
+Burvi, uzbur laimi tu,
 Em           F    C            F          G
-LAI TĀ LAIME TUR, LAI TĀ LAIME MŪSU MŪŽUS TUR! 2X
+Lai tā laime tur, lai tā laime mūsu mūžus tur! 2x
 
    C            G         Am        Em
-NO TAURIŅSPĀRNU VĒJA VIŅŠ LAIMI TUR LEJOT
+No tauriņspārnu vēja viņš laimi tur lejot
    F        C           F      G
-UN PRIECĪGA KĻŪST KATRA MĀKOŅA SIRDS
+Un priecīga kļūst katra mākoņa sirds
      C            G     Am           Em
-CAUR SARKANMELNĀM JŪRĀM ES AR BALTĀM BURĀM 
+Caur sarkanmelnām jūrām es ar baltām burām 
 F            C         F      G
-BRAUCU MEKLĒT BURVI AR LAIMES ATSLĒGU
+Braucu meklēt burvi ar laimes atslēgu
 
 
-PIEDZ.
+Piedz.
 C      G           Am        
-BURVI, UZBUR LAIMI TU,
+Burvi, uzbur laimi tu,
 Em           F    C            F          G
-LAI TĀ LAIME TUR, LAI TĀ LAIME MŪSU MŪŽUS TUR! 2X
+Lai tā laime tur, lai tā laime mūsu mūžus tur! 2x
 
    C        G          Am       Em
-JO TĀLĀK ES BRAUCU TIK CEĻU SEV JAUCU
+Jo tālāk es braucu tik ceļu sev jaucu
    F        C       F     G
-PA PASAULI BUROS UN KLEJOJU
+Pa pasauli buros un klejoju
    C        G         Am             Em
-ES BUROS UN BURU LĪDZ PATS PAR BURVI KĻUVU
+Es buros un buru līdz pats par burvi kļuvu
    F      C           F     G
-UN UZBŪRU PASAKU,  KO SAPŅOJU
+Un uzbūru pasaku,  ko sapņoju
 
-PIEDZ.
+Piedz.
 
-
-
-
-NOBEIGUMS
+Nobeigums
 C      G           Am        
-BURVI, UZBUR LAIMI TU…
+Burvi, uzbur laimi tu…
 Em F C F G
-PIEDZ.
+Piedz.
 C      G           Am        
-BURVI, UZBUR LAIMI TU,
-Em           F    C            F          G
-LAI TĀ LAIME TUR, LAI TĀ LAIME MŪSU MŪŽUS TUR! 2X
-
-
+Burvi, uzbur laimi tu,
+Em           F    C           F          G
+Lai tā laime tur, lai tā laime mūsu mūžus tur! 2x
 ```

@@ -17,13 +17,13 @@ Em Am H7 Em
 Em		   Am
 Nenāciet klāt man rudenī,
 
-    H7		  Em
+    B7	  Em
 Man rudenī jābūt vienai,
 
 		     Am
 Kur lapu dakstiņiem apklāts jumts
 
-    H7		   Em
+    B7		   Em
 Un vēji kā četras sienas.
 
         G	          C
@@ -35,24 +35,24 @@ Tikai rudenājos es zinu,
      Em		    Am
 Pec manis nenāciet stundā,
 
-        H7	    Em
+        B7	    Em
 Kad savu uguni atdzīvinu.
 
 
-Am Am Em Em H7 H7 Em
-Em Am H7 
+Am Am Em Em B7 B7 Em
+Em Am B7 
 
 
 Em		Am
 Ogles pavardā, mierinot mani,
 
-H7	      Em
+B7	      Em
 Klusiņām sarunājas,
 
 		   Am
 Pie manis nenāciet rudenī,
 
-      H7    	 Em
+      B7    	 Em
 Man rudenī jābūt mājās.
 
        G            	C
@@ -64,7 +64,7 @@ Un pati par pelniem krītu izmisumā,
      Em		   Am
 No skatienu cilpām nespējot,
 
-    H7	 Em
+    B7	 Em
 Nespējot atraisīties.
 
 
@@ -81,22 +81,22 @@ Tikai rudenājos es zinu,
      Em		   Am
 Pec manis nenāciet stundā,
 
-       H7	  Em
+       B7	  Em
 Kad savu uguni atdzīvinu.
 
 Em		   Am
 Nenāciet klāt man rudenī,
 
-     H7		  Em
+     B7		  Em
 Man rudenī jābūt vienai.
 
 
-Em Am H7 Em
-Em Am H7 Em
-Em Am H7 Em
-Em H7 H7 Em
-Em Am H7 Em
-Em H7 H7 Em
+Em Am B7 Em
+Em Am B7 Em
+Em Am B7 Em
+Em H7 B7 Em
+Em Am B7 Em
+Em H7 B7 Em
 
 
 Florian

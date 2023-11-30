@@ -12,7 +12,7 @@ draft: false
 Nāk rudens apgleznot Latviju,
      A
 Bet nepūlies, necenties tā,
-F#m             Bm
+F#m             B7
 Man viņa ir visskaistākā 
 E7      A
 Tik un tā.

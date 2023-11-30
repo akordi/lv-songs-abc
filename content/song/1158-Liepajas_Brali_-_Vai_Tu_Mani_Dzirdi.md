@@ -39,9 +39,9 @@ Nāc šai raibā vaļā!
 Vai tu mani dzirdi?
    F
 Atver savu sirdi
-       Dm
+         Dm
 Viss ir tavā vaļā
-   F           C            
+F             G           
 Nāc šai raibā barā!
 
 Vai tu arī vari?

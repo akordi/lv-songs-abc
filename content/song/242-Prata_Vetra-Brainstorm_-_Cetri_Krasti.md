@@ -17,10 +17,13 @@ Tad četros krastos degsies guns
                    Bm
 Un lidos dzirksteles no kalna
 
-
+          Em
 Šampaniets līst
+            G
 Ikreiz gadu mijā
+         D
 Domīgas zvaigznes
+                A
 Slīkst manā akvārijā
 
 Viss it kā bijis

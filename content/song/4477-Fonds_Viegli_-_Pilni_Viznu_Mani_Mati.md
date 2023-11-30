@@ -8,41 +8,41 @@ draft: false
 ---
 
 ```text
-AM                 G   AM
+Am             G   
 aptvert krusu, aptvert sniegu
-  G  AM      G  AM
+Am           G
 aptvert visu radībiņu
-   G  F    G  F
+G    F     G   F
 visu Dieva radībiņu
-G  AM
+G  Am
 auksto (x2)
 
-   G  F    
+G F                 G
 pilni vižņu mani mati,
-   G  F  
+    Am          G
 skabargaina upe tek,
-   G  AM
+      F
 tā ir cita mīlestība, 
-   G  AM                     G   F
+G   Am                G           F
 neticēs, ja tajā pašā vārdā sauks to (x2)
 
-AM                 G   AM
+Am             G   
 aptvert krusu, aptvert sniegu
-  G  AM      G  AM
+Am           G
 aptvert visu radībiņu
-   G  F    G  F
+G    F     G   F
 visu Dieva radībiņu
-G  AM
+G  Am
 auksto (x2)
 
-   G  F    
+G F                 G
 pilni vižņu mani mati,
-   G  F  
+    Am          G
 skabargaina upe tek,
-   G  AM
+      F
 tā ir cita mīlestība, 
-   G  AM                     G   F
-neticēs, ja tajā pašā vārdā sauks... (x8)
+G   Am                G           F
+neticēs, ja tajā pašā vārdā sauks to (x8)
 
 
 

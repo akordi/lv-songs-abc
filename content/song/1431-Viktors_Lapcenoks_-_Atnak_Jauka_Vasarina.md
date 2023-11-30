@@ -38,14 +38,21 @@ C	B7        Em
 Glaužas man pie krūts.
 
 
-
+Em
 Mīlēt sola, precēt sola,
+Am
 Lai tur nāk vai kas,
+B7
 Es ar tevi, tu ar mani -
+Em
 Cik tas jauki pas.
+Em           Am
 Ram tai rīdi rā,
+D            G
 Ram tai rīdi rā,
+C
 Es ar tevi, tu ar mani -
+C      B7      Em
 Cik tas jauki pas.
 
 

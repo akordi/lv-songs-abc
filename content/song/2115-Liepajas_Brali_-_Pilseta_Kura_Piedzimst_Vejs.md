@@ -9,7 +9,7 @@ draft: false
 
 ```text
 C                             Am
-Pilsētā, kurā piedzimst vējš, piedzims vējš
+Pilsētā, kurā piedzimst vējš, piedzimst vējš
 
       F                           G
 Varen varoša vārna zarā sēž, zarā sēž

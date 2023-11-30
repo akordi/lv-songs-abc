@@ -26,7 +26,7 @@ tad uguns, gaiss un ūdens un latvietis ir dzīvs.
 Zaļš mežu vilnis augšup! Zaļš vilnis - atpakaļ!
 Cik rudzupuķes zilas, tik rudzulauks ir zaļš.
 No tīra zelta zibens tev acīs gaismu sveļ - 
-gar kļavu birzēm zaļām svēts mijas maizes ceļš.
+gar kļavu birzēm zaļām svēts vijas maizes ceļš.
 
 piedz.
 

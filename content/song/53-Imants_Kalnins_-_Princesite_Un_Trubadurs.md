@@ -12,7 +12,7 @@ E A/E E        E G#m/D# B
 G#7 C#m (E/B)  A B E
 
 C                 C4   F/C   C
-Taurenīši dejā viegli, vie - gli slīd. 
+Taurenīši dejā viegli, vie-gli slīd. 
 C                 Em/B         G
 Vai ar mani dejot nāksi, princesīt?
 E7                             Am
@@ -31,9 +31,9 @@ Tad man negribēsies vienai projām iet.
 Tad man negribēsies vienai projām iet.
 
 Vedīšu es tevi tur, kur naktsvijoles zied,
-Un tu drīkstēsi tad basām kājām skriet,
-Un tad varēsi tur mīkstā sūnā krist,
-Un pa sidrabainu avotu tu iesi brist.
+Un tu drīkstēsi tur basām kājām skriet,
+Un tu varēsi tur mīkstās sūnās krist,
+Un pa sidrabainu avotu tur iesim brist.
 
 ... (starpspēle)
 Vedīšu es tevi tur, kur naktsvijoles zied,

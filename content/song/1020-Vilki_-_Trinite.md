@@ -18,26 +18,26 @@ Pie Trīnes gāju klētiņā — arvien,arvien
     D                     A              D
 Pie Trīnes gāju klētiņā — arvien,arvien, arvien arvien arvien
 
-Bet reiz pie klētis piegāju — arvien, arvien
-Tur iekšā troksni dzirdēju — arvien, arvien
+Bet reiz pie klēts es piegāju — arvien, arvien
+Un iekšā troksni dzirdēju — arvien, arvien
 
-Tur iekšā Fricis sēdēja — arvien, arvien
+Tur Ješka iekšā sēdēja — arvien, arvien
 Un manu Trīni bučoja — arvien, arvien
 
 Ak, Trīnīt, manu sirdspuķīt — arvien, arvien
 Tu solījies reiz mana būt — arvien, arvien
 
 Bet nu tu mani pievīli — arvien, arvien
-Un Fricim sirdi atdevi — arvien, arvien
+Un Ješkam sirdi atdevi — arvien, arvien
 
 Es došos prom uz austrumiem — arvien, arvien
-Tev mūžam manis neredzēt —nekad, nekad
+Tu manis vairāk neredzēs — nekad, nekad
 
 Mēs sitīsim tos utainos — arvien, arvien
 Pēc tam tos zili pelēkos — arvien, arvien
 
-Lai latvju saule nenoriet — nekad, nekad
-Un latvju zobens nesarūs — nekad, nekad, nekad
+Lai latvju Saule nenoriet — nekad, nekad
+Lai latvju zobens nesarūs — nekad, nekad
 
 Lai dzīvo Kārlis Ulmanis- arvien, arvien
 Un ģenerālis Balodis- arvien, arvien

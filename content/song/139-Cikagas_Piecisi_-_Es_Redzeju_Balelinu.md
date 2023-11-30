@@ -17,7 +17,7 @@ Man vajadzēja arājiņu, maizes gādātāj'
 C                         G7         C
 Nevis bruņās tērptu svešu zemju karotāj'
 
-Pušļo, māsiņ, cepurīti, netur iemauktiņ'
+Pušķo, māsiņ, cepurīti, netur iemauktiņ'
 Padzirdini labāk manu kara kumeliņ'
 Daudz dieniņas, daudz naksniņas vajadzēs man jāt
 Tālā kaujas laukā ienaidniekam pretī stāt

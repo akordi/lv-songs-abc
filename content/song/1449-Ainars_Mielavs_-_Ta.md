@@ -10,13 +10,13 @@ draft: false
 ```text
 CAPO 3
 
-Em      G          C                 D7    G     
+Em      G          C                 Dsus2    G     
 Esi man tā, lai es jūtu, cik ļoti to vajag Tev    
 Em         G          C   
 Tā, lai es tieku, kur labi paliek    
-   D7        Em        
+   Dsus2        Em        
 Jo ilgāk, jo labāk 
-Em     Bm       C          G       D7       G   
+Em     Bm       C          G       Dsus2       G   
 tā, kā uznāk un pāriet Tik ātri un lēni bez gala 
 Em      Bm        C
 tā, lai lidot ir vieglāk,    

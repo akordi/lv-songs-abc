@@ -14,12 +14,13 @@ Zeme ar likteni grūtu
 Kad ienaidnieks nokauts uzrodas cits
 
 Tā gadu no gada
-Kāp pāri olim 
-Līdz kļūsti tu savāda 
+Kāp pāri ik olim 
+Līdz kļūsti tu svabada 
 Soli pa solim 
 Tiec sista un kauta
 Bet nesabrūc ceļos
 Tā latviešu tauta 
+No tevis es smeļos 
 No tevis es smeļos 
 
 Mums valoda sava
@@ -28,20 +29,23 @@ To ļauts zaudēt mums nav
 Kad dota tai iespēja plaukt un zelt
 
 Tā gadu no gada
-Kāp pāri olim <--- ? 
-Līdz kļūsti tu savāda 
+Kāp pāri ik olim 
+Līdz kļūsti tu svabada 
 Soli pa solim 
 Tiec sista un kauta
 Bet nesabrūc ceļos
 Tā latviešu tauta 
 No tevis es smeļos 
+No tevis es smeļos 
 
 Tā gadu no gada
-Kāp pāri olim 
-Līdz kļūsti tu savāda 
+Kāp pāri ik olim 
+Līdz kļūsti tu svabada 
 Soli pa solim 
 Tiec sista un kauta
 Bet nesabrūc ceļos
 Tā latviešu tauta 
 No tevis es smeļos
+No tevis es smeļos 
+
 ```

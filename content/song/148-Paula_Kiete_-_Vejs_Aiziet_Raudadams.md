@@ -10,7 +10,7 @@ draft: false
 ```text
      A                  D
 Un vējš tev aizšķērso ceļu,
-     A              D
+     A           Bm   E
 šis ziemeļ-ziemeļvējš,
      A              D
 bet tu ej tam vējam pretī,
@@ -19,16 +19,16 @@ sudrabu zvanīdama.
 
 A                 D
 Sudraba zvārguļi noviz,
-A                       D     E
+A                       Bm     E
 drēbes nometis, augums skan.
-E                   D
+C#m                   D
 Dvaša kāpj debesīs iekšā,
-E                A             E
+A     E           A             E
 vējš aiziet raudādams.
 
 E             A
 Tam vējam ir lūša nagi,
-             Fm
+             C#m
 tam vējam ir vilka balss,
            D           E
 un tomēr arī tam vējam

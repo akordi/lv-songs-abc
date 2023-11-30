@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-Bb        Gm
+Bb        F
 Man patīk lēkāt pa peļķēm
 Eb        Bb
 Un ziepju burbuļus pūst,
@@ -17,7 +17,7 @@ un reizēm kā straz-diņam svilpot
 Eb           F
 un gaidīt kā saldējums kūst
 
-Bb        Gm
+Bb        F
 Man patīk lāstekas grauzt 
 Eb        Bb
 un gulēt pienenēs klusi
@@ -35,7 +35,7 @@ mans prieks ir kā sapnis jauks
 Eb               F      Bb
 jo Dievs ir mans labais draugs!
 
-Bb        Gm
+Bb        F
 Man patīk zīmēt ar krītu 
 Eb        Bb
 un smilšu pilis celt 
@@ -44,7 +44,7 @@ un atmosties mājās ik rītu
 Eb           F
 no strautiņa ūdeni smelt
 
-Bb        Gm
+Bb        F
 Man patīk sienāžus vērot 
 Eb        Bb
 un vakarā pasakas lasīt

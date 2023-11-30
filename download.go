@@ -3,9 +3,10 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -15,6 +16,7 @@ type Item struct {
 	Id          int    `json:"id"`
 	Title       string `json:"title"`
 	CreatedDate string `json:"createdDate"`
+	UpdatedDate string `json:"updatedDate"`
 	Url         string `json:"url"`
 	Body        string `json:"body"`
 	BodyAbc     string `json:"bodyAbc"`
@@ -39,7 +41,15 @@ type ApiResponse struct {
 }
 
 func main() {
-	apiURL := "https://akordi.lv/api/v2/songs?includeBody=true&size=5000" // Replace with your JSON API endpoint
+	yesterday := time.Now().AddDate(0, 0, -1)
+	pageSize := 1000
+	fetchPage(0, yesterday, pageSize)
+}
+
+func fetchPage(page int, toDate time.Time, pageSize int) {
+	stpage := strconv.Itoa(page)
+	stsize := strconv.Itoa(pageSize)
+	apiURL := "https://akordi.lv/api/v2/songs?includeBody=true&sort=updatedDate%20desc&page=" + stpage + "&size=" + stsize // Replace with your JSON API endpoint
 	resp, err := http.Get(apiURL)
 	if err != nil {
 		fmt.Println("Error fetching data from API:", err)
@@ -47,7 +57,7 @@ func main() {
 	}
 	defer resp.Body.Close()
 
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		fmt.Println("Error reading API response:", err)
 		return
@@ -58,8 +68,21 @@ func main() {
 		fmt.Println("Error parsing JSON:", err)
 		return
 	}
+	if len(apiResponse.Content) == 0 {
+		fmt.Println("Reached end of content")
+		return
+	}
 
 	for _, item := range apiResponse.Content {
+		// updatedDate, err := time.Parse(time.RFC3339, item.UpdatedDate)
+		// if err != nil {
+		// 	fmt.Println("Error parsing date:", err)
+		// 	return
+		// }
+		// if updatedDate.Before(toDate) {
+		// 	fmt.Println("Reached date limit " + updatedDate.Local().Format("2006-01-02") + " < " + toDate.Local().Format("2006-01-02"))
+		// 	return
+		// }
 		filename := "content/song/" + getLastPartOfURL(item.Url) + ".md"
 		file, err := os.Create(filename)
 		if err != nil {
@@ -108,8 +131,8 @@ func main() {
 			fmt.Printf("Created file '%s' successfully\n", filename)
 		}
 	}
+	fetchPage(page+1, toDate, pageSize)
 }
-
 func getLastPartOfURL(url string) string {
 	parts := strings.Split(url, "/")
 	lastPart := parts[len(parts)-1]

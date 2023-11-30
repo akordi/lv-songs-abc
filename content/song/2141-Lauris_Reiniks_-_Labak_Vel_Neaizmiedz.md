@@ -14,16 +14,16 @@ Un tvīkst, [F] mani vaigi tvīkst
 [C] Paskatos acīs tev, [G] tās man neaizmirst
 
 [Am] U-a-a-a,[F] U-a-a-a,[C] U,
-lai zeme [G] rīb, bet tu man
+lai zeme [G] rīb,un tu man
 
 [Am] La la la la labāk vēl [F] neaizmiedz 
 [C] Neaizliedz  rītu [G] azotē
-[Am] Ma ma ma ma mana [F] siltājā 
+[Am] Ma ma ma ma mana [F]tik siltājā 
 [C] Iespraucies, nebaidies, [G] smejies
 
 [Am] La la la la labāk vēl [F] neaizmiedz 
 [C] Neaizliedz  rītu [G] azotē
-[Am] Ma ma ma ma mana [F] siltājā 
+[Am] Ma ma ma ma mana [F] tik siltājā 
 [C] Iespraucies, nebaidies, [G] smejies
 
 [Am] Kliedz un spiedz [F] sikspārniski melns 
@@ -32,15 +32,15 @@ lai zeme [G] rīb, bet tu man
 [C] Tevi tā tevi šā, [G] nerunā
 
 [Am] U-a-a-a,[F] U-a-a-a,[C] U,
-lai zeme [G] rīb, bet tu man
+Bet tu man
 
 [Am] La la la la labāk vēl [F] neaizmiedz 
 [C] Neaizliedz  rītu [G] azotē
-[Am] Ma ma ma ma mana [F] siltājā 
+[Am] Ma ma ma ma mana [F] tik siltājā 
 [C] Iespraucies, nebaidies, [G] smejies
 
 [Am] La la la la labāk vēl [F] neaizmiedz 
 [C] Neaizliedz  rītu [G] azotē
-[Am] Ma ma ma ma mana [F] siltājā 
+[Am] Ma ma ma ma mana [F] tik siltājā 
 [C] Iespraucies, nebaidies, [G] smejies
 ```
