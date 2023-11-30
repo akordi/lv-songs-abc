@@ -19,6 +19,8 @@ jobs:
 
     - name: Commit and push if there are changes
       run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'bot@github.com      
         git add .
         git commit -m "Update downloaded files [skip ci]" || echo "No changes to commit"
         git push
