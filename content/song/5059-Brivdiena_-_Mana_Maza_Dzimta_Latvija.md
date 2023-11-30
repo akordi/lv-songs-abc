@@ -12,8 +12,8 @@ Atkal klausos liepu sanā,
 Zeme šī mīt sirdī manā.
 Neesmu vēl aizmirsis
 Virs dzimtām mājām debesis.
-Piedz.:
 
+Piedz.
 Mana mazā, dzimtā Latvija, 
 Diena tā vai vakars vēls,
 Katram varu lepni teikt, lepni teikt: 
