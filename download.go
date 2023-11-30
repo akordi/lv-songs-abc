@@ -42,7 +42,7 @@ type ApiResponse struct {
 
 func main() {
 	yesterday := time.Now().AddDate(0, 0, -1)
-	pageSize := 1000
+	pageSize := 10
 	fetchPage(0, yesterday, pageSize)
 }
 
@@ -74,15 +74,15 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 	}
 
 	for _, item := range apiResponse.Content {
-		// updatedDate, err := time.Parse(time.RFC3339, item.UpdatedDate)
-		// if err != nil {
-		// 	fmt.Println("Error parsing date:", err)
-		// 	return
-		// }
-		// if updatedDate.Before(toDate) {
-		// 	fmt.Println("Reached date limit " + updatedDate.Local().Format("2006-01-02") + " < " + toDate.Local().Format("2006-01-02"))
-		// 	return
-		// }
+		updatedDate, err := time.Parse(time.RFC3339, item.UpdatedDate)
+		if err != nil {
+			fmt.Println("Error parsing date:", err)
+			return
+		}
+		if updatedDate.Before(toDate) {
+			fmt.Println("Reached date limit " + updatedDate.Local().Format("2006-01-02") + " < " + toDate.Local().Format("2006-01-02"))
+			return
+		}
 		filename := "content/song/" + getLastPartOfURL(item.Url) + ".md"
 		file, err := os.Create(filename)
 		if err != nil {
