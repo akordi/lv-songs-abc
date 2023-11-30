@@ -1,8 +1,9 @@
 name: Nightly Download
 
-# on:
-#   schedule:
-#     - cron: '0 2 * * *' # Scheduled to run at 2 AM UTC every day
+on:
+  schedule:
+    - cron: '0 2 * * *' # 2 AM UTC every day
+  workflow_dispatch:
 
 jobs:
   go-run:
