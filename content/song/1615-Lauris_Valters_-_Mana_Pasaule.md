@@ -12,7 +12,7 @@ draft: false
 Jo manā pasaulē sniegi snieg
               Em         A
 manā pasaulē būdiņa sniegos
- D
+ D             G      D
 manā pasaulē būdiņā krāsns
     Em    A        D
 un tajā krāsnī ir guns
