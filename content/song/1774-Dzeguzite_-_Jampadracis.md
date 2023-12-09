@@ -3,7 +3,7 @@ title: "Jampadracis"
 date: 2014-09-10T14:19:43+00:00
 url: /song/1774-Dzeguzite_-_Jampadracis
 categories: ["Dzeguzīte"]
-tags: ["bez akordiem"]
+tags: ["bērnu", "bez akordiem"]
 draft: false
 ---
 

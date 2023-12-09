@@ -30,11 +30,11 @@ Vecās labās plates spēlēt.
 Piedz. 2x
 C             G
 Būs jau labi, būs jau silti,
-D             A7 
+D             Am7 
 Birst no gaisa balti milti.
 C             G        
 Maigus miegus atvelk peles,
-A7
+Am7
 Kūst uz mēles karameles.
 
 G             Cadd9

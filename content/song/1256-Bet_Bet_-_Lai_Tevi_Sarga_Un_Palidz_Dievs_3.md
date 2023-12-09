@@ -24,7 +24,7 @@ G         C        D         G
 Ja tu par draugiem mūs visus sauc.
 G       C           D      Em
 Vairāk neviena šai naktī nav,
-     Am           D
+     Am           D          G
 Tas ir tik maz un tomer daudz
 
 
