@@ -24,7 +24,7 @@ Tad es nezinu vairāk ko daru
 Un ap acīm viss sagriežas melns.
 
 Bet kad pāriet šīs kaislību alkas
-Ne man gribas vairs dziedāt un smiet.
+Ne man gribas vairs dziedāt ne smiet.
 Viens pats sēžu es kaut kur uz malkas
 Un cik labi, ka garām viss iet.
 

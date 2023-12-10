@@ -11,7 +11,7 @@ draft: false
 Piedz.
 G
 Ej, stāsti kalnos, lejās,
-C        D
+C        D7     G
 Mežos un gravās skaņi sauc!
 G
 Ej, stāsti kalnos, lejās:
