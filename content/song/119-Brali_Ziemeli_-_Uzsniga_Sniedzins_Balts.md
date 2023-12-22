@@ -24,29 +24,29 @@ Un pat aiz pasaules vēl vajag ar siltu plaukstu
 
 Am
 Saule kad miegu guļ
-Am                    Dm
+Am                   Dm
 Mēness kad staigā pa parku
-                     E
+E
 Spuldzes kā actiņas spīd
-                    Am
+                     Am
 Un pat vēl izdzēstas sargā
-Dm                   G7    C                   Am
+Dm                   G7     C                       Am
 Pelnrušķīt, laiks ir laiks, ceļš tavs drīz vedīs uz pili
-Dm                   E                Am
+Dm                 E                      Am
 Paciet vēl grambas šīs, drīzi nāks mākoņi zili
 
- Am
+Am
 Ja tevi nemīl neviens,
-  Am             Dm
+Am             Dm
 Tev taču ir ko mīlēt
-                  E
+E
 Labājā nosprūst naids
-                Am
+               Am
 Kā bulta ozola zīlē
 
-Dm                   G7    C                   Am
+Dm                  G7    C                   Am
 Vienmēr uz pasaules kāds, kuram bez tevis ir auksti
-Dm                   E                Am
+Dm                  E                  Am
 Un pat aiz pasaules vēl vajag ar siltu plaukstu
 
 ```
