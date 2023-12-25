@@ -8,22 +8,30 @@ draft: false
 ---
 
 ```text
-D        A      D       A
+G       
 Klau, kā nāk uz pirkstu galiem
-A           D
+G           D
 Miega rūķis klāt,
-G            D      
+G            C      
 Spilvenā man sapņus saliek,
-A            D
+G    D  G
 Sāk jau ieaijāt.
 
+G
 Paliek kaktā brūnais lācis,
+G           D
 Leļļu pāris dus,
+G               C
 Miegs no tāliem ciemiem nācis,
+G       D         C
 Krīt kā sniedziņš mīksts.
 
+G
 Klusi, klusi, silti, silti,
+G            D
 Runcis murrā vien,
+G           C
 Un pa balto sapņu tiltu
+G     D     G
 Rūķis mājup brien.
 ```
