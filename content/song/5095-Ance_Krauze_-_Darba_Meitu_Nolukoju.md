@@ -19,7 +19,7 @@ Darbā meitu nolūkoju,
 C         Dm
 Ne zeltā, sudrabā
 
-Gb           F
+Bb           F
 Mal, māsiņa, cik maldama,
 C          Dm
 Mal diženi dziedādam
