@@ -3,7 +3,7 @@ title: "Es gribu dejot bugi"
 date: 2020-06-05T08:44:09+00:00
 url: /song/4221-Nora_Bumbiere_-_Es_Gribu_Dejot_Bugi
 categories: ["Nora Bumbiere"]
-tags: ["tulkojums", "bez akordiem"]
+tags: ["tulkojums"]
 draft: false
 ---
 
