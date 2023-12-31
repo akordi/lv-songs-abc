@@ -3,12 +3,12 @@ title: "Mežā"
 date: 2020-05-26T18:15:41+00:00
 url: /song/3723-Turaidas_Roze_-_Meza
 categories: ["Turaidas Roze"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-A        D           A           E7  
+A        D           A           E7        A
 Te ir tā vieta, mans mīļais, kur apraksim tos.
         D      C#m    E       F#m  
 Mirušos sapņus glabāsim uguns kapā.
