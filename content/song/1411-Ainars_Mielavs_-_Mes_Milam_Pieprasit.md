@@ -14,25 +14,25 @@ Am Em Dm E
 	 Am	          Em
 Šie augļi zaros turas par ilgu
 
-        Dm	        E
+        Dm	        Em
 Zaļā gaisma nedeg uzreiz
 
         Am	          Em
 Mūsu runāto neņem par pilnu
 
-          Dm	   E
+          Dm	   Em
 Balsī paceltā ja tu beidz
 
        Am	                   Em
 Šajā izstādē bilžu par daudz
 
-                Dm	                 E
+                Dm	                 Em
 Zvaigznes krītot sadeg par strauju
 
 	Am	          Em
 Ne vienmēr ir tā ka jānosauc
 
-          Dm	        E
+          Dm	        Em
 Vārdā tos kas pazaudē kauju
 
 	     Am
@@ -56,25 +56,25 @@ Tāpēc ka mīlam par maz
 	Am	              Em
 Šajās dziesmās par maz ir dziesmu
 
-         Dm	             E
+         Dm	             Em
 Pirmā kursā par to nav nekā
 
 	Am	             Em
 Ņemiet piešaujiet ikdienai liesmu
 
-        Dm	          E
+        Dm	          Em
 Un to izģērbsiet momentā
 
 	Am	              Em
 Šajās dziesmās par maz ir dziesmu
 
-         Dm	             E
+         Dm	             Em
 Pirmā kursā par to nav nekā
 
 	Am	             Em
 Ņemiet piešaujiet ikdienai liesmu
 
-        Dm	          E
+        Dm	          Em
 Un to izģērbsiet momentā
 
 	     Am
