@@ -8,17 +8,17 @@ draft: false
 ---
 
 ```text
-C
+D
 Kapteins sauc no kajītes:
-C
+D
 „Stūrman, neķer mailītes!”
-                                  G
+                                  A
 Tik dēļ jums, daiļās dāmas, dēļ jums.
-F
+G
 Kapteins sauc no kajītes:
-            C
+            D
 „Stūrman, neķer mailītes!”
-           G                      C
+           A                     D
 Tik dēļ jums, daiļās dāmas, dēļ jums.
 
 Lai gan stūrman’s stūri tur,
@@ -33,6 +33,8 @@ Notiek lietas trakākas.
 Saimnieks vērsi pārdevis,
 Visu naudu nodzēris.
 
+(pēc šī pantiņa, melodiju transponē uz augšu, tagad ir D#, A# un G# akordi)
+
 Flirtē, uzdzīvo kā traks,
 Paliek viņš pavisam švaks.
 
@@ -41,6 +43,7 @@ Rīt uz ambulanci skrej.
 
 Tas vēl tiešām nav nekas,
 Notiek lietas trakākas.
+(pēc šī pantiņa, melodiju transponē uz augšu, tagad ir E, B un F akordi)
 
 Kas tie tādi razbainieki,
 Tie jau mūsu pažarnieki.
