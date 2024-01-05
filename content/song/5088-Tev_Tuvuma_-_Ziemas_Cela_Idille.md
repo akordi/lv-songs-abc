@@ -15,7 +15,7 @@ Tālē gurdā suņu reja
 Apsarmoti krasta koki
 Tā kā balti priežu loki
 
-F#m          D           E
+F#m          D           A        E
 Teci, bērīt, asi kal to, asi kal to
 F#m            D             A
 Šķaidi, svaidi sniegu balto, sniegu balto
@@ -27,7 +27,7 @@ Daiļiem sapņiem apdves mani
 Gaisā lido pārslas retas
 Lēni, viegli virsū metas
 
-F#m          D           E
+F#m          D           A        E
 Teci, bērīt, asi kal to, asi kal to
 F#m            D             A
 Šķaidi, svaidi sniegu balto, sniegu balto
@@ -39,12 +39,12 @@ Teci, bērīt, naski, naigi
 Mēnestiņis blāvu seju
 Klusi vēro upes leju
 
-F#m          D           E
+F#m          D           A        E
 Teci, bērīt, asi kal to, asi kal to
 F#m            D             A
 Šķaidi, svaidi sniegu balto, sniegu balto
 
-F#m D E
+F#m D A E
 F#m D A F#
 
 B
@@ -54,15 +54,15 @@ Lai dun gāle tāli, plaši
 Lai zem trauslā ledus stikla
 Līdaciņa trūkstas bikla
 
-G#m          E           F#
+G#m          E          B       F#
 Teci, bērīt, asi kal to, asi kal to
-G#m            E             F#  B
+G#m            E           B     F#
 Šķaidi, svaidi sniegu balto, sniegu balto / 2x
 
-G#m          E           F#
+G#m          E           B      F#
 Teci, bērīt loki kājas, loki kājas 
-G#m            E             F#  B
+G#m            E         B      F#
 Drīzāk būsim abi mājās. abi mājās  / 2x
 
-Pievienoja AkselsP
+pievienoja pingvīns E.
 ```
