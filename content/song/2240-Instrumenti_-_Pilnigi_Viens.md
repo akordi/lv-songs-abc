@@ -8,8 +8,8 @@ draft: false
 ---
 
 ```text
-[Em] Es mirkškinu [A] acis un [D] smilkstu pēc [Em] tevis
-[Em] Elpojiet [A] dziļi [D] nolīdis [Em] ēnā.
+[Em] Es mirkšķinu [A] acis un [D] smilkstu pēc [Em] tevis
+[Em] Elpoju [A] dziļi [D] nolīdis [Em] ēnā.
 [Em] Zinu ka [A] pasaules [D] sētas [Em] pusē, 
 ir vēl [Bm] viens kurš [A] līdzīgi sajūt un [D] domā.
 Vai ir [Bm] vēl kāds kurš [A] līdzīgi [D] domā?
