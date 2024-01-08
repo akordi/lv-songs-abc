@@ -8,35 +8,38 @@ draft: false
 ---
 
 ```text
-Ievads: G:D:Am:C:
+Ievads: G:D:Am:C
 G             D     Am       C
-Esmu tukšs kā naktī stacijas laukums
+Esmu tukšs kā naktī stacijas laukums,
 G             D      Am C
-Savas sajūtas slauku kā saplēstus traukus
+Savas sajūtas slauku kā saplēstus traukus,
 G             D     Am              C
-Zem cilvēku soļiem, ceļamkrāniem un torņiem
+Zem cilvēku soļiem, ceļamkrāniem un torņiem,
    G               D         Am         C
-Es vairs nesaprotu kā var šo sajūtu noņemt
+Es vairs nesaprotu kā var šo sajūtu noņemt.
 
 Am          D             Em    Bm    C
-Kā adata un diegs kas man cauri izvēries
+Kā adata un diegs kas man cauri izvēries,
 Am           D         Em    Bm    C
-Tā nekad nepāries nojauta te esmu viens
+Tā nekad nepāries nojauta te esmu lieks.
+
+Starpspēle: G:D:Am:C
 
 G             D       Am             C
-Kā sadauzītās spuldzēs pārtrūkst kvēldiegs
+Kā sadauzītās spuldzēs pārtrūkst kvēldiegs,
 G        D     Am            C
-Tūkstoši skatās, bet neredz neviens
+Tūkstoši skatās, bet neredz neviens.
 
 Am          D             Em    Bm    C
 Kā adata un diegs kas man cauri izvēries
 Am           D         Em    Bm    C
-Tā nekad nepāries nojauta te esmu viens (Tu prasi, ko es tāds sašuvies?)
+Tā nekad nepāries nojauta te esmu lieks; (Tu prasi, ko es tāds sašuvies?)
 Am          D             Em    Bm    C
 Kā adata un diegs kas man cauri izvēries (Arvien dziedu tev to pašu dziesmu)
 Am           D         Em    Bm    C
-Tā nekad nepāries nojauta te esmu viens (Tu prasi, ko es tāds sašuvies?)
+Tā nekad nepāries nojauta es esmu lieks. (Tu prasi, ko es tāds sašuvies?)
 
+[Gustavo]
            Am
 Kā, kā, kā stiklinieka darbnīcā spoguļi šķīst kad sit
 D
@@ -52,10 +55,10 @@ Kāpēc man ģimenes zīmējumā ir visi tik tālu viens no otra?
 Em                          Bm
 Simtiem trāpīgu gabalu vēlāk kuros ir asiņots un kliegts
 C
-Nojauta ka esmu atkal lieks nu jau man atkāpjas mazliet
+Nojauta ka esmu atkal lieks nu jau man atkāpjas mazliet.
 
 Am          D             Em    Bm    C
 Kā adata un diegs kas man cauri izvēries
-Am           D         Em    Bm    C
-Tā nekad nepāries nojauta te esmu viens.
+Am           D           Em    Bm     C
+Tā atkāpjas mazliet nojauta te esmu lieks.
 ```
