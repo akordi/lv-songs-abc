@@ -16,10 +16,10 @@ Tikai Tu un neviens cits
 Bet, kad puķes mūžs būs galā,
 Saver visu gaismas starā,
 Tev ir dota tāda vara,-
-Tikai Tev, kas gaismā būs
+Tikai Tev, kas gaismā tic
 
 Lai tā dzīvo Tavā logā,
-Lai tai tumsā acīs spīts
-Ej un citas iededzini,-
+Lai tā tumsas acīs spītē
+Ej un citus iededzini,-
 Tikai Tu un neviens cits
 ```

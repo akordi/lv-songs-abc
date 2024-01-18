@@ -17,13 +17,13 @@ Uz baltā sniega ēnu Tavu,
    C          D
 Tu slīdēji pa slidotavu.
 
-   Em   D     C
+   Em   D/F#     G
 Tu slīdēji pa slidotavu,
-   Am        Em   D
+   Am        Em   D/F#
 Un klusi pavadīju es,
-   C            A
+   G            Am
 Uz baltā sniega ēnu Tavu,
-   G          C
+   G          F     C
 Tu slīdēji pa slidotavu.
 
 Un atkal viens,

@@ -14,7 +14,7 @@ Ievads: [G][C][D]
 [G] Visiem logiem dzelteni aizka[D]ri,
 Tie [C] atspīd saulpuķu [D] ziediem
 Un [G] saulstaru dzīpariem [C] vīti
-[G] Dzelteni, [D] dzelteni aizka[G]ri.
+[G] Dzelteni, [F] dzelteni [C]aizkari. [G]
 Tie [C] atspīd saulpuķu [D] ziediem
 Un [G] saulstaru dzīpariem [C] vīti
 [G] Dzelteni, [D] dzelteni aizka[G]ri.
@@ -22,7 +22,7 @@ Un [G] saulstaru dzīpariem [C] vīti
 [G] Redzu, tev jau acīs nogurums,
 Un [G] matos tev vēl ceļmalas pute[D]kļi.
 [C] Nāc [D] iesim, uz [G] pasaku ieleju [C] zaļo,
-[G] Kur logiem [D] dzelteni aizkari [G] plīv.
+[G] Kur logiem [F] dzelteni [C]aizkari [G] plīv.
 [C] Nāc [D] iesim, uz [G] pasaku ieleju [C] zaļo,
 [G] Kur logiem [D] dzelteni aizkari [G] plīv.
 
@@ -40,7 +40,7 @@ Un [G] matos tev vēl ceļmalas pute[D]kļi.
 Pa [G] debess malu pērkoņratos [D] brauc.
 Lai [C] ietu, kur iedams, tev [D] pretī
 Mās [G] logos šie aizkari [C] dzeltenie,
-[G] Kā pieneņu vainagā [D] iepīts saules [G] stars.
+[G] Kā pieneņu vainagā [F] iepīts [C]saules [G] stars.
 Lai [C] ietu, kur iedams, tev [D] pretī
 Mās [G] logos šie aizkari [C] dzeltenie,
 [G] Kā pieneņu vainagā [D] iepīts saules [G] stars.
