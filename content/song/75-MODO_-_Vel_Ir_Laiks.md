@@ -9,7 +9,7 @@ draft: false
 
 ```text
 G                      C                   D       G
-Saulrietā klusi, klusi kūp zeme pielijusi, ir  vasara.
+Saullēktā klusi, klusi kūp zeme pielijusi, ir  vasara.
 G                 C                    D         G
 Es savu rīta vēju vēl sapnī sameklēju, vēl sapnī vēl
 
@@ -26,7 +26,7 @@ Piedz.
 G                 C                       D          G
 Tu atmodini mani, kad skanēs zilie zvani, kad skanēs tie.
 G                  C                     D         G
-Kad mīlsetībā tavā iesim kā ziedu pļavā, kad iesim mēs.
+Kad mīlestībā tavā iesim kā ziedu pļavā, kad iesim mēs.
 
 G                         C                         D           G
 Līdz pirmai rudens salnai mums jātiek saules kalnā, mums jātiek vēl.
