@@ -3,7 +3,7 @@ title: "Ar lietu dejot"
 date: 2014-09-11T11:39:14+00:00
 url: /song/1867-Madara_Celma_-_Ar_Lietu_Dejot
 categories: ["Madara Celma"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 

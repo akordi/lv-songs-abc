@@ -9,15 +9,15 @@ draft: false
 
 ```text
 Mans reiz [E]aizsapņojās novakars tik [A]silts
-Un es [H]aizmigu uz vecās muižas [E]trepēm
+Un es [B]aizmigu uz vecās muižas [E]trepēm
 Redzēju kā barons slepus naktī [A]iet
-Un [H]padusē nes smagu zelta [E]podu
+Un [B]padusē nes smagu zelta [E]podu
 
 Piedz.
    Bet ja [A]kādreiz tiešām sabrūk vecā [E]pils
-   Kur [H]liksim kroņa mantu, ne jau [E]ķešās
+   Kur [B]liksim kroņa mantu, ne jau [E]ķešās
    Un kā [A]senāk barons hūti galvā [E]liks
-   Pateiks: [H]“čau”, un atkal visus atstās [E]bešā
+   Pateiks: [B]“čau”, un atkal visus atstās [E]bešā
 
 Barons pasmīn sevī un pie miera iet
 Tas ko redzējāt viņš teica sapņi vien
