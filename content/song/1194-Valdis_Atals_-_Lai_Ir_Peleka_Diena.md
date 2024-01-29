@@ -8,21 +8,21 @@ draft: false
 ---
 
 ```text
-[Am]Lai ar [G]pelēka diena
-Lai ar [G]pelēka diena
+[Am]Lai ar [Am2]pelēka diena
+[Am]Lai ar [Am2]pelēka diena
 [G]Tur virs mākoņiem 
 saule[Am]spīd
 
-[Am]Lai ar [G]pelēka diena
-Lai ar [G]pelēka diena
+[Am]Lai ar [Am4]pelēka diena
+[Am]Lai ar [Am4]pelēka diena
 [G]Tur virs mākoņiem 
 saule[Am]spīd
 
-[C]Rāpies kalnā[C]augstā
-tur virs mākoņi[Am]saule, 
+[C]Rāpies [G]kalnā jo[C]augstā
+tur virs mākoņiem [Am]saule, 
 [G]saule[Am]spīd
 
-[C]Rāpies kalnā[C]augstā
-tur virs mākoņi[Am]saule, 
-[G]saule[Am]spīd.
+[C]Rāpies [G]kalnā jo[C]augstā
+tur virs mākoņiem [Am]saule, 
+[G]saule[Am]spīd
 ```

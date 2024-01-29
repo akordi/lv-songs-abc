@@ -3,19 +3,19 @@ title: "Mans mūžs"
 date: 2014-09-10T19:16:29+00:00
 url: /song/1851-Valdis_Atals_-_Mans_Muzs
 categories: ["Valdis Atāls"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Em      G        D          Em
+Em      G        Am          Em
 Kam vajadzīgs ir vakars bojāts
 Em               D         Em
 Ja mana rīta nav nekur
-Em      G        D          Em
+Em      G        Am          Em
 Es skumjas aizskumdinu projām
 Em               D         Em
-Ar smiekliem atsmieklojos šur
+Ar smiekliem atsmieklojos šurp
 
    G
 Tāaa ir aizgājis mans mūžs
@@ -23,13 +23,13 @@ Tāaa ir aizgājis mans mūžs
 Tāaa ir aizgājis mans mūžs
    G
 Tāaa ir aizgājis mans mūžs
-  Em          D        G    D    Em
+  Em          D        G    G D  Em
 Tāaa ir aizgājis mans mūžs, mans mūžs 
 
-Un dzirdi tu kā caur vēju 
+Tad dzirdi tu tā kā caur vēju 
 vēl vējīgāki vēji pūš
-tad uzmini kā sacerējis
-ar nopūtu šis smieklu mūšs
+Rad uzmini kā sacerējis
+ar nopūtu šis smieklu mūžs
 
 Tāaa ir aizgājis mans mūžs x 4
 Tāaa ir aizgājis mans mūžs, mans mūžs

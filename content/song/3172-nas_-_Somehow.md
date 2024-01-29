@@ -3,7 +3,7 @@ title: "Somehow"
 date: 2017-11-26T11:25:18+00:00
 url: /song/3172-nas_-_Somehow
 categories: ["Ēnas"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 
