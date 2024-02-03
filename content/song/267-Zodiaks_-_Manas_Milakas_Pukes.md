@@ -8,13 +8,16 @@ draft: false
 ---
 
 ```text
+Ievads
+| Bm | D/A | Bm | A/D | Em | Em/D | A | A | A |
+
 G           A
 No puķēm vismīļākās
     D         G
 Man rozes tumšsarkanās
     Bm         A
 Tās laistās kā rubīna kvēls
-   Em      F#m       G         A  
+   Em      D/F#       G         A  
 Un aromāts viņām tik cēls, tik cēls
 
 Kad viņas pie lūpām tu liec
@@ -22,20 +25,21 @@ Kā apburts tad piepeši tiec
 Tev prieklaimē dvēseli skauj
 Un brīnišķā pasaulē rauj
 
-D           G
+D           G/B
 No puķēm vismīļākās
     A         D
 Man rozes tumšsarkanās
-   D        G
+   D        G/B
 No puķēm vismīļākās
-    G         A
+    Em/G       Em  A
 Man rozes tumšsarkanās
 
-D Bm A D
+Starpspēle
+| D | G/B | A | D |
 
-   D        Bm
+   D        G/B
 No puķēm vismīļākās
-    G         A
+    Em/G       Em   A
 Man rozes tumšsarkanās
 
 Vai sapratīsi tu mūs
