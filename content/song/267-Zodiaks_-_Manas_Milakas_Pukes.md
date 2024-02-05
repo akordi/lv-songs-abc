@@ -9,7 +9,7 @@ draft: false
 
 ```text
 Ievads
-| Bm | D/A | Bm | A/D | Em | Em/D | A | A | A |
+| Bm | Bm/A | Bm | Bm/A | Em | Em/D | A | A | A |
 
 G           A
 No puķēm vismīļākās

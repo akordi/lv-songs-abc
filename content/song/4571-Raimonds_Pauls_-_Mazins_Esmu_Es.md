@@ -3,24 +3,34 @@ title: "Maziņš esmu es!"
 date: 2020-06-14T19:52:28+00:00
 url: /song/4571-Raimonds_Pauls_-_Mazins_Esmu_Es
 categories: ["Raimonds Pauls"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+C
 Maziņš esmu es
+     G
 Ātri augšu es
-Tā kā mīkla pāri  abrai
+Tā kā mīkla pāri abrai
+            C
 Ātri rāpšos es.
 
 Maziņš esmu es
+    G
 Aši stiepšos es
 I par tēvu ,i par māti
+            C
 Garāks būšu es.
 
+Piedz.
+       F
 Maziņš esmu es
+        C
 Spēcīgs augšu es
+G
 Visus varenstipros milžus
+              C
 Uzveikt spēšu es.           2X
 
 Maziņš esmu es

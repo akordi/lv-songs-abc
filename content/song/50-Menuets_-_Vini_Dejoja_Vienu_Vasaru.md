@@ -23,7 +23,7 @@ C           Am
 Tagad katrs savam liktenim
 Dm          Gm
 Tagad katrs savam liktenim
-C       Am           Bb        Am   Dm
+C       F            Gm        Am   Dm
 Prasa, kam tad bij' jābūt pēc tam
 
 Viņi dejoja vienu vasaru
@@ -34,14 +34,16 @@ Koku galotnēs skaties vai debesīs
 Koku galotnēs skaties vai debesīs
 Koku galotnēs skaties vai debesīs
 
-C	    Am	   Bb	      Am
+C	  F      Gm	   Am	 
 Spuldzes skrien, zvaigznes skrien
 
-F                          Dm
+Bb                          Gm
 Dienas skrien uz sastājas nedēļās
-                 Bb             Dm
+                 Eb             Dm
 Top tik mēnesis rāmāks aizvien
+Bb                                 Gm
 Un tad pienāk tas laiks, kad vairs nedejo
+                 Eb               Dm
 Un kad dienas kā sapītas brien
 
 Tā jau notiek, pāriet un norimst
