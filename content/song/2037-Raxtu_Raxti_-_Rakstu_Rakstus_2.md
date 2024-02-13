@@ -10,13 +10,13 @@ draft: false
 ```text
 Raxtu Raxti – Rakstu rakstus (Imants Kalniņš)
 
-D        		G	    Em	      A		D
+D              G	  Em	   A          D
 Rakstu rakstus izrakstīju bāleliņu gaidīdama, gaidīdama,
-Bm	     G	       Em		A	        Bm
+Bm	   G	     Em	       A	  Bm
 Ceļu ceļus izkaisīju kāpu putē vaidēdama, vaidēdama,
-D        		G	    Em	      A		D
+D         G	       Em	 A         D
 Kāpu putē atgriezos(i) ilgu bēdu pūpodama, pūpodama,
-Bm	     G	       Em		A	        Bm
+Bm	 G	    Em	     A	       Bm
 Ozolā(i) apmetos(i) pazarīti šūpodama, šūpodama.
 
 D | G | Em | A | D
