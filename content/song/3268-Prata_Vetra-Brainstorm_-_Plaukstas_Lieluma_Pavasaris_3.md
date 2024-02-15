@@ -41,8 +41,8 @@ Am                           G
   Ahā!Likās nekad,bet ir jau klāt.
 G                         Am
   Ahā!Un tūlīt iemācīsies staigāt.
-Am                        G                      D    Am
-  Ahā!Un ko ar mums ir darīs plaukstas lieluma pavasaris.
+Am                              G                     D    Am
+  Ahā!Un ko ar mums, ar mums darīs plaukstas lieluma pavasaris.
 Am                       G
   Ahā!Dzīve kā interviju svari.
 G                              Am
@@ -58,7 +58,7 @@ Am                           G
   Ahā!Likās nekad,bet ir jau klāt.
 G                           Am
   Ahā!Un kā gan man to bija zināt?
-Am                          G                     D     G
-  Ahā!Un ko ar mums ir darīs  plaukstas lieluma pavasaris?
+Am                              G                      D     G
+  Ahā!Un ko ar mums, ar mums darīs  plaukstas lieluma pavasaris?
                        
 ```
