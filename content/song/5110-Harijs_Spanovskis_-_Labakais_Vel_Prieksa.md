@@ -44,7 +44,7 @@ Gan prieks, gan sāpes – metos tajā iekšā,
 Lai raugoties uz kādreiz bijušo,
      E              E7          Am
 Es ticētu – pats labākais vēl priekšā.
-                           Am
+     Dm                    Am
 Lai raugoties uz kādreiz bijušo,
      E              E7          Am
 Es ticētu – pats labākais vēl priekšā.
@@ -86,7 +86,7 @@ Gan prieks, gan sāpes – metos tajā iekšā,
 Lai raugoties uz kādreiz bijušo,
      E              E7          Am
 Es ticētu – pats labākais vēl priekšā.
-                           Am
+    Dm                     Am
 Lai raugoties uz kādreiz bijušo,
      E              E7          Am
 Es ticētu – pats labākais vēl priekšā.
