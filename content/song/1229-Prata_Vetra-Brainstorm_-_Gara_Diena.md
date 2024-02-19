@@ -10,62 +10,62 @@ draft: false
 ```text
 Am                    C
 Gara, gara diena
-C                      G     F
+C                      G     
 Saulrietā ļaujiet man palikt vienam.
 Am
 Dodiet laiku
-C                   G   C
+C                   G   
 Atrast soli nākamam pakāpienam.
 
 F
 Gara, gara čūska
-G                            Em
+G                            C
 Manā ābelē vienīgo ābolu sargā,
 F
 Un neaizver acis
-G            C      G
+G            C      
 Ne vasarā, ne ziemā bargā.
 F
 Manas domas un lūpas
-G                      Em
+G                      C
 Tik pie ābola rītos un vakaros tiecas.
 F
 Un varbūt pat labi,
-G                     C    G
+G                     C    
 Ka nekad līdz tam arī neaizsniedzas.
 
 Am5 B5   C5 D5
 
 Am
 Gara, gara dzīve.
-C                    G       F
+C                    G       
 Gara un grūta - kāds elsa un pūta.
     Am
 Bet es mācos dienu
-C           G     C
+C           G     
 Nodzīvot kā dzīvi vienu.
 
 
 F
 Gara, gara čūska
-G                            Em
+G                            C
 Manā ābelē vienīgo ābolu sargā,
 F
 Un neaizver acis
-G            C      G
+G            C      
 Ne vasarā, ne ziemā bargā.
 F
 Manas domas un lūpas
-G                      Em
+G                      C
 Tik pie ābola rītos un vakaros tiecas.
 F
 Un varbūt pat labi,
-G                     C    G
+G                     C    
 Ka nekad līdz tam arī neaizsniedzas.
 
 Am
 Gara, gara dziesma.
-C                    G      F
+C                    G      
 Katrai dziesmai reiz pienāk beigas,
 Am
 Bet man ir šī diena,

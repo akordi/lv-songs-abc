@@ -26,9 +26,9 @@ Vēl mazliet nē, nē tālāk nedrīkst.
 
 Iespēle 2x: D Bm F#m G D Dsus4 D 
 
-Klausies un tad mēs teiksim tas mūsu
+Klausies un tad mēs reiz teiksim tas mūsu
 Un ziema un pavasars vēls, un meita un dēls,
-Un tad kad pienāks pasaules gals
+Un tad, kad pienāks pasaules gals
 Vai iestāsies mūžīgais sals- mēs sadegsim kopā
 
 Vēl mazliet un es zināšu vairāk kā drīkst
