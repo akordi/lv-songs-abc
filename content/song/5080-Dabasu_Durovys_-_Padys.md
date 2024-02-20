@@ -3,7 +3,7 @@ title: "Pādys"
 date: 2023-10-10T07:24:48+00:00
 url: /song/5080-Dabasu_Durovys_-_Padys
 categories: ["Dabasu Durovys"]
-tags: ["bez akordiem"]
+tags: ["latgaliski", "bez akordiem"]
 draft: false
 ---
 
