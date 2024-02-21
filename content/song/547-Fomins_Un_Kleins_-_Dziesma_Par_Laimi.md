@@ -13,18 +13,18 @@ Kad nav vairs nekā, es domāju tā,
 Am            Em                 F               G
 Man paliek vēl dziesma ko nodziedāt tev!
 
-C                       Am
+C                       
 Par laimi ko liet, par ceļu ko iet,
-F                G           F           G
+Am          G         F      G
 Kā vilcieni projām pa metāla sliedēm,
 
-Am                           F
+Am                  F
 Uz tālajām pieturām ziemeļpolā,
-F                               G
+Dm                     G
 Kur brīvība dzīvo, bet vairāk nekā
-Am                             F        
+Am                  F        
 Ik reizi kad tālumā brīnumu jūt,
-F                              G
+Dm                     G
 Es vēlos vēl tuvāk tev būt!
 
 
