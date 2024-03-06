@@ -21,7 +21,7 @@ draft: false
 [C] Es tevi [D*] pamīlētu tā,
 [C] Es tevi [D*] pamīlētu tā,
 [C] Es tevi [D*] pamīlētu tā,
-[C] Ka tev pat asara [Am] nenobirtu. [C] ai [Am] jāā.. [C][D*]
+[C] Pēc tam es varbūt [Am] arī mirtu.[C] ai [Am] jāā.. [C][D*]
 
 
 Akordi:
