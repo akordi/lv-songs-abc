@@ -25,7 +25,7 @@ G              D        G
 Lec, saulīte, spīdi spoži!
 C        D         G
 rotā druvu, rotā sētu
-G         D         G
+G         D         Em
 Lec, saulīte, tumsu šķel!
 C          D       G
 dari mūsu zemi svētu
