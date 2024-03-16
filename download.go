@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"net/http"
@@ -41,9 +42,15 @@ type ApiResponse struct {
 }
 
 func main() {
+	fetchAll := flag.Bool("all", false, "Fetch all songs")
+	flag.Parse()
 	yesterday := time.Now().AddDate(0, 0, -1)
-	pageSize := 10
-	fetchPage(0, yesterday, pageSize)
+	toDate := yesterday
+	if *fetchAll {
+		toDate = time.Date(1990, 1, 1, 0, 0, 0, 0, time.Local)
+	}
+	pageSize := 50
+	fetchPage(0, toDate, pageSize)
 }
 
 func fetchPage(page int, toDate time.Time, pageSize int) {

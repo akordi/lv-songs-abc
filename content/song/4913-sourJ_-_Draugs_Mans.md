@@ -1,7 +1,7 @@
 ---
 title: "Draugs mans"
 date: 2022-06-12T12:17:58+00:00
-url: /song/4913-sourJ_-_Draugs_Mans
+url: /song/4913-SourJ_-_Draugs_Mans
 categories: ["$ourJ"]
 tags: []
 draft: false

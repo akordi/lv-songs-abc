@@ -17,9 +17,9 @@ Domas kā naglas un es viens zem segas,
  D              G
 Meitenīt, iznāc ārā
 
- D              A           G
+ Bm             A           G
 Meitenīt, tavas acis, tavas lelles
- D              A           G
+ Bm             A           G
 Meitenīt, manas ēnas, manas elles
 
  D                          G
@@ -31,9 +31,9 @@ Es gribu kā tu – aizbēgt no visa
  D                          G
 Uz pasaku, pasaku, pasaku, pasaciņu
 
- D               A           G
+ Bm              A           G
 Meitenīt, tavas acis – tavas lelles
- D               A           G
+ Bm              A           G
 Meitenīt, manas ēnas – mana elle
 
  D                    G
@@ -45,8 +45,8 @@ Meitenīt, skaties asfaltā
  D               G
 Meitenīt, runā telefonā.
 
- D               A            G
+ Bm              A            G
 Meitenīt, tavas acis – tavas lelles
- D               A           G
+ Bm              A           G
 Meitenīt, manas ēnas – mana elle
 ```

@@ -46,6 +46,6 @@ Viegli pazust pat nemeklējot,
    Am    Em            F                 Em           Dm
 Un jāaa-aa-aa, reizēm palīdz tikai karsta tēja, karsta tēja
 
-C    Am   F
+C    Em   F
 Aaa-aaaa-aa  x4
 ```

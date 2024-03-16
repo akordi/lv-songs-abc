@@ -3,12 +3,14 @@ title: "Ķēvīt, mana švilpastīte"
 date: 2020-06-03T13:39:22+00:00
 url: /song/3883-Kokle_-_Kevit_Mana_Svilpastite
 categories: ["Kokle"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+Dm
 Ķēvīt, mana švilpastīte,
+        C          Dm
 Tu zini Rīgu, Jelgaviņu.
 
 Jelgaviņa smuka muiža,

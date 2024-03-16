@@ -1,7 +1,7 @@
 ---
 title: "Morning Flight"
 date: 2018-02-05T18:10:28+00:00
-url: /song/3278-Kris_and_Oz_-_Morning_Flight
+url: /song/3278-Kris_And_Oz_-_Morning_Flight
 categories: ["Kris & Oz"]
 tags: ["supernova", "eng", "supernova 2018", "bez akordiem"]
 draft: false

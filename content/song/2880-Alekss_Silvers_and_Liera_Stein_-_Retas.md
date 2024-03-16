@@ -1,7 +1,7 @@
 ---
 title: "Rētas (bez akordiem)"
 date: 2017-01-17T15:46:00+00:00
-url: /song/2880-Alekss_Silvers_and_Liera_Stein_-_Retas
+url: /song/2880-Alekss_Silvers_And_Liera_Stein_-_Retas
 categories: ["Alekss Silvērs & Liera Štein"]
 tags: []
 draft: false

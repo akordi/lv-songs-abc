@@ -8,39 +8,57 @@ draft: false
 ---
 
 ```text
-pants 1
+Krītoša zvaigzne debesīs
+Varbūt tā kādu sasildīs
+Atverot acis, pienāk rīts
 
-krītoša zvaigzne debesīs.
-varbūt tā kādu sasildīs .
-atverot acis pienāk rīts.
+Kas gan vēl šeit ir palicis?
+Kliedzošs sirdspukstu apvārsnis
+Dejo ar viņu: viens, div', trīs
 
-kas gan vēl šeit ir palicis.
-kliedzošs sirdspukstu apvārsnis.
-dejo ar viņu viens, div' trīs.
+Vēl tava sirC, vēl tava sirC
+Manu atradīs
+Un mana sirC (un mana sirC)
+Tavu piepildīs
 
-vēl Tava sirds. vēl Tava sirds manu atradīs. un mana 
-sirds. un mana sirds. Tavu piepildīs ..
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
 
-Piedz. 2x
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
+Un tas nav viss (nav)
 
-aizverot acis un krītot lejā. sirds lec kā satrauktā 
-dejā .. aizdegsies vēl tas, kas izdzisis. tas nav viss..
+Sakot, ka zina, ko nozīmē
+Cilvēki bieži pārspīlē
+Romeo Džuljetu pazaudē
 
-pants 2
+Kārtējais liktens pavērsiens
+Solis pa kreisi, un esi viens
+Aplausi, vēl viens iznāciens
 
-sakot, ka zina ko nozīmē.
-cilvēki bieži pārspīlē.
-Romeo Džuljetu pazaudē.
+Vēl tava sirC, vēl tava sirC
+Manu atradīs
+Un mana sirC un mana sirC
+Tavu piepildīs
 
-kārtējais likteņa pavērsiens.
-solis pa kreisi un esi viens.
-aplausi, vēl viens iznāciens.
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
 
-vēl Tava sirds. vēl Tava sirds manu atradīs. un mana 
-sirds. un mana sirds. Tavu piepildīs ..
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
+Un tas nav viss (tas nav viss, tas nav viss)
+Nav viss (tas nav viss, nav viss)
 
-Piedz. 2x
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
 
-aizverot acis un krītot lejā. sirds lec kā satrauktā 
-dejā .. aizdegsies vēl tas, kas izdzisis. tas nav viss..
+Aizverot acis un krītot lejā
+SirC lec kā satrauktā dejā
+Aizdegsies vēl tas, kas izdzisis
+Un tas nav viss (nav viss, nav)
 ```

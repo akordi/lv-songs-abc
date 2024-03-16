@@ -1,7 +1,7 @@
 ---
 title: "Jāņu dziesma"
 date: 2020-06-03T16:41:02+00:00
-url: /song/4038-Duets_Liene_and_Helmuts_-_Janu_Dziesma
+url: /song/4038-Duets_Liene_And_Helmuts_-_Janu_Dziesma
 categories: ["Duets Liene & Helmuts"]
 tags: ["bez akordiem"]
 draft: false

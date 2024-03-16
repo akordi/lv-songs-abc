@@ -1,7 +1,7 @@
 ---
 title: "Fingals"
 date: 2016-04-01T11:47:21+00:00
-url: /song/2609-Fredis_and_Co_-_Fingals
+url: /song/2609-Fredis_And_Co_-_Fingals
 categories: ["Fredis & Co"]
 tags: []
 draft: false

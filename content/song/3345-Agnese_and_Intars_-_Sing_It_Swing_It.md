@@ -1,7 +1,7 @@
 ---
 title: "Sing It, Swing It"
 date: 2018-03-11T20:16:44+00:00
-url: /song/3345-Agnese_and_Intars_-_Sing_It_Swing_It
+url: /song/3345-Agnese_And_Intars_-_Sing_It_Swing_It
 categories: ["Agnese & Intars"]
 tags: ["eng", "bez akordiem"]
 draft: false

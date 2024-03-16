@@ -1,7 +1,7 @@
 ---
 title: "Brīvības iela"
 date: 2017-01-08T19:55:56+00:00
-url: /song/2867-Flame_and_The_Rolltones_-_Brivibas_Iela
+url: /song/2867-Flame_And_The_Rolltones_-_Brivibas_Iela
 categories: ["Flame & The Rolltones"]
 tags: []
 draft: false

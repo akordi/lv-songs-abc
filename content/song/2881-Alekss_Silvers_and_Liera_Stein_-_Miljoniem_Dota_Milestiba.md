@@ -1,7 +1,7 @@
 ---
 title: "Miljoniem dota mīlestība (bez akordiem)"
 date: 2017-01-17T15:42:27+00:00
-url: /song/2881-Alekss_Silvers_and_Liera_Stein_-_Miljoniem_Dota_Milestiba
+url: /song/2881-Alekss_Silvers_And_Liera_Stein_-_Miljoniem_Dota_Milestiba
 categories: ["Alekss Silvērs & Liera Štein"]
 tags: []
 draft: false

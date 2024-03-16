@@ -48,9 +48,9 @@ Un žēlojās, cik šaurs.
 Un kas notiks, kad nāks dinozaurs!
 
 Bet dinozauri savā starpā spēlējās,
-Pa Ķīšezeru bradāja un plunčājās.
+Pa ūdeni tie bradāja un plunčājās.
 Vislabāk iepatikās viņiem slapjās lapas zīst,
-Bet atsacījās tie šķirstā līst.
+Un atsacījās tie šķirstā līst.
 
 Jo tur bija
 Divi zaļi krokodili,

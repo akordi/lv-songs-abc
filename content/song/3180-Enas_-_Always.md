@@ -3,7 +3,7 @@ title: "Always"
 date: 2017-11-26T11:30:51+00:00
 url: /song/3180-Enas_-_Always
 categories: ["Ēnas"]
-tags: ["bez akordiem"]
+tags: ["eng", "bez akordiem"]
 draft: false
 ---
 

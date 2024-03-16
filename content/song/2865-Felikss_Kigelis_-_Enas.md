@@ -8,42 +8,44 @@ draft: false
 ---
 
 ```text
-Ievads: A B E A B
-C#m A B E A B             Para pa, para pa, para pēm
+Ievads: C#m A B
+        E A B
 
-                 A     E
+         Para pa, para pa, para pēm
+
+                 A     E   Esus4/B  E
                   Riņķo, riņķo vien,
-              A        E     
+              A        E       Esus4/B   E
                Man apkārt bez apstājas skrien.
                 G                   A  
                 Cauri iedomu ielām tik lielām
-                E
+                  A     E   Esus4/B  E
                  Man garām ēnas slīd.
 
-                 A    E
+                 A     E   Esus4/B  E
                  Kāda krāsa ir tev?
-                  A           E
+                    A     E   Esus4/B  E
                   Vai kāds var atšķirt vēl?
                    G                      A
                    Cauri iedomu slāpēm tām lielām
-                   E
+                   A     E   Esus4/B  E
                    Tu pateikt pats spēj - 
 
 
-                  A               B
+                  C#m     A       B
                   Zilpelēkas ēnas slīd,
                   E       A      B
                   Mēs tās varētu aprakstīt -
-                 A                  B
+                   C#m     A       B
                   Krāsas smelsimies debesīs,
                   E       A             B
                   Nāciet līdz un sāksim tūlīt!
-                  A               B
+                    C#m     A       B
                   Zilpelēkas ēnas slīd,
                       E        A         B
                   Mēs tās varētu aprakstīt -
                     C#m           A       B
                   Krāsas smelsimies debesīs,
-                  E                         E
+                  E           A           E
                   Nāciet līdz un sāksim tūlīt!
 ```

@@ -1,7 +1,7 @@
 ---
 title: "Mocīc"
 date: 2018-11-20T17:39:25+00:00
-url: /song/3421-Ufo_and_Fredis_-_Mocic
+url: /song/3421-Ufo_And_Fredis_-_Mocic
 categories: ["Ufo & Fredis"]
 tags: []
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Midnight streets"
 date: 2019-02-07T21:14:32+00:00
-url: /song/3464-Kris_and_Oz_-_Midnight_Streets
+url: /song/3464-Kris_And_Oz_-_Midnight_Streets
 categories: ["Kris & Oz"]
 tags: ["supernova", "eng", "bez akordiem", "supernova 2019"]
 draft: false

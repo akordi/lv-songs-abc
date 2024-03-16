@@ -1,7 +1,7 @@
 ---
 title: "Iespraud Svecīti"
 date: 2015-07-10T17:15:24+00:00
-url: /song/2244-Ufo_and_Fredis_-_Iespraud_Sveciti
+url: /song/2244-Ufo_And_Fredis_-_Iespraud_Sveciti
 categories: ["Ufo & Fredis"]
 tags: []
 draft: false
