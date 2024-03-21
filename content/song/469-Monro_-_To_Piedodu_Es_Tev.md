@@ -8,14 +8,14 @@ draft: false
 ---
 
 ```text
-Intro: D A Bm G
-   Bm           G
+Intro: /FEEbD/ A Bm G D A Bm /FEEbD/
+ D             Bm    
 Pa samirkušām ielām
-                  Em    A
+G                  Em  
 brien nepaklausīgs vējš
-               G    Em
+A              G   
 un visur tava seja
-            A       D
+Em              A      
 No atmiņas, ko dzēš
 
 Kur satikšu es tevi
@@ -24,13 +24,13 @@ Viens tukšās ielās eju
 Kur pūlis mēmi skan
 
 Piedz. 2x
-             A     Bm
+ D            A   
 To piedodu es tev
-             G     D
+Bm             G  
 To piedodu es tev,
-                A
+D               A
 Ka tevis līdzās nav
-       Bm    G D
+       Bm    G A
 šodien vēl
 
 Jau rīta rasa sejā

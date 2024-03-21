@@ -13,7 +13,7 @@ Ievads: E D Am  E D Am	E D Am	  E D E
 Am
 Advancētā telefonā ieskaties, uzdevums ir dikti smuki saģērbties
 F		Am
-Palore - face kontrole
+Parole - face kontrole
 Am
 Populāras grupas afterpārtijā šauram lokam paredzētais tuss
 F			Am
