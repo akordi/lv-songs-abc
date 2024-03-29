@@ -25,21 +25,20 @@ Es nāku zemu liekties,
 Nāku lai Tev teiktu,
             A
 Ka esi mans Dievs,
-
                E
 Jo Tu vien esi taisnīgs,
             Bsus
 Tu vien esi cienīgs,
              G#m               A
-Tu vien esi, Kungs mans, brīnišķīgs.
+Tu vien esi, Kungs, mans, brīnišķīgs.
 
 
 E       Bsus       F#
-Mūžibas Kungs, tik augstu celts godā,
+Mūžības Kungs, tik augstu celts godā,
 E         Bsus        A
 Slavas tu apņemts debesīs;
    E        Bsus    F#m
-Uz zemi, ko radīji, pazēmīgs nāci,
+Uz zemi, ko radīji, pazemīgs nāci,
     E      Bsus       A
 Par nabagu kļuvi mūsu dēļ.
 

@@ -32,17 +32,17 @@ draft: false
   [Am] Mirgo, mirgo, mirgo mana [F] Margarita,
   [F] Viena puķe [G] zied Marga[C]rita.
 
-  [D] Mirgo mana, [F#m] mirgo mana [Bm] Margarita,
-  [G] Viena puķe pļavā zied pār [A] visām citām,
-  [D] Mirgo mana, [F#m] mirgo mana,
-  [Bm] Mirgo, mirgo, mirgo mana [G] Margarita,
-  [G] Viena puķe [A] zied Marga[D]rita.
+  [C#] Mirgo mana, [Fm] mirgo mana [A#m] Margarita,
+  [F#] Viena puķe pļavā zied pār [G#] visām citām,
+  [C#] Mirgo mana, [F#m] mirgo mana,
+  [Bm] Mirgo, mirgo, mirgo mana [F#] Margarita,
+  [F#] Viena puķe [G#] zied Marga[C#]rita.
 
-  [D] Mirgo mana, [F#m] mirgo mana [Bm] Margarita,
-  [G] Viena puķe pļavā zied pār [A] visām citām,
-  [D] Mirgo mana, [F#m] mirgo mana,
-  [Bm] Mirgo, mirgo, mirgo mana [G] Margarita,
-  [G] Viena puķe [A] zied Marga[D]rita.
+  [C#] Mirgo mana, [Fm] mirgo mana [A#m] Margarita,
+  [F#] Viena puķe pļavā zied pār [G#] visām citām,
+  [C#] Mirgo mana, [Fm] mirgo mana,
+  [A#m] Mirgo, mirgo, mirgo mana [F#] Margarita,
+  [F#] Viena puķe [G#] zied Marga[C#]rita.
 
 Margarita, 
 Viena puķe zied Margarita.

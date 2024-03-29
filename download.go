@@ -5,8 +5,10 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strconv"
 	"strings"
 	"time"
@@ -66,13 +68,13 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		fmt.Println("Error reading API response:", err)
+		log.Panic("Error reading API response:", err)
 		return
 	}
 
 	var apiResponse ApiResponse
 	if err := json.Unmarshal(body, &apiResponse); err != nil {
-		fmt.Println("Error parsing JSON:", err)
+		log.Panic("Error parsing JSON:", err)
 		return
 	}
 	if len(apiResponse.Content) == 0 {
@@ -83,19 +85,34 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 	for _, item := range apiResponse.Content {
 		updatedDate, err := time.Parse(time.RFC3339, item.UpdatedDate)
 		if err != nil {
-			fmt.Println("Error parsing date:", err)
+			log.Panic("Error parsing date:", err)
 			return
 		}
 		if updatedDate.Before(toDate) {
 			fmt.Println("Reached date limit " + updatedDate.Local().Format("2006-01-02") + " < " + toDate.Local().Format("2006-01-02"))
 			return
 		}
+		previousFiles, err := filepath.Glob("content/song/" + strconv.Itoa(item.Id) + "-*.md")
+		if err != nil {
+			log.Panicf("Error finding files: %v\n", err)
+			return
+		}
+
+		for _, match := range previousFiles {
+			err = os.Remove(match)
+			if err != nil {
+				log.Panicf("Error removing file '%s': %v\n", match, err)
+			}
+		}
+
 		filename := "content/song/" + getLastPartOfURL(item.Url) + ".md"
 		file, err := os.Create(filename)
 		if err != nil {
-			fmt.Printf("Error creating file '%s': %v\n", filename, err)
+			log.Panicf("Error creating file '%s': %v\n", filename, err)
 			continue
 		}
+
+		// delete previous file if exists by id (not by url)
 
 		formattedDate := convertDate(item.CreatedDate)
 
@@ -133,7 +150,7 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 		file.Close()
 
 		if err != nil {
-			fmt.Printf("Error writing to file '%s': %v\n", filename, err)
+			log.Panicf("Error writing to file '%s': %v\n", filename, err)
 		} else {
 			fmt.Printf("Created file '%s' successfully\n", filename)
 		}
