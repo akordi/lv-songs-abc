@@ -8,22 +8,22 @@ draft: false
 ---
 
 ```text
-Bm    G          D     
+Bm    G          A     
   Kad balss tevi sauc,
 Bm           G         F#m
   Tad nedomā vai tas ir malds.
-Bm     G         D 
+Bm     G         A 
   Kāds bars tevi klāj,
 Bm                 G   F#m
   Tam piekļaujies, neatstāj.
 
-Em    A
+Em    Em/G
   Un smejies no sirds,
-Em             A
+A2/F#m         Em      Em/G
   Tā raudi lai asaras mirdz.
-Em    A
+Em    Em/G
   Un smejies no sirds,
-Em             A
+A2/F#m         Em      Em/G
   Tā raudi lai asaras mirdz.
 
 Bm              G 
