@@ -8,13 +8,13 @@ draft: false
 ---
 
 ```text
-G		Em
+G		Cmaj
 Floridas smiltīs
-Em		  Em C Em
+Em		  Em Cmaj 
 Agāves, agāves zied
-G		Em
+G		Cmaj
 Floridas smiltīs
-Em		Em C / Em
+Em		Em Cmaj
 Vaļi, vaļi metušies
 
 G
@@ -22,37 +22,37 @@ Kas to lai zina
 D
 Kāpēc
 C
-Jel pagaidām
+Jo pagaidām
 D
 Nav vēl noskaidrots
 
 Gm
 Pagaidām
-D#
+Eb
 Pagaidām
 Cm
 Pagaidām
 D
 Mēs jau...
-Em C   Em
+    Em        Cmaj Em   
 Arī pagaidām
 
-G	Em
+G	      Cmaj
 Vaļi, ai, vaļi
- 	Em C Em
+ 	Em      Cmaj 
 Jūras un okeāns
-G 	Em
+G 	               Cmaj
 Ir jūsu dzimtās mājas
-	Em C Em
+	   Em        Cmaj 
 Kādēļ tāds pašapmāns?
 
-G
+G                Cmaj
 Lielām ir jābūt
-Em	 C   Em
+             Em            Cmaj 
 Skumjām, kas krastā sviež...
-G
+G                 Cmaj
 Floridas smiltīs
-Em	 C   Em
+           Em          Cmaj 
 Vaļi, vaļi metušies
 
 G
@@ -66,13 +66,13 @@ Nav vēl noskaidrots
 
 Gm
 Pagaidām
-D#
+Eb
 Pagaidām
 Cm
 Pagaidām
 D
 Mēs jau...
-Em C   Em
+    Em            Cmaj 
 Arī pagaidām
 
 ```
