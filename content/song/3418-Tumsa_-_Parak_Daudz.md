@@ -17,7 +17,7 @@ ieraudzīts un nepazīts
 D
 Pārāk daudz, pārāk daudz
 E
-kas tad tev vēl vajadzīgs?
+kas tad vēl tev vajadzīgs?
 
 PANTS:
 
