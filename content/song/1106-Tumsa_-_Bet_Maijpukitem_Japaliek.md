@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-Intro: Em Am Em Am C D
+Intro: Em Am Em Am C D G B7
 
 
 Em    Am           Em
