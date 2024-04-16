@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-Ievads: [G][C][D]
+Ievads: [G][C][G][D]
 
 [G] Tajā, tajā zaļā ielejā
 [G] Visiem logiem dzelteni aizka[D]ri,
