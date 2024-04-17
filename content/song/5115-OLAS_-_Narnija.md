@@ -3,7 +3,7 @@ title: "Nārnija"
 date: 2024-03-20T18:34:29+00:00
 url: /song/5115-OLAS_-_Narnija
 categories: ["OLAS"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
@@ -21,9 +21,13 @@ Mēs ejam makšķerēt, kur ir mana sapņu nakts
 Es jau jutu, ka šī nakts fucking laba tas bija tosts no OLĀM pašauj vaļā
 
 #CHORUS
+[AM7]    [F#m7]           [C#m]
 Es gribu dzīvot tavā Nārnijā
+           [C#m]           [AM7]
 Un palaist vaļā savu sapni jā
+          [F#m7]              [C#m]
 Un Tu jau zini, viss būs kārtībā
+          [C#m]              [AM7]
 Un Tu jau zini, ka būs party hard
 
 #VERSE
