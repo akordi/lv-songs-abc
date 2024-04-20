@@ -3,7 +3,7 @@ title: "Bailes par ziņģi"
 date: 2007-02-26T22:00:00+00:00
 url: /song/88-Livi_-_Bailes_Par_Zingi
 categories: ["Līvi"]
-tags: ["eng"]
+tags: ["ziņģes"]
 draft: false
 ---
 

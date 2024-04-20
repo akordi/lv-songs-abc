@@ -9,37 +9,37 @@ draft: false
 
 ```text
 [G]
-Sen par [Am] mani draugi [D] smejas,
-Tu man [G] tikai prātu [Em] jauc.
-Velti [Am] es pie tevis [D] ejot,
-Tevī [G] klausoties par [G7] daudz.
-Ja tev [C] nepasacīs [D] citi,
-gan tu [Am] pati manī[D]si
-Gan tu [G] pati vēl, 
-[Am] vēl [D] manī[G]si.
+Sen par [Am7] mani draugi [D] smejas,
+Tu man [G] tikai [D/F#] prātu [Em] jauc. [Em/D]
+Velti [Am7] es pie tevis [D] ejot,
+Tevī [G] klausoties par [E/G#] daudz.
+Ja tev [C/A] nepasacīs [E7/B] citi,
+gan tu [C] pati manī[Cm/Eb]si
+Gan tu [G/D] pati vēl, 
+[D] vēl manī[G]si.
 
-Arī [Am] pats to sen jau [D] jutu,
-Tu man [G] tiešām prātu [Em] jauc.
-Dienu [Am] dienā blakus [D] būtu,
-tikai [G] tev ja būtu [G7] ļauts.
-Ja tev [C] nepasacīs [D] citi,
-gan tu [Am] pati manī[D]si
-Gan tu [G] pati vēl, 
-[Am] vēl [D] manī[G]si.
+Arī [Am7] pats to sen jau [D] jutu,
+Tu man [G] tiešām [D/F#] prātu [Em] jauc. [Em/D]
+Dienu [Am7] dienā blakus [D] būtu,
+tikai [G] tev ja būtu [E/G#] ļauts.
+Ja tev [C/A] nepasacīs [E7/B] citi,
+gan tu [C] pati manī[Cm/Eb]si
+Gan tu [G/D] pati vēl, 
+[D] vēl manī[G]si.
 
   [G] Piezvani man, ja tev skumji būs, [F] piezvani man.
   [C] Piezvani gan, tu jau zini, ka [G] gaidu.
   [G] Piezvani man, tad kad neiemigt, [F] piezvani man.
   [C] Piezvani gan, vēl joprojām es [G] gaidu.
 
-Draugiem [Am] taisnība un [D] tomēr,
-lai tā [G] notiek kā man [Em] dots.
-Tu no [Am] manis tomēr [D] aizej,
-tas ir [G] pelnītais mans [G7] sods.
-Man līdz [C] pastardienai [D] cerēt,
-kad tu [Am] kādreiz zvanī[D]si
-Kad tu [G] kādreiz vēl,
-[Am] vēl [D] zvanī[G]si.
+Draugiem [Am7] taisnība un [D] tomēr,
+lai tā [G] notiek [D/F#] kā man [Em] dots. [Em/D]
+Tu no [Am7] manis tomēr [D] aizej,
+tas ir [G] pelnītais mans [E/G#] sods.
+Man līdz [C/A] pastardienai [E7/B] cerēt,
+kad tu [C] kādreiz zvanī[Cm/Eb]si
+Kad tu [G/D] kādreiz vēl,
+[D] vēl zvanī[G]si.
 
   [G] Piezvani man, ja tev skumji būs, [F] piezvani man.
   [C] Piezvani gan, tu jau zini, ka [G] gaidu.
