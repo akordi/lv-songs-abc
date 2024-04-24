@@ -76,5 +76,5 @@ Tā aizrit gari gadi.
       A
 Tikai atmiņās 
                    D
-Kā īles kliedziens žēls.
+Kā īves kliedziens žēls.
 ```
