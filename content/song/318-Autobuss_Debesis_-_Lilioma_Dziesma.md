@@ -9,9 +9,9 @@ draft: false
 
 ```text
 D
-Atkal, atkal ir debesis pušu,
+Redzat, atkal ir debesis pušu,
              A
-Atkal ielāpi jāuzliek tām.
+Mums ir ielāpi jāuzliek tām.
 
 Sanāk, sanāk, kas samaksājuši,
                  D
@@ -27,7 +27,7 @@ No vistukšākās pudeles dzert.
 
 Piedz.
    D      G
-Jo tu esi brīvs, jo tu esi dzīva,
+Jo tu esi dzīvs, o tu esi dzīva,
       F#m                
 Viens zirgs vēl ir brīvs,
 Em    A        Bm
@@ -52,14 +52,14 @@ Vai tur vienkārši vardes kurkst.
 
 Te mēs visi it vienādi esam,
                    D
-Vai tad vēl tā būs citur kaut kur?
+Vai tad būs tā vēl citur kaut kur?
 
 Piedz.
 
 D
-Zvaigžņu acīm noskatās runči,
+Zvaigžņu acīm noraugās runči,
                      A
-Un tiem skatiens ir stiklaini stīvs.
+Un to skatiens ir stiklaini stīvs.
 
 Mūsu karogs ir meiteņu brunči,
                    D
