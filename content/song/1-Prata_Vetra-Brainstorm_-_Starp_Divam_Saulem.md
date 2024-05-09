@@ -32,14 +32,14 @@ Un vēl virs mums ir divas zvaigznes
 Dm                               C
 Zem vienas dzīvot, pēc otras ilgoties
 Em               Am             Em                 Am
-Ja primā kritīs, tu priecāsies, bet varbūt liktens atspēlēsies
+Ja pirmā kritīs, tu priecāsies, bet varbūt liktens atspēlēsies
 Dm                     G
 Virs mums ir divas zvaigznes
 
 C              G
 Lai no kādām tālēm nācis
 F           Em         Am Dm G
-Liekas tiko elpot sācis
+Liekas tikko elpot sācis
 
 C                    G
 Starp divām saulēm izvēlēties
@@ -49,7 +49,7 @@ Vēsāko un atveldzēties
 C              G
 Lai no kādām tālēm nācis
 F           Em         Am Dm G
-Liekas tiko elpot sācis
+Liekas tikko elpot sācis
 
 C                    G
 Starp divām saulēm izvēlēties
