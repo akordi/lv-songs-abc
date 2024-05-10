@@ -1,7 +1,7 @@
 ---
-title: "Lai bij vārdi"
+title: "Visam cauri iet"
 date: 2020-06-05T08:47:08+00:00
-url: /song/4231-Balki_-_Lai_Bij_Vardi
+url: /song/4231-Balki_-_Visam_Cauri_Iet
 categories: ["Baļķi"]
 tags: []
 draft: false

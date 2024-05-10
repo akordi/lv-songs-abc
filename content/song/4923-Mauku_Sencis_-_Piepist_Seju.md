@@ -16,7 +16,7 @@ Viņa rokās man kūst,
 Man mājās palagi žūst
 Viņa šovakar ir vientuļa
 Ja vedīsi tad iešu tur 
-Ja vajadzēs tad iešu tur 
+Ja vajadzēs es skriešu tur 
 Jo mazā šovakar es tikai gribu (gribu, gribu) 2x
 
 Es pis pa labi, pa labi, pa labi (skrr)
