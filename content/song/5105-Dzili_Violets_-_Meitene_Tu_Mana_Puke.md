@@ -3,7 +3,7 @@ title: "Meitene, Tu mana puķe"
 date: 2024-02-08T20:05:22+00:00
 url: /song/5105-Dzili_Violets_-_Meitene_Tu_Mana_Puke
 categories: ["Dziļi violets"]
-tags: []
+tags: ["bez akordiem"]
 draft: false
 ---
 
