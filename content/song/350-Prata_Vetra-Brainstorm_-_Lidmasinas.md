@@ -8,26 +8,37 @@ draft: false
 ---
 
 ```text
+ Izmantojam ritmu "6" bez klusinājuma ,vienu reizi katram akordam
 =======================
 Am Am Dm Dm E E Am Am 
 =======================
 Lidmašīnas!
 Lidmašīnas!
 Lidmašīnas!
-
-Mana gaišmatainā Rita (Jeah!)
-Viena pati zemē krita
-Arī tu (ū-ū-ū)
-Arī tu
-
-Nemanot kā lapa dzisa
+Am                Am
 Mana gaišmatainā Rita
+Dm               Dm
+Viena pati zemē krita
+     E   E
 Arī tu (ū-ū-ū)
+     Am    Am
 Arī tu
 
+ Am               Am
+Nemanot kā lapa dzisa
+Dm                Dm
+Mana gaišmatainā Rita
+     E     E
+Arī tu (ū-ū-ū)
+    Am     Am
+Arī tu
+            Am    Am
 Kur ir man lidmašina?
+            Dm     Dm
 Kur ir man lidmašina?
+            E      E
 Kur ir man lidmašina?
+        Am    Am
 Kur tā ir?
 
 (Velns parāvis!)
