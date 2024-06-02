@@ -10,9 +10,9 @@ draft: false
 ```text
 C                       F
   Kad laimi tumšā rozes ziedā
-C                                 G    G7
+C                                 Dm   G7
   Kāds cits tev kādreiz steigsies nest,
-C                             F
+C              C7              F
   Varbūt vēl kaut kur dziesmu dziedās
 C           G           C
   Kā dziedu šovakar tev es.
@@ -21,8 +21,8 @@ C           G           C
 Piedz:
 C       G                   C
   Un varbūt vēl baltas manā dzimtenē
-        G                       C D7 G7
-  Ievas degs kā degām kādreiz   m ē s,
+        G                       Em Ebm Dm7    G7
+  Ievas degs kā degām kādreiz   m  - ē - s,
         C                        F
   Un varbūt vēl kaut kur dziesmu dziedās
 C           G           C
