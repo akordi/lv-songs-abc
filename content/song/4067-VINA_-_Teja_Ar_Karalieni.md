@@ -9,7 +9,7 @@ draft: false
 
 ```text
 Tu gribi tikt iekšā, bet nezini kodu.
-Tas ir pis dirst atslēdziņa  2 0 1 8 .
+Tas ir pis dirst atslēdziņa 2 0 1 8 .
 Piedod, šeit nav vietas, saproti,
 Šodien šeit ir lieki sapņot.
 
@@ -36,7 +36,7 @@ Jo tik daudzām šķiet,
 Ka es esmu pārāk laba.
 Tas jums raudāt liek.
 
-whou!
+Whou!
 
 Mana degsme dubultojas, 
 Kad to aplej ar viskiju.
@@ -86,12 +86,12 @@ Mēs to atstājām aiz durvīm.
 Dzērieni, dzērieni, dzērieni pa gaisu
 Dzērieni, dzērieni, dzērieni pa grīdu
 Dzērieni, dzērieni, dzērieni uz drēbēm
-Dzērieni dzērieni pamatīgi smērē
+Dzērieni, dzērieni pamatīgi smērē
 
 Dzērieni, dzērieni, dzērieni pa gaisu
 Dzērieni, dzērieni, dzērieni pa grīdu
 Dzērieni, dzērieni, dzērieni uz drēbēm
-Dzērieni dzērieni pamatīgi smērē
+Dzērieni, dzērieni pamatīgi smērē
 
 Lūdzu, apsoli man, kad es teikšu, ka gribu šūpoties, tu 
 mani nevedīsi dzert..
