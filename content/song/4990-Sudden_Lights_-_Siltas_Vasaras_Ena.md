@@ -8,29 +8,45 @@ draft: false
 ---
 
 ```text
-Gm                   Dm                 Bb
+Capo 3
+
+Em                   D                 G
 Aiz manis aizveras durvis, beidzot esmu viens
-Gm                  Dm             Bb         C
+Em                  D            G         C
 Kaut kur pazuda troksnis un laiks arī apstājies
-Gm          Dm           Bb    
+Em              D           G   
 Ir jau augusts, laiks tā skrien
-Gm            Dm              Bb          C
+Em            D               G         C
 Kopš garām ejot it kā starp citu man pieskāries
 
-Gm Dm Bb
-
-Eb        Cm            Gm
+Piedz:
+Em         D     G
+AAAA AAAAA AAAA AAA
+          C             D     G      
 Pēc tevis ilgoties man neapnīk
-Eb        Cm            Gm
+Em         D     G
+AAAA AAAAA AAAA AAA
+C                      D     G
 Siltas vasaras pār vaigiem līst
 
+Em          D                 G
 Paliec vēl mirkli, neej vēl prom
+Em               D            G         C
 Tu proti izslēgt troksni un laiku apturēt
+Em    D           G
 Tavās acīs kavējos
+Em         D       G         C
 Jau atkal liec man savām neticēt
+
+Piedz: x3
+Em         D     G
+A AAAAAAAA AAAA AAA
+          C             D     G      
 Pēc tevis ilgoties man neapnīk
+Em         D     G
+AAAA AAAAA AAAA AAA
+       C           D       G
 Siltas vasaras pār vaigiem līst
-Pēc tevis ilgoties man neapnīk
-Siltas vasaras pār vaigiem līst
-Siltas vasaras pār vaigiem līst
+
+
 ```

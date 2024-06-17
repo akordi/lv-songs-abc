@@ -18,13 +18,17 @@ Em  G      D      Em
 Māt, tavās šūpuļa dziesmās
 G          D        Em 
 Dzied, kas nededzis liesmās
-G   D         Em
+G   D         Em      G D Em
 Nededzis dedzināts
 
 (chorus)
+D                      Em        C
 Es gribu lietu just un rasu rīta saulē
+D                      Em        C
 Un ik dienu teikt paldies, jo mirklis īss
+D                      Em        C
 Tu mani sauci cauri klusumam un taurēm
+D                              Em
 Kad aizgāja dēls, mājās pārnāca karavīrs
 
 (verse)
