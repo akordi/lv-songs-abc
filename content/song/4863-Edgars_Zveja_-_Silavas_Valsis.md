@@ -8,13 +8,15 @@ draft: false
 ---
 
 ```text
+(Ievads)
+C    C/E   G      G     C Amin D G
 C     F    C      G     C    F   C  G
 Silti vēji priežu silus glāsta,
 C     F     C      F   G   G  G  G
 Bites zilos viršos rāmi san.
 C   Em      F      F     G    G
 Upe ko mums šalcot klusi stāsta,
-Em  Em   Em   F      G     C   C
+Em  Em   Em   F      D     G   C
 Neaizmirsti nekad to tev un man.
 
 Neaizmirst nekad to rudens dienu,
