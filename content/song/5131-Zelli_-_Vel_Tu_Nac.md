@@ -8,8 +8,6 @@ draft: false
 ---
 
 ```text
-1.) Zeļļi - Vēl tu nāc
-
 E       A         B         E
 Nesaki, neprasi. Manas acis tālē
 C#m              F#m          
