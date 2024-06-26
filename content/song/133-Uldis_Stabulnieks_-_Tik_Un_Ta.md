@@ -15,7 +15,7 @@ Bet nepūlies, necenties tā,
 F#m             B7
 Man viņa ir visskaistākā 
 E7      A
-Tik un tā.
+Tik un tā.                   2x
 
  A                      D
 Mazliet par lielu, lai sasildot 
@@ -38,5 +38,5 @@ Es līdzi ceļos.
 Nāk rudens izgreznot Latviju,
 Bet nepūlies, necenties tā
 Mums viņa ir visskaistākā 
-Tik un tā.
+Tik un tā.                    2x piedz
 ```
