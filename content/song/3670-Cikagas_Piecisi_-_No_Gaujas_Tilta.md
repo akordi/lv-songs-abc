@@ -28,7 +28,7 @@ Un ticēs, ka tas laimi nes sev līdz.
 
               Bm                       Em
 3. Varbūt, ka otru straume trieks pret klintīm,
-                           D
+           G                D
 Uz akmens radzēm ziedi karāsies,
      G          Em           D
 Līdz lakstīgala savās krasta ligzdās,
