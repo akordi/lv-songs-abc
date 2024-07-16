@@ -38,7 +38,7 @@ ja ne es.! 2x
 
 
 Es steigā mudināju būt modriem, nav ko laiku notriekt, 
-jo to pat ja spēji, un tā sejā katram es rēju, bet 
+jo to paķers vēji, un tā sejā katram es rēju, bet 
 pasaule kurlmēmi nereaģēja ooouuuuu, tagad pļauju pati 
 ko sēju, jā, bet tolaik man likās , ka var tikai tā un 
 nekā citādi .

@@ -12,7 +12,7 @@ E       A         B         E
 Nesaki, neprasi. Manas acis tālē
 C#m              F#m          
 Skatās, kā laimes zieds
-G#           C#m       
+B          E       
 Manu laimi zīlē. (2 r.)
 
 Piedz.
@@ -27,7 +27,7 @@ E            A         B             E
 Skati mums satikās, tā kā lūpas skūpstā,
 C#m        F#m  
 Acīs tev asaras,
-G#           C#m   
+B          E   
 Balta roze sniegā. (2 r.)
 
 Piedz.
