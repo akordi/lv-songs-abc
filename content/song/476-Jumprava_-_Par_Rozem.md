@@ -12,9 +12,9 @@ A
 Šķiet tas toreiz bija sapnis
 F#m
 Naktī pamodos un šķiet
-D
+Bm
 Man visapkārt un pie logiem maniem
-                  E
+D                  E
 Visur tikai rozes zied
 
 Kādreiz tālās senās dienās
@@ -24,14 +24,14 @@ Vēl uz zemes rozes zied
 
       A            F#m
 Saki, kāpēc maigo dvesmu
-       Bm            E
+       Bm7            E
 Mūžam manam cauri svied
       A            F#m       
 Pats ar tevi saaudzis jau esmu
-      Bm             E
+      Bm7             E
 Visur tikai rozes zied
 
-        Am          D
+        Bm          Dm
 Un,kad melnā stundā uzsāks
          A         F#m
 Rudens miglas suņi riet

@@ -1,8 +1,8 @@
 ---
 title: "Tutas dziesma"
 date: 2024-01-10T21:58:25+00:00
-url: /song/5097-Tuta_-_Tutas_Dziesma
-categories: ["Tuta"]
+url: /song/5097-Laura_Polence_-_Tutas_Dziesma
+categories: ["Laura Polence"]
 tags: ["bērnu"]
 draft: false
 ---

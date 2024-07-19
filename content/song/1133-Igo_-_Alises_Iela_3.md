@@ -44,13 +44,13 @@ Alises iela, tik skumja un liela
 
 Alises iela, tik skumja un liela
 
-
+Em              B              Em
 Vai tēti dzirdi, tu, maziņo sirdi?
-
+G                 D             G
 Sauc tavu vārdu, tā lūdz tavu sirdi!
-
+          Am                  Em
 Vai māmiņ dzirdi, tu, maziņo sirdi?
-
+             B                Em
 Sauc tavu vārdu, tā lūdz tavu sirdi!
 
 Nevaru saprast kā var ielikt 2 iepriekšējās versijas kuras galīgi nesakn spēlējot ar tiem akordiem. 

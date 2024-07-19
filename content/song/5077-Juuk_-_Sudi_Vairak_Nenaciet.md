@@ -28,8 +28,8 @@ Ooh, sūdi vairāk nenāciet
 PANTS 2
 Kad pēc laimīgas līksmības lūgtin lūdzas prāts
 Skat jau logā ēna sauli liedz
-Klusās balsīs tur nelaimes vēstneši šņāc
-Ooh, sūdi vairāk nenāciet
+Tumšās balsīs tur nelaimes vēstneši šņāc
+Bet, sūdi vairāk nenāciet
 
 PIEDZ
 Mūsu dziesma ir nopūta smaga

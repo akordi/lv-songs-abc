@@ -18,7 +18,7 @@ Dm          G
 Būs jūra, okeāns.
 DM               G
 Un ja draugi tevi pamet,
-C                  F
+C        G         F
 Tev vēl mūžam piederēs:
 
 Piedz.

@@ -19,7 +19,7 @@ Kā pa sniegbaltiem pelniem Tu nāc
 
 G               A
 Deg saulē balti mākoņi
-   D          C
+   Bm          C
 Kā mīlas vēstulēs
 G                   A              D
 Nodegs debess, rīta saule Tevi atnesīs
@@ -37,7 +37,7 @@ Baltos mākoņos kā Tevi sauc
 
    G              A
 Tu aizbēdz projām klusējot
-   D          C
+   Bm          C
 Kā jūra bēgumā
 G
 Nodegs debess

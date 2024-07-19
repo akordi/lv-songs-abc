@@ -15,7 +15,7 @@ Mans ezers ap manu salu
 Am  G    F         E
 Ar dienu tuvāk man nāk
 Am   G   F    E  E7
-Un viļņu dzelošā roka
+Un viļņu smeldzošā roka
 Am  G    F         E
 Jau lejas līmeni skar
 

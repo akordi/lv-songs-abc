@@ -9,14 +9,14 @@ draft: false
 
 ```text
 Tu gribi tikt iekšā, bet nezini kodu.
-Tas ir pis dirst atslēdziņa  2 0 1 8 .
+Tas ir pis dirst atslēdziņa 2 0 1 8 .
 Piedod, šeit nav vietas, saproti,
 Šodien šeit ir lieki sapņot.
 
-Dzērieni dzērieni dzērieni pa gaisu
-Dzērieni dzērieni dzērieni pa grīdu
-Dzērieni dzērieni dzērieni uz drēbēm
-Dzērieni dzērieni pamatīgi smērē
+Dzērieni, dzērieni, dzērieni pa gaisu
+Dzērieni, dzērieni, dzērieni pa grīdu
+Dzērieni, dzērieni, dzērieni uz drēbēm
+Dzērieni, dzērieni pamatīgi smērē
 
 Mana galva tā griežas
 Kā auto riepas,
@@ -36,7 +36,7 @@ Jo tik daudzām šķiet,
 Ka es esmu pārāk laba.
 Tas jums raudāt liek.
 
-whou!
+Whou!
 
 Mana degsme dubultojas, 
 Kad to aplej ar viskiju.
@@ -53,15 +53,15 @@ Bet tās lietas nāk pārī.
 Bāra gaismās
 Visas izvēles spīd un laistās.
 
-Dzērieni dzērieni dzērieni pa gaisu
-Dzērieni dzērieni dzērieni pa grīdu
-Dzērieni dzērieni dzērieni uz drēbēm
-Dzērieni dzērieni pamatīgi smērē
+Dzērieni, dzērieni, dzērieni pa gaisu
+Dzērieni, dzērieni, dzērieni pa grīdu
+Dzērieni, dzērieni, dzērieni uz drēbēm
+Dzērieni, dzērieni pamatīgi smērē
 
 Kur tie stikli uzradās!
 Es esmu tā, kas slikti uzvedās.
 Man acīs rakstīts Fus Ro Dah
-Laimīga bet pusbadā
+Laimīga, bet pusbadā
 Peldu savās uzvarās.
 Kuces labāk uzmanās.
 Es zinu, kā tās uzglabāt. 
@@ -83,10 +83,15 @@ Mūsu apsolītā mūžība
 Kaut kur vilcinās.
 Mēs to atstājām aiz durvīm.
 
-Dzērieni dzērieni dzērieni pa gaisu
-Dzērieni dzērieni dzērieni pa grīdu
-Dzērieni dzērieni dzērieni uz drēbēm
-Dzērieni dzērieni pamatīgi smērē
+Dzērieni, dzērieni, dzērieni pa gaisu
+Dzērieni, dzērieni, dzērieni pa grīdu
+Dzērieni, dzērieni, dzērieni uz drēbēm
+Dzērieni, dzērieni pamatīgi smērē
+
+Dzērieni, dzērieni, dzērieni pa gaisu
+Dzērieni, dzērieni, dzērieni pa grīdu
+Dzērieni, dzērieni, dzērieni uz drēbēm
+Dzērieni, dzērieni pamatīgi smērē
 
 Lūdzu, apsoli man, kad es teikšu, ka gribu šūpoties, tu 
 mani nevedīsi dzert..

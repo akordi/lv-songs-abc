@@ -15,10 +15,10 @@ Vēl ķiršu [Am] lietus [D] līst
 Vēl kāda [Am] dziesma [D] klīst
 [Dm] Tas nevar [G] būt, nevar būt [C] nekad.. 
 
-  [Dm] Pār Ievu [G] baltajām [Em] kupe[Am]nām
+  [Dm7] Pār Ievu [G] baltajām [Em7] kupe[Am7]nām
   [Dm] Smeldz kāda [G] sāpe par [Em] vasarām [Am] tām
   [Dm] Smeldz kāda [G] sāpe par [Em] vasarām [Am] tām
-  [Dm] Tā [Em] kā [Fmaj7] sapnis..
+  [Dm7] Tā [Em7] kā [Fmaj7] sapnis..
   [G] Tā kā atbalss..
 
 [C] Kaut kur tālu, tāl.. [G]

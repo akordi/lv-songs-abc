@@ -44,9 +44,9 @@ Kur augām, kur mūs saule sildīja
   Nāk ļaudis viens pēc otra klāt
   Tie negrib jautāt, runāt stāt
   Tu redzi cik tie mīļi man
-  Un Brīvīb's Mātes zvaigžņu loks 
-  Ir tagad ziediem izgreznots
-  Pie piminekļa tautas balss mums skan
+  Bet Brīvīb's Mātes zvaigžņu loks Ir 
+  Sveštautiešiem tikai joks
+  Ap pieminekli dzērājdziesmas skan
 Labrīt Rīga.....
 
 Nu atkal sēdu svešā lidmašīnā

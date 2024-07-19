@@ -29,7 +29,7 @@ es esmu tavs sadruup laimdotas sirds
 Ja tu man esi, man nevajag ne debesis, ne zemi
            Am      F
 Ja tu man esi, es gribu, lai apstaajas laiks
-           Dm      H?
+           Dm      B
 JA tu man esi, man nevajag ne debesis, ne zemi
            E               F            Em             Dm, E
 Ja tu man esi, ja tu man esi, ja tu man esi, ja tu man esi
@@ -50,7 +50,7 @@ tu uguns tilts, bet nesadedz
 Ja tu man esi, man nevajag ne debesis, ne zemi
            Am      F
 Ja tu man esi, es gribu, lai apstaajas laiks
-           Dm      H?
+           Dm      B
 JA tu man esi, man nevajag ne debesis, ne zemi
            E             F              Em             Dm, E
 Ja tu man esi, ja tu man esi, ja tu man esi, ja tu man esi
