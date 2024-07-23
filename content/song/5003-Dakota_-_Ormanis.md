@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-ej kur man vecais vēl uz mājām neved mani
+ej orman vecais vēl uz mājām neved mani
 vēl manā makā naudas palicis mazliet
 vēl kamēr aizmiguši tornī domas mani
 un kamēr krogi vēl nav aiztaisīti ciet
