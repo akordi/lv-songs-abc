@@ -25,5 +25,5 @@ Jaunu dzīvi alus bur.
 Iedzer, brāli! Nodzer prātu -
 Prāts tik bēdu kaudzes ceļ.
 Muļķis tikai domas krātu,
-Gudrais ellē viņas veļ.
+Gudrais viņas ellē veļ.
 ```
