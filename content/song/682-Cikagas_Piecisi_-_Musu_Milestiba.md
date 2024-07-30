@@ -47,7 +47,7 @@ Tad grūti atšķirt būs, kas mirdzēs spožāk,
 Vai tā rasa ziedos būs, vai asaras.
 C                 Em         Am
 Vēlāk roku rokā staigāsim pa ielām,
-        Dm        G          C
+        Dm                    G          
 Mums kā ēnas gadu simti līdzi ies.
 C                 Em          Am
 Kamēr saule vien virs Rīgas torņiem spīdēs,
