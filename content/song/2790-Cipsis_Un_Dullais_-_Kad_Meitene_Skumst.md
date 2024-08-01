@@ -14,9 +14,9 @@ D
 Ver aizkarus un mežģīnes ciet
      Bm      G     D  
 Mana meitene skumīgā
-D                Bm
+D                     
 Tai teko vaigus asaras
-         G       A   D
+     Bm    G       A   D
 Un zīmē skumjas ainavas
 
 Piedz.
