@@ -14,9 +14,9 @@ D
 Ver aizkarus un mežģīnes ciet
      Bm      G     D  
 Mana meitene skumīgā
-D                     
+D               
 Tai teko vaigus asaras
-     Bm    G       A   D
+         Bm     G     D
 Un zīmē skumjas ainavas
 
 Piedz.
@@ -37,7 +37,7 @@ D
 Signāls klusums, signāls klusums
 D
 Signāls klusums, signāls klusums
-Bm        G       A    D
+         Bm      G    D
 Tik mana atbalss tālumā
 
 Piedz.
