@@ -13,7 +13,7 @@ Ienāk Viktors ar tulpi veikalā,
 Pretī glancēts pārdevējas vaigs, 
 Gaļas smārds un Līgo aromāts
 
-Gaļa strādā gaļas veikalā,
+Taņa strādā gaļas veikalā,
 Viņas Viktors tai pašā nodaļā,
 Gaļa pa taustiņiem sit „Klik, klik,klik”
 Viktors ar nazi „Šņik, šņik”
