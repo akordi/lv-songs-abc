@@ -24,7 +24,7 @@ Un cik daudz mēs izdomājam?
 
 Am       Em 
 Aaaa-aa-aa
-F                 Em            Dm
+       F             Em             Dm
 Viegli pazust, pat nemeklējot, nemeklējot...
 
 Starpspēle:  C  Em Dm G   x2

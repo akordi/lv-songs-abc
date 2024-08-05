@@ -8,39 +8,61 @@ draft: false
 ---
 
 ```text
-Vienmēr par daudz,
+Vienmēr par daudz
 Vienmēr par maz
 Manās debesīs zvaigznes iekārtas
 Kaut pavirši spīd
 Vai staro ik rīt
 Tās nespēj pat sasildīt
 
-Piedziedājums 2
 Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
 Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
 
-Pants 2
-Vienmēr tik vēss,
+Vienmēr tik vēss
 Vienmēr tik karsts
 Pat saulē es kaut kas neparasts
 Kaut pavirši spīd
 Vai staro ik rīt
 Tā nespēj pat sasildīt
 
-Piedziedājums 2
 Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
 Tikai divi mēs būsim virs pasaules
-
-Piedziedājums 2x
+Gravitātei mūs nest, gravitātei mūs nest
 Bet, kad esi klāt, tad viss ir līdzsvarā
-Tikai divi mēs būsim virs pasaulēs
+Nav vairāk nekā, nav vairāk nekā
+Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
+
+Solis pretī, pretī Tev
+Kur Tu bēdz tā mūsu dēļ
+Nāc, nāc klāt jau saskaras
+Nāc, nāc klāt jau savijas
+Rokas kopā sapņos tālu
+Postu zemes spārnus klāt
+Augstāk pāri prom un viss
+Ja lūzt mums spārni kopā liksim
+
+Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
+Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
 
 O-o-o, e-e-e, o-o-o-o-o-o-o
+O-o-o, e-e-e, o-o-o-o-o-o-o
 
-
-
-Piedziedājums
-3x
 Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
 Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
+Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
+Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
+Bet, kad esi klāt, tad viss ir līdzsvarā
+Nav vairāk nekā, nav vairāk nekā
+Tikai divi mēs būsim virs pasaules
+Gravitātei mūs nest, gravitātei mūs nest
 ```

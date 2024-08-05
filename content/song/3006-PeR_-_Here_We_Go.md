@@ -8,6 +8,11 @@ draft: false
 ---
 
 ```text
+It's not having good time tonight
+Give me a hell yeah
+I said, give me a hell yeah (hell yeah)
+Ladies, scream
+
 Here we [C] go, here we [F] go
 So alive, in the sky, we can [C] Fly
 Here we [C] go, here we [F] go
@@ -45,4 +50,11 @@ So alive, in the sky, we can [C] Fly
 Here we [C] go, here we [F] go
 Here we [C] go, here we [F] go
 So alive, in the sky, we can [C] Fly
+
+Scream big, scream loud
+Scream big, scream loud
+Scream big, scream loud Right now, right now
+Scream big, scream loud
+Scream big, scream loud
+Scream big, scream loud Right now, right now
 ```
