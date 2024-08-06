@@ -9,7 +9,7 @@ draft: false
 
 ```text
 C
-Viss tik tikko sacies
+Viss tik tikko sācies
 Am
 Un vēl ir pavisam balts
 C
