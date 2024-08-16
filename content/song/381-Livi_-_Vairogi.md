@@ -19,7 +19,7 @@ Un Daugavas gultni aizbērt
 Ar mūsu miesām un kauliem.
 
 
-Hm          F#m   G       A       D
+Bm          F#m   G       A       D
 Ir latviešu tauta akmens, māls un smilts,
 Hm                F#m
 Kuri šais krastos augšup kāpa,
