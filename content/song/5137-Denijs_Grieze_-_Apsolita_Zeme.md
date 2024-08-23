@@ -11,11 +11,11 @@ draft: false
 Mēs ejam uz vietu, kur spīd saule un līst lietus, kur tiks vesti mūsu bērni kur tie spēlēsies un smies.
 Tālu tālu ir tā vieta ilgi un grūti ejams ceļš, bet, kad nonāksim mēs galā tad tu redzēsi kāpēc.
 
-Tad tu redzēsi savām acīm, ko tas nozīmē, kad kliedz, tad tu pieskarsies ar rokām tam, kas senajau kā ir liegts.
+Tad tu redzēsi savām acīm, ko tas nozīmē, kad kliedz, tad tu pieskarsies ar rokām tam, kas sen jau kā ir liegts.
 
 Ooo~
 
-Tā ir apsolītā zeme, ko mums solijis pats dievs, tas ir laiks ko zemē nemet, kad tu vairs nēsi viens, kad ar sirdīm kopā liekas, tad lemts notikt brīnumiem, ko ar prātu nevar aptvert, to tikai redzi un piepildīsies.
+Tā ir apsolītā zeme, ko mums solijis pats Dievs, tas ir laiks ko zemē nemet, kad tu vairs neesi viens, kad ar sirdīm kopā liekas, tad lemts notikt brīnumiem, ko ar prātu nevar aptvert, to tikai redzi un piepildīsies.
 
 Ooo~
 

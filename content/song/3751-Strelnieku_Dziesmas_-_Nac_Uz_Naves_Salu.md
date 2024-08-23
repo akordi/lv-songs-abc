@@ -12,7 +12,7 @@ G            Em G
 Nāc uz Nāves salu,
 G             Em
 Tur Tevi gaidīšu
-   C    
+   C        D7
 Un pie raķešgaismas
 G     D     G
 Saldi skūpstīšu.
