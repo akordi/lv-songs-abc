@@ -32,6 +32,11 @@ Bail no visa kā
 A       E        F#m
 Bail no paša īsziņām
 
+D  A  E  F#
+D  A  C#m  
+D  A  E  F#
+D  A  E  F#
+
                       D    A
 Esmu kļuvis mīksts kā marcipāns
                    C#m  F#m
@@ -51,6 +56,8 @@ A      E             F#m
 Es tev blakus – atkritums
 
 D  A  E  F#
+D  A  C#m  
+D  A  E  F#
 D  A  E  F#
 
 F#m
@@ -63,7 +70,7 @@ A            E        F#m
 Sakrīt tavās zelta rotiņās
 
 6x
-D  A  E  F# 
+F#m D  A  C#m 
 
 4x
 D  A  D  A
