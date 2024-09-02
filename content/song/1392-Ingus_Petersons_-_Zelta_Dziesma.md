@@ -15,102 +15,70 @@ Am Em B7 E
 Am Em B7 Em E 
 Am Em B7 Em
 
-
 Em
-ai zelts, ai sarkans uguns acīs
-
+Ai zelts, ai sarkans uguns acīs
 		    A
-ai dziļi dzelmē dejo sirds
-
+Ai dziļi dzelmē dejo sirds
    Am		Em
-un šajā dzirkstošajā aplī
-
+Un šajā dzirkstošajā aplī
 	F		Em
-stāv, dzirkstī prieks un kvēlo
-
+Stāv, dzirkstī prieks un kvēlo
 	Am	B7	Em
-un kvēlo, spīd, un šoreiz viss ir zelts
+Un kvēlo, spīd, un šoreiz viss ir zelts
 
 Em 
-ai zelts, ai priecīgs zirga zviedziens
-
+Ai zelts, ai priecīgs zirga zviedziens
 		A
-ai manā rokā tava sirds
-
+Ai manā rokā tava sirds
     Am		Em
-un šajā priecīgajā gaisā
-
+Un šajā priecīgajā gaisā
 	F		Em
-skrien putni, sauc un dzīvo
-
+Skrien putni, sauc un dzīvo
 	Am	B7	Em
-un dzīvo nost, un tas ir arī zelts
+Un dzīvo nost, un tas ir arī zelts
 
-
-
-PIEDZ
-
+Piedz.
 B7 Em
-ai zelta debess un
-
-
-ai zelta jāņu guns
-
+Ai zelta debess un
+Ai zelta jāņu guns
 			B7
-uz mūsu mīļās šīs, uz zemes
-
-
-ai zelta zirgi un
-
-
-skaists zelta čigān' suns
-
+Uz mūsu mīļās šīs, uz zemes
+Ai zelta zirgi un
+Skaists zelta čigān' suns
 			Em
-šai rudens raibajā, šai tirgū
-
-
-ai čigāniskā sirds
-
-
-ai tava zelta sirds
-
+Šai rudens raibajā, šai tirgū
+Ai čigāniskā sirds
+Ai tava zelta sirds
         E			Am
-šai aplī mirdzošā, šai sārtā
-
+Šai aplī mirdzošā, šai sārtā
 			Em
-ō, pasaule, tev pieder šī mana pusnakts dziesma
-
+O, pasaule, tev pieder šī mana pusnakts dziesma
       B7			Em	E
-šie priecīgie un brīvie vēji pieder tev
-
+Šie priecīgie un brīvie vēji pieder tev
     Am			Em
-jā, pasaule, tev pieder šī uguns manās acīs
-
+Jā, pasaule, tev pieder šī uguns manās acīs
     B7			Em	E
-šī mūzika, kas manās dzīslās skrien
-
+Šī mūzika, kas manās dzīslās skrien
 
 Am Em B7 Em E
 Am Em B7 Em
 
+Ai zelts, tavs augums jau aiz kauna
+Tavs augums mūžam paliks zieds
+Un šajā atbrīvotā telpā
+Tu mana vien un skaista
+Un tas ir man tik ļoti, ļoti zelts
 
-ai zelts, tavs augums jau aiz kauna
-tavs augums mūžam paliks zieds
-un šajā atbrīvotā telpā
-tu mana vien un skaista
-un tas ir man tik ļoti, ļoti zelts
+Ai zelts, pār visu mūsu mūžu
+Kā saule gaisā mīla aust
+Un šajā uzaustošā brīdī
+Es esmu dzīts no laimes
+No laimes dzīvs, un mūžīgs tas ir zelts
 
-ai zelts, pār visu mūsu mūžu
-kā saule gaisā mīla aust
-un šajā uzaustošā brīdī
-es esmu dzīts no laimes
-no laimes dzīvs, un mūžīgs tas ir zelts
-
-PIEDZ
+Piedz.
 
 Am Em B7 Em E
 Am Em B7 E
 Am Em B7 Em E
-Am Em B7 ........... Em ........ Am Em!
-
+Am Em B7 ........... Em ........ Am Em
 ```
