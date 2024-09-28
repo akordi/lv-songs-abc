@@ -42,17 +42,35 @@ Cerības plauks par laimi nākotnē,
 Am            E     Am
 Mans draugs dārgākais.
 
+Am                                    Am G C
 Tā dzeru es tur vīnu saldāko un sapņoju
+C                                   C F G
 Par zaļiem kalniem, lejām, tālo zemi brīnišķo,
+          Am                 E         Am
 Par dzīvi aizmirsto, kas nedod it neko.
+Am                                          Am G C
 Vai nāksi atpakaļ, tā liekas, kāda balss man teiks
+C                                         C F G
 Vai redzi rītu saulaino, kas jaunu dienu sveiks,
+          Am          E            Am
 Nav dzīvē grūtības, ko nevar pārvarēt.
 
+    F
 P…	Vīns rūgtākais dos spēku tavai dzīvei,
+ C
 Vīns skābākais būs dzirkste tavai brīvei,
+G
 Vīns saldākais būs sākums taviem sapņiem.
+C                C7
 Vīns tik dzirkstošais.
+F
+Sapņojums jauks par senām, tālām sejām,
+C
+Ilgas, kad trauks tev līdzi katram vējam
+G
+Cerības plauks par laimi nākotnē,
+Am            E     Am
+Mans draugs dārgākais.
 
 Vīns dzirkstošais dos prieku tavai dzīvei,
 Vīns dzirkstošais vērs ceļu tavai brīvei,
