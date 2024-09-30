@@ -73,7 +73,7 @@ Tavs ceļš man nebeidzams,
     [C#] 
 horizonts. 
           [A#m]     [Cm]
-Kas pēc apvāršņa netverams, 
+Pēc apvāršņa netverams, 
         [C#]
 kur tam gals?
 
