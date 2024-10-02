@@ -3,7 +3,7 @@ title: "Apsolītā zeme"
 date: 2024-07-17T11:39:12+00:00
 url: /song/5137-Denijs_Grieze_-_Apsolita_Zeme
 categories: ["Denijs Grieze"]
-tags: []
+tags: ["bez akordiem"]
 draft: false
 ---
 

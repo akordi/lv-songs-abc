@@ -16,7 +16,7 @@ G D C G
 Kādēļ jādomā par to kas ir lieks
 Em C G D
 Mums jātic brīnumam jo mirklis ir prieks
-C D Em D
+Em D Em A
 Kā putns kas satrūkstās un augstu gaisā skrej
 G D C
 Bet es lūdzu projām neaizej
@@ -39,7 +39,7 @@ G D C G
 Cik tas ir labi ka tā noticis
 Em C G D
 Jo daudzus draugus tu esi ieguvis
-C D Em D
+Em D Em A
 Kā putns kas satrūkstās un augstu gaisā skrej
 G D C
 Bet es lūdzu projām neaizej
