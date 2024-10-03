@@ -17,7 +17,7 @@ Tur sēž pati mīļā Māra, mīļā Māra
 Villainītes rakstīdama, rakstīdam'.
 
 Izrakstīja, saskaitīja, saskaitīja,
-Dod Dieviņa rociņās(i), rociņās.
+Atdod Dieva rociņās(i), rociņās.
 
 Nu, Dieviņi, Tava vaļa, Tava vaļa, 
 Nu Tavās(i) rociņās(i), rociņās.
