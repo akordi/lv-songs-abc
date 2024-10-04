@@ -28,13 +28,7 @@ Pašas Laimes atslēdziņa, atslēdziņ'.
 Dod, Dieviņi, kalnā kāpt(i), kalnā kāpt(i),
 Ne no kalna lejiņā(i), lejiņā.
 
-Grūti bija kalnā kāpt(i), kalnā kāpt(i), 
-Vēl grūtāk(i) lejiņā(i), lejiņā.
-
 Dod, Dieviņi, otram dot(i), otram dot(i), 
 Ne no otra mīļi lūgt(i), mīļi lūgt.
-
-Otram devu dziedādama, dziedādama, 
-Mīļi lūdzu raudādama, raudādam'.
 
 ```
