@@ -1,5 +1,5 @@
 ---
-title: "Dienām kas aiziet"
+title: "Dienām, kas aiziet"
 date: 2007-02-27T22:00:00+00:00
 url: /song/203-Apvedcels_-_Dienam_Kas_Aiziet
 categories: ["Apvedceļš"]
