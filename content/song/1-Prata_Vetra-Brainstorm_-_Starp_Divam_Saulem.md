@@ -15,7 +15,7 @@ Liekas tikko elpot sācis
 
 C                    G
 Starp divām saulēm izvēlēties
-F          Em         Am     Dm G
+F          Em         Am     Dm G G
 Spožāko un neapdedzināties
 
 Dm                            C
@@ -33,8 +33,8 @@ Dm                               C
 Zem vienas dzīvot, pēc otras ilgoties
 Em               Am             Em                 Am
 Ja pirmā kritīs, tu priecāsies, bet varbūt liktens atspēlēsies
-Dm                     G
-Virs mums ir divas zvaigznes
+Dm                     G   G
+Virs mums ir divas debesis
 
 C              G
 Lai no kādām tālēm nācis
@@ -43,7 +43,7 @@ Liekas tikko elpot sācis
 
 C                    G
 Starp divām saulēm izvēlēties
-F          Em            Am Dm G
+F          Em            Am Dm G  G
 Vēsāko un atveldzēties
 
 C              G
