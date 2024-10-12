@@ -1,7 +1,7 @@
 ---
-title: "Es klusēšu"
+title: "Klusēšu"
 date: 2020-06-05T08:36:09+00:00
-url: /song/4209-Sesta_Judze_-_Es_Klusesu
+url: /song/4209-Sesta_Judze_-_Klusesu
 categories: ["Sestā Jūdze"]
 tags: ["bez akordiem"]
 draft: false
