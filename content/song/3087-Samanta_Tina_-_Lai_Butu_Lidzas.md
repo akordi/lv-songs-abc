@@ -59,29 +59,50 @@ vai tu spēsi,
 vai varēsi to.
 
 piedz.
+         Gm
 lai būtu līdzās,
+        Eb
 velreiz spētu sirdi vērt,
+         F
 lai būtu līdzās,
+   Bb
 un ļautu noticēt,
-lai būtu līdzās,
+         Eb
 lai būtu līdzās.
-zini,tomēr nemaz tik viegli nav,
+Eb              F              Cm
+ zini,tomēr nemaz tik viegli nav,
+                F     
 visus stāstus pārrakstīt,
+      Eb   
 atkal jau,
+               F              
 tāpēc vieīgi laiks mums spētu,
+   Cm         D   
 to visu pierādīt.
+
 piedz.
+         Gm
 lai būtu līdzās,
+        Eb  
 velreiz spētu sirdi vērt,
+         F
 lai būtu līdzās,
+   Bb           
 un ļautu noticēt,
-lai būtu līdzās,
+         Eb   
 lai būtu līdzās.
+
 piedz.
+         G#m 
 lai būtu līdzās,
+        E          
 velreiz spētu sirdi vērt,
+         F#
 lai būtu līdzās,
+   B
 un ļautu noticēt,
+         E
 lai būtu līdzās,
+         G#m
 lai būtu līdzās.
 ```
