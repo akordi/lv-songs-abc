@@ -11,7 +11,7 @@ draft: false
 Kapo 2
 G     D     Em        Bm           C        	D7 G D7
 Apvij rokas ap kaklu, ieklausies - auļo pulss.
-G      D       Am      C      Em       C    Am       D7
+G      D       Em      C      Em       C    Am       D7
 Nerunā šobrīd, vārdi kā akmeņi neveikli būs, neveikli būs
 G           D     Em Bm     C         D7     G        D
 Sildies pie manam lupām vēl mirkli un tad - laiks iet.
