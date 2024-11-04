@@ -13,13 +13,15 @@ draft: false
 [Am]Aiz viņa loga[G]plauka ziedi
 [F]Es par viņu smējos
 Kamēr iemīlējos
+[Am] Tā tas [G] notiek [F]  
 
 Ja tev nevajag[C]
 Tad es ņemšu[G]sev
 Man viņš[Am]patīk tāds kāds[F]ir
-Ja tev nevajag[C]
-Bet es ticu[C]vēl
+Ja tev nevajag[C], tad tev šī [G] lapa jāpāršķir [F] 
+Bet es ticu[C]vēl, viņa [G] asarām
 Ja esi[Am]klauns, tā tevi[F]sauks
+
 [G] [Am] [F] [C] [G] [Am] [F]
 
 [C]Tā šī neprātīgā[G]spēle[F]rit
