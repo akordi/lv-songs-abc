@@ -18,9 +18,9 @@ Strēlnieks iet par brīvi karot, tāpēc mūžam dzīvs,
 Strelnieks iet par brīvi karot, strēlnieks iet par brīvi karot,
 Tāpēc mūžam dzīvs.
 
-Nāve, paej mazliet nostāk, netīk man tavs vaigs,
-Granātas vēl ir aiz jostas, mirt nav īstais laiks,
-Granātas vēl ir aiz jostas, grānatas vēl ir aiz jostas,
+Nāvīt, paej mazliet nostāk, netīk man tavs vaigs,
+Granātas vēl ir man jostā, mirt nav īstais laiks,
+Granātas vēl ir man jostā, grānatas vēl ir man jostā,
 Mirt nav istais laiks.
 
 Ģitārai akordi Am, Dm, G, C, E.

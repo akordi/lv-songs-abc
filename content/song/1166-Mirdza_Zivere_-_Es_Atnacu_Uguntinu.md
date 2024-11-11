@@ -32,7 +32,7 @@ Ka pietika mūžiņam.
 Nesmejat, jūs, ļautiņi,
 Ne smieklam es atnācu.
 Es atnācu uguntiņu
-Ar basām kājiņām.
+Ar basāmi kājiņām.
 
 Ne nabaga bērniņš biju,
 Ne caur roku klausījos.
