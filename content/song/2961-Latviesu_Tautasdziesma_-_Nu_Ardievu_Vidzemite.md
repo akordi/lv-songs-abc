@@ -23,12 +23,12 @@ Nu man drīz būs jādrasēi
 Daiļā kara pulciņā.
 
 Kad, māmiņa, tu redzētu,
-Kā pušķoj’ tav’ dēliņ’,
+Kā pušķoja tav’ dēliņ’,
 Tad tu vairsi neraudātu,
 Sava dēla auklējum’.
 
 Uzvilks kara mētelīti,
-Uzvilks kara cepurīt’.
+Uzliks kara cepurīt’.
 Apjozīs ar zobentiņu,
 Cels uz stalta kumeliņ’.
 

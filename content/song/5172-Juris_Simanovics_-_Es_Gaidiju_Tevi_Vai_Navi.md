@@ -44,7 +44,7 @@ B               F#m
 Tas nebūs tavs! Tas nebūs tavs!
 C#m                   A 
 Es it kā neklausījos, jo negribēju dzirdēt
-C#m         F#m   
+B           F#m   
 To ko vēlos saprast daudz vēlāk
 C#m              A           B      F#m   
 Mana labā acs ir sūdzam Bībele, kad saku:  
