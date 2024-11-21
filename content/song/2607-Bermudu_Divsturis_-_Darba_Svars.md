@@ -3,7 +3,7 @@ title: "Darba Svars"
 date: 2016-04-01T12:23:31+00:00
 url: /song/2607-Bermudu_Divsturis_-_Darba_Svars
 categories: ["Bermudu Divstūris"]
-tags: []
+tags: ["bez akordiem"]
 draft: false
 ---
 

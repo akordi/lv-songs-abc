@@ -1,8 +1,8 @@
 ---
 title: "Neprāts"
 date: 2020-06-03T14:56:35+00:00
-url: /song/3945-Livi_-_Neprats
-categories: ["Līvi"]
+url: /song/3945-Tumsa_-_Neprats
+categories: ["Tumsa"]
 tags: ["bez akordiem"]
 draft: false
 ---

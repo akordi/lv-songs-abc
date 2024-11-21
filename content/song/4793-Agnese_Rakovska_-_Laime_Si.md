@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-Ievads - D C Em Am Em
+Ievads - D Am Em Am Em
 
 D                       Am
 Ak, laime, laimi nenoskriet,

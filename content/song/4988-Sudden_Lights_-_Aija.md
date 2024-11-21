@@ -3,7 +3,7 @@ title: "Aijā"
 date: 2023-02-04T18:09:48+00:00
 url: /song/4988-Sudden_Lights_-_Aija
 categories: ["Sudden Lights"]
-tags: ["supernova 2023"]
+tags: ["eurovision", "supernova 2023"]
 draft: false
 ---
 
