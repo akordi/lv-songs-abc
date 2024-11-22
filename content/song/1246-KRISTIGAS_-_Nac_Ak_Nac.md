@@ -12,6 +12,6 @@ D         G      D
 Nāc,ak nāc,Svētais Gars
 G                 D
 Dari tīru manu sirdi Tu,
-G      D  A Hm  G     D   A7     D   (A)
+G      D  A Bm  G     D   A7     D   (A)
 Pieskaries Tu man,dziedini,Svētais Gars.
 ```
