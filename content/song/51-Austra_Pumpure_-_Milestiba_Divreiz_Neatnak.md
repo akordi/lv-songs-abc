@@ -8,13 +8,13 @@ draft: false
 ---
 
 ```text
-Fm#
+F#m
 Mīlestība divreiz neatnāk,
 Bm      E               A	
-Mīlestība dzīvē ir tik viena.
+Mīlestība mūžā ir tik viena.
        D    E      A 
 Tā kā tava zārka smagais vāks,
-       Bm               Fm# Cm
+       Bm               F#m C#
 Tā kā tava piedzimšanas diena.
 
 Tā nav mīlestība, kura māk
@@ -23,12 +23,12 @@ Mīlestība tā kā zibens nāk,
 Atnāk balta, uzliesmo un nosit.
 
 Tā mēs ejam, dienas dziest un aust,
-Uguns šautrās ilgu spriegums krājas.
+Zibens šautrās ilgu spriegums krājas.
 Zibens! Tavs un atkal tas nav tavs,
 Uzliesmo tavs draugs un blakusgājējs.
 
 Viens pēc otra sadeg smaidošie,
-Zilā zibens trāšоtie un ķertie,
+Zilā zibens trāpītie un ķertie,
 Ejam tālāk, ejam gaidošie
-Zibens netrāšоtie, nenospertie.
+Zibens netrāpītie, nenospertie.
 ```
