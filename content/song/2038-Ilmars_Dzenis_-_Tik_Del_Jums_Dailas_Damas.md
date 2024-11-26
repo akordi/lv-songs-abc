@@ -43,7 +43,7 @@ Rīt uz ambulanci skrej.
 
 Tas vēl tiešām nav nekas,
 Notiek lietas trakākas.
-(pēc šī pantiņa, melodiju transponē uz augšu, tagad ir E, B un F akordi)
+(pēc šī pantiņa, melodiju transponē uz augšu, tagad ir E, B un A akordi)
 
 Kas tie tādi razbainieki,
 Tie jau mūsu pažarnieki.
