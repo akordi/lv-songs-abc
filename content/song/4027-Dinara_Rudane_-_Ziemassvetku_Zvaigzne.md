@@ -25,8 +25,8 @@ Brīnumu gaidoša
 Un blakus tev es jūtu visu to
 Skan zvani gaiši un priecīgi
 Skan laimi vēstoši 
-Un mīlestībai līdz
-Un mīlestībai līdz pār mums.
+Un mīlestība līst
+Un mīlestība līst pār mums.
 
 Katram mums zvaigznes gaisma staro
 Katram mums sirdī mājo tā
@@ -41,6 +41,6 @@ Brīnumu gaidoša
 Un blakus tev es jūtu visu to
 Skan zvani gaiši un priecīgi
 Skan laimi vēstoši 
-Un mīlestībai līdz
-Un mīlestībai līdz pār mums. (x2)
+Un mīlestība līst
+Un mīlestība līst pār mums. (x2)
 ```
