@@ -71,7 +71,6 @@ Laimīti sirsniņā.
 D    E      D       E
 Ilgoto un meklēto.
 
-Ilgoto un meklēto.
 
 C#m          
 Div' upītes aiztecēja,
@@ -88,7 +87,6 @@ Laimīti sirsniņā.
 D    E      D       E
 Ilgoto un meklēto.
 
-Ilgoto un meklēto.
 Ilgoto un meklēto,
 Bet neatrasto.
 
