@@ -15,7 +15,7 @@ vai [Em] brīnu[B7]mu tu [Em]jūti?
 
   [G] Viņš, Viņš mums [D] Pestītājs, 
   ko [Em] Dievs šai naktī [B7] dāvināj's.
-  [G] Steidz, steidz, Tam [D] godu teic 
+  [G] Steidz, steidz, Tam [D] slavu teic 
   un [Em] pielūdz [B7] Dieva [Em] Dēlu!
 
 Tad [Em] nesiet [G] Viņam [D] dārgāko, 

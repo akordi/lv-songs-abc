@@ -11,21 +11,28 @@ draft: false
 Šis stāsts ir par meiteni laivā un zivīm, kas jāķidā.
 Motora sveces ir apdzisušas, tuvojas vētra.
 Atlikusi tikai sauja benzīna,
+bet laivas dibenā guļ zivis, kas jāķidā.
 
-Bet laivas dibenā guļ zivis, kas jāķidā.
-
+          Em
 Man saujā benzīns
+                   Bm
 Un, ja nevar bīdīt sēdekli, var šaut.
-Man saujā benzīns,
-Zivis jāķidā man laivā.
+          F#                 Bm     B7
+Man saujā benzīns, zivis jāķidā man laivā.
+      Em
 Saujā benzīns,
+                   Bm
 Un, ja nevar bīdīt sēdekli, var šaut.
-Man saujā benzīns,
-Zivis jāķidā.
+          F#                 Bm
+Man saujā benzīns, zivis jāķidā.
 
+D  A             D     D7
 Aizskrēji projām ķerts,
+   G      D          Em      A
 Tu ķer to sauju, kur es turu benžu.
-Tu slapjš, un tu maiga(is).
+D  A             Bm
+Tu slapjš, un tu maigais.
+    G              A    D
 Lai notiek rīt tev vēdergraizes.
 
 Man saujā benzīns
@@ -37,8 +44,11 @@ Un, ja nevar bīdīt sēdekli, var šaut.
 Man saujā benzīns,
 Zivis jāķidā.
 
-Ar pūlēm cauri pūlim
+   Em Bm        F# Bm
+Ar pū-lēm cauri pū-lim
+     F#                 Bm
 Mans laiks nāk līdzi ar mīlu.
+
 Drīz tač man laivas trūks.
 Kur tādu ņēmi,
 Tu, godīgais globus?
