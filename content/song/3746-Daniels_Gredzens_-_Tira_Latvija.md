@@ -3,12 +3,12 @@ title: "tīra Latvija"
 date: 2020-05-29T20:08:53+00:00
 url: /song/3746-Daniels_Gredzens_-_Tira_Latvija
 categories: ["Daniels Gredzens"]
-tags: ["bez akordiem"]
+tags: ["bērnu"]
 draft: false
 ---
 
 ```text
-musu maza latvija man ir loti mila tapec nepiegruzo to 
+G musu maza latvija C man ir loti G mila D tapec nepiegruzo to 
 lai ta butu tira x2
 
    apedisi konfektiti papiriti roza p
