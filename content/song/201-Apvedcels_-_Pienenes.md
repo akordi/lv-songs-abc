@@ -8,6 +8,8 @@ draft: false
 ---
 
 ```text
+Kapo uz 2. ladas
+
 [C]Noskūpsti mani, pirms [Dm]projām Tu ej
 Viņa [G]teica: "viss beidzās pirms [C]Tevis"
 Es [Am]nevaru palikt, jau [Dm]pienenes zied
