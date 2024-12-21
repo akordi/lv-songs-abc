@@ -51,7 +51,7 @@ func main() {
 	if *fetchAll {
 		toDate = time.Date(1990, 1, 1, 0, 0, 0, 0, time.Local)
 	}
-	pageSize := 50
+	pageSize := 5000
 	fetchPage(0, toDate, pageSize)
 }
 
@@ -111,8 +111,6 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 			log.Panicf("Error creating file '%s': %v\n", filename, err)
 			continue
 		}
-
-		// delete previous file if exists by id (not by url)
 
 		formattedDate := convertDate(item.CreatedDate)
 
