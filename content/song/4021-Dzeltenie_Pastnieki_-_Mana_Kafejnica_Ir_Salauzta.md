@@ -3,24 +3,28 @@ title: "Mana Kafejnīca Ir Salauzta"
 date: 2020-06-03T16:36:49+00:00
 url: /song/4021-Dzeltenie_Pastnieki_-_Mana_Kafejnica_Ir_Salauzta
 categories: ["Dzeltenie Pastnieki"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+     D            F#m
 Mana kafejnīca ir salauzta
 Un durvis tai ir izgāztas
 Mana kafejnīca ir salauzta
 Un logi tai ir izsisti
 
+     A          E          F#m    D
 Mana kafejnīca, kafejnīca, kafejnīca
 Mana kafejnīca, kafejnīca, kafejnīca
 
+     D            F#m
 Mana kafejnīca ir salauzta
 Un tasītes ir saplīsušas
 Mana kafejnīca ir salauzta
 Un karotes ir pazudušas
 
+     A          E          F#m    D
 Mana kafejnīca, kafejnīca, kafejnīca
 Mana kafejnīca, kafejnīca, kafejnīca
 
