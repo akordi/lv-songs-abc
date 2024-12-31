@@ -2,11 +2,11 @@
 
 <div id="{{ $id }}"></div>
 <div id="audio"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/abcjs/6.2.2/abcjs-basic-min.min.js" integrity="sha512-REXLcx385NL3ZWosam5LzLJoA0AkfeVdW94IQURSM/Gl6EyrS0hS3LtqR094d00lsicEVAprWA5SUTD5oljapg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/abcjs/6.4.4/abcjs-basic-min.min.js" integrity="sha512-MNYJtQK7cfhtpMMkgaO01255JNN53+fTgUsXT9rIJr8riphcRE/ep3AvnUqCuMVQDDfqA0DMiLK45DjOCRdyTQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
    var {{$id| safeJS}}= "{{- .Inner|safeJS -}}";
    window.onload=function() {
-     var visualObj = ABCJS.renderAbc("{{$id}}", {{$id|safeJS}})[0];
+     var visualObj = ABCJS.renderAbc("{{$id}}", {{$id|safeJS}}, { responsive: "resize" })[0];
 
        var synthControl = new ABCJS.synth.SynthController();
   		synthControl.load("#audio", null, {displayRestart: true, displayPlay: true, displayProgress: true});
