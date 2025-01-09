@@ -3,7 +3,7 @@ title: "Krāsu dziesmiņa"
 date: 2024-11-10T20:07:09+00:00
 url: /song/5170-Knipas_Un_Knauki_-_Krasu_Dziesmina
 categories: ["Knīpas un Knauķi"]
-tags: ["bērnu"]
+tags: ["bērnu", "bez akordiem"]
 draft: false
 ---
 

@@ -20,9 +20,9 @@ A                 E
 Vēl mazliet man vajag kliegt
 A                D
 Saulē iekšā skriet
-A                    Hm
+A                    Bm
 Vēl mazliet ir jātur ciet,
-Hm                  E
+Bm                  E
 Lai var pelnos diet
 
        A                 E                 A    E
@@ -45,7 +45,7 @@ Akordi
 002220 A
 022100 E
 000232 D
-224432 Hm
+224432 Bm
 244222 F#m
 -----------------
 ```
