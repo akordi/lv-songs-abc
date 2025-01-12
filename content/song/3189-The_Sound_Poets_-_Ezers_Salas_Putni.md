@@ -41,5 +41,9 @@ Bet sala peld prom savādāk
 
 (Piedz.) 2X
 
+Solo
+
+Piedz 1x
+
 
 ```
