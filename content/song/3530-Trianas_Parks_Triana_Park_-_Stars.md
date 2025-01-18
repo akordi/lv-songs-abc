@@ -49,21 +49,32 @@ Ab              Ebm7
 Kas tavu gaismu dedz, 
 Gb              Bbm7  Ab
 Kas tavu gaismu dedz.
-
+    Ebm7
 Es skatos
+   Gb
 Uz visu, kas man dārgs,
+    Db
 Lai celtos, 
 Ja stiprais paliek vārgs,
+    Ebm7
 Lai mūžu
+    Gb
 Bez saules nedzīvo
+   Db
 Un māte
 Dzied dziesmu senāko.
+   Ebm7
 Tu brīnies
 Un nozīmē man daudz.
+   Cbm7
 Es dodos,
+   Db
 Ja līdzi mani sauc
+   Ebm7
 Un redzi,
+   Gb
 Ka cauri asarām
+   Db
 Es lūdzos
 Par tevi lūdzos.
 
