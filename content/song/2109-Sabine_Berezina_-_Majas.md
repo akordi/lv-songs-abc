@@ -8,54 +8,46 @@ draft: false
 ---
 
 ```text
-            D      C     G
-Viss skaistākās no visām dziesmām ir tās ko
-Em            D                Bm    C
-mātes bērniem dzied. Tās silda mazās dvēselītes
-G                 D7     G
-kad tās pa tāliem ceļiem iet.
+Ievads: G Gm D D Asus4 A7 G D
 
-G        C          G 
-Un atved mājās noklīdušos
-G         D
-un tumšās logu rūtis 
-D7           G 
-siltu gaismu dedz.
-G      C         G 
-Un pamodini aizmigušos
-G        D           D7
-un siltu vilnas segu gurdām 
-      G
-kājām sedz.
+          A      G     D
+Visskaistākās no visām dziesmām
+           Bm    E       A   D
+Ir tās, ko mātes bērniem dzied,
+          F#    Bm   G    D
+Tās silda mazās dvēselītes,
+                  A7     D
+Kad tās pa tāliem ceļiem iet.
 
+         G    Gm    D
+Un atved mājās noklīdušos,
+           A7                      D   D7
+Kur tumšās logu rūtīs siltu gaismu dedz,
+       G   Gm    D
+Un pamodina aizmigušos,
+         A                        D
+Un siltu vilnas segu gurdām kājām sedz.
 
-Viss mīļākā no visām zemēm
-ir zeme tā ko ilgo sirds.
-Tā rāda ceļu naktīs melnāsa
-ka katra zvaigzne īdāmies.
-Un kad ir skumji nomierina
-kad tikai tēvu zeme nomierināt klāt.
-Un kad ir karsti atsvaidzina
-kad basas kājas ezer malas malu skar.
-Viss stiprākie no visiem vējiem
-pat pēc vētras nenorimst
-Tie liesmo leilu sirdīs.
+Vismīļākā no visām zemēm
+Ir zeme tā, ko ilgo sirds,
+Tā rāda ceļu naktīs melnās
+Un katrā rīta zvaigznē mirdz.
 
+Un, kad ir skumji, nomierina,
+Kā tikai tēvu zeme nomierināt var,
+Un, kad ir karsti, atsvaidzina,
+Kad basās kājas ezermalas mālu skar.
 
+Visstiprākie no visiem vējiem
+Pat vēl pēc vētras nenorimst,
+Tie liesmo vējlukturu sirdīs
+Un tūkstoš jaunos vējos dzimst.
 
-Dievs atved mājās noklīduš
-un tumšās logu rūtis 
-siltu gaismu dedz.
-Dievs pamodini aizmigušos  
-un siltu segu gurdām  
-kājām sedz.
-Dievs atved mājās noklīduš
-un tumšās logu rūtis 
-siltu gaismu dedz.
-Dievs pamodini aizmigušos  
-un siltu segu gurdām  
-kājām sedz.
+2x
+Dievs, atved mājās noklīdušos
+Un tumšās logu rūtīs siltu gaismu dedz,
+Dievs, pamodini aizmigušos
+Un siltu vilnas segu gurdām kājām sedz.
 
-
-Armands (Cukurs)
+Inga U.
 ```

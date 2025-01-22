@@ -9,10 +9,7 @@ draft: false
 
 ```text
 Kur esi Tu
-A2
 Guntis Vecgailis
-
-
 Ievads: C G Am Em F Dm G G 
               C G Am Em F G C G
 1.pants
