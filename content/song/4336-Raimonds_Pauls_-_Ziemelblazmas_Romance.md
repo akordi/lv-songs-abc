@@ -8,21 +8,41 @@ draft: false
 ---
 
 ```text
-Es debesīs paveros - nakts, baltā nakts.
-Es putenī nomaldos - nakts, baltā nakts.
-Es klusiņām pielūdzos Tev, baltā nakts,
+   B      
+Es debesīs paveros - nakts, baltā 
+nakts.
+   B 
+Es putenī nomaldos - nakts, baltā 
+F7
+nakts.
+   Cm
+Es klusiņām pielūdzos Tev, baltā 
+F
+nakts,
+           F                   B
 Ļoti baltā nakts, ziemeļbriežu nakts.
 
+    B       
 Cik ilgi tu blāzmosi man, baltā nakts?
-Cik gaismas vēl atvēlēts man, baltā nakts?
-Cik, ziemeļniek, atkal ir gaišs, šais saulgriežos 
+    B
+Cik gaismas vēl atvēlēts man, baltā 
+F7
+nakts?
+     Cm                   B    
+Cik, ziemeļniek, atkal ir gaišs, šais
+ saulgriežos 
+        B
 dvēselē Tev!
+    F            F     B
 Šai naktī baltā, naktī gaišs.
 
 Piedziedājums:
-
+        B            F
 Saulīte tur, ziemelī plašā,
+         F                  B
 Saulīte, teic: "Vai Tev nav auksti?"
+         B            B7 Eb
 Saulīte, nāc, sildīšu dvašā
+         B    F   B
 Kā putnu cīruļputenī.
 ```
