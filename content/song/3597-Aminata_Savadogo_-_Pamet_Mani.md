@@ -3,23 +3,34 @@ title: "Pamet mani"
 date: 2020-02-22T15:54:52+00:00
 url: /song/3597-Aminata_Savadogo_-_Pamet_Mani
 categories: ["Aminata Savadogo"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+I   IV    VIII  VI
+Fm  G#m   C     A#
+
+Fm
 Man mazliet bail
+G#
 Es jūtos kaila
+C
 Es zinu ka tu arī
-tā īsti netiec pāri
+A#
+Tā īsti netiec pāri
 Vēl jānogaida
 tavs tiešums baida
 Tu zini ka es arī
 aizvien sev daru pāri
-Un tu,tuvojies vēl tuvāk
- 
+   G#m Fm           C      A#
+Un tu, tuvojies vēl tuvāk
+
+          A#     
 Bet labāk pamet mani
+C
 ja tu vari
+G#m
 pārtraukt šo pavasari
 pamet mani,ja tu vari
 Bet labāk pamet mani

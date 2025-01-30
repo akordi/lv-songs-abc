@@ -3,12 +3,14 @@ title: "Serenāde"
 date: 2020-06-03T20:28:17+00:00
 url: /song/4090-Bermudu_Divsturis_-_Serenade
 categories: ["Bermudu Divstūris"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+Cm          A#
 Tava Mamma laikam - zagle,
+Gm              F
 Zaga zvaigznes, lika tev acīs,
 Tagad tu ar tām smuki klapē,
 Labi, ka tava mamma zagle.

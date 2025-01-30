@@ -3,15 +3,19 @@ title: "Rajončiks"
 date: 2020-06-14T20:02:24+00:00
 url: /song/4634-Bermudu_Divsturis_-_Rajonciks
 categories: ["Bermudu Divstūris"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
 2x
+Em
 Puikas no rajončika,
+Em
 Ikdiena nesteidzīga,
+Em
 Dzīvīte bezmērīga.
+Am    Gm
 o-o-o o-o-o
 Mūsu rajonā neredzēs venteni
 Tāpat kā neredzēs Reinika meiteni

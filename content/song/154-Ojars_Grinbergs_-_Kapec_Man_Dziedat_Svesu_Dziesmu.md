@@ -8,6 +8,7 @@ draft: false
 ---
 
 ```text
+     D                  G
 Jau sen šo zemi bērzu zemi sauc,
      A7                   D
 Pie mājas pelēks akmens klaudz.
@@ -25,15 +26,24 @@ Kāpēc man dziedāt svešu dziesmu?
 G          D       A7         D
  Man tuva tā, ko dzimtā zeme dod.
 
+     D                     G
 Jau sen šo zemi – dziesmu zemi sauc,
+    A7               D
 Te gaisma akmenī pat aust.
+                        G
 Jau sen te Daugaviņas dziesma skan
+     A7                D
 Un svēta, dārga tā ir man.
+
 
 Kāpēc man dziedāt svešu dziesmu…
 
+     D                  G
 Jau sen šo zemi – tēvu zemi sauc,
+    A7                   D
 Te mums sensenis dzīvot ļauts.
+                         G
 Jau sen te manas tautas dziesma skan
+    A7                 D
 Un svēta, dārga tā ir man.
 ```

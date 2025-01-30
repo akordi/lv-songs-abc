@@ -3,14 +3,18 @@ title: "Brīnišķīga diena"
 date: 2025-01-04T18:23:30+00:00
 url: /song/5193-Dons_Arturs_Singirejs_-_Briniskiga_Diena
 categories: ["Dons (Artūrs Šingirejs)"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+Em          G
 Brīnišķīga diena
+Em           G
 Saules stari pāri ādai skrien
+Em          G
 Brīnišķīga diena
+Em                 C
 Rozes caur asfaltu zied
 
 Ceļš ir reizēm grūts
@@ -19,10 +23,14 @@ Priekšā trejdeviņi kalni neizbraucamas jūras
 Bet mans kompass rāda uz
 
 Piedz.
+C                     D
 Vietu kur putni brīvi top
-Vietu ko nevar izsapņot
+C                     D
+Vietu kuru nevar izsapņot
+C                     D
 Vietu kur putni brīvi top
-Vietu ko nevar izsapņot
+C         D          G D Em
+Vietu kuru nevar izsapņot
 
 Ei! veru acis
 Pretī veras skats

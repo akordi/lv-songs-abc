@@ -3,13 +3,16 @@ title: "Varenliels"
 date: 2019-01-28T08:09:29+00:00
 url: /song/3449-Dons_Arturs_Singirejs_-_Varenliels
 categories: ["Dons (Artūrs Šingirejs)"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+A           
 Kaut kas liels kā okeāns vētrā
+E
 Stabils kā dižozols sētā
+F#m     D
 Mērogi nemelo.
 
 Vienmēr, lai kurp arī ietu
@@ -17,10 +20,15 @@ Atceros Koknesi lietū
 Jādzīvo būs ar to.
 
 Piedz.
+A
 Kaut kas liels ieperinās
+E
 Sirdī un trinas, trinas
-
-Varenliels...x4
+F#m        D
+Varenliels Varenliels
+A         E
+F#m        D
+Varenliels Varenliels
 
 
 

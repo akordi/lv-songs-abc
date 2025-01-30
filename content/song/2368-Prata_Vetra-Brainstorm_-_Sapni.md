@@ -3,15 +3,21 @@ title: "Sapnī"
 date: 2015-10-19T17:58:09+00:00
 url: /song/2368-Prata_Vetra-Brainstorm_-_Sapni
 categories: ["Prāta Vētra/Brainstorm"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Es sapni redzēju
-Es tādu redzu katru nakti
-Tu viena dejoji
-Skaitot soļus un taktis
+G Bm D A
+
+G     Bm
+   Es sapni redzēju
+D            A
+   Es tādu redzu katru nakti
+G      Bm
+   Tu viena dejoji
+D                  A 
+   Skaitot soļus un taktis
 Vējš jau ceļas piekrastes kokos
 Lūk, tumši mākoņi debesu lokos
 Tevi sapnī redzēju

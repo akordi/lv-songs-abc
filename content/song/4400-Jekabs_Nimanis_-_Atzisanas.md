@@ -3,12 +3,14 @@ title: "Atzīšanās"
 date: 2020-06-05T15:31:06+00:00
 url: /song/4400-Jekabs_Nimanis_-_Atzisanas
 categories: ["Jēkabs Nīmanis"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+D            Em
 Nesaki man: "Gan jau kādreiz!"
+Bm        A
 Nesaki man tā!
 Tu jau zini, kā tas sāpēs
 Labāk nesaki nekā!

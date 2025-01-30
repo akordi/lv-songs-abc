@@ -3,7 +3,7 @@ title: "Rinķi"
 date: 2020-05-31T06:11:00+00:00
 url: /song/3798-Bermudu_Divsturis_-_Rinki
 categories: ["Bermudu Divstūris"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
