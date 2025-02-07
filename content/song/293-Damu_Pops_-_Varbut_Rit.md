@@ -34,13 +34,13 @@ Jo bez tevis dzīvot nespēju.
 
 Nevar zināt, cik grūti man tagad ies,
 Ļoti ceru, ka šīs sāpes man drīz pāries,
-Nāc atpakaļ tūlīt,vairs nespēju sagaidīt,
-Tevi atkal ieraudzīt, varbūt rīt.
+Nāc atpakaļ tūlīt, vairs nespēju sagaidīt,
+Kad tevi varēšu saskatīt, varbūt rīt.
 
 Piedz.
 
     F          G         C             Am
 Nāc atpakaļ tūlīt! Vairs nespēju sagaidīt
      Dm         G            C
-Tevi atkal ieraudzīt, varbūt rīt. (2 x)
+Kad tevi varēšu saskatīt, varbūt rīt. (2 x)
 ```
