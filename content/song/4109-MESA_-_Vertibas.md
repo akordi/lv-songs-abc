@@ -1,13 +1,15 @@
 ---
-title: "Vērtība"
+title: "Vērtības"
 date: 2020-06-03T20:32:13+00:00
-url: /song/4109-MESA_-_Vertiba
+url: /song/4109-MESA_-_Vertibas
 categories: ["MESA"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
+Gm Eb Bb F
+
 ne pirmo reizi runājam par atrunām
 pinos kā vista pa pakulām
 rūgtā patiesība liekas pūles neprasa
@@ -29,8 +31,12 @@ kur pazudusi diena tu jautā sev pusnaktī
 kaut kas iesākts, kaut kas pusdarīts
 bet tuvajiem neatlika laika uzzvanīt
 
+Gm Eb Bb F
+
 liekas, ka esmu tepat, blakus tepat,
 bet tik tālu, tālu, tālu, tālu (2x)
+
+Gm Eb Bb F
 
 liekvārdība draugu starpā kā sunim blus’
 ikdienas mainīgā informācijas plūsma
@@ -53,12 +59,19 @@ tevi ir tukšas rokas, bet dzīvei pilna atvere
 visiem viens liktenis, biļete vienā virzienā
 mosties, tas ir mīts, ka dzīve sākas pirmdienā
 
+Gm Eb Bb F
+
 liekas, ka esmu tepat, blakus tepat
 bet tik tālu, tālu, tālu, tālu (2x)
+
+Cm Gm Cm Gm
+Cm Gm Bb F
 
 kaut kur esmu es, kaut kur esam mēs
 kaut kur tālu prom, prom
 tik tālu, tālu, tālu, tālu
+
+Gm Eb Bb F
 
 liekas, ka esmu tepat, blakus tepat
 bet tik tālu, tālu, tālu, tālu (2x)
