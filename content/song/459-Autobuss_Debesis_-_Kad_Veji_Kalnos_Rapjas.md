@@ -1,5 +1,5 @@
 ---
-title: "Kad Vēji Kalnos Rāpjas"
+title: "Kad vēji kalnos rāpjas"
 date: 2007-12-11T22:00:00+00:00
 url: /song/459-Autobuss_Debesis_-_Kad_Veji_Kalnos_Rapjas
 categories: ["Autobuss Debesīs"]
@@ -8,28 +8,31 @@ draft: false
 ---
 
 ```text
-    A    D      A
+    G    C/G      C   Bm/F#
 1.Kad vēji kalnos rāpjas
-    F#m   C#m/E   D
+    Em    D     C
 Kad balti biezi snieg
-F#m       D     Bm
+    C     Em/B   Am
 Tad tikai rudens roze
-  A/E     E    A
+         D    G
 Joprojām neaizmieg
- 
+
+   G      C/G    C  Bm/F#
 Tā guļ uz klusās zemes
+   Em    D       C
 Kā asins piliens sārts
+   C     Em/B  Am
 Kā ilgi, ilgi gaidīts
+       D      G
 Un nepasacīts vārds
 
-
-  A           F#m
-2. Kā dāvana, kā brīnums
-           Bm
+   G          Em/G
+Kā dāvana, kā brīnums
+           Am
 Tās karstā smarža plūst
-    E          E7
+   D/A         D7
 Un manas zemes sirdij
-              A
+          G
 Visapkārt ledus kūst
 
 Un putni pārnāk mājās
@@ -37,7 +40,7 @@ Un paceļ lapas zars
 Un grūta sala vidū
 Ir modies pavasars
 
-3.Vēl kalnos mājo ziema
+Vēl kalnos mājo ziema
 Bet kamēr dzīve rit
 Pa visiem ceļiem smarža
 Nāk līdz mūs pavadīt  2x
