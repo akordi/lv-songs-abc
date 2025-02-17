@@ -8,7 +8,8 @@ draft: false
 ---
 
 ```text
-Gm | Em | Am | D
+G | Em | Am | D
+
 Viņa iespļāva man mutē
 Un man tas patika
 Mīlējamies visu nakti līdz mums abiem apnika
