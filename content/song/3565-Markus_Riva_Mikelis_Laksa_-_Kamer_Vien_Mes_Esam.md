@@ -3,81 +3,81 @@ title: "Kamēr vien mēs esam"
 date: 2019-12-17T11:49:04+00:00
 url: /song/3565-Markus_Riva_Mikelis_Laksa_-_Kamer_Vien_Mes_Esam
 categories: ["Markus Riva (Miķelis Ļaksa)"]
-tags: ["bez akordiem", "muzikālā banka 2019"]
+tags: ["muzikālā banka 2019"]
 draft: false
 ---
 
 ```text
-Saule riet, bet nenoriet
-Rīga mieg, bet neaizmiedz 
-Man līdzās
-Man līdzās
+[Em] Saule riet, bet nenoriet
+[C] Rīga mieg, bet neaizmiedz 
+Man [G] līdzās
+Man [D] līdzās
 
-Tālu prom mēs varam skriet
-Bet vārdus kurus atzīties 
-Tik dzirdam 
-Ja mīlam 
+[Em] Tālu prom mēs varam skriet
+[C] Bet vārdus kurus atzīties 
+Tik [G] dzirdam 
+Ja [D] mīlam 
 
-Un ikreiz 
-Vārdi vējā 
-Man pie tevis atnesīs 
-Rītus, bet līdz tam
+Un ik[Am]reiz 
+Vārdi [C] vējā 
+Man pie tevis [G] atnesīs 
+Rītus, bet līdz [D] tam
 
-Ļauj man vēlreiz atzīties 
-Laikā apstāties 
-Kamēr vien mēs esam
-No jauna satikties 
-Tavos tīklos sapīties 
-Lietū veldzēties 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam 
+Ļauj man vēlreiz [G] atzīties 
+Laikā apstā[D]ties 
+Kamēr vien mēs [Em] esam
+No jauna satik[C]ties 
+Tavos tīklos [G] sapīties 
+Lietū veldzē[D]ties 
+Kamēr vien mēs [Em] esam 
+Kamēr vien mēs [C] esam 
 
-Saule riet, bet nenoriet 
-Jūrā mūsu sāpes brien 
-Lai zīdā
-Mēs šķīstam
+[Em] Saule riet, bet nenoriet 
+[C] Jūrā mūsu sāpes brien 
+Lai [G] zīdā
+Mēs [D] šķīstam
 
-Sniedz man roku, bet neaizsniedz
-Un starp mums klusums kliedz
-Bet zinām
-Ka mīlam 
+[Em] Sniedz man roku, bet neaizsniedz
+[C] Un starp mums klusums kliedz
+Bet [G] zinām
+Ka [D] mīlam 
 
-Un ikreiz 
-Vārdi vējā 
-Man pie tevis atnesīs 
-Rītus, bet līdz tam 
+Un ik[Am]reiz 
+Vārdi [C] vējā 
+Man pie tevis [G] atnesīs 
+Rītus, bet līdz [D] tam
 
-Ļauj man vēlreiz atzīties 
-Laikā apstāties 
-Kamēr vēl mēs esam 
-No jauna satikties 
-Tavos tīklos sapīties 
-Lietū veldzēties 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam 
+Ļauj man vēlreiz [G] atzīties 
+Laikā apstā[D]ties 
+Kamēr vien mēs [Em] esam
+No jauna satik[C]ties 
+Tavos tīklos [G] sapīties 
+Lietū veldzē[D]ties 
+Kamēr vien mēs [Em] esam 
+Kamēr vien mēs [C] esam 
+Kamēr vien mēs [Am] esam [D]
 
-Un ikreiz 
-Vārdi vējā 
-Man pie tevis atnesīs 
-Rītus, bet līdz tam 
+Un ik[Am]reiz 
+Vārdi [C] vējā 
+Man pie tevis [G] atnesīs 
+Rītus, bet līdz [D] tam
 
-Ļauj man vēlreiz atzīties 
-Laikā apstāties 
-Kamēr vēl mēs esam 
-No jauna satikties 
-Tavos tīklos sapīties 
-Lietū veldzēties 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam 
+Ļauj man vēlreiz [G] atzīties 
+Laikā apstā[D]ties 
+Kamēr vien mēs [Em] esam
+No jauna satik[C]ties 
+Tavos tīklos [G] sapīties 
+Lietū veldzē[D]ties 
+Kamēr vien mēs [Em] esam 
+Kamēr vien mēs [C] esam 
 
-Ļauj man vēlreiz atzīties 
-Laikā apstāties 
-Kamēr vēl mēs esam 
-No jauna satikties 
-Tavos tīklos sapīties 
-Lietū veldzēties 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam 
-Kamēr vien mēs esam
+Ļauj man vēlreiz [G] atzīties 
+Laikā apstā[D]ties 
+Kamēr vien mēs [Em] esam
+No jauna satik[C]ties 
+Tavos tīklos [G] sapīties 
+Lietū veldzē[D]ties 
+Kamēr vien mēs [Em] esam 
+Kamēr vien mēs [C] esam 
+Kamēr vien mēs [Am] esam [D]
 ```
