@@ -8,41 +8,43 @@ draft: false
 ---
 
 ```text
-C                       G7
-Man dzīvē šai laimējies ļoti:
-                               C
-Netrūkst man, par ko raudāt un smiet.
-    F                   C
-Gan brīnišķi mirkļi man doti, /
-    G7                 C     /
-Gan veiksmes ar līkumu iet. /  X2
+Man [C] dzīvē šai laimējies [G] ļoti:
+Netrūkst man, par ko raudāt un [C] smiet.
+Gan [F] brīnišķi mirkļi man [C] doti,
+Gan [G] veiksmes ar līkumu [C] iet.
+Gan [F] brīnišķi mirkļi man [C] doti,
+Gan [G] veiksmes ar līkumu [C] iet.
 
-Ja kādreiz kļūst pārlieku smagi,
-Kad dzīve drūma un pelēka šķiet,
-Man uzsmaida cilvēki labi,
-Un, liekas, - pat akmeņi zied.
- 
-   G7               C
-Tā dienas kā pajūgi aši -
-   F        G           C
-Pa dažādiem ceļiem prom trauc,
-    F                C  Am                 
-Bet kučieri esam mēs pa-ši,
-     Dm        G7       C                       
-Vien kļūdāmies bieži un daudz. / X2
+Ja [C] kādreiz kļūst pārlieku [G] smagi,
+Kad dzīve drūma un pelēka [C] šķiet,
+Man [F] uzsmaida cilvēki [C] labi,
+Un, [G] liekas, - pat akmeņi [C] zied.
+Man [F] uzsmaida cilvēki [C] labi,
+Un, [G] liekas, - pat akmeņi [C] zied.
 
-Cik daudz dzīves paletē krāsu,
-Tās visas aicina mani un sauc.
-Sev gribētu balto par māsu,
-Bet likten`s tai citas klāt jauc.
+  Tā [G] dienas kā pajūgi [C] aši -
+  Pa [F] dažādiem [G] ceļiem prom [C] trauc,                
+  Bet [F] kučieri [G] esam mēs [C] pa[Am]ši,                     
+  Vien [Dm] kļūdāmies [G] bieži un [C] daudz.
+  Vien [Dm] kļūdāmies [G] bieži un [C] daudz.
 
-Ne pēlēju trūkst man, ne skauģu,
-Kas manas bēdas un nelaimes svin,
-Un gadās, ka labākie draugi
-Vismazāk par mani ko zin.
+Cik [C] daudz dzīves paletē [G] krāsu,
+Tās visas aicina mani un [C] sauc.
+Sev [F] gribētu balto par [C] māsu,
+Bet [G] likten`s tai citas klāt [C] jauc.
+Sev [F] gribētu balto par [C] māsu,
+Bet [G] likten`s tai citas klāt [C] jauc.
 
-Tā dienas kā pajūgi aši,
-Pa dažādiem ceļiem prom brauc,
-Bet kučieri esam mēs paši,
-Vien kļūdamies bieži un daudz.
+Ne [C] pēlēju trūkst man, ne [G] skauģu,
+Kas manas bēdas un nelaimes [C] svin,
+Un [F] gadās, ka labākie [C] draugi
+Vis[G]mazāk par mani ko [C] zin.
+Un [F] gadās, ka labākie [C] draugi
+Vis[G]mazāk par mani ko [C] zin.
+
+  Tā [G] dienas kā pajūgi [C] aši -
+  Pa [F] dažādiem [G] ceļiem prom [C] trauc,                
+  Bet [F] kučieri [G] esam mēs [C] pa[Am]ši,                     
+  Vien [Dm] kļūdāmies [G] bieži un [C] daudz.
+  Vien [Dm] kļūdāmies [G] bieži un [C] daudz.
 ```
