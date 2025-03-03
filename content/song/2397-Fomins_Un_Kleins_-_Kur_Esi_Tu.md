@@ -9,46 +9,46 @@ draft: false
 
 ```text
 [C] Vai tu zini, kāpēc [Em] mēs arvien vēl ticam
-[F] Tam, ka pienāks dienas, [Dm] labākas par [F] citām?
+[F] Tam, ka pienāks dienas, [Fm] labākas par citām?
 [C] Vai tu zini, kāpēc mēs [Em] arvien vēl ceram satikt
-[F] Tos ko pazaudējām, [Dm] tos ko nesa[F]tikām?
+[F] Tos ko pazaudējām, [Fm] tos ko nesatikām?
 
-Un lai [Am] cik ir grūti, [C] ej un jūti [Dm] kā
+Un lai [Am] cik ir grūti, [C/G] ej un jūti [Fmaj7] kā
 [F] Debesis ar [G] zemi sajauc
-[Am] Vējš no rīta, [C] krāsā melnbal[Dm]tā. [F][G]
+[Am] Vējš no rīta, [C] krāsā melnbal[Fmaj7]tā. [Dm][G]
 
-  Kur esi [Am] tu, mans labais [C] draugs, mans ienai[Dm]dniek?
-  [F] Vai mēs vēlreiz [G] satiksimies?
-  [Am] Kur, gan esi [C] tu, tu savād[Dm]niek?
-  [F] Kā man tevis [G] šodien nepie[C]tiek!
+  Kur esi [Am] tu, mans labais [C/G] draugs, mans ienai[Fmaj7]dniek?
+  [Ab] Vai mēs vēlreiz [Bb] satiksimies?
+  [C] Kur, gan esi [Am] tu, tu savād[Fmaj7]niek?
+  [Ab] Kā man tevis [Bb] šodien nepie[C]tiek!
 
 [C] Vai tu zini kāpēc, [Em] durvis neaizveras?
-[F] Mēs arvien vēl gaidām, [Dm] tos kas nāk uz [F] mājām.
+[F] Mēs arvien vēl gaidām, [Fm] tos kas nāk uz mājām.
 [C] Vai tu zini, kāpēc mēs [Em] arvien vēl ceram satikt
-[F] Tos ko nesapratām, [Dm] tos ko nezi[F]nājām?
+[F] Tos ko nesapratām, [Fm] tos ko nezinājām?
 
-Un lai [Am] cik ir grūti, [C] ej un jūti [Dm] kā 
-[F] Pasaule ir [G] mainījusies
-[Am] Un tu arī, [C] šodien vari [Dm] būt! [F][G]
+Un lai [Am] cik ir grūti, [C/G] ej un jūti [Fmaj7] kā 
+[Dm] Pasaule ir [G] mainījusies
+[Am] Un tu arī, [C/G] šodien vari [Fmaj7] būt! [Dm][G]
 
-  Kur esi [Am] tu, mans labais [C] draugs, mans ienai[Dm]dniek?
-  [F] Vai mēs vēlreiz [G] satiksimies?
-  [Am] Kur, gan esi [C] tu, tu savād[Dm]niek?
-  [F] Kā man tevis [G] šodien nepie[C]tiek!
+  Kur esi [Am] tu, mans labais [C/G] draugs, mans ienai[Fmaj7]dniek?
+  [Ab] Vai mēs vēlreiz [Bb] satiksimies?
+  [C] Kur, gan esi [Am] tu, tu savād[Fmaj7]niek?
+  [Ab] Kā man tevis [Bb] šodien nepie[Eb]tiek!
 
-Tālu prom tik tālu [G] ved tevi laiks
-[Am] Tālu prom tik tālu, [G] kur tevis nav.
-Tālu [F] prom un tuvumā,
-Dziedi [C] draugs un nerunā.
-Esi [F] laimīgs, tālu, tālu, [G] tālu tālumā
-Arī tad ja tev vairs nav ne[Am]kā!
+Tālu [Ab] prom tik tālu [Bb]ved tevi laiks
+[Eb] Tālu [Ab] prom tik tālu, [Bb] kur tevis nav.
+Tālu [Cm] prom un tuvumā,
+Dziedi [Ab] draugs un nerunā.
+Esi [Eb/G] laimīgs, [Ab] tālu, tālu, [Bb] tālu tālumā
+Arī tad ja tev vairs nav ne[Cm]kā!
 
-Ja grūti, [C] ej un jūti [F] kā
-[F] Debesis ar [G] zemi sajauc
-[Am] Vējš no rīta, [C] krāsā melnbal[F]tā! [G]
+Ja grūti, [Eb/Bb] ej un jūti [Abmaj7] kā
+[Fm] Debesis ar [Bb] zemi sajauc
+[Cm] Vējš no rīta, [Eb/Bb] krāsā melnbal[Abmaj7]tā! [Dm] [G]
 
-  Kur esi [Am] tu, mans labais [C] draugs, mans ienai[Dm]dniek?
-  [F] Vai mēs vēlreiz [G] satiksimies?
-  [Am] Kur, gan esi [C] tu, tu savād[Dm]niek?
-  [F] Kā man tevis [G] šodien nepie[C]tiek!
+  Kur esi [Am] tu, mans labais [C/G] draugs, mans ienai[Fmaj7]dniek?
+  [Ab] Vai mēs vēlreiz [Bb] satiksimies?
+  [C] Kur, gan esi [Am] tu, tu savād[Fmaj7]niek?
+  [Ab] Kā man tevis [Bb] šodien nepie[C]tiek!
 ```
