@@ -3,24 +3,32 @@ title: "Bet Tu lec"
 date: 2014-09-10T19:13:42+00:00
 url: /song/1830-Tumsa_-_Bet_Tu_Lec
 categories: ["Tumsa"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-vari savus sapņus noslēpt azotē
-tu redzi manas bailes tikai iztālēm
-apstājies mazliet ieskrienies un tad lec
-kritiens desmit sekundēs lūk tā tu bēdz
+G          D              C
+Vari savus sapņus noslēpt azotē
+Tu redzi manas bailes tikai iztālēm
+Apstājies mazliet ieskrienies un tad lec
+Kritiens desmit sekundēs lūk tā tu bēdz
 
-es stāvu uz malas un prasu sev skaļi
-kāpēc man jāpaliek malā kad sirds man tik zaļa
-kā dienvidvējš
+C                    D               Em
+Es stāvu uz malas un prasu sev skaļi kāpēc 
+C                     D               
+Man jāpaliek malā kad sirds man tik zaļa
+   Em  C  D
+Kā dienvidvējš
 
-es ieķeros tavās piedurknēs saku lec
-jo cilvēkiem lejup ejošiem
-ir vienalga kādā leņķī putni nositas
-zemē ietriecas viņi neskatās acīs aizvērtās
+G              D                 C
+Es ieķeros tavās piedurknēs saku lec
+G            D
+Jo cilvēkiem lejup ejošiem
+Cm          C                G
+Ir vienalga kādā leņķī putni nositas
+C              G             C
+Zemē ietriecas viņi neskatās acīs aizvērtās
 
 redzi cik tā viegli sevi piemānīt
 un zemes vietā miega pēļus ieraudzīt

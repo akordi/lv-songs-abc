@@ -3,19 +3,23 @@ title: "Acīm Ciet"
 date: 2024-02-01T17:01:43+00:00
 url: /song/5103-Enas_-_Acim_Ciet
 categories: ["Ēnas"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
 #VERSE
+Em            G
 Laiks ir īss, kas mums dots
+Em           G               Em
 Ir jādzīvo tā, lai būtu krāsaināk
 Draugs vai tev ir tik bail
 Tad pasaki to un viss būs savādāk
 
 #CHORUS
+Am               D
 Kāds sauks, tad iesim tālāk
+Em           G
 Acīm ciet, jo tā ir vieglāk
 Var jau būt, ka kļūdīsies, bet tomēr jau
 
