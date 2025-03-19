@@ -8,80 +8,56 @@ draft: false
 ---
 
 ```text
-1.
-Aiz manām durvīm soļi
+[G] Aiz manām durvīm soļi
 Un balsis domas skar
-Tie paši nenāks iekšā 
+[Em] Tie paši nenāks iekšā 
 Ne rīt, ne šovakar.
-Bet kad tie pieklauvēs
-Vai durvis vaļā slēgsi?
+[C] Bet kad tie pieklauvēs
+[D] Vai durvis vaļā slēgsi?
 
-Aiz maniem logiem naktis
+[G] Aiz maniem logiem naktis
 Sāk krist un dienas aust.
-Es cieši skatos saulē
+[Em] Es cieši skatos saulē
 Līdz tā sāk acis grauzt.
-Bet esmu gatavs tam,
-Jo beidzot ziedlapiņas plēšos
+[C] Bet esmu gatavs tam,
+[D] Jo beidzot ziedlapiņas [G] plēšos
 Man nav jājautā. Bet tagad...
 
-Ch.
-Es klausos kā Tu mīli
-Un es mācos kā tas skan.
-Tu klusi noglaudīji
-Un tik maigi laidies pāri man.
-Es smiešu baudot dzīvi
-Un es iešu kalpot tam,
-Kas man ļauj brīvi 
-Elpot brīvi var tik
-Ja tu mīli
-Ja tu mīli
+  Es klausos kā Tu [C] mīli
+  Un es mācos kā tas [D] skan.
+  Tu klusi noglau[G]dīji
+  Un tik maigi laidies [Em] pāri man.
+  Es smiešu baudot [C] dzīvi
+  Un es iešu kalpot [D] tam,
+  Kas man ļauj [G] brīvi 
+  Elpot [Em] brīvi var tik 
+  [C] Ja tu mīli
+  [D] Ja tu mīli
 
-Zem maniem logiem sapņi
+[G] Zem maniem logiem sapņi
 Un sapņu pilis top
-Kas būs ja priekā lēkšu?
+[Em] Kas būs ja priekā lēkšu?
 Ja tās kāds neatrod?
-Jā, tas viss pieder man!
-Tas pieder man!
+[C] Jā, tas viss pieder man!
+[D] Tas pieder man!
 
-Ch.
-Es klausos kā Tu mīli
-Un es mācos kā tas skan.
-Tu klusi noglaudīji
-Un tik maigi laidies pāri man.
-Es smiešu baudot dzīvi
-Un es iešu kalpot tam,
-Kas man ļauj brīvi
-Elpot brīvi.
-Es klausos kā Tu mīli
-Un es mācos kā tas skan.
-Tu klusi noglaudīji
-Un tik maigi laidies pāri man.
-Es smiešu baudot dzīvi
-Un es iešu kalpot tam,
-Kas man ļauj brīvi
-Elpot brīvi var tik
-Ja tu mīli
-Ja tu mīli
-Oooo...
-
-Ch.
-Es klausos kā Tu mīli
-Un es mācos kā tas skan.
-Tu klusi noglaudīji
-Un tik maigi laidies pāri man.
-Es smiešu baudot dzīvi
-Un es iešu kalpot tam,
-Kas man ļauj brīvi
-Elpot brīvi.
-Es klausos kā Tu mīli
-Un es mācos kā tas skan.
-Tu klusi noglaudīji
-Un tik maigi laidies pāri man.
-
-Es smiešu baudot dzīvi
-Un es iešu kalpot tam,
-Kas man ļauj brīvi
-Elpot brīvi var tik
-Ja tu mīli
-Ja tu mīli
+  Es klausos kā Tu [C] mīli
+  Un es mācos kā tas [D] skan.
+  Tu klusi noglau[G]dīji
+  Un tik maigi laidies [Em] pāri man.
+  Es smiešu baudot [C] dzīvi
+  Un es iešu kalpot [D] tam,
+  Kas man ļauj [G] brīvi 
+  Elpot [Em] brīvi
+..
+  Es klausos kā Tu [C] mīli
+  Un es mācos kā tas [D] skan.
+  Tu klusi noglau[G]dīji
+  Un tik maigi laidies [Em] pāri man.
+  Es smiešu baudot [C] dzīvi
+  Un es iešu kalpot [D] tam,
+  Kas man ļauj [G] brīvi 
+  Elpot [Em] brīvi var tik 
+  [C] Ja tu mīli
+  [D] Ja tu mīli
 ```
