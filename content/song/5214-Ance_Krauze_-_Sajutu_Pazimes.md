@@ -20,7 +20,7 @@ Izauga gaisa no pērnajam smilgām.
 
 Piedz..
 Zemtekstu mirāžas,pusteikti vārdi ,
-vaiguma nojausmas, atvērti spārni.
+Maiguma nojausmas, atvērti spārni.
 Tā tikai šķita,tā tik skaitās.
 Vien nakts tauriņi pret logu sitās.
 
