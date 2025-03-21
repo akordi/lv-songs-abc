@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-Parasta diena, grāvjmalē , lejās.
+Parasta darbdiena, grāvjmalē , lejās.
 Laternās sūrstēja, netīri smējas .
 Mirkļi bez mitas,man gāja garām.
 Mēness kad karājas savā starā.

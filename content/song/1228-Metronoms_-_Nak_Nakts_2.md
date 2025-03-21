@@ -24,8 +24,8 @@ Un visus pēc kārtas lād.
 2.
 Vai tad nepieskarsies nemūžam
 Neviens pie šīm krūtīm, šīm kājām, šīm gūžām
-Un labpatīk līdz ar viņu skumt
-Bet viņa nolamājas un glūn.
+Man labpatīk līdz ar viņu skumt
+Bet viņa nolamājas un klup.
 
 Piedz:
     G
