@@ -1,52 +1,58 @@
 ---
-title: "Ielej Bračka"
+title: "Ielej Bračka (Ma Ya Hi)"
 date: 2020-06-05T08:50:39+00:00
 url: /song/4253-Rudis_-_Ielej_Bracka
 categories: ["Rūdis"]
-tags: ["bez akordiem"]
+tags: ["tulkojums"]
 draft: false
 ---
 
 ```text
-Hallo, Labrīt
-Vai ir ko rīt un haidut
-Ko blenz? 
-Tu kā spoks
-Hej brāl vaļā logs
-Alo, Alo
-Ei bračka pikaso
-Logā ņirdz
-Un acis mirdz
-Sūti taču viņu...
+     F           C        G     Am
+Ma-Ya-Hi Ma-Ya-Hu Ma-Ya-Ha Ma-Ya-Haha
+      F        C        G        Am
+Ma-Ya-Hi Ma-Ya-Hu Ma-Ya-Ha Ma-Ya-Haha
 
-Piedz. 2x
-Ielej Bračka
-Lej nu lej nu lej
-Lej nu lej nu lej
-Lej nu lej nu lej
-Lai skanēj
-Ielej Bračka
-Lej nu lej nu lej
-Buģit vsjo u nas okej
+[F] Hallo, [C] Labrīt
+Vai ir ko [G] rīt un [Am] haidut
+Ko [F] blenz? 
+Tu kā [C] spoks
+Hej [G] brāl vaļā [Am] logs
+[F] Alo, [C] Alo
+Ei [G] bračka pika[Am]so
+Logā [F] ņirdz
+Un acis [C] mirdz
+Sūti [G] taču viņu... [Am]
 
-Alo vai rēgs
-Un tu
-Blondais grēks
-Hej brāl
-Atkal viņš
-Blondais vīrs mēnestiņš
-Ei tu nelieti
-Sitiens taisnais tev pa muti
-Spoks tu rau kur mans grēks
-Esmu dusmīgs, vēl apmāts 
+  Ielej [F] Bračka
+  Lej nu lej nu [C] lej
+  Lej nu lej nu [G] lej
+  Lej nu lej nu 
+  [Am] Lai skanēj
+  Ielej [F] Bračka
+  Lej nu lej nu [C] lej
+  Buģit [G] vsjo u nas [Am] okej
 
-Piedz. 4x
-Ielej Bračka
-Lej nu lej nu lej
-Lej nu lej nu lej
-Lej nu lej nu lej
-Lai skanēj
-Ielej Bračka
-Lej nu lej nu lej
-Buģit vsjo u nas okej
+[F] Alo vai [C] rēgs
+Un [G] tu
+Blondais [Am] grēks
+Hej [F] brāl
+Atkal [C] viņš
+Blondais [G] vīrs mēnes[Am]tiņš
+Ei [F] tu nelie[C]ti
+Sitiens [G] taisnais tev pa [Am] muti
+Spoks tu [F] rau kur mans [C] grēks
+Esmu [G] dusmīgs, vēl [Am] apmāts 
+
+  Ielej [F] Bračka
+  Lej nu lej nu [C] lej
+  Lej nu lej nu [G] lej
+  Lej nu lej nu 
+  [Am] Lai skanēj
+  Ielej [F] Bračka
+  Lej nu lej nu [C] lej
+  Buģit [G] vsjo u nas [Am] okej
+
+-------------------
+ O-Zone - Ma Ya Hi
 ```

@@ -10,7 +10,6 @@ draft: false
 ```text
 Akordi visu laiku uz riņķi - Am F C G
 
-
 Es mīlēju viņu
 Kā pēdējais muļķis
 Viņa teica, ka es
@@ -21,7 +20,8 @@ Kā lai viņas cienīgs es kļūstu
 Tā tā meitene no Tukuma
 Man radīja apjukumu
 Viņai sevi visu atdevis būšu
-Es nebij' pārāk smuks
+
+Es nebiju pārāk smuks
 Mani meitenes atšuva
 Bet galvā doma viena
 Neliek mieru katru dienu
@@ -29,6 +29,9 @@ Es nebiju pārāk smuks
 Es 3 no 10
 Varbūt man braukt uz Tukumu pēc smukuma un tad
 Es beidzot būšu labs
+Es beidzot būšu labs
+Es beidzot būšu labs
+
 Lūdzu, atbildi man
 Uz visām manām vēstulēm
 Es rakstu, ka tu
@@ -36,15 +39,28 @@ Man esi vajadzīga
 Uz Tukuma pasta nodaļu
 Es vēstuli tev sūtīju
 Kurā atzinos, ka mīlēju tevi
-Tu teici man liec mierā mani
-Paskaties spogulī
-Tu neesi nekāds Breds Pits
-Es nebij' pārāk smuks
+Tu teici man "liec mierā mani"
+"Paskaties spogulī"
+"Tu neesi nekāds Breds Pits"
+
+Es nebiju pārāk smuks
 Mani meitenes atšuva
 Bet galvā doma viena
 Neliek mieru katru dienu
 Es nebiju pārāk smuks
 Es 3 no 10
 Varbūt man braukt uz Tukumu pēc smukuma un tad
-Es beidzot būšu labs"
+Es beidzot būšu labs
+Es beidzot būšu labs
+
+Es nebiju pārāk smuks
+Mani meitenes atšuva
+Bet galvā doma viena
+Neliek mieru katru dienu
+Es nebiju pārāk smuks
+Es 3 no 10
+Varbūt man braukt uz Tukumu pēc smukuma un tad
+Es beidzot būšu, beidzot būšu, beidzot, beidzot labs
+Es beidzot būšu labs
+Es beidzot būšu labs, labs
 ```
