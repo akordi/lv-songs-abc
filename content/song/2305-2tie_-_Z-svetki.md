@@ -8,27 +8,36 @@ draft: false
 ---
 
 ```text
-[C] Snieg sniegs uz [G] baltām palo[Am]dzēm [F]
-[C] Un čaklo [G] vīru cepu[Am]rēm [F]
-[F] Tie pilsē’s [G] vidū [E] egli [Am] slien
+[C]            [G]        [Am] [F]
+Snieg sniegs uz baltām palodzēm 
+[C]      [G]     [Am] [F]
+Un čaklo vīru cepurēm
+[F] Tie pilsēt’s [G] vidū [E] egli [Am] slien
 [F] Tik tai no [G] egles [E] smaka [Am] vien
 [F] Tik tai no egles [G] smaka [Am] vien
 
-[C] Visapkārt [G] krāšņi reklām[Am]stendi [F]
+[C]      [G]          [Am]   [F]
+Visapkārt krāšņi reklāmstendi
 [C] Un egli [G] rotā firmu [Am] brendi [F]
-[F] Tik sētnie[G]ki ar [E] lāpstām [Am] lielam
-[F] Lādē[G]jas par [E] garam [Am] ziemām
-[F] Lādējas par [G] garam [Am] ziemām
+[F]      [G]  [E]      [Am]
+Tik sētnieki ar lāpstām lielām
+[F][G]     [E]   [Am]
+Lādējas par garām ziemām
+[F] Lādējas par [G] garām [Am] ziemām
 
-[C] Veika[G]lā pa lētu [Am] naudu [F]
+[C][G]         [Am]  [F]
+Veikalā pa lētu naudu
 [C] Varam [G] nopirkt svētku [Am] baudu [F]
-[F] Ziem[G]svētk’ vecī[E]tis aiz [Am] stūra
+[F][G]        [E]      [Am]
+Ziemassvētku vecītis aiz stūra
 [F] Sola [G] ātri [E] tikt pie [Am] pūra
 [F] Sola ātri [G] tikt pie [Am] pūra
 
-[C] Katrs [G] gaida ka nu [Am] māk [F]
+[C] Katrs [G] gaida kā nu [Am] māk [F]
 [C] Svētki [G] atnāks tik un [Am] tā [F]
 [F] Esi [G] muļķis [E] tici [Am] man
-[F] Tērē [G] naudu [E] brīnu[Am]mam
-[F] Tērē naudu [G] brīnu[Am]mam
+[F] [G]   [E] [Am]
+Tērē naudu brīnumam
+[F] [G]       [Am]
+Tērē naudu brīnumam
 ```
