@@ -1,7 +1,7 @@
 ---
-title: "Sajūtu Pazīmes"
+title: "Sajūtu Piezīmes"
 date: 2025-03-17T16:04:28+00:00
-url: /song/5214-Ance_Krauze_-_Sajutu_Pazimes
+url: /song/5214-Ance_Krauze_-_Sajutu_Piezimes
 categories: ["Ance Krauze"]
 tags: ["bez akordiem"]
 draft: false
