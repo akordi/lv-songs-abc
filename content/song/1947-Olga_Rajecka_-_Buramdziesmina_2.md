@@ -10,12 +10,13 @@ draft: false
 ```text
 C 
 Kamēr vien akmens 
+B/C
 Kamēr vien akmens 
 Dm A Dm 
 Kamēr vien akmens augs;
 G E Am Dm 
 Tu būsi Tu būsi Tu Būsi
-C G
+G
 Mans draugs;
 
 C

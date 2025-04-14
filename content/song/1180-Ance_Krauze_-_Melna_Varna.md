@@ -13,20 +13,30 @@ draft: false
 Am
 Atdodiet man atpakaļ
 nolaupīto dienu 
-Šodien vēlos nesatikst 
+Šodien vēlos nesatikt 
 vairāk it ne vienu
+Dm
 Gribu kļūt par akmeni 
 kādā drošā vietā 
+Am
 Un no kalna noripot
+pašā saules rietā
+E7
+Un no kalna noripot
+            Am
 pašā saules rietā
 Am
 Tur es mierā gulēšu 
 savu saldo miegu 
 Pavasara viducī
 apbērta ar sniegu
+Dm
 Pāri lidos putnu bars 
 un uz mana pleca 
+Am
 Nolaidīsies atpūsties 
+kāda vārna veca
+Nolaidīsies atpūsties
 kāda vārna veca
 
 Am
@@ -39,7 +49,7 @@ Melnā vārna paskaidro
 varbūt tu to jūti
       Am
 Kāpēc būt par cilvēku 
-dažreiz ir tik grūti[Otraja reizē Kāpēc ir -Em] 
+dažreiz ir tik grūti[Otraja reizē Kāpēc ir -E7] 
 
 Uguns vēji pieskaras
 manām akmens lūpām
