@@ -17,7 +17,7 @@ Turi stingrāk manu roku ciet
          Am
 Mums būs jāiet cauri trītiem nažiem
 
-C G, C G, C G, Am
+C G   C G   C G   Am
 
          Am
 Apsolies Saulei debesīs,
@@ -28,7 +28,7 @@ Paliks tikai tie, kas nelaidīs
      Am
 Likteni pie sava stūres rata
 
-C G, C G, C G, Am
+C G   C G   C G   Am
 
        F      G      Am   G   
 Jo šie krasti šaurāk kopā lien
@@ -48,7 +48,7 @@ Jāiet būs varbūt jau šovakar
       Am
 Cauri spožiem asi trītiem nažiem
 
-C G, C G, C G, Am
+C G   C G   C G   Am
 
        F      G      Am   G   
 Jo šie krasti šaurāk kopā lien
