@@ -8,13 +8,13 @@ draft: false
 ---
 
 ```text
-     D
+     F#
 Mans draugs
-      A
+      C#
 Mans zemūdens lauks
-G
+                E
 Mans rododendra augs
-D A D
+             B
 Un viszinošs padomnieks kas sauks
 
 Kad jāiet vai nē uz turieni vai te
