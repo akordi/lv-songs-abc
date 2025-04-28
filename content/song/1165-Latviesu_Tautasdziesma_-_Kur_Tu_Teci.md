@@ -1,8 +1,8 @@
 ---
 title: "Kur Tu Teci"
 date: 2010-05-03T21:00:00+00:00
-url: /song/1165-Lietotas_Mebeles_No_Holandes_-_Kur_Tu_Teci
-categories: ["Lietotas Mēbeles No Holandes"]
+url: /song/1165-Latviesu_Tautasdziesma_-_Kur_Tu_Teci
+categories: ["Latviešu tautasdziesma"]
 tags: []
 draft: false
 ---
