@@ -10,8 +10,8 @@ draft: false
 ```text
 Mans vecais [G] draugs [D] tevī klausos [G] es
 Man Tava [C] balss, kā ūdens [G] malks
-Ar katru [Em] brīdi, savā bērnī[C]bā
-Mans vecais [G] draugs, [D] nāc piesē[G]dies [D]
+Ar katru [Em] vārdu savā bērnī[C]bā
+Mans vecais [G] draugs, [D] es atgrie[G]žos [D]
 
 Mans vecais [G] draugs [D] tevī skatos [G] es
 Jau sirmums [C] tev matos ieza[G]dzies
@@ -23,7 +23,7 @@ Vairs nespiež [C] plecus mans gadu [G] svars
 Paldies, ka [Em] esi, ka biji un [C] būsi
 Mans vecais [G] draugs, [D] nāc piesē[G]dies [D]
 
-Un jūtos [G] es [D] kā atbil[G]dīgs
+Un jūtos [G] es [D] kā atbrī[G]vots
 Vairs nespiež [C] plecus mans gadu [G] svars
 Paldies, ka [Em] esi, ka biji un [C] būsi
 Mans vecais [G] draugs, [D] nāc piesē[Em]dies [C]
