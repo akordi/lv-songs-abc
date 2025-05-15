@@ -10,13 +10,13 @@ draft: false
 ```text
 Es neesmu Džeina Fonda - Eolika
 
-Intro: {Dm C Bb}2x
+Intro: {Dm C Bb C}2x
 
-Dm               Bb
+Dm               Gm
 Udens ienests un ienesta malka,
    A              Dm
 Un tagad var pasapnot,
-Dm                   Bb
+Dm                   Gm
 Par romaniem, lietam smalkam,
     A                    Dm
 Par to, ko nav piedzivot dots.
@@ -45,7 +45,7 @@ Es neesmu Džeina Fonda,
 A7                  Dm
 mans milais Alen Delon.
 
-{Dm C Bb}2x
+{Dm C Bb C}2x
 
 Sivens aizgalda, vistas un piles,
 Un bulli driz kausim nost,

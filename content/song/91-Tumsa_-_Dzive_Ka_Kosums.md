@@ -8,40 +8,40 @@ draft: false
 ---
 
 ```text
-G                             G7                 C
+F#                             F#7                B
    Dzīve kā košums, divdesmit septiņas ziemas un nieki
-                     D
+                     C#
 tauriņa prieki - aplidot, nezinot
 
-G                           G7                C
+F#                           F#7                B
 dienas kā sākums, divdesmit četras stundas no vietas
-                                   D
+                                   C#
 es pārskaitu lietas, bet tevis tur nav - acis sāpīgi grauž
 
-         Bm            D       Em
+         A#m                   D#m
 un ne pa jokam es esmu tāds kā nobijies
-        Bm               D     Em
+        A#m                    D#m
 ar abām rokām pie sirdsapziņas pieķēries
-       C
+       B
 pārsteigums, izmisums, abiem mums noziegums
-    C9   D
+         C#
 par vēlu meklēt debesis peklē
 
-G
+F#
 tu esi no alvas
-C
+         F#7.          B
 kā finiša balva otrajā klasē
 
 distanču trasē
-D
+        C#
 tāds kā balts sasniegums
-G
+F#
 ir jau par vēlu
-C
+B
 meklēt ko cēlu es uzlieku rokas
 
 uz baltajām krūtīm
-D
+C#
 un iekūstu ādā lai sajuktu prātā
 
 4x
