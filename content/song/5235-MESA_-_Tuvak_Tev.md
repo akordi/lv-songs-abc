@@ -29,5 +29,30 @@ Un kad atvēŗsi acis,neredzēs,Tu man būsi jauna gaisma
 kur nekas vairs nesāpēs.
 
 Bagātākais tas uz zemes šīs,kas laimi nevis nopirkt spēs,
-bet to atradīs
+bet to atradīs.
+Tu vari mani labāku padarīt,būt karaliene tronī blakus savam
+Karalim.
+Tik daudz mums vajag vienam otru,mēs viena liela glezna
+Un kā divas mazas otas.
+Labirintu pilna uzgleznota mūsu dzīve,kas tik vētraina,bet
+Karsta ir ļoti.
+
+Piedz.
+
+Un kad būs 60 mums gadi,mēs abi stāvēsim un smaidīsim par to
+Cik bija labi. Un par to,kāds mums sazaļojis dārzs ir pie mājas.
+Skaitīsim,cik magnēti no ārzemēm bija pārvesti. (Ahh)
+
+Viss mans ir Tavs,viss Tavs ir mans šeit,jo nav nekas,kas
+Kopā būtu mūžam nepaveikts,es saku-viss mans ir Tavs,viss
+Tavs ir mans šeit un tāpat mums savā starpā vēl tik daudz kas
+Nepateikts. 
+Mēs jūtam laiku savādāk,tā liekas,ka tas abiem mums paliek parādā
+Tev un man renesance,caur katru mirkli kopā mēs no jauna piedzimstam.
+Un kā zvīņas nokritušas mums no acīm un mēs pēkšņi visu esam sapratuši
+
+Ka ja šo visu sasnieguši,būtu katrs pats par sevi,tad tas izrādītos tukši
+(Tukši,tukši)
+Piedzis.3x
+
 ```
