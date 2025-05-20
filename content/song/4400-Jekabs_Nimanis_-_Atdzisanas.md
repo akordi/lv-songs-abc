@@ -1,7 +1,7 @@
 ---
-title: "Atzīšanās"
+title: "Atdzīšanās"
 date: 2020-06-05T15:31:06+00:00
-url: /song/4400-Jekabs_Nimanis_-_Atzisanas
+url: /song/4400-Jekabs_Nimanis_-_Atdzisanas
 categories: ["Jēkabs Nīmanis"]
 tags: []
 draft: false

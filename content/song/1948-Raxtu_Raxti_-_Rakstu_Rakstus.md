@@ -31,7 +31,7 @@ Par saviem(i) paraudāji, paraudāji
 
 Tev serdīte izdegusi 
 Ļaužu karus karojoti, karojoti
-Sārta staple izstrūpuse 
+Zaru stakle iztrupuse 
 Putnu bērnus barojoti, barojoti
 
 Man zemīte sūta ziņu 
