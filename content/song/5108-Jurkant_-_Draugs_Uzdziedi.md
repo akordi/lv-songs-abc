@@ -16,7 +16,7 @@ Lai cik Tu tālu būtu
 Šo dziesmu Tev es sūtu
 Lai pāri laukiem, pļavām skrien 2x
 
-Fm | C | Gm | C
+F | C | G | C
 Draugs uzdziedi, ja skumji
 Draugs uzdziedi, ja līksmi
 Draugs uzdziedi, ja miers Tev dvēselē 2x
