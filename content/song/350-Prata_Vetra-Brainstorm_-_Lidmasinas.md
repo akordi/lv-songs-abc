@@ -59,13 +59,13 @@ Lidojam uz savu floti
 Ar samaļotiem
 
 (Jēē!)
-Kur ir man lidmašina?
-Kur ir man lidmašina?
-Kur ir man lidmašina?
+Kur ir mana lidmašina?
+Kur ir mana lidmašina?
+Kur ir mana lidmašina?
 Kur tā ir?
 
-Kur ir man lidmašina?
-Kur ir man lidmašina?
-Kur ir man lidmašina?
+Kur ir mana lidmašina?
+Kur ir mana lidmašina?
+Kur ir mana lidmašina?
 Kur tā ir?
 ```
