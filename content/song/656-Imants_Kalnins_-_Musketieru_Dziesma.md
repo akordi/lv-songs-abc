@@ -61,8 +61,8 @@ Bēgsi prom, bet sāpe paliks.
 Tas ir mūžs, un tas ir galīgs,
 Tas ir svētais, svētais “sākt”.
 
-Katru stundu, vismaz stundu,
-Katru mirkli, vismaz mirkli,
+Vienu stundu, vismaz stundu,
+Vienu mirkli, vismaz mirkli,
 Ja tu esi, tad tu neļauj,
 Neļauj cilvēcību krāpt.
 ```
