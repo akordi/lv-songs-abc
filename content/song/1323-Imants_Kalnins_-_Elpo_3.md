@@ -39,11 +39,11 @@ Pat tad, ja nejūti, kāpēc.
 Iespēle:
 F#m  .... G#
 
-G#     A     G#     G#
+G#    G#     A     G#
 Elpo dienu, elpo sauli,
 A      G#    A    G#
 Pārdarīto izelpo.
-G#     A     G#     G#
+G#   G#      A  G#
 Mēs joprojām esam jauni,
 A      G#    C#m    G#
 Atsacīties neprotot.
