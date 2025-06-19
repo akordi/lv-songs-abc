@@ -8,93 +8,70 @@ draft: false
 ---
 
 ```text
-Milžu cīņa – Dzeltenie Pastnieki
+Milžu cīņa, milžu cīņa!
 
-intro: [Gm C Dm Am Gm]
+Gm C Dm Am Gm
 
-
-Milžu cīņa 
-Milžu cīņa  
-Milžu cīņa 
-Milžu cīņa
- 
-         Gm             C         Dm
-Šiem milžiem atlikusi Viena iespēja
+     Gm               C          Dm
+Šiem milžiem atlikusi viena iespēja
           Am             Gm
-Tiem jāpiedalās Milžu cīniņā
-               C            Dm
-To translēs radio To rādīs TV
-               Am             G
-Par to tiks informēta Pasaule
+Tiem jāpiedalās milžu cīniņā
+            C               Dm
+To translēs radio, to rādīs TV
+            Am             G
+Par to tiks informēta pasaule
 
-Kas uzvarēs šai Milžu cīniņā
-To uzaicinās Piedalīties banketā
-Tam visi aplaudēs Un visi sauks
-To redzot visi Priecāsies un sauks
+Gm       C                 Dm
+ Kas uzvarēs šai milžu cīniņā
+             Am               Gm
+To uzaicinās piedalīties banketā
+         C                Dm
+Tam visi aplaudēs un visi sauks 
+          Am                 G                 
+To redzot visi priecāsies un sauks - milžu cīņa, milžu cīņa!
 
-G
-Milžu cīņa Milžu cīņa
-Em           D      Am Hm C
-Bet aizkulisēs Sačukstēsies
+Em   D          Am    C
+ Bet aizkulisēs sačukstēsies
 Em      D               Am
-Ziniet viņš jau ir tik Milzīgs milzis
-Em      D     Am    Hm C
-Un visi visi runās Teiks
-Em      D     Am9           Gm
-Viņš ir milzis nelaimīgais
+ Ziniet viņš jau ir tik milzīgs milzis
+Em  D          Am     C
+ Un visi, visi runās, teiks
+Em       D           Am      Gm
+ Viņš ir milzis nelaimīgais - Jo viņš jau ir milzis …
 
-(Jo viņš jau ir milzis)
+Šie milži izsalkuši, tiem nav ko ēst
+Tie taču nevar aiziet mežā lāčus plēst
+Tiem intelektuālas potences
+Tie nepavisam nav no provinces
 
-Šie milži izsalkuši Tiem nav ko ēst
-Tie taču nevar aiziet Mežā lāčus plēst
-Tiem intelektuālas Potences
-Tie nepavisam nav No provinces
+Tie katru rītu lasa avīzes
+Tie skatās visas jaunās izrādes
+Bet ko lai dara, tiem tā gribas ēst
+Tā gribas ēst, tā gribas, ka vai matus plēst … milžu cīņa, milžu cīņa!
 
-Tie katru rītu lasa Avīzes
-Tie skatās visas Jaunās izrādes
-Bet ko lai dara Tiem tā gribas ēst
-Tā gribas ēst Tā gribas ka vai matus plēst
+Em    D          Am    C
+  Bet aizkulisēs klusi runās –
+Em         D              Am
+  redziet, cik šis milzis nelaimīgs
+Em      D               Am   C
+  Tagad viņš ir divkārt nelaimīgāks
+Em        D            Am     Gm
+  Viņš ir milzis – uzvarētājs, viņš pazudinājis citu milzi … (izgājis no modes)
 
-Milžu cīņa Milžu cīņa
-
-Bet aizkulisēs Klusi runā:
-Redziet cik šis Milzis nelaimīgs
-Tagad viņš ir Divkārt nelaimīgāks
-Viņš ir milzis uzvarētājs 
-
-(Viņš pazudinājis citu milzi)
-
-Un aizkulisēs Sačukstēsies
-Redziet cik šis milzis Nelaimīgs
-Un visi visi Runās
-
-Cik viņš bija 
-Milzīgs
-Ar kādu apetīti
-Cīnījās
-Bet viņam bija ļoti
-Ļoti bail
-Kad cits milzis atnāks
-Un to apēdīs
-
-Un kas būs rīt
-Viņš ļoti uztraucās
-Vai viņš vēl modē
-Būs rīt bet varbūt nē
-Kas gan būs rīt 
-kurš milzis uzvarēs
-Kad šis būs beigts
-Un kurš nāks modē
-
-Un kuru visi sveiks
-Kad šis būs beigts
-Kas jauns būs rīt
-Mums arī šis jaunais milzis
-Drīz būs apnicis
-Un milzis atkal jūtās
-Izsalcis un milzis metās
-MILŽU cīņā.
-
-
-MRu
+Em  D          Am    C      Em         D              Am
+ Un aizkulisēs sačukstēsies - redziet, cik šis milzis nelaimīgs
+Em  D         Am         D         Em          Bm                Am
+ Un visi visi runās, cik viņš bija milzīgs, ar kādu apetīti cīnījās
+           D               Em                    Bm              Am
+ Bet viņam bija ļoti, ļoti bail, kad cits milzis atnāks un to apēdīs
+           D               Em                      Bm                Am    
+Un kas būs rīt - viņš ļoti uztraucās, vai viņš vēl modē būs rīt, bet varbūt nē
+            D  Em            Bm                   Am                   D
+Kas gan būs rīt, kurš milzis uzvarēs, kad šis būs beigts? Un kurš nāks modē?
+        Em               Bm      Am                    D
+Un kuru visi sveiks, kad šis būs beigts, kas jauns būs rīt?
+         Em          Bm                  Am             D                Em
+Mums arī šis jaunais milzis drīz būs apnicis! Un milzis atkal jutās izsalcis,
+          Bm          Am    D    Em    Bm    A   A   Am
+un milzis metās MILŽU cīņā.
 ```

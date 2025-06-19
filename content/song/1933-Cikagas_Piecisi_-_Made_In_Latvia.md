@@ -30,7 +30,7 @@ Nav nekas no plastikas vai importēts.
 
 Piedz.
    Jo mana mīļā ir "made in Latvia"
-   No mantu galiņiem līdz papēžiem. (2 r.)
+   No matu galiņiem līdz papēžiem. (2 r.)
 
 Par sīkiem mājas darbiem tā nesūdzas neko,
 Pat jumts ja iesāk tecēt, to ņem un nodarvo.
