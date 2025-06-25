@@ -22,11 +22,11 @@ G               C
 bet ārā jau sāk snigt
 
 Piedz.
-A
+Am
 un kā tev patīk mans
 C                   G
 mans lielais rakstāmgalds
-A
+Am
 un kā tev patīk tas
 C               G
 uz sienas rakstītais
@@ -46,11 +46,11 @@ jo visu laiku turpina snigt
 
 
 Piedz.
-A
+Am
 un kā tev patīk mans
 C                   G
 mans lielais rakstāmgalds
-A
+Am
 un kā tev patīk tas
 C              G
 uz sienas rakstītais
