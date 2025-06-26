@@ -32,7 +32,7 @@ Vari būt, vari nebūt, bet zini man vairāk nesāp jau
 
 Tā kā asins piles lapas krīt no kokiem tev zem kājām
 Klājot ceļu tumši sārtu
-Sakost lūpas sev, lai nevarētu tās naktī klusi čukstēt 
+Sakost lūpas sev, lai nevarētu tās nekad naktī klusi čukstēt 
 tavu vārdu
 Vairāk neatdot un iekrist domu ezerā un iegrimt tajā 
 lēni arvien dziļāk
