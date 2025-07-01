@@ -10,65 +10,67 @@ draft: false
 ```text
 C#m A C#m A C#m
 C#m     A
-vēlreiz vēl
+Vēlreiz vēl
         B                        C#m
-vēlreiz vēl man vienai lietū jāpaliek,
+Vēlreiz vēl man lietū vienai jāpaliek
        A
-kā lai zin'?
+Kā, lai zin'?
        B                           En
-kā lai zin',vai drīz tu spēsi sameklēt,
+Kā, lai zin', vai drīz tu spēsi sameklēt
      C
-mani tur,
+Mani tur
        D         
-kur es maldos savās domās,
+Kur es maldos savās domās
         Am
-gaidot brīnumu,
-     C
-kādu brīnumu,
-   D
-kā tu.
+Gaidot brīnumu
+     C         D
+Kādu brīnumu kā tu
+ 
 
-piedz.
+Piedziedājums
          Em
-lai būtu līdzās,
+Lai būtu līdzās
         C
-velreiz spētu sirdi vērt,
+Vēlreiz spētu sirdi vērt
          D
-lai būtu līdzās,
+Lai būtu līdzās
    G
-un ļautu noticēt,
+Un ļautu noticēt
          C        
-lai būtu līdzās,
+Lai būtu līdzās
 Am       Em     
-lai būtu līdzās.
+Lai būtu līdzās
 
 
 C#m    A
-vēlriz vēl,
+Vēleriz vēl
         B                      C#m
-vēlreiz vēl,man sevi ceļā pazaudēt,
+Vēlreiz vēl, man sevi ceļā pazaudēt
     A      B           
-nezinot, kāpēc un kā tas notiek,
+Nezinot, kāpēc un kā tas notiek
         Em
-bet vai tu,
+Bet vai tu
      C       D
-būsi man tas ceļš,kas mājup ved,
+Būsi man tas ceļš, kas mājup ved
        Am
-vai tu spēsi,
+Vai tu spēsi?
     C      D
-vai varēsi to.
+Vai varēsi to?
 
-piedz.
-         Gm
-lai būtu līdzās,
-        Eb
-velreiz spētu sirdi vērt,
-         F
-lai būtu līdzās,
-   Bb
-un ļautu noticēt,
-         Eb
-lai būtu līdzās.
+Piedziedājums
+         Em
+Lai būtu līdzās
+        C
+Vēlreiz spētu sirdi vērt
+         D
+Lai būtu līdzās
+   G
+Un ļautu noticēt
+         C        
+Lai būtu līdzās
+Am       Em     
+Lai būtu līdzās
+
 Eb              F              Cm
  zini,tomēr nemaz tik viegli nav,
                 F     
