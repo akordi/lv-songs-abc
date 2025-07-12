@@ -10,26 +10,26 @@ draft: false
 ```text
 Am
 Vienā valodā raud visi ļaudis,
-E Am
+B7 E
 Vienā valodā, valodā tie smej.
 Am
 Tikai dzimtā valoda dzēš sāpes,
-E Am
+B7 E
 Prieku dziesmas dod, atdod pasaulei!
 
-Am Dm Am Dm 
+Am F C Bb 
 Dzimtā valodā ir māte, māte,
-Am Dm Am Dm 
+Am F C Bb 
 Dzimtā valodā vīns vēl saldāks,
-Am Dm Am Dm Am E Am E
+Am F C Bb E
 Dzimtā valodā pasmejies pie sevis pats.
 
 Am
 Kad tu nespēsi ne dziedāt, ne raudāt,
-E Am
+B7 E
 Kad tu nespēsi vairs it nekā -
 Am
 Ar debesīm, zemi tu klusēsi,
-E Am
+B7 E
 Tas būs tavā dzimtā valodā.
 ```
