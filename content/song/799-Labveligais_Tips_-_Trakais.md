@@ -28,9 +28,9 @@ Man ir vaļā, Tev ir vaļā,
 Dibināsim "Trako partiju".
 
 Piedz.
-C            G
+C            E
 Trakais - no skatuves lec masā,
-Am            F
+F            Fm
 Trakais - lai masa Tevi kasa,
 C             G
 Trakais - lai kasās tas, kam niez,
