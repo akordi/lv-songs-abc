@@ -8,19 +8,19 @@ draft: false
 ---
 
 ```text
- G 
+Em         C
 Ja dzīve ir melodija,
- C
+G           D
 Tad es esmu melomāns, 
- G
+Em         C            G           D
 Ja laimi mēra bagātībā, tad es esmu MILJONĀRS. 
- D
+
 Es esmu miljonārs. 
  G     C    G    D
 Aaa..............es esmu miljonārs
 
 
-                 G
+                 Em
 Ja mīlēt, tas ir dot,
                     C
 Ņemiet visu, ņemiet visu, kas man ir. 
@@ -28,7 +28,7 @@ Ja mīlēt, tas ir dot,
 Ja paradīze mākoņos, 
                  D
 Tad tikai solis, solis no tās mani šķir. 
- G
+Em
 Un ja dzīve, būtu kā kauss, 
 Es to ņemtu un izdzertu sausu. 
  C
@@ -42,17 +42,17 @@ Ja tu piekrīti tam, kas pausts,
 Paņem un velti sev aplausus.. 
 
 Piedz.
- G 
+Em         C
 Ja dzīve ir melodija,
- C
+G           D
 Tad es esmu melomāns, 
- G
-Ja laimi mēra bagātībā, tad es esmu MILJONĀRS. 
+Em         C            G           D
+Ja laimi mēra bagātībā, tad es esmu MILJONĀRS.
  D
 Es esmu miljonārs. 
- G     C    G    D
+Em     C    G    D
 Aaa..............es esmu miljonārs 2x
-               G
+               Em
 Kas meklē atradīs, 
                     C       
 Ja ne šodien, ja ne šodien, varbūt rīt.   
@@ -60,7 +60,7 @@ Ja ne šodien, ja ne šodien, varbūt rīt.
 Ja ne šeit, tad debesīs, 
                   D
 Tikai mazliet, mazliet pacietības. 
- G
+Em
 Ja nu rīt, mani veiksme sauc, 
 Tad es ceru, ka tās ir daudz.
  C
