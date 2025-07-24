@@ -17,6 +17,11 @@ Lai es zinu, ka kāds mani sargā
 A#                   C
 Kāds par mani ir nomodā.
 
+Lai tā sajūta paliek uz mūžiem,
+Ka es vairs neesmu viens,
+Tikai tagad var saprast pa īstam,
+Cik svarīgs šis pieskāriens.
+
 
 Dm                A#
 Māte darīja tā un teica:

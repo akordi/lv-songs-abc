@@ -13,7 +13,7 @@ Vismīļā Māte Marija, dod savam dēlam padomiņu
             F      B7           E              Am
 Lai iesēj mūsu zemītē tik mīlu vien, tik mīlu vien
         Am               E7                        Am
-To mīlu, kas no zemes cels, būs viņa paradīzes dārzā
+To mīlu, kas no zemes cels mūs viņa paradīzes dārzā
             F            B7            E               Am
 Kur tumsas, naida baiļu nav, tik mīla vien, tik mīla vien
 
@@ -33,7 +33,7 @@ Piedz.
 Ak, mīļā Māte Marija, Tu Māras zemes karaliene
 Ak, mīļā Māte Marija, Tavs dēls ir mūsu cerība
 
-Ak, mīļā Māte Marija, Tu M;aras zemes karaliene
+Ak, mīļā Māte Marija, Tu Māras zemes karaliene
 Ak, mīļā Māte Marija, Tavs dēls ir mūsu ticība. 
 
 ```
