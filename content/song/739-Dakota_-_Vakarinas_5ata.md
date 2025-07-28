@@ -16,7 +16,7 @@ Piecās [E] glāzēs ieliets “Burgundijas” [A] vīns
 Un mēs sēdēsim pie vakariņu galda
 Sev tik saprotamus jokus stāstīsim
 Lai mums liekas viss kā medusmaize salda
-Un par to piecas vīna glāzes pacelsim
+Par to piecas vīna glāzes pacelsim
 
 Iespēle: D | D G A | D | D G A 
 
