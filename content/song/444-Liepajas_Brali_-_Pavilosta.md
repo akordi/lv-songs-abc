@@ -10,11 +10,11 @@ draft: false
 ```text
 F
 Kur Akmenrags no vienas puses
-B           F
+Bb              F
 aizstur vēju un Labrags otrā pusē
-           B Am Gm
+           Bb    Gm7
 jūru mierina,tur zvejnieksievas vētras laikā
-C               B                   C
+C             Bb                   C
 Vāra tēju kad vīri lēni pietuvojas ostmalai
 
 
@@ -25,13 +25,13 @@ nekādi vēji tevi neizputinās
 
 2*
 Piedz.
-F               B
+F               Bb
 Ai Pāvilosta ai Pāvilosta
-                      C
+Gm7                   C
 tu jūras mezglā sietā josta
-   F            B
+   F            Bb
 Ai Pāvilosta ai Pāvilosta
-                 C7
+Gm7                      C7
 nekādi vēji tevi neizputinās
 
 
