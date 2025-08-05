@@ -29,15 +29,15 @@ C            G
 Nāc ar mani, princesīte,
 F          C
 Zālē rasas padzerties,
-G          F           G		     
+C          F       G    Am	F-G	     
 Ēnu prinči pilnu kausu lies. 
 C           G
 Dziedi savu rasas dziesmu,
 F           C
 Dziedi savu sirdi man,
-G                   F     G
+C                F-G        Am
 Lai tie tavi baltie vārdi skan,
-F   G
+G   C
 Lai skan.
 
 C
@@ -63,18 +63,14 @@ C           G
 Princesīte, princesīte, 
 F             C
 Mazā zvaigznē pārvērtās,
-G                 F      G        
+C               F-G      Am         C-G
 Vēl tā manu sirdi piedziedās.
 C           G  
 Kur ir mani labie vārdi,
 F           C
 Kur ir mana sapņu sirds?
-F                         F        G
+C                 F          G       Am
 Nav nekā tik plaukstā vēl zvaigzne mirdz,
-F   G 
+G   C 
 Vēl mirdz.
-
-Manuprat ta varetu spēlēt!!!
-
-KAKTUSS
 ```
