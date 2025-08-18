@@ -1,8 +1,8 @@
 ---
 title: "Līgo, bērniņ"
 date: 2024-06-23T06:06:48+00:00
-url: /song/5133-Melns_And_Mirdzoss_-_Ligo_Bernin
-categories: ["Melns & Mirdzošs"]
+url: /song/5133-SkaneJums_-_Ligo_Bernin
+categories: ["SkanēJums"]
 tags: ["līgo"]
 draft: false
 ---
