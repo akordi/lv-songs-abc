@@ -10,16 +10,16 @@ draft: false
 ```text
 [C] Asarās mazgāju bruģi stāvot zem tava [G] lodziņa
 Es tavs diedziņš, tu mana [C]  podziņa
-Kā lai [Fm] piešuju tevi klāt, kādiem [C] vārdiem pierunāt
+Kā lai [F] piešuju tevi klāt, kādiem [C] vārdiem pierunāt
 Es tavs [G]  diedziņš, Tu mana [C]  podziņa
 
 [C] Caur adat actiņām klusiņām, tiksi man [G] klāt
 Dzīpariem mīlīgiem varēsi mani saval- [C] -dzināt
-Kā lai [Fm]  piešuju tevi klāt, kādiem [C]  vārdiem pierunāt
+Kā lai [F]  piešuju tevi klāt, kādiem [C]  vārdiem pierunāt
 Es tavs [G] diedziņš, Tu mana [C] podziņa
 
 [C] Kautrīgiem valdziņiem izdevies man tevi saval- [G] -dzināt
 Apķēris podziņu , sirsniņas abiem mums smaidīt [C] sāk
-Kā lai [Fm] piešuju tevi klāt, kādiem [C] vārdiem pierunāt
+Kā lai [F] piešuju tevi klāt, kādiem [C] vārdiem pierunāt
 Es tavs [G] diedziņš, Tu mana [C] podziņa
 ```

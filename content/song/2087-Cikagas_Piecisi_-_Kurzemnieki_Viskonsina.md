@@ -65,10 +65,10 @@ Nez ko dara Līne,
 Vīri savu jaunību
 Atstāj Viskonsīnā.
 
-Pūt, vējiņi - nāk un spīd,
+Pūt, vējiņi - nāk mums līdz,
 Raudam mēs vai smejam,
 Ar šo dziesmu piedzimām,
-Ar viņu kopā ejam.
+Ar viņu kapā ejam.
 
 Pūt, vējiņi - darbā skan,
 Skan, kad kopā dzeram,

@@ -35,7 +35,7 @@ Visu naudu nodzēris.
 
 (pēc šī pantiņa, melodiju transponē uz augšu, tagad ir D#, A# un G# akordi)
 
-Flirtē, uzdzīvo kā traks,
+Plītē, uzdzīvo kā traks,
 Paliek viņš pavisam švaks.
 
 Šodien gavilē un smej,

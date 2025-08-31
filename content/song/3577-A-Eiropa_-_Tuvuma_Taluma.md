@@ -8,18 +8,25 @@ draft: false
 ---
 
 ```text
-Zini, savādās rotaļās ir tā
-Ir jālido tālu, tālumā
-Zini, man, sirdī nav nekā
-Tikai saule tuvu, tuvumā!
+[Fm] Zini, savādās [Db] rotaļās ir [Ab] tā
+Ir jālido [Cm] tālu, tālumā  [Fm][Db][Ab][Cm]
+[Fm]           [Db]        [Ab]
+[Fm] Zini, man, sirdī nav nekā
+Tikai saule [Cm] tuvu, tuvumā!  [Fm][Db][Ab][Cm]
 
-...na na nā - tālu, tālumā!
-Na, na, nā - tuvu, tuvumā!
+   [Fm][Db][Ab][Cm]
+ ... na na nā - tālu, tālumā!  [Fm][Db][Ab][Cm]
+   [Fm][Db][Ab][Cm]
+ ... na, na, nā - tuvu, tuvumā!  [Fm][Db][Ab][Cm]
 
+[Fm]    [Db]         [Ab]
 Ir zīmes debesīs no nekā,
-Tās parādās tālu, tālumā
-Saki, kēpēc vienmēr jābūt tā
-Tikai sāpes tuvu, tuvumā!
+Tās parādās [Cm] tālu, tālumā  [Fm][Db][Ab][Cm]
+[Fm] Saki, kāpēc [Db] vienmēr jābūt  [Ab] tā
+Tikai sāpes [Cm] tuvu, tuvumā!  [Fm][Db][Ab][Cm]
 
-Fm C# G# Cm
+   [Fm][Db][Ab][Cm]
+ ... na na nā - tālu, tālumā!  [Fm][Db][Ab][Cm]
+   [Fm][Db][Ab][Cm]
+ ... na, na, nā - tuvu, tuvumā!  [Fm][Db][Ab][Cm]
 ```
