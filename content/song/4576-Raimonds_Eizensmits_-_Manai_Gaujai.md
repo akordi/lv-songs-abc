@@ -8,9 +8,6 @@ draft: false
 ---
 
 ```text
-Manai Gaujai                                   
-                                                        
-
 Šī dziesma vairs jādzied nav blāzmainā rietā,
 Neviens nevar iztraucēt mūs, - 
 Es tevi tā mīlu, ka asiņu vietā           

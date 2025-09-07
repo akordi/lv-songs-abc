@@ -17,9 +17,9 @@ D ----------------------0-----------0----------------
 A --3--------3---------------------------------------
 E ---------------------------------------------------
 
-..sometimes I feel like a waterfall
-..water runs still..
-..the river goes up the hill, up the hill..
+Sometimes I feel like a waterfall
+Water runs still..
+The river goes up the hill, up the hill..
 
 Sometimes I [C] feel like a [D] waterfall, like a [F] waterfall [F7] [Fm] 
 Sometimes I [C] feel like a [D] waterfall, like a [F] waterfall [F7] [Fm] 

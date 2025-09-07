@@ -31,7 +31,7 @@ Paliec tā, ko gribēt
 Bm                        A
 Vēlos degot dzirkstelēs un kvēlot
 D           Bm
-Tevī rīta  zvaizgnē palikt
+Tevī rīta  zvaigznē palikt
 Bm                 A
 Laimes saujām ceļā kaisot
 

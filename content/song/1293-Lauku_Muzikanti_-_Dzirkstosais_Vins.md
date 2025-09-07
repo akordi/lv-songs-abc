@@ -8,10 +8,6 @@ draft: false
 ---
 
 ```text
-Dzirkstošais Vīns
-
-Lauku muzikanti
-
 Am                                    Am G C
 Bij` vakars vēls, un klejoju pa ielu gaismoto,
 C                                   C F G
@@ -25,8 +21,9 @@ Par dzīves grūtībām, ko viņi šodien skatīja
           Am          E            Am
 Tie mani redzēja un sauca dziedāt līdz.
 
-        F
-P…	Vīns rūgtākais dos spēku tavai dzīvei,
+Piedz.
+F
+Vīns rūgtākais dos spēku tavai dzīvei,
  C
 Vīns skābākais būs dzirkste tavai brīvei,
 G
@@ -55,8 +52,9 @@ Vai redzi rītu saulaino, kas jaunu dienu sveiks,
           Am          E            Am
 Nav dzīvē grūtības, ko nevar pārvarēt.
 
-    F
-P…	Vīns rūgtākais dos spēku tavai dzīvei,
+Piedz.
+F
+Vīns rūgtākais dos spēku tavai dzīvei,
  C
 Vīns skābākais būs dzirkste tavai brīvei,
 G
@@ -76,10 +74,5 @@ Vīns dzirkstošais dos prieku tavai dzīvei,
 Vīns dzirkstošais vērs ceļu tavai brīvei,
 Vīns dzirkstošais liks aizmirst rūpes, raizes,
 Vīns dzirkstošais.
-
-
-
-
-(Cālis)
 
 ```

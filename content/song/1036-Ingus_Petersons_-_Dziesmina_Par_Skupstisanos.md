@@ -17,12 +17,16 @@ Nez kādēļ par mani meitenes nosmīn,
 C                 G           C
 Lai gan runā – es esot puisis glīts.
 
+C                                       Dm
 Ciemā nav nevienas meitenes,
+G                                  C
 Kuru būtu noskūpstījis es.
+C             C7          F                 Fm
 Smejas tās - man trūkstot vīra drosmes,
+C                      G                 C
 Dejot māk, bet nemāk pavadīt.
 
-piedz:
+Piedz.
 Dm
 Pajokojam - bet es nejokoju,
 C
@@ -36,10 +40,14 @@ Apvaino, ja nenoskūpstī,
 Dm                       C
 Apvaino, ja prasa to, ko drīkst.
 
+C                                   Dm
 Ja jau tā - bij’ jālabojas man
+G                                                C
 Un jo drīz jau citāds spriedums skan.
+C                     C7                  F                 Fm
 Nu tās teic - es pārāk kļuvis drosmīgs,
+C                       G                   C
 Gribot viens vai visām doties līdz.
  
-piedz:
+Piedz.
 ```

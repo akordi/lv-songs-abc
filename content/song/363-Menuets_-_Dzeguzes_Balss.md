@@ -78,5 +78,5 @@ Hali-gali un šeika vietā
 Vienu dzeguzes balsi pirkt!
 
 
-Em/B = x22000
+
 ```

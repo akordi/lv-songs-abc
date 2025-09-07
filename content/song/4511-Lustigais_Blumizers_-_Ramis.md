@@ -3,35 +3,39 @@ title: "Rāmis"
 date: 2020-06-11T11:40:45+00:00
 url: /song/4511-Lustigais_Blumizers_-_Ramis
 categories: ["Lustīgais blūmīzers"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-1.G                 C           G
-Pie sienas ir rāmis un tas arī viss
-G                     C         G
-Tam Saule spīd cauri-tas noputējis.
-G    D             G
-Ja gribi-ņem nost un projām svied,
-G    D                  G
-Bet caurumam sienā ir jāpaliek,
-G     C               D          G
-Pie sienas ir rāmis - un tas arī viss.
+Pie [G] sienas ir rāmis [C] un tas arī [G] viss
+[G]                   [C]      [G]
+Tam Saule spīd cauri- tas noputējis.
 
-2. Reiz tam bij stikls un reiz tur bij stāsts,
-Bet ļaužu burzmā to aizķēra kāds.
-Tam saplīsa stikls un izgaisa stāsts,
-Kaut rāmi pie sienas kautri pielika kāds.
-Pie sienas ir rāmis un tas arī viss.
+  Ja [D] gribi- ņem nost un [G] projām svied,
+  Bet [D] caurumam sienā ir [G] jāpaliek,
+  Pie [C] sienas ir rāmis - un [D] tas arī [G] viss.
+    Ja [D] gribi- ņem nost un [G] projām svied,
+    Bet [D] caurumam sienā ir [G] jāpaliek,
+    Pie [C] sienas ir rāmis - un [D] tas arī [G] viss.
 
+[G] Reiz tam bij stikls [C] un reiz tur bij [G] stāsts,
+[G] Bet ļaužu burzmā [C] to aizķēra [G] kāds.
 
-3. Ja rāmī nav bilde, ja rāmī nav stāsts,
-Diez vai tad rāmi pamana kāds?
-Es būšu rāmis, lai izpaliek stāsts,
-Tu redzi bildi, to kāds Tu nāc.
-Pie sienas ir rāmis un tas arī viss.
+  Tam [D] saplīsa stikls un [G] izgaisa stāsts,
+  Kaut [D] rāmi pie sienas kautri [G] pielika kāds.
+  Pie [C] sienas ir rāmis un [D] tas arī [G] viss.
+    Tam [D] saplīsa stikls un [G] izgaisa stāsts,
+    Kaut [D] rāmi pie sienas kautri [G] pielika kāds.
+    Pie [C] sienas ir rāmis un [D] tas arī [G] viss.
 
-            Pievienoja Viktors Neilands
+Ja [G] rāmī nav bilde, [C] ja rāmī nav [G] stāsts,
+[G] Diez vai tad rāmi [C] pamana [G] kāds?
 
+  Es [D] būšu rāmis, lai [G] izpaliek stāsts,
+  Tu [D] redzi bildi, [G] to kāds Tu nāc.
+  Pie [C] sienas ir rāmis un [D] tas arī [G] viss.
+    Es [D] būšu rāmis, lai [G] izpaliek stāsts,
+    Tu [D] redzi bildi, [G] to kāds Tu nāc.
+    Pie [C] sienas ir rāmis un [D] tas arī [G] viss.
 ```
