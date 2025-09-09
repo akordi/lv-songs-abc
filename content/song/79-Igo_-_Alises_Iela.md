@@ -1,5 +1,5 @@
 ---
-title: "Alises iela"
+title: "Alises Iela"
 date: 2007-02-26T22:00:00+00:00
 url: /song/79-Igo_-_Alises_Iela
 categories: ["Igo"]

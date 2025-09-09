@@ -11,7 +11,7 @@ draft: false
 2x pants, 1x piedz. 1x pants. capo 7. 
 
 Em 
-Lai man elpas vilciens
+Lai mans elpas vilciens
 G
 Lai mans katrs vārds
 C 
@@ -48,7 +48,7 @@ spēks.
 
 
 Em 
-Lai man elpas vilciens
+Lai mans elpas vilciens
 G
 Lai mans katrs vārds
 C 

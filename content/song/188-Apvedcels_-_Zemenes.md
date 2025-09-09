@@ -13,8 +13,11 @@ Mēs [F#m] gandrīz katru dienu bijām [B] kopā
 Gan uz [E] skolas sola, gan uz tāfe[A]les
 Kā [F#m] mācēju es rakstu Tavu [B] vārdu
 
-  [E] Pē-ē-ē-dējo [A] reiz, tā [F#m] gribētos ar Tevi atkal [B] kopā
-  [E] Pē-ē-ē-dējo [A] reiz, būt [F#m] mūsu pielijušā vasa[B]rā
+Piedz.
+[E] Pē-ē-ē-dējo [A] reiz,
+Tā [F#m] gribētos ar Tevi atkal [B] kopā
+[E] Pē-ē-ē-dējo [A] reiz, 
+Būt [F#m] mūsu pielijušā vasa[B]rā
 
 Vai [E] atceries kā uzsmaidīja [A] gaiss
 Kā [F#m] lietū gājām lasīt zeme[B]nes
@@ -26,6 +29,9 @@ Un [F#m] mūsu bērni tagad vienā [B] klasē
 Tu [E] vienmēr būsi mana meite[A]ne
 No [F#m] mūsu pielijušās vasa[B]ras
 
-  [E] Pē-ē-ē-dējo [A] reiz, tā [F#m] gribētos ar Tevi atkal [B] kopā
-  [E] Pē-ē-ē-dējo [A] reiz, būt [F#m] mūsu pielijušā vasa[B]rā
+Piedz.
+[E] Pē-ē-ē-dējo [A] reiz,
+Tā [F#m] gribētos ar Tevi atkal [B] kopā
+[E] Pē-ē-ē-dējo [A] reiz, 
+Būt [F#m] mūsu pielijušā vasa[B]rā
 ```

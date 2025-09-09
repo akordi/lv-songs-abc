@@ -22,14 +22,16 @@ Tā tu atnāci mani sargāt
 G               D
 Projām aizgāji kā arvien
   
-
+G         
 Ja tu atkal atpakaļ nāksi
+ Em
 Redzēsi jūrmalu kailu un sēru
+Am            C
 Un tu dvēseli meklēt sāksi 
+G                  D
 Kuru tev vakar vēl vaļā vēru
 
 Piedz.
-   
         G
 Bet tā kaija virs jūras lido
          Em

@@ -17,10 +17,15 @@ Paņem nakti azotē
 E     B         C#m  B
 Atdod sevi nesaudzē
 
-E               C#m                    A              E
-Mamma man teica seko saviem sapņiem un meitenes sekos tev
-E               C#m                    A              E
-Mamma man teica seko saviem sapņiem un meitenes sekos tev
+Piedz.
+E               C#m                  
+Mamma man teica seko saviem sapņiem 
+   A              E
+Un meitenes sekos tev
+E               C#m                   
+Mamma man teica seko saviem sapņiem
+   A              E
+Un meitenes sekos tev
 
 E                      C#m
 Laiku pa laikam laurus plūc
@@ -38,10 +43,14 @@ Laiku pa laikam pa straumi šļūc
 Laiku pa laikam uz lūpām rūgts
                  E
 Tas ir alus vai skūpsts
-E                                          C#m 
-Atteikumus pieņemam, taču pie tiem mēs nepierodam
-A                        E
-Ballējam, bet neizguļam, miegam mēs stundas neatdodam
+E                                     
+Atteikumus pieņemam, 
+C#m 
+Taču pie tiem mēs nepierodam
+A                        
+Ballējam, bet neizguļam, 
+E
+Miegam mēs stundas neatdodam
 
 E            B     C#m     B
 Ei, mās, ar dzīvi nekaulē
@@ -52,26 +61,40 @@ Paņem nakti azotē
 E     B         C#m  B
 Atdod sevi nesaudzē
 
-E               C#m                    A              E
-Mamma man teica seko saviem sapņiem un meitenes sekos tev
-E               C#m                    A              E
-Mamma man teica seko saviem sapņiem un meitenes sekos tev
+Piedz.
+E               C#m                  
+Mamma man teica seko saviem sapņiem 
+   A              E
+Un meitenes sekos tev
+E               C#m                   
+Mamma man teica seko saviem sapņiem
+   A              E
+Un meitenes sekos tev
 
-
-E                                            C#m
-Māsām vairāk mīlestības, brāļiem vairāk pacietības
-E                                          C#m
-Māsas brāļus sagaidīs, brāļi māsas apzeltīs
+E                              
+Māsām vairāk mīlestības, 
+C#m
+Brāļiem vairāk pacietības
+E                            
+Māsas brāļus sagaidīs, 
+C#m
+Brāļi māsas apzeltīs
 E 
 Še, Tev mana sirds plēs to pušu 
 C#m
 Tu un es būsim konglomerāts
-E                                            C#m
-Bohēmā redzu vairāk plusu, nekā mans ģimenes ārsts
-E                                          C#m 
-Atteikumus pieņemam, taču pie tiem mēs nepierodam
-A                                             E
-Ballējam, bet neizguļam, miegam mēs stundas neatdodam
+E                                   
+Bohēmā redzu vairāk plusu, 
+         C#m
+nekā mans ģimenes ārsts
+E                       
+Atteikumus pieņemam, 
+C#m 
+taču pie tiem mēs nepierodam
+A                               
+Ballējam, bet neizguļam, 
+E
+miegam mēs stundas neatdodam
 
 E            B     C#m     B
 Ei, brāl, ar dzīvi nekaulē

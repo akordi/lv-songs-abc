@@ -34,6 +34,6 @@ Vecais zābaciņš, manā bērnībā,
 Kā lai projām, projām to sviež?
 F7     Bb              F/A
 Vecais zābaciņš, mātes gādātais,
-    Gm     F
+    Gm  C   F
 Nepanesami spiež.
 ```
