@@ -9,11 +9,11 @@ draft: false
 
 ```text
 C D Bm Em Am D
-G               D
+G               
 Mammīt, es tavs pūpolīts,
    Am7       D
 Tu mana pienenīte!
-G             D
+G             
 Skrienu es kā kamolīts,
    Am       D
 Tu līdz kā adatiņa.
@@ -26,24 +26,37 @@ Mammīte, bitīte, es tava puķīte,
 Am                  D    G
 Mammīte labiņā - tu mīļa man!
 
+G
 Rītos tu man saulīte,
+   Am7            D
 Es naktīs zvaigznīte.
+G
 Jo bieži tevi saucu,
+   Am         D
 Un tavu miegu jaucu,
 
-Piedz.
-
+Piedz. 
+C                        D
 Mammīte, bitīte, es tava puķīte,
+Bm                       Em
 Mammīte, bitīte, es tava puķīte,
+Am                  D    G
 Mammīte labiņā - tu mīļa man!
 
+G
 Ir naktis garas, tumšas,
+   Am7            D
 Bez tevis tukšas, skumjas,
+    G
 Pie tevis maigi kļaujos,
+   Am             D
 Un beidzot miegam ļaujos!
 
 Piedz. 
+C                        D
 Mammīte, bitīte, es tava puķīte,
+Bm                       Em
 Mammīte, bitīte, es tava puķīte,
+Am                  D    G
 Mammīte labiņā - tu mīļa man!
 ```

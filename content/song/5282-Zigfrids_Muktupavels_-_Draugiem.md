@@ -30,11 +30,11 @@ Mūžības mīklu bez atbildes min.
 E       B            E
 Nezinu, mācīties serenādes, 
         B                  E
-vai arī bulvāŗos logus iet sist. 
+vai arī bulvāros logus iet sist. 
 A         B    G#m       C#m
 Draugi no rīta atnāks un lādēs: 
 F#m       E       B          E
-vai tava smadzeņu svece sāk dzist? 
+Vai tava smadzeņu svece sāk dzist? 
 
 E       B                     E
 Cīruļi, saule kad sniegu prom slauka, 
