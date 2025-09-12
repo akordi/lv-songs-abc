@@ -23,9 +23,13 @@ Ka mēs mākam smaidīt klusi
 Braucot visi, braucot visi
 Braucot vienā virzienā
 
+A    F#m     D       E
 Kāda laimīga sagadīšanās
+A      F#m         D   E
 Kur es braucu, kur eju es
+      D         E         C#m     F#m
 Visur hi, visur he, visur ha- ha- ha
+Bk              E
 Kas par lustīgu rēdereju
 
 Kad gar logiem slīd mājas pilsētas

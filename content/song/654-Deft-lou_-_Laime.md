@@ -13,17 +13,17 @@ B||----------3-3-3-3-3-3-3-3-3-3-3-3-------------------|
 G||------------------0-0-0-0-0-0-0-0-------------------|
 D||--------------------------0-0-0-0-------------------|
 
-G                   D   C        Am
-Vai k?dam šaj? pasaul? laime st?v kl?t?
-Vai t?s ir m?su iedomas, vai vi?a vienk?rši sl?pjas?
-Vai vi?u var nopirkt veikal?, vai atrast uz ielas?
-Vai vi?u var aiz?emties no k?da drauga?
+G           D    C        Am
+Vai kādam šajā pasaulē laime stāv klāt?
+Vai tās ir mūsu iedomas, vai viņa vienkārši slēpjas?
+Vai viņu var nopirkt veikalā, vai atrast uz ielas?
+Vai viņu var aizņemties no kāda drauga?
 
 Piedz:2x
-D             G  C               Am
-To m?s nezin?sim pirms neatrad?sim vi?u
-Bet ja atrad?sim vi?u, tad pras?sim lai
-E       C          Am             G 
-Beidzas karš starp valst?m un starp mums
-Lai visi dz?vo mier? un saska??
+D           G  C          Am
+To mēs nezināsim pirms neatradīsim viņu
+Bet ja atradīsim viņu, tad prasīsim lai
+E        C        Am         G
+Beidzas karš starp valstīm un starp mums
+Lai visi dzīvo mierā un saskaņā
 ```

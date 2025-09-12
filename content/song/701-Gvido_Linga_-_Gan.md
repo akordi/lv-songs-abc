@@ -8,7 +8,7 @@ draft: false
 ---
 
 ```text
-IESP?LE:    C Am F
+Iespēle:    C Am F
 
 e--8--7-------------8--7-------------8--7-------------8--7------------------
 b---------10--8------------8--10-----------8--10-----------8---------------
@@ -16,33 +16,32 @@ g------------------------------------------------------------------9------------
 
 
 C
-K?deiz t?lu, kad j?iet ir prom
-Am                  F
-Raisies proj?m no spožuma nost
+Kāpēc tālu, kad jāiet ir prom
+Am           F
+Raisies projām no spožuma nost
 C
-Nesaki ka br?numu nav
-Am             F
-Zin?t visu ir nezin?t neko
+Nesaki ka brīnumu nav
+Am           F
+Zināt visu ir nezināt neko
 
-Am             Dm
+Am           Dm
 Un kas tu esi, laime vai sods
 
-
 PIEDZ:
-Am                     Dm
-Gan, gan jau k?dreiz gan
-           G                        C
-Skumjas izgais?s un viegl?k paliks r?t
-         Am                   Dm
-Es saku gan, gan jau k?dreiz gan
-         G               E
-Skumjas izgais?s un tad viegl?k paliks r?t
+Am           Dm
+Gan, gan jau kādreiz gan
+G           C
+Skumjas izgaisīs un vieglāk paliks rīt
+Am            Dm
+Es saku gan, gan jau kādreiz gan
+G           E
+Skumjas izgaisīs un tad vieglāk paliks rīt
 
-IESP?LE
+Iespēle
 
-PANTS
+Pants
 
-PIEDZ x2
+Piedz x2
 
-IESPELE
+Iespēle
 ```

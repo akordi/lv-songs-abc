@@ -16,33 +16,32 @@ Piedz:
 |C|D|G|Em|
 
 O
-Tu lieliski zini, tas skan jau k? likums.
-Tev pieder?s mans m?ža p?rpalikums.
-Septi?as dienas vai piecdesmit gadi,
-Cik iztur?s aknas un asins vadi.
-No manis, k? v?rieša palika p?ri
-Dziesmi?a viena un memu?ri.
+Tu lieliski zini, tas skan jau kā likums.
+Tev piederēs mans mūža pārpalikums.
+Septiņas dienas vai piecdesmit gadi,
+Cik izturēs aknas un asins vadi.
+No manis, kā vīrieša palika pāri
+Dziesmiņa viena un memuāri.
 Es eju pa gaisu, kur albatrosi,
 Kaut beigusies uguns un papirosi
 
-Nevar paredz?t, cik liels b?s att?lums
-L?dz n?košaj?m k?z?m un starp mums.
-Nevar atmin?t, tik liels ir nosl?pums,
-Un m?kla ar? dzen, ka tas skan.
+Nevar paredzēt, cik liels būs attālums
+Līdz nākošajām kāzām un starp mums.
+Nevar atminēt, tik liels ir noslēpums,
+Un mīkla arī dzen, ka tas skan.
 
-
-Šis triks v?l nav beidzies-
-Es vienk?rši steidzos
+Šis triks vēl nav beidzies-
+Es vienkārši steidzos
 Un piedalos numuros nepareizos.
-Tom?r es baidos, man rakst?ts uz pieres,
-Lai man? viet? lec kaskadieris.
-J? – j? – j? - j?
+Tomēr es baidos, man rakstīts uz pieres,
+Lai manā vietā lec kaskadieris.
+Jā – jā – jā - jā
 
-Nevar paredz?t, cik liels b?s att?lums
-L?dz n?košaj?m k?z?m un starp mums.
-Nevar atmin?t, tik liels ir nosl?pums,
-Un m?kla ar? dzen, ka tas skan.
+Nevar paredzēt, cik liels būs attālums
+Līdz nākošajām kāzām un starp mums.
+Nevar atminēt, tik liels ir noslēpums,
+Un mīkla arī dzen, ka tas skan.
 
-Nevar paredz?t, nevar atmin?t.
-Nevar paredz?t, nevar atmin?t.
+Nevar paredzēt, nevar atminēt.
+Nevar paredzēt, nevar atminēt.
 ```

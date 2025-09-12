@@ -8,26 +8,21 @@ draft: false
 ---
 
 ```text
-????? ? ??????: ?. ??????????
-
-
-A#/F--------A#/F#-A#/G A#/F# A#/F……..
+A#/F        A#/F# A#/G A#/F# A#/F……..
 Time flies away and we quickly forget
-G-----------------------------------------Hm
+G                                         Hm
 Autumn and spring, maybe favorite friends.
-E-------------------------------------------------G
+E                                                 G
 Time flies away and we lose fragments of heart.
 
- 
-
------------------------D------------------------------------E
+                       D                                    E
 I don’t know who I am. You don’t know who you are.
 
-------------------------G--------------------------------D
+                        G                                D
 
 I don’t know who I am. We don’t know who we are.
 
-----------E
+          E
 
 Who we are.
 
@@ -35,11 +30,11 @@ Who we are.
     I change my style you can break many hearts.
     Time flies away and we lose fragments of life.
 
- G--------------------------D            
+ G                          D            
 
 Our life’s so fast like a river
 
------Am7----------------C
+     Am7                C
 We fall and we rise to above
 We know famous people and main creation
 We live in such a dangerous world.

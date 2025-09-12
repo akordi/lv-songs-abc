@@ -1,7 +1,7 @@
 ---
-title: "Tev es nemelotu (ar vardiem)"
+title: "Tev Es Nemelotu 3"
 date: 2009-12-17T22:00:00+00:00
-url: /song/1088-Z-Scars_-_Tev_Es_Nemelotu
+url: /song/1088-Z-Scars_-_Tev_Es_Nemelotu_3
 categories: ["Z-Scars"]
 tags: []
 draft: false
@@ -32,5 +32,4 @@ Tur, kur manis nav, bet tur, kur esi tu
 Lai kur arī būtu, es tevi atrastu
 Tur, kur manis nav, bet tur, kur esi tu
 Lai kur arī būtu, es tevi atrastu...
-By ZimaX
 ```

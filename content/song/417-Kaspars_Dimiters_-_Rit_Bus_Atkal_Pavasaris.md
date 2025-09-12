@@ -76,7 +76,9 @@ Tev un man paliks pāri kā vienmēr viens santīms un viens gars
 Tas nekas ka vakar jau bija - rīt atkal būs pavasars
 
 
-orģinālā tonalitāte dziesmai ir Cm, bet tad ir jāspēlē ar kapodastru. Nofiksējam stīgas uz trešās ladas un spēlejam ar šitiem pašiem akordiem un izklausās O.k.
-
-Anonims Labdaris :))
+orģinālā tonalitāte dziesmai ir Cm, 
+bet tad ir jāspēlē ar kapodastru. 
+Nofiksējam stīgas uz trešās ladas un 
+spēlejam ar šitiem pašiem akordiem 
+un izklausās O.k.
 ```

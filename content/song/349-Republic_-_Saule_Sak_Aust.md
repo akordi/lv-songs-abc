@@ -9,9 +9,9 @@ draft: false
 
 ```text
 Ievads:
-|F|F|Am|Am|F|F|Em|Em|
+ F F Am Am F F Em Em 
 Pants:
-|F|F|Am|Am|F|F|Em|Em|
+ F F Am Am F F Em Em 
 
 
 Viņa raud,
@@ -23,13 +23,13 @@ Gaismu apēdis Tukšuma suns,
 Viņas galvā jau lielgabals dun,
 Viņas acis nav acis, pirksti iecirsti palodzē sūrst.
 
-|F|F|C|C|Dm|Dm|Em|Em|
+ F F C C Dm Dm Em Em 
 Man jāmācas skriet,
 Viņa mēmi prasa man bēgt,
 Viņa pieprasa lidot un lēkt,
 Man jālec tajā pusē, kur dzīvot nozīmē dot.
 
-|F|F|Am|Am|F|F|Em|Em|
+ F F Am Am F F Em Em 
 Saindēts vīrs
 Viņš dzird kā aiz sienas atkal kāds smej,
 Tur ir balle un ciemiņi dej
@@ -39,13 +39,13 @@ Palika tur, kur aizmirstais karš,
 Tur, kur aizmirsto varoņu gars,
 Bet nu viņš zina: bez nāves vēl briesmīgāks ir kaut kas.
 
-|F|F|C|C|Dm|Dm|Em|Em|
+ F F C C Dm Dm Em Em 
 Mums jāmācās skriet,
 Viņš mums pieprasa ārā tikt,
 Viņš ir redzējis stiklus, kas plīst,
 Mums jālec tajā pusē, kur dzīvot nozīmē dot.
 
-|C|C|G|G|Am|Am|Em|Em|
+ C C G G Am Am Em Em 
 Man jāmāk skriet, skriet, skriet. Skriet un attaisnot,
 Lai plīst, plīst, plīst. Saplīst restots logs,
 Kliegt, kliegt, kliegt, kliegt to, kas atvēlēts,

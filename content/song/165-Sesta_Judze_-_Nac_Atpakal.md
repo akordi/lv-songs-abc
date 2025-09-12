@@ -8,27 +8,27 @@ draft: false
 ---
 
 ```text
-Visi(A) ceļi atpakaļ ved reiz(E),
-Arī tas, kurš bijis mazliet(A) greizs,
-Varbūt tas, būs grūtāks kādu viet(E),
-Lai tev iznāk ilgāk par to iet(A).
+Visi[A] ceļi atpakaļ ved reiz[E],
+Arī tas, kurš bijis mazliet[A] greizs,
+Varbūt tas, būs grūtāks kādu viet[E],
+Lai tev iznāk ilgāk par to iet[A].
 
-Tas var beigties rīta agrumā(E),
-Un var stāties pusnakts klusumā(A),
-Bet kad tas būs, neviens(D) to nepateiks,
-Tikai(E) klusa bals šo ceļu beigs(A).
+Tas var beigties rīta agrumā[E],
+Un var stāties pusnakts klusumā[A],
+Bet kad tas būs, neviens[D] to nepateiks,
+Tikai[E] klusa bals šo ceļu beigs[A].
 
 Piedz.
-Nāc(A) atpakaļ uz mājām(D) tūlīt,
-Kā akmens(E) zemē migla jau krīt(A).
-Un paliksi tu tur, kur ugunskuru(Bm) kur,
-Ar izdzisušām(E) oglēm...(A)
+Nāc[A] atpakaļ uz mājām[D] tūlīt,
+Kā akmens[E] zemē migla jau krīt[A].
+Un paliksi tu tur, kur ugunskuru[Bm] kur,
+Ar izdzisušām[E] oglēm...[A]
 
 Pants
-Smiltis(A) dzenā karstais dienvid vējš(E),
-Tavas pēdas pāri ejot dzēš(A).
-Tikai cerība mirkst pēdējā(E),
-Gaidot kādu balsi klusumā(A).
+Smiltis[A] dzenā karstais dienvid vējš[E],
+Tavas pēdas pāri ejot dzēš[A].
+Tikai cerība mirkst pēdējā[E],
+Gaidot kādu balsi klusumā[A].
 
 Piedz.
 ```

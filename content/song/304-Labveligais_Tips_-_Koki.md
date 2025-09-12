@@ -13,33 +13,33 @@ G D Em C D G
 
 G                 D         Em
 Šī brīnišķīgā zāģu skaidu smarža
-                   c          d
-Tā palīdzēs mums visiem izdzīvot
+                   C          D
+Tā palīdzēs mums visiEm izdzīvot
 G             D               Em
 Un apzina ka ir vel kaut kur koki
-     c       d             g
+     C       D             G
 Ja koki palīdzēs mums izdzīvot
 
-         em                g
+         Em                g
 Labrīt koki, kā es visus mīlu
-         em                   g
+         Em                   G
 Labrīt koki, bez jums es nevaru
-             em                        g
+             Em                        G
 Man katru rītu vajag redzēt divus kokus
-              em                       g
-Bez diviem kokiem pat tramvajs nekustas
+              Em                       G
+Bez diviEm kokiEm pat tramvajs nekustas
 
-        Am           d
+        Am           D
 Kusties tu, kustos es
-         g           em
+         G           Em
 Kustas visās papardēs
-      c                             d
+      C                             D
 Tik tramvaji pēc pusnakts nekustas
-        Am           d
+        Am           D
 Kusties tu, kustos es
-          g           em
+          G           Em
 Kustās visās papardēs
-     c                d                g
+     C                D                G
 Tik tramvaji pēc pusnakts nekustas
 
 
@@ -54,26 +54,26 @@ Bet ir apziņa, ka ir vēl kaut kur koki
     C      D                 G
 Jā koki palīdzēs mums priecāties
 
-         em                  g
+         Em                  G
 Labrit koki kas es visus milu
-         em                   g
+         Em                   G
 Labrit koki bez jums es nevaru
-             em                        g
+             Em                        G
 Man katru ritu vajag redzet divus kokus
-              em                       g
-Bez diviem kokiem pat tramvajs nekustas
+              Em                       G
+Bez diviem kokiEm pat tramvajs nekustas
 
-        Am           d
+        Am           D
 Kusties tu kustos es
-         g           em
+         G           Em
 Kustas visas papardes
-      c                             d
+      C                             D
 Tik tramvaji pec pusnakts nekustas
-        Am           d
+        Am           D
 Kusties tu kustos es
-          g           em
+          G           Em
 Kustas visas papardes
-     c                d                g
+     C                D                G
 Tik tranvaji pec pusnakts nekustas
 
 
@@ -88,25 +88,25 @@ Un ieskatoties vieglā sniegtā vīnā
 C                D          G
 Es redzu tevi, tavi vārdi skan
 
-         em                   g
+         Em                   G
 Labrit koki kas es visus milu
-         em                   g
+         Em                   G
 Labrit koki bez jums es nevaru
-             em                        g
+             Em                        G
 Man katru ritu vajag redzet divus kokus
-              em                       g
-Bez diviem kokiem pat tramvajs nekustas
+              Em                       G
+Bez diviem kokiEm pat tramvajs nekustas
 
-        Am           d
+        Am           D
 Kusties tu kustos es
-         g           em
+         G           Em
 Kustas visas papardes
-      c                             d
+      C                             D
 Tik tramvaji pēc pusnakts nekustas
-        Am           d
+        Am           D
 Kusties tu kustos es
-          g           em
+          G           Em
 Kustas visas papardes
-     c                d                g
+     C                D                G
 Tik tramvaji pēc pusnakts nekustas
 ```

@@ -8,30 +8,30 @@ draft: false
 ---
 
 ```text
-Cm#
+C#m
 Sieviešu ir ļoti daudz
-Fm#
+F#m
 Par visām sliktu nevar teikt
-Gm#                          Cm# Gm# 
+G#m                          C#m G#m
 Bet par vienu nospēlēšu jums
-Cm#
+C#m
 Blondi mati garas kājas
-Fm#
+F#m
 Lūpas uzkrāsotas sārtas
-Gm#                             Cm# Gm#
+G#m                             C#m G#m
 Visiem večiem galvu tā tik jauc
 
-Fm#                  
+F#m
 Bumbas tai ir uzpūstas
-Cm#
+C#m
 Tajās ielaists silikons
-Fm#
+F#m
 Īsi mini svārciņi
-Cm#                   Gm#
+C#m                   G#m
 Un augstpapēžu kurpes
-Cm#                Fm#                 Gm#
+C#m                F#m                 G#m
 Blondīne kā blondīne bet tajā slēpjas maita
-Visu laiku smaida tā un ejot dupsi groza  
+Visu laiku smaida tā un ejot dupsi groza
 
 Gan krodziņā gan bāriņā satikt varat viņu jūs
 Viņa caurām diennaktīm tur sēž

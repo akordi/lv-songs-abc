@@ -82,6 +82,4 @@ and you can feel without a touch
 and you will feel without speakers
 of course you'll see without tv
 and we will run without sneakers
-
-tominshpl
 ```

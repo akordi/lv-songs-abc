@@ -8,45 +8,42 @@ draft: false
 ---
 
 ```text
-|Em|Em|C|C|G|G|D|D|
+ Em Em C C G G D D| 
 
-1.
-Par visu vair?k es grib?tu,
-Lai b?tu pa labi man tu,
-J? tu!
-Pa labi vienm?r tu.
+Par visu vairāk es gribētu,
+Lai būtu pa labi man tu,
+Jā tu!
+Pa labi vienmēr tu.
 
-Š? plan?ta ir apa?a,
-Un tap?c pa kreisi man tu,
-J? tu! 
-Kreisi vienm?r tu.
+Šī planēta ir apaļa,
+Un tāpēc pa kreisi man tu,
+Jā tu!
+Kreisi vienmēr tu.
 
 Piedz:
-S?žu sveces gal?.
-Kr?tu p?ri mal?m.
-Paraf?na sal?, 
-M?su domas dal?s.
+Sēžu sveces galā.
+Krītu pāri malām.
+Parafīna sala,
+Mūsu domas dalās.
 
-2.
-Iz?st to kas šai zemei nav
-Un t?p?c aiz muguras tu,
-J? tu!
-Aiz muguras vienm?r tu.
+Izīrēt to kas šai zemei nav
+Un tāpēc aiz muguras tu,
+Jā tu!
+Aiz muguras vienmēr tu.
 
-Es p?r?k bieži atskatos.
-Es p?r?k bieži 
+Es pārāk bieži atskatos.
+Es pārāk bieži
 atskatos.
-Vienm?r priekš?.
+Vienmēr priekšā.
 
 Piedz:
 
-3.
-Kaut kur vienm?r ir j?b?t man.
-Un tev kaut kur j?b?t tev,
-J? tev!
-Lai kur tas neb?tu.
+Kaut kur vienmēr ir jābūt man.
+Un tev kaut kur jābūt tev,
+Jā tev!
+Lai kur tas nebūtu.
 
-L?n?m izk?st viss paraf?ns.
-Atdzied?ja viet? v?ns.
-Un tu k?sti k? paraf?ns.
+Lēnām izkūst viss parafīns.
+Atdziedāja vietā vīns.
+Un tu kūsti kā parafīns.
 ```

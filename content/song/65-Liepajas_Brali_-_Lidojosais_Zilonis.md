@@ -8,7 +8,6 @@ draft: false
 ---
 
 ```text
-==================================
 1.
 Redzu augstu debesīs
 Lido pelēks zilonis

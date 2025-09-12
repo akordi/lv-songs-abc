@@ -29,7 +29,7 @@ Un lazdu skaras līdzi dej:
              F
 - tu nāc, tu ej!
     Am
-Vai putni?š raud, vai putni?š smej?
+Vai putniņš raud, vai putniņš smej?
            E           
 Tu nāc, tu ej.
 

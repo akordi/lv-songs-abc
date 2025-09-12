@@ -8,22 +8,33 @@ draft: false
 ---
 
 ```text
-F#                             F#7                B
-   Dzīve kā košums, divdesmit septiņas ziemas un nieki
+F#                         
+   Dzīve kā košums, 
+F#7                B
+  Divdesmit septiņas ziemas un nieki
                      C#
 tauriņa prieki - aplidot, nezinot
 
-F#                           F#7                B
-dienas kā sākums, divdesmit četras stundas no vietas
-                                   C#
-es pārskaitu lietas, bet tevis tur nav - acis sāpīgi grauž
+F#                    
+dienas kā sākums, 
+          F#7                B
+divdesmit četras stundas no vietas
+                        
+es pārskaitu lietas, 
+              C#
+bet tevis tur nav - acis sāpīgi grauž
 
-         A#m                   D#m
-un ne pa jokam es esmu tāds kā nobijies
-        A#m                    D#m
-ar abām rokām pie sirdsapziņas pieķēries
+         A#m        
+un ne pa jokam
+                D#m
+es esmu tāds kā nobijies
+        A#m         
+ar abām rokām 
+                D#m
+pie sirdsapziņas pieķēries
        B
-pārsteigums, izmisums, abiem mums noziegums
+pārsteigums, izmisums, 
+abiem mums noziegums
          C#
 par vēlu meklēt debesis peklē
 
