@@ -9,9 +9,7 @@ draft: false
 
 ```text
 Capo uz 3. ladas, akordi relatīvi pret Capo.
-Akordi: Edza
-----------------------------------
-PANTS
+
          Am                F
 Ir tikai tveice. Dūmakaini spoža.
          C    G            C
@@ -21,80 +19,49 @@ Es rakstu vārdus putekļainā logā,
         Dm             Am
 Es nāku Tavu piedošanu lūgt. 
 
-STARPSPĒLE: F Em Dm Am
+F Em Dm Am
 
-PIEDZIEDĀJUMS
+Piedz.
            F               Em
 Es rakstu vārdus putekļainā logā,
        Dm              Am
 Es nāku Tavu piedošanu lūgt.
-
 Dm                   Am
 Kūp putekļi, un smiltis put zem kājām,
 Dm                Am
 Un logā šajā vārdi ātri zūd.
-
           Dm                    G                      
 Par to, ka pazaudēts man ceļš uz mājām,             
         Em                Am
 Es nāku Tavu piedošanu lūgt.
-
         Dm                Em
 Es nāku Tavu piedošanu lūgt.
         Dm                Em
 Es nāku Tavu piedošanu lūgt.
-
-
-PANTS
 
 Man ūdens malka nav. Ir tikai vārdi,
-
 Kas nespēj veldzi tveices laikā dot,
-
 Kas meklē, kur ir naktsvijoļu vārti,
-
 Un cita veldzējuma nesaprot. 
 
-
-STARPSPĒLE: F Em Dm Am
-
+F Em Dm Am
 
 Kas meklē, kur ir naktsvijoļu vārti,
-
 Un cita veldzējuma nesaprot. 
-
-
-PANTS
-
 Un varbūt tāpēc Tavas lūpas klusē,
-
-Vien miers un putekļi visapkārt rūs.
-                                                    
-Par to, ka stāvam ceļam divās pusēs,   
-				 
+Vien miers un putekļi visapkārt rūs.                                            
+Par to, ka stāvam ceļam divās pusēs,   				 
 Es nāku Tavu piedošanu lūgt.             
 
+F Em Dm Am
 
-STARPSPĒLE: F Em Dm Am
-
-
-Par to, ka stāvam ceļam divās pusēs,   
-				 
+Par to, ka stāvam ceļam divās pusēs,   		 
 Es nāku Tavu piedošanu lūgt.  
-
-
-Es nāku Tavu piedošanu lūgt.    
-
-Es nāku Tavu piedošanu lūgt.    
-
-Es nāku Tavu piedošanu lūgt.    
-
-Es nāku Tavu piedošanu lūgt.    
-
 Es nāku Tavu piedošanu lūgt.   
-
-Es nāku Tavu piedošanu lūgt.    
-
-Es nāku Tavu piedošanu lūgt.   
-
+Es nāku Tavu piedošanu lūgt.
+Es nāku Tavu piedošanu lūgt.
+Es nāku Tavu piedošanu lūgt. 
+Es nāku Tavu piedošanu lūgt. 
+Es nāku Tavu piedošanu lūgt. 
+Es nāku Tavu piedošanu lūgt. 
 ```
