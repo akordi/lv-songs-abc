@@ -23,10 +23,13 @@ Ai, brīnumu, brīnumu pasaulē daudz!
 Par lielāko brīnumu dzīvību sauc.
 Peld zivtiņa jūrā un skudriņa tek
 Un kaķītis murrā un svecīte deg.(x2)
-
+    G                D
 Ai, brīnumu, brīnumu pasaulē daudz,
+                         G
 Bet lielākais brīnums ir tas, kā tu audz,
+   G7                 C
 Kā brīnumu gaidot tev actiņas mirdz,
+   A              D
 Kā brīnumam ticot pukst tava sirds.
 
 Ai, brīnumu, brīnumu pasaulē daudz!
