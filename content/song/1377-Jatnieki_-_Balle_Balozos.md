@@ -32,11 +32,9 @@ A
 Glauni sataisos,
                 D
 Prom uz balli Baložos.
-
 Ūūū.
 
 Piedz.x2
-
 Vēlos
      G
 vakaros,

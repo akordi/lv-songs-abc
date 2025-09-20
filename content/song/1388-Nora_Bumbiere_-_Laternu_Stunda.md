@@ -19,7 +19,6 @@ Ej, kvēlo, neizkvēlo
     B7		E
 Ej, kvēlo, neizkvēlo
 
-
 E	E6	E
 Laternu stundā,
 	E6	E	E6	E
@@ -29,9 +28,7 @@ Ej spēlē ielu spēlē,
     B7		E
 Ej spēlē, nepaspēlē.
 
-
-
-PIEDZ (2x)
+Piedz. (2x)
 		B7
 Spēlē, spēlē, ko tu spēlē,
 		E
@@ -50,7 +47,6 @@ Aizej, kuģa zvaniem zvanot,
 Dvēselē kā laternā.
 
 E6
-
 
 E	E6	E
 Laternu stundā
@@ -72,10 +68,5 @@ To seno spēli spēlēt,
     B7		E
 To seno spēli spēlēt
 
-
-PIEDZ 
-
-
-
-Florian
+Piedz.
 ```
