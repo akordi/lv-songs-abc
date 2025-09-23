@@ -32,13 +32,13 @@ visas tumsas sienas
 Em
 Lai katrs solis, ko speru,
 G
-Būtu kā Jēra pēdas, kas mani 
+Būtu tā Jēra pēdas, kas mani 
 C
 ved uz gaismu, kas nekad
 D
 nenoslēdzas 
 Em
-Lai mana balss ir kā lietus 
+Lai Tava balss ir kā lietus 
 G
 Kas dziedē, mierina, jo Tu 
 C
