@@ -18,4 +18,3 @@ menu:
       weight: 30
 params:
   robotsNoIndex: true
-  env: development # Set to development to have noindex in meta robots tag
