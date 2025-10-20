@@ -3,7 +3,7 @@ title: "Sauleite, māmeņa"
 date: 2023-09-25T11:31:49+00:00
 url: /song/5076-Latviesu_Tautasdziesma_-_Sauleite_Mamena
 categories: ["Latviešu tautasdziesma"]
-tags: ["latgaliski", abc]
+tags: ["latgaliski", "abc"]
 draft: false
 ---
 {{< abcjs song>}}

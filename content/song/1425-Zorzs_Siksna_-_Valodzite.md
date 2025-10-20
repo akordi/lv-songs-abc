@@ -3,7 +3,7 @@ title: "Vālodzīte"
 date: 2012-01-19T22:00:00+00:00
 url: /song/1425-Zorzs_Siksna_-_Valodzite
 categories: ["Žoržs Siksna"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

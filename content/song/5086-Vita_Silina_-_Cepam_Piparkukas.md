@@ -3,7 +3,7 @@ title: "Cepam piparkūkas"
 date: 2023-12-10T07:48:37+00:00
 url: /song/5086-Vita_Silina_-_Cepam_Piparkukas
 categories: ["Vita Siliņa"]
-tags: ["ziemassvētku", abc]
+tags: ["ziemassvētku", "abc"]
 draft: false
 ---
 {{< abcjs song>}}

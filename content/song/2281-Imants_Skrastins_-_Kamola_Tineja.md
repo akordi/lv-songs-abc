@@ -3,7 +3,7 @@ title: "Kamolā Tinēja"
 date: 2015-07-25T13:27:43+00:00
 url: /song/2281-Imants_Skrastins_-_Kamola_Tineja
 categories: ["Imants Skrastiņš"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

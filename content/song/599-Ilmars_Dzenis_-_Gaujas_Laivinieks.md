@@ -3,7 +3,7 @@ title: "Gaujas laivinieks"
 date: 2008-03-26T22:00:00+00:00
 url: /song/599-Ilmars_Dzenis_-_Gaujas_Laivinieks
 categories: ["Ilmārs Dzenis"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

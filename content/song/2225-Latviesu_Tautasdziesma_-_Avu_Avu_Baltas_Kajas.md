@@ -3,7 +3,7 @@ title: "Āvu, āvu baltas kājas"
 date: 2015-07-07T08:11:09+00:00
 url: /song/2225-Latviesu_Tautasdziesma_-_Avu_Avu_Baltas_Kajas
 categories: ["Latviešu tautasdziesma"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

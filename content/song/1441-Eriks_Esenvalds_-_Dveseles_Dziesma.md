@@ -3,7 +3,7 @@ title: "Dvēseles dziesma"
 date: 2012-03-14T22:00:00+00:00
 url: /song/1441-Eriks_Esenvalds_-_Dveseles_Dziesma
 categories: ["Ēriks Ešenvalds"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

@@ -3,7 +3,7 @@ title: "Ai, Jel Manu Vieglu Prātu"
 date: 2007-02-26T22:00:00+00:00
 url: /song/44-Ainars_Mielavs_-_Ai_Jel_Manu_Vieglu_Pratu
 categories: ["Ainars Mielavs"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

@@ -3,7 +3,7 @@ title: "Kur tu teci, gailīti mans"
 date: 2024-03-16T15:39:45+00:00
 url: /song/5113-Latviesu_Tautasdziesma_-_Kur_Tu_Teci_Gailiti_Mans
 categories: ["Latviešu tautasdziesma"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

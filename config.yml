@@ -16,3 +16,5 @@ menu:
       name: "Akordi.lv"
       url: "https://www.akordi.lv"
       weight: 30
+params:
+  robotsNoIndex: true      

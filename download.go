@@ -118,9 +118,6 @@ func fetchPage(page int, toDate time.Time, pageSize int) {
 		for _, tag := range item.Tags {
 			tags = append(tags, fmt.Sprintf(`"%s"`, escapeQuotes(tag.Title)))
 		}
-		if item.BodyAbc != "" {
-			tags = append(tags, "abc")
-		}
 		tagsJoined := strings.Join(tags, ", ")
 		abcJs := ""
 		if item.BodyAbc != "" {

@@ -3,7 +3,7 @@ title: "Kas ir Ziemassvētki?"
 date: 2017-12-27T12:21:43+00:00
 url: /song/3232-Knipas_Un_Knauki_-_Kas_Ir_Ziemassvetki
 categories: ["Knīpas un Knauķi"]
-tags: ["ziemassvētku", abc]
+tags: ["ziemassvētku", "abc"]
 draft: false
 ---
 {{< abcjs song>}}

@@ -3,7 +3,7 @@ title: "Akāciju palags"
 date: 2007-02-26T22:00:00+00:00
 url: /song/47-Margarita_Vilcane_-_Akaciju_Palags
 categories: ["Margarita Vilcāne"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

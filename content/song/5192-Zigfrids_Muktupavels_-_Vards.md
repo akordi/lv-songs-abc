@@ -3,7 +3,7 @@ title: "Vārds"
 date: 2025-01-01T15:07:04+00:00
 url: /song/5192-Zigfrids_Muktupavels_-_Vards
 categories: ["Zigfrīds Muktupāvels"]
-tags: ["abc", abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

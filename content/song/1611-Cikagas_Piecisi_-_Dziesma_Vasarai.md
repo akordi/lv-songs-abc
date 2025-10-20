@@ -3,7 +3,7 @@ title: "Dziesma vasarai (Ai, Vasara)"
 date: 2013-03-22T22:00:00+00:00
 url: /song/1611-Cikagas_Piecisi_-_Dziesma_Vasarai
 categories: ["Čikāgas piecīši"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}

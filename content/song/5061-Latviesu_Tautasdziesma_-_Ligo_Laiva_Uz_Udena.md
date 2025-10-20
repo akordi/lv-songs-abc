@@ -3,7 +3,7 @@ title: "Līgo laiva uz ūdeņa"
 date: 2023-07-24T17:49:32+00:00
 url: /song/5061-Latviesu_Tautasdziesma_-_Ligo_Laiva_Uz_Udena
 categories: ["Latviešu tautasdziesma"]
-tags: [abc]
+tags: ["abc"]
 draft: false
 ---
 {{< abcjs song>}}
