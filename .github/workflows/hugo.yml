@@ -60,11 +60,11 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: public/          
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
@@ -74,4 +74,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4        
