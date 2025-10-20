@@ -8,11 +8,11 @@ on:
 jobs:
   go-run:
     runs-on: ubuntu-latest
-    container: golang:1.18 # Use the Go Docker image
+    container: golang:1.25 # Use the Go Docker image
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Run download.go
       run: go run download.go
