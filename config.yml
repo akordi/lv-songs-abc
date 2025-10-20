@@ -17,4 +17,5 @@ menu:
       url: "https://www.akordi.lv"
       weight: 30
 params:
-  robotsNoIndex: true      
+  robotsNoIndex: true
+  env: development # Set to development to have noindex in meta robots tag
