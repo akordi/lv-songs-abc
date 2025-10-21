@@ -8,14 +8,14 @@ draft: false
 ---
 
 ```text
-Bez Capo _ 1...... Pants - Fm , D# , C# , D#
-           Piedz.- Fm, C# , D# , Cm , C# , D#
+Bez Capo _ 1...... Pants - F5, D#m , Cm , D#m
+           Piedz.- Bbm , Dbm , D# , Cm , C# , D#
 
 2....Pants - F#m , E , D , E
      Piedz. F#m , D , E , C#m , D , E
 
-3..... Ar Capo (pirma lada)_ Pants - Em , D , C , D
-                      Piedz._ Em , C , D , Bm , C , D
+3..... Ar Capo (pirma lada)_ Pants - B5, D , C , D
+                      Piedz._ Em , C , D , Gbm, C , Am
 
 Un starpspele ir tas pat kas Piedziedajuma, visos variantos.. ;)
 

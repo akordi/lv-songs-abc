@@ -8,21 +8,21 @@ draft: false
 ---
 
 ```text
-C          G
+Bm         Em
 Rīta saule ezerā
-G            C 
+F#           Bm
 Zelta starus auž
-C              G
+Bm            Em
 Putnu dziesmas mežmalā
-G           C     
+F#          Bm    
 Jaunu dienu pauž
-C             F
+B           Em
 Vālodzes raud tālumā
-F     C
+Em     Bm
 Rītu sagaidot
-C                G        
+Bm                Em        
 Sirds man prieka pārpilna
-G             C
+F#            Bm
 Sērot nav par ko.
 
 Zinu nāksi vakarā

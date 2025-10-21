@@ -8,47 +8,64 @@ draft: false
 ---
 
 ```text
-Akordi: G Em C D
-
+[G]        [Em]         [C]
 Es izskatos mazliet samulsis
-Kaut ko svar?gu m?j?s aizmirsis...
-Es šodien atkal mazliet kautr?jos
-Un aiz tevis, aiz tevis es pasl?pjos
-...Un es br?nos par sevi pats - k?...
+                [D]        [G]
+Kaut ko svarīgu mājās aizmirsis
+         [Em]                [C]
+Es šodien atkal mazliet kautrējos
+                 [D]            [G]
+Un aiz tevis, aiz tevis es paslēpjos
+     [Em]                   [C] [D]
+Un es brīnos par sevi pats - kā..
+[G]  [Em]                   [C] [D]
+Un es brīnos par sevi pats - kā..
 
-Man nav kauns, man nav kauns tev?
-Apmald?ties...
-Man nav kauns, man nav kauns
-Tav? piekš? iz??rbties...
+  Man nav [G] kauns, man nav [Em] kauns, 
+  man nav [C] kauns - tevī [D] apmaldīties,
+  Man nav [G] kauns, man nav [Em] kauns, 
+  Man nav [C] kauns - Tavā priekšā [D] izģērbties..
 
-Na, nav...
+..Na, na, na, na.. nav...
+[G][Em][C][D]
 
-Es saku man nav kauns,
-Varb?t ar? ir...
-Iesp?jams, ka stipri sar?ž??t?k
-...vi?as mati ir tik sterili,
-Zelta virtuv?s dz?vo balti pav?ri
-J?, j?, j?.. Viss ir
-Tik simetriski un perfekti
-Viss ir tik zin?tniski un prec?zi,
-Bet šodien...
+[G] Es saku man nav [Em] kauns,
+Varbūt arī [C] ir
+Iespējams, ka stipri [D] sarežģītāk
+[G]       [Em]         [C]
+viņas mati ir tik sterili,
+                    [D]       [G]
+Zelta virtuvēs dzīvo balti pavāri
+[G]       [Em]
+Jā, jā, jā, jā.. 
+Viss ir tik [C] simetriski un [D] pareizi
+[G]        [Em]               [C]
+Viss ir tik zinātniski un precīzi,
+     [D]
+Bet šodien..
 
-Man nav kauns, man nav kauns tev?
-Apmald?ties...
-Man nav kauns, man nav kauns
-Tav? piekš? iz??rbties...
+  Man nav [G] kauns, man nav [Em] kauns, 
+  man nav [C] kauns - tevī [D] apmaldīties,
+  Man nav [G] kauns, man nav [Em] kauns, 
+  Man nav [C] kauns - Tavā priekšā [D] izģērbties..
 
-Bet gl?b mani, gl?b, gl?b mani gl?b
-Gl?b mani, m??ot?, no visa t?!
-Gl?b mani šonakt no visa t?!
+Bet.. [G] glāb mani, glāb, 
+[Em] Glāb mani, glāb
+[C] Glāb mani, mīļotā, no [D] visa tā!
+[G] Glāb, [Em] glāb,
+[C] Glāb mani šonakt no [D] visa tā!
 
-Un man ir vienalga, kuram pieder?s
-Atsl?gas no vi?as sirds ?rdurv?m
-Man ir vienalga, k?d?
-V?rd? mani r?tdien sauks.
+[G]      [Em]                  [C]
+Un man ir vienalga, kuram piederēs
+           [D]              [G]
+Atslēgas no viņas sirds ārdurvīm
+      [Em]
+Man ir vienalga, kādā
+Vārdā [C] mani rītdien [D] sauks.
 
-Man nav kauns, man nav kauns tev?
-Apmald?ties...
-Man nav kauns, man nav kauns
-Tav? piekš? iz??rbties...
+Bet šodien..
+  Man nav [G] kauns, man nav [Em] kauns, 
+  man nav [C] kauns - tevī [D] apmaldīties,
+  Man nav [G] kauns, man nav [Em] kauns, 
+  Man nav [C] kauns - Tavā priekšā [D] izģērbties..
 ```
