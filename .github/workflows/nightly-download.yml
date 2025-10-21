@@ -17,6 +17,9 @@ jobs:
     - name: Run download.go
       run: go run download.go
 
+    - name: Mark repository as safe directory
+      run: git config --global --add safe.directory ${GITHUB_WORKSPACE}
+
     - name: Commit and push if there are changes
       run: |
         git config --global user.name 'GitHub Actions'
