@@ -11,17 +11,20 @@ draft: false
 [C] Upe nesa ozoliņu
 Ar visāmi [G] bitītēm.
 [G] Upe nesa [C] ozoliņu
-Ar vi[G]sāmi bitī[C]tēm.
+    [G]      [C]
+Ar visāmi bitītēm.
 
 [C] Dravinieka līgaviņa
 Tek gar malu [G] raudādam’.
 [G] Dravinieka [C] līgaviņa
-Tek gar malu [G] raudā[C]dam’.
+            [G]  [C]
+Tek gar malu raudādam’.
 
 [C] Ziedu svārki mugurāi,
 Vaska cimdi [G] rociņā.
 Ziedu svārki [C] mugurāi,
-Vaska cimdi [G] roci[C]ņā.
+           [G][C]
+Vaska cimdi rociņā.
 
 [C] Trūka, trūka tev bitīte,
 Ja tev trūka, trūkst man [G] ar.
@@ -31,5 +34,6 @@ Ja tev trūka, [G] trūkst man [C] ar.
 [C] Ja tev trūka sila ziedu,
 Trūkst man vaska [G] ritulīš’.
 Ja tev trūka [C] sila ziedu,
-Trūkst man vaska [G] ritu[C]līš’.
+                [G] [C]
+Trūkst man vaska ritulīš’.
 ```

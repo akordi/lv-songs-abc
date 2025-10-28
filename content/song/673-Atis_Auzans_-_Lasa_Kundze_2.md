@@ -1,37 +1,22 @@
 ---
-title: "Laša Kundze no k/f \"Zvejnieka dēls\""
-date: 2007-12-17T22:00:00+00:00
-url: /song/475-Atis_Auzans_-_Lasa_Kundze_No_K-f_Zvejnieka_Dels
+title: "Laša Kundze (no k/f \"Zvejnieka dēls\") 2"
+date: 2008-05-31T21:00:00+00:00
+url: /song/673-Atis_Auzans_-_Lasa_Kundze_2
 categories: ["Atis Auzāns"]
 tags: ["kinofilmas"]
 draft: false
 ---
 
 ```text
-Rūdolfs Bērziņš - Laša kundze bola acis. No kinofilmas "Zvejnieka dēlS", 1940.
-
-C                  F
 Laša kundze acis bola,
-G                C
 Menca pilnā rīklē sauc:
-C                     F
 "Nu tik gan būs dzelmē tracis,
-G             C
 Zutis buti precēt brauc."
 
-   G
    Zutis buti- hi-hi-hī,
-                        G7
    Bute zuti- ha-ha-hā.
-   C                 G
    Jūra krāc un vēji pūš,
-                         C
    Priekos, bēdās paiet mūžs.
-   Am             Dm
-   Jūra krāc un vēji pūš,
-   C                    G      C
-   Priekos, bēdās paiet mūžs.
-
 
 Zvejniekdēls uz jūru pošas,
 Meiča krastā žēli raud:
@@ -52,4 +37,7 @@ Brauc uz krastu svilpodams.
    Kāzas ciemā- ha-ha-hā.
    Jūra krāc un vēji pūš,
    Priekos, bēdās paiet mūžs.
+
+Akordi: G C D G 2x D D7 
+Piedz.G D G Em Am G D D7 G
 ```

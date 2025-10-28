@@ -9,22 +9,22 @@ draft: false
 
 ```text
 Bij’ [C] maijs un mežābeles [F] zieds tik balts,
-Zem [G] tā vecs akmens sols un [C] galds.
+Zem [G] tā vecs akmens sols un [C] galds. [G] 
 Bij’ [C] maijs un sēdējām mēs [F] divatā
 Uz [G] vecā akmens sola [C] tā.
 
    Kam [G] ziedi, mežābele [C] rūgtā,
    Tik balta, [F] balta tu [G] kā laime [C] un kā prieks.
    Kam [G] ziedi, mežābele [C] rūgtā,
-   Kam ziedi [F] tu un [G] nobirsti kā [C] sniegs.
+   [F] Kam ziedi [C] tu un [G] nobirsti kā [C] sniegs. [G]
 
 Iet [C] laiks, un vairs neviens te [F] neatnāk,
-Pat [G] akmens apsūnot jau [C sāk.
+Pat [G] akmens apsūnot jau [C] sāk. [G]
 Iet [C] laiks, un mežābele [F] maijā zied,
 Un [G] vējš kā toreiz zaros [C] dzied.
 
    Kam [G] ziedi, mežābele [C] rūgtā,
    Tik balta, [F] balta tu [G] kā laime [C] un kā prieks.
    Kam [G] ziedi, mežābele [C] rūgtā,
-   Kam ziedi [F] tu un [G] nobirsti kā [C] sniegs.
+   [F] Kam ziedi [C] tu un [G] nobirsti kā [C] sniegs.
 ```
