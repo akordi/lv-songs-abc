@@ -11,7 +11,7 @@ draft: false
 [Am] Tu biji kails un vēju [Dm] aplauzts koks.
 [G] Es lapots vītenis ar [C] ziliem ziedu zvaniem,
 [F] Pie stumbra rētainā, kas [B] smalkām stīgām plok,
-[E] Nu pilni zari maniem [Am] ziedu zvaniem.
+[E] Nu pilni Tavi zari [Am] ziediem maniem.
 
 [Am] Nu dūc ap tevi atkal [Dm] bišu spiets,
 [G] Un putni ligzdo [C] zaļu lapu ēnā.
