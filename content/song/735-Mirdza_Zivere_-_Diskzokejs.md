@@ -11,54 +11,49 @@ draft: false
 A             F#m
 Diskžokej, kur šodien ej?
    D                     E7
-Es gribu iet tev l?dz un visu nakti dejot.
+Es gribu iet tev līdz un visu nakti dejot.
 A             F#m
 Diskžokej, šai pasaulei
     D                      E7
-Lai logiem r?tis  tr?c, lai nemanot n?k r?ts.
+Lai logiem rūtis  trīc, lai nemanot nāk rīts.
     D              E/D
-Bet vakars v?l pat s?cies nav,
+Bet vakars vēl pat sācies nav,
    C#m         F#m
-Un tu k? sapn? smaidi jau
+Un tu kā sapnī smaidi jau
 D               E/D
-Diskžokej, viss j?pasp?j,
+Diskžokej, viss jāpaspēj,
    A/C#                Esus4
-Lai nepien?k gals šai ball?tei.
+Lai nepienāk gals šai ballītei.
 
 
 Diskžokej, sauc – hei, hei, hei!
-Un m?ziku mums liec, jo ned??u nav dejots.
+Un mūziku mums liec, jo nedēļu nav dejots.
 Diskžokej, šai pasaulei
-V?l ausis j?piekliedz, bet l?dzu neaizmiedz,
+Vēl ausis jāpiekliedz, bet lūdzu neaizmiedz,
 Jo laikam jau tev apnicis, 
-Ka j?sp?l? atkal tas pats viss.
-Diskžokej, viss j?pasp?j,
-Lai nepien?k gals šai ball?tei.
-
+Ka jāspēlē atkal tas pats viss.
+Diskžokej, viss jāpaspēj,
+Lai nepienāk gals šai ballītei.
 
     A             C#m   D
-    Lai mums l?dz r?tam zvaigznes kliedz
+    Lai mums līdz rītam zvaigznes kliedz
     A         C#m      D
     Tu, diskžokej, tik neaizmiedz.
     F#m         F          A/E    B7/D#
-    Kas gan bez tevis mums m?zika b?s? 
+    Kas gan bez tevis mums mūzika būs? 
     A/E       E7       D    A/C#  Esus4/B    E7
-    Ak, ž?lo, ž?lo m?s!
+    Ak, žēlo, žēlo mūs!
 
-
-Diskžokej, b?s viss okey!
-Un lai ir lab?k v?l, nav ausis mums ko ž?lot.
+Diskžokej, būs viss okey!
+Un lai ir labāk vēl, nav ausis mums ko žēlot.
 Diskžokej, vai tu jau ej?
-Šai troksn? laiks ir greizs, un pulksten’s nepareizs
-V?l stundu tev b?s j?sp?l?
-Vai tu to grib?si, vai n?…
-Diskžokej, viss j?pasp?j,
-Lai nepien?k gals šai ball?tei.
+Šai troksnī laiks ir greizs, un pulksten’s nepareizs
+Vēl stundu tev būs jāspēlē
+Vai tu to gribēsi, vai nē…
+Diskžokej, viss jāpaspēj,
+Lai nepienāk gals šai ballītei.
 
-
-    Lai mums l?dz r?tam…
-
-      (starpsp?le)
-
-    Lai mums l?dz r?tam…(2x)
+Lai mums līdz rītam…
+(starpspēle)
+Lai mums līdz rītam…(2x)
 ```

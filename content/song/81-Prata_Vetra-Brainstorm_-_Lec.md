@@ -8,35 +8,35 @@ draft: false
 ---
 
 ```text
-G-------------------------------------------Em-------C
+G                                           Em       C
 No augstākā punkta, ja skatās uz zemi viss citādi rādās
 
-G-------------------------------------------Em-----C
+G                                           Em     C
 Saule par kapeiku tuvāk un zeme, pat vilina mazliet
-Em-------------------------------------------D-------C
+Em                                           D       C
 Un kāds vēl domā vai drāzties tai pretī, vai gaidīt, kad grūdīs
-Em-------------------------------------------D----C
+Em                                           D    C
 Nav jābaidās ne pat mazliet, drošības jostas neiesprūdīs
-G-------------------------------------------Em-------C
+G                                           Em       C
 Kritiens uz sekundēm piecām ies, varbūt līdz debesīm
-G-----------------------------------Em-------C
+G                                   Em       C
 Varbūt pat līdz galam, tik tālu, ka negribas domāt
-Em---------------------------------------D-----C
+Em                                       D     C
 Un tomēr es lekšu, lai ko arī teiktu es lekšu līdz galam
-Em----------------------------D--------C
+Em                            D        C
 Un ticēšu rītam, un atdošos liesmām un salam
 
 Piedz.:]
-Bm---------------Em--------C-------------Am
+Bm               Em        C             Am
 Tev jālec man līdz, miers atgriezīsies
-Bm---------------Em--------C-----------------------Am
+Bm               Em        C                       Am
 Tev jātic man līdz, lai kur arī būtu sapnis piepildīsies
 
-C------------------Bm
+C                  Bm
 Lec pāri Zemes malai,
-C-------------Bm
+C             Bm
 lec pāri vientuļai salai
-C-------------D----------G
+C             D          G
 Lec pat ja nezini kur
 
 Un zinot kā labāk, kā vajag pa straumei, pa straumei
