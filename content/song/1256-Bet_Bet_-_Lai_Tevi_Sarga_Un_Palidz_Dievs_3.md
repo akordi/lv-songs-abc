@@ -14,7 +14,7 @@ G         C      D       G
 Vairāk nekā mums ko pielūgt nav
 G       C           D      Em
 Vairāk neviena šai naktī nav,
-     Am         D
+     Am         D   G
 Kas varētu mūs mierināt.
 
 
@@ -25,7 +25,7 @@ Ja tu par draugiem mūs visus sauc.
 G       C           D      Em
 Vairāk neviena šai naktī nav,
      Am           D          G
-Tas ir tik maz un tomer daudz
+Tas ir tik maz un tomēr daudz
 
 
 piedz.
@@ -35,7 +35,7 @@ piedz.
   Debess paveras tev.
   C         D       G F D  Em
   Piedod es zinu tu esi labs,
-  A      D      G
+  Am    D      G
   Mieru dāvini sev.
 
 
@@ -45,7 +45,7 @@ G        C         D      G
 Vairāk nekā man ko atdot nav,
 G       C           D      Em
 Vairāk neviena šai naktī nav,
-    Am         D
+    Am         D        G
 Kā mana balss šai tuksnesī.
 
 
@@ -57,7 +57,7 @@ G        C          D     G
 Vairāk nekā man ko atdot nav,
 G      C            D      Em
 Vairāk neviena šai naktī nav
-     Am         D
+    Am             D     G
 Kā mana sirds, kas mierā mīt.
 
 
@@ -69,7 +69,7 @@ piedz.
   Debess paveras tev.
   C         D       G F D  Em
   Piedod es zinu tu esi labs,
-  A      D      G
+  Am    D      G
   Mieru dāvini sev.
 
 

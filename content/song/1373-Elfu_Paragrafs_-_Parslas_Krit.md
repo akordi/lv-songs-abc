@@ -21,7 +21,7 @@ Tiekties pat ja pēc mirkļa kritiens izbeigsies
 Piedz.       Klusi pārslas krīt  sētnieks noguris iet mājās
                     C       Em           G               D
              Klusi pārslas krīt  apvaicājas kā man klājas
-                    C       G     Em          Hm  
+                    C       G     Em          Bm  
              Klusi pārslas krīt   zinu kā ir palikt vienam
               Am          C          D            D
              Maldos domās veros logā gaidu tevi vēl

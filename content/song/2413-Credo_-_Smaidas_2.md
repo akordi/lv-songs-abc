@@ -9,8 +9,8 @@ draft: false
 
 ```text
 [C] Smaržo pasau[G]le kā [F] nepasacīts [C] vārds,
-[C] Cauri dzīslām [F] izlīst [C] neciešamas [G] gaidas,
-[C] Liepu gatves [F] galā [C] vēsta uzraksts [F] kāds - 
+[C] Cauri dzīslām [F] izlīst [Em] neciešamas [G] gaidas,
+[C] Liepu gatves [F] galā [C] vēsta uzraksts [Am] kāds - 
 [F] Vienkārši un [C] nesatricināmi – [G] "Smai[C]das".
 
 [C] Jā, patiesi, [G] tā šīs [F] mājas tiešām [C] sauc,

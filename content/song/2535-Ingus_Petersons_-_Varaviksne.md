@@ -17,11 +17,11 @@ draft: false
 [F] Varavīksne, varavīksne, vara[G]vīksne
 
   [Am] Simtiem, simtiem, simtiem krāsās laistās
-  [G] Simtiem, simtiem, simtiem krāsās laistās
+  [Em] Simtiem, simtiem, simtiem krāsās laistās
   [F] Simtiem krāsās laistās mūsu vara[G]vīksne
 
   [Am] Simtiem, simtiem, simtiem krāsās laistās
-  [G] Simtiem, simtiem, simtiem krāsās laistās
+  [Em] Simtiem, simtiem, simtiem krāsās laistās
   [F] Simtiem krāsās laistās mūsu vara[G]vīksne
 
 [C] Aiziet tūcē, aiziet rīta rasā
@@ -43,14 +43,14 @@ draft: false
 [F] Varavīksne, varavīksne, vara[G]vīksne
 
   [Am] Simtiem, simtiem, simtiem krāsās laistās
-  [G] Simtiem, simtiem, simtiem krāsās laistās
+  [Em] Simtiem, simtiem, simtiem krāsās laistās
   [F] Simtiem krāsās laistās mūsu vara[G]vīksne
 
   [Am] Simtiem, simtiem, simtiem krāsās laistās
-  [G] Simtiem, simtiem, simtiem krāsās laistās
+  [Em] Simtiem, simtiem, simtiem krāsās laistās
   [F] Simtiem krāsās laistās mūsu vara[G]vīksne
 
   [Am] Simtiem, simtiem, simtiem krāsās laistās
-  [G] Simtiem, simtiem, simtiem krāsās laistās
+  [Em] Simtiem, simtiem, simtiem krāsās laistās
   [F] Simtiem krāsās laistās mūsu vara[G]vīksne
 ```

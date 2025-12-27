@@ -8,24 +8,24 @@ draft: false
 ---
 
 ```text
-Kāmēr vēl dzīvības līnija mums
-Sirdīs un lūgšana plaukstās
-Pacelsim velves un torņus šos
-Pacelsim debesis augstāk
+(C)Kamēr vēl dzīvības (G)līnija mums
+Sirdīs un lūgšana (C) plaukstās
+Pacelsim velves un (G)torņus šos
+Pacelsim debesis (C) augstāk
 
-Kāmēr vēl kaķīša dzirnavas maļ
-Spīdi vien saulīte spīdi
-Māmiņ, nāc paskaties dārzā jau
-Pirmā plaukst vijolīte
+(C) Kamēr vēl kaķīša (G) dzirnavas maļ
+Spīdi vien saulīte (C) spīdi
+Māmiņ, nāc paskaties (G) dārzā jau
+(G7) Pirmā plaukst (C) vijolīte
 
-Dzīvīte, tevī vēl šūpojos
-Tev es atdodu sevi
-Velves un torņus, un dziesmiņu
-Daudz tu man, dzīvīte, devi
-Dzīvīte, tevī vēl šūpojos
-Tev es atdodu sevi
-Velves un torņus, un dziesmiņu
-Daudz tu man, dzīvīte, devi
+Dzīvīte, (C7) tevī vēl (F)šūpojos
+Tev es atdodu (C)sevi
+Velves un torņus, un (G) dziesmiņu
+Daudz tu man, dzīvīte, (C) devi
+Dzīvīte, (C7) tevī vēl (F) šūpojos
+Tev es atdodu (C) sevi
+Velves un torņus, un (G) dziesmiņu
+Daudz tu man, dzīvīte, (C)devi
 
 Dzejnieku zīmētā Dievnamā
 Putniem ir enģeļu spārni
