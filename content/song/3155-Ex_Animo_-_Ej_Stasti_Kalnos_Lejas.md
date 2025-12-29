@@ -39,6 +39,6 @@ Tur eņģ`ļi dziedāja.
 
 Tik lielā pazemībā
 Viņš toreiz piedzima,
-Ka augam mīlestībā
+Lai augam mīlestībā
 Tā Viņa mācība.
 ```

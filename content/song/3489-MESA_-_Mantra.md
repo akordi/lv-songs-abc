@@ -3,56 +3,119 @@ title: "Mantra"
 date: 2019-02-13T20:47:50+00:00
 url: /song/3489-MESA_-_Mantra
 categories: ["MESA"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Kas bija vakar,
+[Am][F][C][G]
+[Am][F][C][G]
+
+[Am][F]
+     Kas bija vakar,
+[C]                [G]
 Pirms mēneša, gada, mēģinam atcerēties atkal.
-Un mums atkal neizdodas,
+[Am][F]
+    Un mums atkal neizdodas,
+[C]               [G]                           [Am]
 doties šodien, par rītdienu prieks ir neviltots.
+[F]                [C]
 Plāni kā jau katram mums ir vairāk, viss būs,
+      [G]                               [Am]
 Uzcelt māju, iestādīt koku, nosist čūsku.
+[F]           [C]
 Turpinam darīt kā līdz šim, ka neierūsam, bet
-brīnamies, kāpēc jaunus iespaidus neigūstam.
+[G]                                          [Am]
+brīnamies, kāpēc jaunus iespaidus neiegūstam.
+[F]           [C]
 Drosme sapņot, bailes darīt, rītdien viss jau saplānots,
+[G]             [Am]
 tad labāk parīt.
+[F]           [C]
 Ķeramies klāt, bet atmetam,
+      [G]
 jo nesanāk, līdzīgi kā roķene uz estekādes.
 
+[Am]       [F]               [C]                  [G]
 Tikko es kā grūtības sastopu, bez liekas domāšanas padoties grasos,
-Tikko es ka padoties grasos, izdzirdēsi kādu balsi man sakot.
+[Am]       [F]              [C]             [G]
+Tikko es kā padoties grasos, izdzirdēsi kādu balsi man sakot.
 
-Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
-Katrs ceļš ir reiz sākts tākā stāsts.
-Uzmauc zābakus Tu, deviņjūdžu un dodies tālāk,
-Atklāt sev to kas vēl neatklāts.
-Atklāt sev to kas vēl neatklāts.
-Atklāt sev to kas vēl neatklāts.
+ [Am]  [F]       [C]          [G]         [Am] [F]
+  Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
+       [C]          [G]         [Am]
+  Katrs ceļš ir reiz sākts tā kā stāsts.
+        [F]     [C]      [G]      [Am]     [F]
+  Uzaudz zābakus Tu - deviņjūdžu un dodies tālāk,
+        [C]        [G]     [Am] 
+  Atklāt sev to kas vēl neatklāts.
 
-Ja man kāds lūgtu noraksturot sevi, k
-as es būtu, kosmonauts vai grāmatvedis?
-Profesija, tākā rinda ordeņu pie krūts, bet
+ [Am]  [F]       [C]          [G]         [Am] [F]
+  Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
+       [C]          [G]         [Am]
+  Katrs ceļš ir reiz sākts tā kā stāsts.
+        [F]     [C]      [G]      [Am]     [F]
+  Uzaudz zābakus Tu - deviņjūdžu un dodies tālāk,
+        [C]        [G]     [Am] 
+  Atklāj sev to kas vēl neatklāts.
+ [F]    [C]        [G]     [Am] [F]
+  Atklāj sev to kas vēl neatklāts.
+        [C]  [G]        [Am]
+  Atklāj sev, atklāj sev.
+
+[Am]             [F]
+Ja man kāds lūgtu noraksturot sevi,
+[C]                    [G]
+Kas es būtu, kosmonauts vai grāmatvedis?
+[Am]                  [F]
+Profesija, tā kā rinda ordeņu pie krūts, bet
+[C]                        [G]
 vēl tik daudz nav redzēts un daudz kur vēl nav būts.
+[Am]           [F]
 Ceļš nav grūts, grūtāk ir to iesākt.
-Pārvarēt bailes, iekams bailes pārvar manā vietā.
-Vai vismaz atcerēties spēju, s
-avu pirmo vārdu, pirmos soļus pirms es jau skrēju.
-Ar pieri stenderē, nogaršoju bezmaz visu tabulu Mendeļējevu.
-Bet vai tas mani apturēja, protams ka nē, varbūt tikai čakarēja.
-Ir četras debespuses, redzu tikai Ziemeļus, p
-alūkojos apkārt, izkustinu kakla skriemeļus.
-Jo galvā tak ir smadzenes un nevis
-kieģeļi, izmantot šo potensiālu ko kāds ir iedevis.
+[C]                    [G]
+Pārvarēt bailes, iekams bailes pārvar man tā vietā.
+[Am]      [F]
+Vai vismaz atcerēties spēju, 
+[C]              [G]
+Savu pirmo vārdu, pirmos soļus pirms es jau skrēju.
+[Am][F]                [C]                   [G]
+     Ar pieri stenderē, nogaršoju bezmaz visu tabulu Mendeļējevu.
+[Am][F]                        [C]            [G]
+     Bet vai tas mani apturēja, protams ka nē, varbūt tikai čakarēja.
+[Am]                 [F]                        
+Ir četras debespuses, redzu tikai Ziemeļus, 
+[C]                   [G]
+Palūkojos apkārt, izkustinu kakla skriemeļus.
+[Am]                        [F] 
+Jo galvā tak ir smadzenes un nevis ķieģeļi, 
+[C]                   [G]
+izmantot šo potenciālu ko kāds ir iedevis.
 
+[Am]       [F]               [C]                  [G]
 Tikko es kā grūtības sastopu, bez liekas domāšanas padoties grasos,
-Tikko es ka padoties grasos, izdzirdēsi kādu balsi man sakot.
+[Am]       [F]              [C]             [G]
+Tikko es kā padoties grasos, izdzirdēsi kādu balsi man sakot.
 
-Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
-Katrs ceļš ir reiz sākts tākā stāsts.
-Uzmauc zābakus Tu, deviņjūdžu un dodies tālāk,
-Atklāt sev to kas vēl neatklāts.
-Atklāt sev to kas vēl neatklāts.
-Atklāt sev, atklāt sev.
+ [Am]  [F]       [C]          [G]         [Am] [F]
+  Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
+       [C]          [G]         [Am]
+  Katrs ceļš ir reiz sākts tā kā stāsts.
+        [F]     [C]      [G]      [Am]     [F]
+  Uzaudz zābakus Tu - deviņjūdžu un dodies tālāk,
+        [C]        [G]     [Am] 
+  Atklāt sev to kas vēl neatklāts.
+
+ [Am]  [F]       [C]          [G]         [Am] [F]
+  Nevar būt tā ka Tu, kaut kur ej un nekur nenonāc,
+       [C]          [G]         [Am]
+  Katrs ceļš ir reiz sākts tā kā stāsts.
+        [F]     [C]      [G]      [Am]     [F]
+  Uzaudz zābakus Tu - deviņjūdžu un dodies tālāk,
+        [C]        [G]     [Am] 
+  Atklāj sev to kas vēl neatklāts.
+ [F]    [C]        [G]     [Am]
+  Atklāj sev
+ [F]    [C]  [G]        [Am]
+  Atklāj sev, atklāj sev.
 ```
