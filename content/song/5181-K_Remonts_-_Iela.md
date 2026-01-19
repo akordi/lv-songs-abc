@@ -10,19 +10,19 @@ draft: false
 ```text
 Kapo 3
 
-G A D D
-G A Bm
+F
+Bbsus2   Csus2   Fsus2
 
-G          A               D
+Bbsus2          Csus2              Fsus2
  Es eju pa ielu, un tu man pretī nāc.
  Ne to kāds mana, ne nojauš kāds.
  Es nobijies esmu, kā šunelis rāms
  Vai to kāds mana, vai nojauš kāds?
 
-G A           D      
+Bbsus2           Csus2      Fsus2   
    Tu nāc man pretī,
    pa ielu    nāc
    Tu nāc man pretī -
-G              A                Bm
+Bbsus2           Csus2          Fsus2  
    vai to kāds mana, vai nojauš kāds?
 ```

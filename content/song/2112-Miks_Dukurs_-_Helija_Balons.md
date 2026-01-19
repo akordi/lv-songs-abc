@@ -3,24 +3,24 @@ title: "Hēlija balons"
 date: 2015-05-28T13:14:51+00:00
 url: /song/2112-Miks_Dukurs_-_Helija_Balons
 categories: ["Miks Dukurs"]
-tags: ["bez akordiem"]
+tags: []
 draft: false
 ---
 
 ```text
-Pilsētu ielās skan jaunatnes smiekli,
-Tie saudz tevi līdz un aicina meklēt.
-Spilgtiem toņiem rotātas takas, 
-Kas aizved no patiesās krāsu gammas.
-Smieklos paustās domas un sapņi
-Izplēn skatam, kā hēlija pildīts balons.
+[F] Pilsētu ielās skan jaunatnes smiekli,
+[Bb] Tie sauc tevi līdz un aicina meklēt.
+[F] Spilgtiem toņiem rotātas takas, 
+[Bb] Kas aizved no patiesās krāsu gammas.
+[F] Smieklos paustās domas un sapņi
+[Bb] Izplēn skatam, kā hēlija pildīts balons.
 Hēlija pildīts balons.
 
 Piedz.
-Sāc no jauna jūsmot par krāsām.
-Sniedz sev roku, elpot atsāc.
-Ar skaudīgām acīm vērtēs,
-Pelēkā tērptie tēli no senām ainām,
+[F] Sāc no jauna jūsmot par [Bb] krāsām.
+[F] Sniedz sev roku, elpot [Bb] atsāc.
+Ar [Dm] skaudīgām acīm vērtēs,
+[C] Pelēkā tērptie tēli no senām [Bb] ainām,
 Tēli no senām ainām. 
 
 Apcerēt visu kas liedzis tev ticēt, 
@@ -32,10 +32,10 @@ Smieklos paustās domas nespēj celt spārnos,
 Nespēj celt spārnos!
 
 Piedz.
-Sāc no jauna jūsmot par krāsām.
-Sniedz sev roku, elpot atsāc.
-Ar skaudīgām acīm vērtēs,
-Pelēkā tērptie tēli no senām ainām,
+[F] Sāc no jauna jūsmot par [Bb] krāsām.
+[F] Sniedz sev roku, elpot [Bb] atsāc.
+Ar [Dm] skaudīgām acīm vērtēs,
+[C] Pelēkā tērptie tēli no senām [Bb] ainām,
 Tēli no senām ainām.
 
 Cik tālu tavs skatījums sniegsies,
@@ -49,7 +49,7 @@ Sāc no jauna. Sāc no jauna. Sāc no jauna.
 
 Piedz.
 Sāc no jauna jūsmot par krāsām.
-Sniedz sev roku, elpot atsāc.
+Sniedz sev roku, elpot atsāc
 Ar skaudīgām acīm vērtēs,               2x
 Pelēkā tērptie tēli no senām ainām,
 Tēli no senām ainām. 2x
