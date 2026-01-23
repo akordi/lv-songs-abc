@@ -15,29 +15,29 @@ Nesaprot it neviens, kāpēc tā,
 Viss liekas draugiem tevī jauks,
 Vienīgi vārdu tev nav.
 
-Vārdi, ko dusmās saudzēji tu,
+Vārdi, ko burzmā saudzēji tu,
 Tavu klusumu jau raisīt sāk,
 Vārdi, ar kuriem nakts ir uz tu,
-Tavās lūpās čukstus dedz.
+Tavās lūpās čukstus nāk.
 
 Viesi jau atvadās un iet,
 Klusi ar smaidiem tu vadi tos,
-Snieg, klusām durvis ver tie ciet,
-Ietinās tavos smaidos.
+Smieklus kā durvis ver tie ciet,
+Ietinas tavos smaidos.
 
 Vārdi, ko tevī atraisa nakts,
 Tajos neskan dienas nogurums,
 Vārdi sniedz naktīm sauli kā dakts,
 Nakts kā svece silda mūs.
 
-Vārdi, ko dusmās saudzēji tu,
+Vārdi, ko burzmā saudzēji tu,
 Tavu klusumu jau raisa,
 Vārdi, ar kuriem nakts ir uz tu,
-Čukstiem silda pusnakts gaismu.
+Čukstiem silda pusnakts gaisu.
 
 Vārdi, ko tevī atraisa nakts,
 Tajos neskan dienas nogurums,
-Vārdi sniedz naktīm sauli kā dakts,
+Vārdi stīdz naktij cauri kā dakts,
 Nakts kā svece silda mūs.
 
 Tevi es dievinu mazliet,

@@ -1,5 +1,5 @@
 ---
-title: "Pēdējā pietura "
+title: "Pēdējā pietura"
 date: 2017-08-25T16:25:15+00:00
 url: /song/3109-Colt_-_Pedeja_Pietura
 categories: ["Colt"]
@@ -17,10 +17,13 @@ Rudens vējā
 Apstājās laiks tevi jūtot
 Rudens vējā mana elpa sildīs tevi
 Rudens vējā
-
+G                       D
 Piekļaujies man, ciešāk piekļaujies man
+Em                         G           D
 Ļaujies brīnumam šim kamēr dziesma vēl skan, 
+       G              D           Em  
 Mūsu pēdējai sapņu pieturai, jābūt paradīzei, 
+       G  D
 Jābūt paradīzei
 
 Atnāci tu ļoti tuvāk. 
