@@ -1,5 +1,5 @@
 ---
-title: "februāris"
+title: "Februāris"
 date: 2026-01-22T17:55:20+00:00
 url: /song/5323-Sudden_Lights_-_Februaris
 categories: ["Sudden Lights"]
