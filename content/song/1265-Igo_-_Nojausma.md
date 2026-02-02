@@ -8,13 +8,13 @@ draft: false
 ---
 
 ```text
-Iesp A Hm D A   A Hm D  E
+Iesp A Bm D A   A HBm D  E
 
-                 Hm 7                Dmaj7     A
+                 Bm 7                Dmaj7     A
 Pret saules rietu iedams, pāri zelta pļavām
-        Hm             Dmaj 7            A
+        Bm             Dmaj 7            A
 Vējš tavu vārdu sauc, vai dzirdi to?
-          Fm#7                  Hm7
+          Fm#7                  Bm7
 Ja esi tur, brīvi ļaujies vējam
               D                                      E
 Lai viņa elpa slīd pār lūpām mulstošām
@@ -25,11 +25,11 @@ Tā esi tu, starp smaržām rieta pļavā
 Un zelta sapņiem vējā uzburtiem
 
 Piedz. 
-                 A                Hm
+                 A                Bm
 Un kad es domāju par tevi
                   D                                              A
 Slīd uguns liesmiņa man pretī mierīgi un klusi
-                                  Hm
+                                  Bm
 Es nezinu vai tu kaut reizi
      D               A
 To būsi nojautusi.
