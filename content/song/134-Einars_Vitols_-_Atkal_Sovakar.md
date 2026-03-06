@@ -1,8 +1,8 @@
 ---
 title: "Atkal šovakar"
 date: 2007-02-26T22:00:00+00:00
-url: /song/134-Roberts_Gobzins_-_Atkal_Sovakar
-categories: ["Roberts Gobziņš"]
+url: /song/134-Einars_Vitols_-_Atkal_Sovakar
+categories: ["Einārs Vītols"]
 tags: []
 draft: false
 ---
@@ -17,9 +17,7 @@ Atkal šovakar mums abiem vienas zvaigznes spīd,
                 F                     G  
 Un tu zini, ka rīt mums viena saule teiks - labrīt!
 
-
 Piedz:
-
 C                      F
 Un tādēļ neteiksim ne vārda -
 G                      C
