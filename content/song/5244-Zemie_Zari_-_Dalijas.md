@@ -29,13 +29,14 @@ Kur gan ir palicis gods,
 Dm
 Par ko man šis šausmīgais sods, 
 E
-Redzētā kā dālijas manas, 
-F                                         G (Starp akords)
+Redzēt kā dālijas manas, 
+Am                      E7 
 Aizaug kā pamestas gravas, 
 
 Kādēļ tad gumus es glābu, 
 Ziemē tām nelaidu salu, 
 Mitrumu turēju prom, 
+F                G
 Un virsū neliku som.. 
 
 
