@@ -34,7 +34,7 @@ Am                      E7
 Aizaug kā pamestas gravas, 
 
 Kādēļ tad gumus es glābu, 
-Ziemē tām nelaidu salu, 
+Ziemā tām nelaidu salu, 
 Mitrumu turēju prom, 
 F                G
 Un virsū neliku som.. 
