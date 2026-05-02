@@ -55,11 +55,11 @@ A     F#m
 
 /5. pants/
 E
-Tad dīvains smagums mani pārņēma,
+Tev acīs iemirdzējās spīdums zilgs
 E 
-uz krūtīm manīdams tev zīdu,
-C#m                                  A      B
-un plecus apaļos un siltos tvēru plaukstā.
+un rokas atspiedi pret manām krūtīm
+C#m                                A      B
+un asi iesmējās tev mutē neskūpstītā.
 
 /Piedz. (3x)/
 

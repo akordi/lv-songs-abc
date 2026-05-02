@@ -16,9 +16,9 @@ Klausi, meitiņ, klausi, dēliņ,   odzēm acis spīd.
 Nelaid, māte, bērnus mežā, mežā odzes šņāc.
 Meita dzird un dēls jau klausās, zigzagainās šņāc.
 
-Am   D7            Em    Am    D7      Em
+Am   D7            G Em Am    D7      G  Em
 Aizvilinās prom no mājām tavus bērnus, māt.
-Am   D7             Em   Am D7         Em
+Am   D7             G  Em Am D7         G  Em
 Aizvilinās prom tik tālu, ka  var nepāŗnākt.
 
 Izaugs meitas tā kā odzes, acīm spīdošām.
