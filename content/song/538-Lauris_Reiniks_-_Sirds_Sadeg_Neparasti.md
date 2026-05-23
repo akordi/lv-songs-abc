@@ -10,7 +10,7 @@ draft: false
 ```text
 Dm        Gm
 Dienas kā dienas
-    C7         F
+    C7         F      E
 Tik elpas nepietiek
 Dm           Gm
 Un kā četras sienas
@@ -28,7 +28,7 @@ It visur, Bet sauli jānotur
 
    Dm            A
 Un ieklausies ja līst
-         Dm       Bb
+         Dm     C    Bb
 Kā putni metas debesīs
      Gm                  Bb
 Tiem vienmēr jābūt tuvāk lietum
