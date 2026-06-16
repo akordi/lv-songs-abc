@@ -39,7 +39,7 @@ Piedz:
 Am       Em
 Mežrozīt sarkanā,
 
-       Gm     C7      F
+       Gm     A7      Dm
 Tu kā liesma spītīgā skurbumā
 
      Fm       C   Am
