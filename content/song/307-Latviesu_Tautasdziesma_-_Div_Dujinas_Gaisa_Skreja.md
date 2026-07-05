@@ -3,7 +3,7 @@ title: "Div' dūjiņas gaisā skrēja"
 date: 2007-03-10T22:00:00+00:00
 url: /song/307-Latviesu_Tautasdziesma_-_Div_Dujinas_Gaisa_Skreja
 categories: ["Latviešu tautasdziesma"]
-tags: ["patriotiskās"]
+tags: ["patriotiskās", "patriotiskās"]
 draft: false
 ---
 
@@ -18,7 +18,7 @@ C    Dm     E   Am
 Abas skrēja dūdodams'
 
 Am         C
-2. Div bāliņi kārā jāja
+2. Div bāliņi karā jāja
 Dm       E
 Abi jāja domādam.
 F   G   Am 
